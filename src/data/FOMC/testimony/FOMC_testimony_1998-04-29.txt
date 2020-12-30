@@ -1,0 +1,85 @@
+Testimony of Governor Edward M. Gramlich
+Improving the consumer price index
+Before the Subcommittee on Human Resources of the Committee on Government Reform and Oversight,
+U.S. House of Representatives
+April 29, 1998
+
+[SECTION]
+
+Mr. Chairman and members of the Subcommittee, I am pleased to appear before you to discuss improving the Consumer Price Index.  I begin by thanking this Subcommittee for holding today's hearing and for its past work in examining the issue of bias in the CPI.  Although these issues are difficult and complex, your demonstrated interest has helped keep the focus on ways to improve the index further.
+
+[SECTION]
+
+The Consumer Price Index plays a central role in many aspects of private and public decision making: The CPI is the key price measure for indexation of federal spending and tax programs, and many contracts in the private sector are linked to the CPI.  In addition, the CPI is used for inflation adjusting the Treasury's indexed bonds, which help to provide a reading on expectations of future inflation and on real interest rates.  The CPI is also among the inflation measures examined in the conduct of monetary policy.  Thus, it is essential that the nation strive for as accurate a measure as possible.
+
+[SECTION]
+
+In that regard, the Bureau of Labor Statistics has made laudable progress in the past several years.  Sample rotation problems that were uncovered by BLS researchers have largely been eliminated.  The measurement in the categories of rent, computers, pharmaceuticals, and health care services has been improved.  Looking ahead, the recently announced decision to apply the geometric-mean aggregation procedure should largely rectify so-called lower-level substitution bias.  The shift in emphasis from geography to product categories for sample rotation provides an opportunity for BLS to ameliorate some of the bias associated with new goods, provided that it actively rotates the sample for products undergoing rapid innovation.  But while these steps are impressive, the hard work must continue if the CPI is to keep up with an ever-changing economy.
+
+[SECTION]
+
+The hearings that this Subcommittee held last year on the CPI provided a very clear summary of the arguments surrounding some of the difficult measurement problems confronting the BLS and the range of professional opinions concerning the quantitative significance of those problems.  A useful categorization divides these issues into two parts.  The first relates to the formula used by BLS for building up the overall CPI from the individual prices collected by field representatives.  Although these issues are quite technical, they are fairly well understood by the BLS and by economists outside the statistical agencies.  The second set of issues concerns the individual prices themselves, and in particular, how these prices are adjusted to account for quality change and the introduction of new goods.  These issues are extremely difficult--both conceptually and practically--and there is much less consensus about the quantitative significance of the bias associated with new goods and quality change.  Research into all of these questions has continued over the past year, but, to my knowledge, there have been few major developments that would alter significantly the opinions voiced by the witnesses at last April's hearing.
+
+[SECTION]
+
+Improving the CPI
+	Rather than rehash arguments surrounding the difficult and controversial aspects of price measurement related to new goods and quality change, a more useful approach might be to seek common ground among the participants in this discussion.  This means pushing forward where there is greater agreement on the set of issues related to the aggregation formulas used to build up the CPI.  As some have put it, we should first go after the low-hanging fruit on our statistical trees.  In that regard, a striking aspect of the hearings that the Subcommittee held last year was the virtual unanimity that a price index that tracks the cost of purchasing a fixed market basket of goods and services, such as the CPI now does, represents an upper bound on changes in the true cost of living.  I doubt there exists a professor teaching microeconomics who doesn't routinely demonstrate this characteristic of fixed-weight price indexes to his or her classes.   The reason is that consumers respond to changes in relative prices by altering the composition of their purchases, and this response lowers the cost to them of the price changes.
+
+[SECTION]
+
+Consider a couple of examples.  If chicken goes on sale, some consumers would buy more chicken and less beef or pork.  Also, as computer prices have fallen dramatically in recent years, consumers have increased their purchases of computers.  At present, however, the market basket used in constructing the CPI changes only once every ten years.  Although BLS has just updated this market basket, the current methodology for the CPI will lock this market basket in place for the next decade, implying that consumers are assumed not to do any substitution at all over this period.  Under these procedures, the CPI will fail to capture the ways in which consumers adjust their spending patterns to take advantage of changes in relative prices.
+
+[SECTION]
+
+We should distinguish between two levels of substitution bias.  In the discussion here, I am focusing on what has been termed upper-level substitution bias.  Based on surveys of what consumers buy, the BLS has a list of 211 items in the typical consumers' market basket.  Upper-level substitution bias arises from substitution among these items that is not captured by the CPI, such as between chicken and beef or between breakfast cereal and other breakfast items.  In addition, consumers also make substitutions among different varieties of the same item in their market baskets, such as when consumers switch between different brands of breakfast cereal.  By early 1999, the BLS will have largely accounted for this lower-level substitution when it implements a geometric-means formula to combine individual prices at the lowest level in the index.
+
+[SECTION]
+
+Although the CPI as currently constructed does not account for the upper-level substitution possibilities available to consumers, indexes that do take account of such substitutions can be calculated; economists refer to them as superlative indexes because of their desirable properties.  Indeed, on an experimental basis, the BLS already produces superlative indexes, but these indexes are only available with a considerable lag.  In any case, using data from recent decades, several studies have constructed indexes that take full account of consumer substitution and have used these indexes as benchmarks to compare to the actual CPI.  Through such comparisons, it is possible to assess the amount of bias in the CPI arising from upper-level consumer substitution.  Although estimates depend on the time period considered and other particulars of these studies, this research broadly suggests that correcting upper-level substitution bias could be expected to reduce the rate of change in the CPI by about 0.2 percentage point per year; for example, if the current CPI showed an increase of 2.0 percent over a year, then after correcting for this type of substitution bias, the CPI could be expected to show an increase of about 1.8 percent.  Although this might not sound large, a bias of this size compounded over many years would have marked implications for any program or contract that is linked to the CPI.
+
+[SECTION]
+
+Reducing Upper-level Substitution Bias
+	To correct fully for upper-level substitution bias it would be necessary to know how market baskets change on a regular basis in order to capture the substitution among different items.  The expenditure data required for such calculations are obtained from the Consumer Expenditure Survey.  And, because of collection and processing time, these data are only available with a lag, so that the figures for 1997 are not expected to be available until later this year.  Thus, the data from the Consumer Expenditure Survey can not be used to construct a real time price index that fully captures consumers' substitution among items.  This lag is the reason BLS's experimental superlative index is only produced with a delay.  But, the important question should not be whether it is possible to construct a perfect index, but rather whether techniques are available for creating a monthly cost-of-living index that would represent an improvement over the CPI as currently constructed.
+
+[SECTION]
+
+The answer is yes.  The Boskin Commission, which included my distinguished colleague Robert Gordon, suggested as a possible solution the use of a trailing Tornqvist price index.  This index would use the Tornqvist index formula--which can capture substitution among items--and would update weights each year.  To be operational in real time, this index would need to use lagged, or trailing, weights.  For example, average weights from 1994-1995 could be used for calculating 1997 changes in the cost of living.  Another approach has been suggested by Matthew Shapiro and David Wilcox.  They have devised a so-called constant elasticity of substitution--or CES--index that appears to largely eliminate upper-level substitution bias.  In contrast to the current setup that assumes no substitution among items, the class of CES indexes imposes a positive degree of substitution among all items, and alternative CES indexes would impose different degrees of substitutability.  These authors searched to find the degree of substitutability that provided the closest approximation to a benchmark superlative index, but which can be implemented on a monthly basis in real time.  There may well be other approaches worthy of serious consideration to rectify the problem of upper-level substitution bias.
+
+[SECTION]
+
+Moving Forward
+	To spur progress on this issue, about which there appears to be considerable agreement, one approach that this Subcommittee could consider would be to commission a study of substitution bias to be undertaken by the staff of the BLS.  The BLS could be asked to compare their current procedures with those that have been proposed by other researchers.  Specifically, I would suggest that they determine which of these alternative approaches provides the most timely and accurate approximation to the superlative indexes published by the BLS, recalling that, while these superlative indexes may be the best, they are available only with a considerable lag.  In evaluating the alternatives, the objective should not be to establish a perfect measure--such a goal is unattainable.  Rather the objective should be to produce the best measure of the cost of living that can be constructed in real time from existing knowledge and data.
+
+[SECTION]
+
+At the same time, the Subcommittee could recommend the establishment of a formal panel of outside experts to review the BLS's evaluation of the alternatives and to provide an independent assessment of the BLS study to the Committee.  The panel could also consult with the research staff of the BLS on the design of the study and the interpretation of the results.  If differences remained after completion of the study, the panel of experts would provide a mechanism for independent assessment of alternative approaches that could be helpful to this Subcommittee's oversight responsibilities.
+
+[SECTION]
+
+A Two-Track Approach
+	Let me raise one further issue that would inevitably arise from such a study.  Even the best real-time approximation to a superlative index would not match the superlative index that ultimately could be constructed once expenditure share data ultimately became available.  To deal with this problem, the Boskin Commission suggested pursuing a two-track approach.  For the first track, BLS could continue to publish a monthly index in real time that would never be revised.  This index would be much like the current CPI except that--going forward--it could be based on an aggregation formula that minimizes upper-level substitution bias.  For the second track, BLS could publish, with a lag, a superlative index that incorporated full information on changing expenditure shares and could be revised subsequently to incorporate other improvements to the CPI as well.
+
+[SECTION]
+
+This two-track approach has advantages and disadvantages.  On the positive side, the two track approach would provide indexes for users with diverse needs:  a never-revised index for those for whom revisions would impose operational difficulties and a second revisable index that would be the best possible measure of changes in the cost of living.  On the negative side, I am concerned that the publication of two different price indexes as part of the CPI program might generate some confusion.  If this confusion were judged to be a serious problem, BLS could alternatively produce a single measure that was revised and, ultimately, incorporated all information on spending patterns in the best possible way.  For example, the CPI for April could be initially constructed using one of the approximations to a superlative index that I described above, but when full data on consumer expenditure shares became available some months later, the level of the CPI for April could be revised to be an exact superlative index rather than a close approximation.  Were this to be done, government and private contracts that are linked to the CPI would have to alter their indexation procedures.
+
+[SECTION]
+
+Returning to my primary message, a study of substitution bias and an outside review panel holds the promise of forming the basis of a reasonable professional consensus on limited technical changes that would correct substitution bias and make the CPI a more accurate measure of the cost of living.  Such a consensus is critical for maintaining public support and confidence in our statistical programs.  That confidence can only be enhanced when the government is striving to develop the most accurate measures possible.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: April 29, 1998, 11:00 AM

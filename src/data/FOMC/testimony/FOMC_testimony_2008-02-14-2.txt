@@ -1,0 +1,221 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+February 14, 2008
+
+[SECTION]
+
+Patrick M. Parkinson, Deputy Director, Division of Research and Statistics
+
+[SECTION]
+
+Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairman Kanjorski, Ranking Member Pryce, and members of the Subcommittee, thank you for the opportunity to testify on the potential effects on financial stability of further financial deterioration and ratings downgrades of financial guarantors.
+
+[SECTION]
+
+Role of the Financial Guarantors in the Financial SystemThe nine U.S. companies whose business focuses on providing insurance against credit defaults together insure about $2-1/2 trillion of domestic and international securities.  Historically, they focused on insuring the timely payment of principal and interest on U.S. municipal bonds.  This remains a very important business line.  Indeed, as of September 30, 2007, the guarantors insured about $1-1/2 trillion of such bonds, more than half of all U.S. municipal bonds outstanding.  The vast majority of the underlying bonds were rated investment grade.  However, insurance from AAA-rated guarantors raised the ratings of the insured bonds to AAA, which lowered interest costs to the issuers and made the bonds attractive to a wider range of investors.
+
+[SECTION]
+
+In recent years the financial guarantors expanded rapidly into insuring asset-backed securities (ABS), especially collateralized debt obligations (CDOs).  By September 30, 2007, they had guaranteed more than $1 trillion of ABS, including over $700 billion of U.S. ABS.  The U.S. ABS included about $200 billion of U.S. residential mortgage-backed securities (RMBS) and securities backed by home-equity loans and about $125 billion of CDOs collateralized by ABS (CDOs of ABS) that contained U.S. subprime RMBS.  In addition, they have guaranteed more than $300 billion of U.S. and international corporate CDOs.
+
+[SECTION]
+
+In the case of CDOs, the guarantors typically used credit derivative contracts to insure the super senior tranches.  That is, they insured securities that would suffer credit losses only if the losses on the underlying collateral were so severe that all other tranches, including some tranches rated AAA, were wiped out.  The possibility of such severe credit losses was seen as remote, and these securities indeed have suffered little or no credit losses to date.  However, in the case of CDOs collateralized by subprime RMBS that were originated between late 2005 and 2007, the possibility of loss is no longer seen as remote.  In many cases, super senior tranches of such CDOs of ABS are trading at substantial discounts to par value.  The growing possibility of credit losses on these securities has caused some of the guarantors to report financial losses and the rating agencies to require those guarantors to raise capital to maintain or regain their AAA ratings.  Those guarantors reportedly are exploring various options for bolstering their financial strength, but it is not clear that all of them will succeed.  Thus, it is well worth thinking through how further downgrades of some guarantors' credit ratings might affect overall financial stability.
+
+[SECTION]
+
+Channels Through Which Financial Stability Might Be Adversely AffectedSuch downgrades might adversely affect financial stability through several channels.  These include: (1) the potential for disruptions to municipal bond markets, (2) potential losses and liquidity pressures on banks and securities firms that have exposures to the guarantors, and (3) the potential for further erosion of investor confidence in financial markets generally.
+
+[SECTION]
+
+Further downgrades at some guarantors could spark a retreat from the municipal bond market by some retail and institutional investors.  Of particular concern is the potential for disruptions to the markets for short-term securities based on municipal and other tax-exempt debt.  In recent years, heavy demand for short-term securities, especially from money market funds and other short-term investment pools, has generated a large market for facilities that transform long-term, tax-exempt bonds into short-term securities.  These short-term securities include "tender option bonds" and "variable-rate demand obligations," which typically have credit support from one of the guarantors and liquidity support from a large bank or security firm, and "auction rate securities," which often have credit support from a guarantor, but no explicit liquidity support.  If guarantors are downgraded to below AA-, many money funds will be required to put tender option bonds and variable demand obligations back to the liquidity providers.  Investors may also choose to put securities back in advance of potential downgrades.  Indeed, some money market funds reportedly have already exercised this option with respect to securities insured by those guarantors with significant exposure to CDOs of subprime RMBS.  Finally, earlier this week there was a rash of failures of auctions for student loan auction rate securities (ARS).  Although largely unrelated to concerns about financial guarantors, this development undermined confidence in ARS generally, and subsequently quite a few auctions for municipal ARS have failed.
+
+[SECTION]
+
+It appears that financial stress at the guarantors has restrained municipal bond issuance in recent weeks, though these effects are difficult to disentangle from the effects of tighter budgets for many municipalities.  A deepening concern about the financial condition of some of the guarantors could at least temporarily limit the availability of credit and increase the cost of funding for some lower-rated or smaller municipalities.  Over time, however, funding for those municipalities would be restored as the downgraded firms were replaced by the surviving healthy firms and by new entrants.  As has been widely reported, a large, well-capitalized insurance group recently has opened a company that has been licensed to enter the business of insuring municipal bonds.
+
+[SECTION]
+
+U.S. banks' direct exposures to losses from downgrades of guarantors' ratings appear to be moderate relative to the banks' capital.  Although some securities firms also have such exposures, I will leave assessment of the magnitude of those exposures to the witness from the Securities and Exchange Commission.  Banks hold large amounts of municipal bonds in their investment portfolios, but the actual risk exposure is far smaller.  As noted previously, the guarantors typically have insured only investment-grade municipal debt.  Thus, the credit risk of the underlying securities is low, even without insurance.  Likewise, as noted previously, some banks could be obligated to purchase at par tender option bonds and variable-rate demand obligations that have been downgraded as a result of problems at the financial guarantors.  Banks may also feel compelled by reputational concerns to purchase ARS that they have marketed to investors, even though they have no legal obligation to do so.  Here again, however, losses to the banks would be limited by the relatively strong credit quality of the underlying bonds.
+
+[SECTION]
+
+Of greater concern is the potential for losses at banks that have hedged their holdings of super senior tranches of CDOs of ABS with credit protection purchased from the guarantors.  These hedges lose value when the financial condition of the guarantors deteriorates.  In fact, many banks already have written down the value of their hedges significantly to reflect the market view that some guarantors may not meet their obligations on the protection they sold to the banks.  Thus, further downgrades of the guarantors may not necessarily require those banks to write down the value of their hedges significantly further.  However, as long as the concerns about the ability of some guarantors to meet their obligations persist, any further declines in the value of the banks' holdings of CDOs of ABS will not be fully offset by increases in the value of their hedges.
+
+[SECTION]
+
+Even if banks' losses from exposures to the guarantors are moderate relative to capital, banks could experience significant balance sheet and liquidity pressures if they take significant volumes of tender option bonds, variable-rate demand obligations, or ARS onto their balance sheets.  The banks that have these exposures are currently well capitalized.  However, if these banks take on significant-enough volumes of such securities, the resulting downward pressure on capital ratios might prompt some of them to raise additional capital or constrain somewhat the growth of their balance sheets to ensure that they remain well capitalized.  Efforts to constrain the growth of their balance sheets could be reflected in somewhat tighter credit standards and terms for a variety of bank borrowers, including households and businesses.  Many banks already have tightened lending standards and terms, likely in part because of balance sheet pressures associated with recent turmoil in financial markets.  Further tightening would add to the financial headwinds that the economy already is encountering.
+
+[SECTION]
+
+In addition to the direct effects of stress at financial guarantors on the municipal bond markets and banks, stress at guarantors could have adverse indirect effects on investor confidence in the financial markets generally.  Investors could demand higher risk premiums for holding financial assets, which would place downward pressure on asset prices.  If the drop in confidence was sudden, asset markets could become less liquid and asset prices could become more volatile.  These effects would increase market risks and counterparty credit risks to banks and other financial market participants, which could prompt a pullback from risk-taking.  However, a sudden drop in confidence seems unlikely.  Financial market participants seem well aware of the difficulties the guarantors are facing and of the potential for further ratings downgrades.  Indeed, spreads on credit default swaps for several of the guarantors exceed 1,000 basis points, which suggests that the market already is expecting further bad news regarding those companies' financial condition.
+
+[SECTION]
+
+Federal Reserve's Efforts to Monitor and Assess the Effects on Financial StabilityThe Federal Reserve has been carefully monitoring and assessing the channels through which deterioration in the financial condition of the guarantors could adversely affect financial stability.  As primary supervisor of state-chartered banks that are members of the Federal Reserve System and umbrella supervisor for bank holding companies, the Federal Reserve has collected and analyzed information on banking organizations' exposures to the financial guarantors.  In these efforts we have worked closely with the Office of the Comptroller of the Currency, which is the primary supervisor of national banks, including the largest U.S. banks.  We have also shared information with the Securities and Exchange Commission, which is carefully monitoring and assessing the exposures of securities firms, especially the very large securities firms that it supervises on a consolidated basis.
+
+[SECTION]
+
+We also have been monitoring closely developments in municipal securities markets and in the markets for RMBS and CDOs, from which the principal pressures on the guarantors have originated.  More generally, we have been analyzing the underlying causes of the recent financial turmoil and contributing to efforts by the President's Working Group on Financial Markets and the Group of Seven's Financial Stability Forum to develop recommendations for addressing the weaknesses in markets and institutions that the financial turmoil has made evident.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

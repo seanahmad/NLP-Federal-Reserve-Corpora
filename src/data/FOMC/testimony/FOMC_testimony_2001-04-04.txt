@@ -1,0 +1,239 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear before the Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises and the Subcommittee on Financial Institutions and Consumer Credit to outline the rules recently adopted jointly by the Federal Reserve Board and the Secretary of the Treasury to allow financial holding companies to engage in merchant banking activities under the Gramm-Leach-Bliley Act.  I will also discuss the proposal recently published by the Federal Reserve, the OCC and the FDIC to establish regulatory minimum capital requirements for equity investment activities conducted by banking organizations.
+
+[SECTION]
+
+When I last appeared before this Subcommittee to address the topic of merchant banking, the Board and the Department of the Treasury were in the middle of considering comments on rules we had proposed only recently before the testimony.  As I indicated at that time, our experience has been that public comments are generally very helpful, and provide us with valuable insights and information from practitioners, analysts, other policy makers and informed members of the public.
+
+[SECTION]
+
+That is in fact what happened in this case.  The Board and the Treasury received a significant amount of useful information and comment that led us to revise in some important respects the rules that implement the merchant banking powers in the Gramm-Leach-Bliley Act.  The comments also caused the Board to rethink and revise our proposed capital treatment for equity investment activities.  We have also consulted with our fellow banking agencies regarding the appropriate capital treatment for equity investment activities.  As a result of the comments and those interagency consultations, we have significantly revised our capital proposal and again sought public comment on a proposed capital approach.  The comment period on that proposal is open until April 16.
+
+[SECTION]
+
+Before discussing the merchant banking rule and the capital proposal, I will outline both the final rule that we and the Secretary of the Treasury adopted to implement the merchant banking provisions and the revised capital proposal.  Let me start with some background that I hope will help put both what we did and what we have proposed in context.
+
+[SECTION]
+
+A.  The Gramm-Leach-Bliley Act.
+The Bank Holding Company Act generally prohibits bank holding companies from owning more than 5 percent of the voting stock of non-financial companies, with limited exceptions.  This prohibition was included in the Act in 1956 and extended in 1970 because Congress has long been concerned that the mixing of banking and commerce could result in a number of adverse effects.  Among the concerns are that mixing banking and commerce could result in concentration of economic power in a few large conglomerates, less stringent credit standards for and higher risk exposures to affiliates, less attractive credit terms to unaffiliated commercial firms, and other similar conflicts of interest, all of which could reduce the availability of credit to unaffiliated companies and create greater risks to the federal deposit insurance funds and ultimately the taxpayer.
+
+[SECTION]
+
+The Gramm-Leach-Bliley Act did not remove this general prohibition.  In fact, as part of the consideration of that Act, Congress considered and rejected the idea of allowing banking organizations to affiliate broadly with commercial firms.
+
+[SECTION]
+
+At the same time, Congress recognized that there are some forms of ownership of commercial firms by banking organizations that are the functional equivalent of financing for small businesses.  It was on this basis that Congress authorized financial holding companies to engage in merchant banking activities.
+
+[SECTION]
+
+Toward this end, the GLB Act contains several provisions in its authorization of merchant banking activities that are designed to distinguish merchant banking investments from the more general mixing of banking and commerce.  In particular, the GLB Act defines permissible merchant banking investments as investments that meet two important requirements: the investment may only be held for a period of time to enable the resale of the investment, and, while the investment is held by the FHC, the investing FHC may not routinely manage or operate the commercial firm except as necessary or required to obtain a reasonable return on the investment on resale.
+
+[SECTION]
+
+In addition, the GLB Act imposed limits on bank funding of portfolio companies owned by the bank's parent holding company and on cross-marketing activities between banks and portfolio companies owned by the same financial holding company.  These restrictions were also intended to reinforce the separation between banks and the commercial companies owned in reliance on the new merchant banking authority.
+
+[SECTION]
+
+B.  Summary of the Final Rule governing Merchant Banking Activities.
+The final rule adopted by the Board and the Treasury in late January of this year focuses on defining these two important restrictions.  In addition, the final rule explains the types of risk management policies, procedures and systems that the agencies expect will be in place at FHCs that engage in merchant banking activities, and the manner in which the cross-marketing restrictions and inter-affiliate lending restrictions imposed by the GLB Act apply.  Finally, the rule temporarily establishes an interim procedure for agency review of a FHC's risk management policies and systems in the event the organization seeks to commit a significant portion of its capital to merchant banking activities.
+
+[SECTION]
+
+Together, these provisions are important for maintaining the difference between merchant banking activities and the authorization of banking and commerce within the same organization.  They also support the important objective of encouraging the safe and sound exercise of the new merchant banking authority.
+
+[SECTION]
+
+As I suggested earlier, the final rule was modified in several important respects from the original interim rule that was the subject of my testimony last June.  These changes reflect insights and suggestions made by commenters that we believe improve the workability of the rule while maintaining the differences required by the GLB Act and the BHC Act between merchant banking, on the one hand, and banking and commerce, on the other.  Critically, the final rule also does not sacrifice the safety and soundness benefits of the rule.  I will point out the most significant changes between the interim rule and the final rule in my remarks.
+
+[SECTION]
+
+The final rule provides guidance on the GLB Act's requirement that merchant banking investments be held only for a period of time long enough to enable the sale or disposition of each investment on a reasonable basis.  Generally, the rule permits a 10-year holding period for direct investments and a 15-year holding period for investments in private equity funds.  The Board may approve a longer holding period on a case-by-case basis.
+
+[SECTION]
+
+Many commenters acknowledged that merchant banking investments are rarely held beyond these periods and, in fact, are typically sold within 3 to 5 years after the investment is made.  The longer holding periods permitted in the final rule allow some flexibility for FHCs to adjust their investment exit strategies to account for fluctuations in market conditions.
+
+[SECTION]
+
+While some commenters advocated no restrictions on holding periods, this approach did not appear to be either suitable or workable.  The GLB Act itself contemplates that investments would not be held indefinitely, and the agencies believe that it is better to establish a regulatory safe harbor that gives assurance regarding holding periods, and thereby allow FHCs to plan their investment strategies, than for the agencies to forego providing regulatory guidance and impose decisions on holding periods for each investment on an ad hoc basis through the supervisory process.  The uncertainty and potential for reaching different decisions regarding holding periods as different supervisors examine competing banking organizations would frustrate planning by investing companies and, we believe in the end, lead to a firm rule in any event.  To accommodate situations in which the regulatory safe harbor is not sufficient in an individual case, the final rule allows financial holding companies to seek approval, when events require it, to hold an investment longer than the periods established in the rule.
+
+[SECTION]
+
+As I noted earlier, the GLB Act restricts the ability of FHCs to routinely manage or operate companies held under the merchant banking authority.  The final rule contains several safe harbors and examples of routine management and operation.  For example, the final rule allows representatives of a FHC to serve on the board of directors of a portfolio company without running afoul of the routine management restrictions.  In addition, a FHC may enter into agreements that restrict extraordinary actions of the portfolio company, such as the sale of major assets or acquisition of other companies, without the approval of the investing company.  Director interlocks and agreements that govern extraordinary transactions are common in connection with merchant banking investments and allow the investing company to monitor its investment and the activities of the portfolio company without becoming involved in the routine management or operation of the company.
+
+[SECTION]
+
+The final rule also identifies several situations that would be considered restricted routine management of the portfolio company.  In particular, a FHC would be considered to be routinely managing or operating a company if an officer or employee of the FHC is also an executive officer of the portfolio company.  In addition, agreements that restrict decisions made in the ordinary course of the business of the portfolio company are considered to be routine management of the company, and thus, are permitted by the final rule only in special circumstances.
+
+[SECTION]
+
+The interim rule originally provided that any type of officer or employee interlock between a FHC and a portfolio company would be considered to involve the FHC in routinely managing the portfolio company.  Commenters argued that employee interlocks may allow FHCs to share expertise--both giving and gaining--with portfolio companies without becoming involved in the routine management or operation of the company.
+
+[SECTION]
+
+In response to commenters, the final rule has been modified from the interim rule to convert its absolute prohibition into a rebuttable presumption.  This provides a mechanism for allowing a specific employee and junior officer interlock in the limited situation where the interlock does not rise to the level of routine management or operation of the portfolio company.
+
+[SECTION]
+
+The GLB Act allows an investing FHC to routinely manage or operate a portfolio company in special circumstances when intervention is necessary or required in order to enable the investing company to obtain a reasonable return on the investment on its resale or disposition.  The final rule adopts this statutory standard.  For example, a FHC may become involved in the routine management of a portfolio company to avoid or address a significant operating loss or in connection with a loss of senior management at the portfolio company.  The final rule also replaces the interim rule's requirement that a FHC obtain Board approval to routinely manage a company for more than six months, with a provision that the FHC provide the Board with notice in the event that the FHC routinely manages a portfolio company for more than nine months.  This notice provision will allow the Board to monitor management interventions to assure compliance with the limitations in the GLB Act and the final rule.
+
+[SECTION]
+
+The final rule also contains several provisions that are designed to encourage the safe and sound conduct of merchant banking activities.  In particular, the final rule requires that FHCs establish policies, systems and procedures to monitor and address the risks associated with their merchant banking activities.  The final rule provides FHCs with significant discretion in formulating the policies, systems and procedures that best fit the management style of the FHC and the type, scope and nature of the FHC's merchant banking activities.  The Board recently issued supervisory guidance that outlines some of the best practices employed by merchant bankers for managing the risks of equity investment activities.  That guidance has been well received by the industry as useful and flexible.
+
+[SECTION]
+
+The final rule also generally requires that FHCs retain records sufficient to allow the FHC to monitor and assess the risks and exposures associated with their merchant banking activities.  The final rule allows FHCs to assemble the records that best fit these purposes, and contemplates that FHCs may satisfy these requirements with the types of records and reports kept in the ordinary course of conducting merchant banking activities.  The final rule does not adopt the provision of the original interim rule that required these records to be maintained at a central location.  FHCs must already make all of their records, including their merchant banking records, available to the Federal Reserve in the examination process.
+
+[SECTION]
+
+The interim rule included two reporting requirements for FHCs engaged in merchant banking activities.  One was a relatively brief quarterly report of the gross amounts of investments made by the FHC, and the other required annual reporting of investments that were held for a substantial period--seven years or longer.  The final rule does not include either of these reporting requirements.  A limited amount of information regarding equity investments is already collected by the banking agencies on existing regulatory reports.  The Board is in the process of developing other reports that would focus on collection of additional basic information regarding equity investment activities, such as the total amount invested in and carrying value of privately owned securities and publicly traded shares owned by the banking organization, and on individual merchant banking investments held for extended periods.  The Board will separately invite public comment on any new reporting requirements in the near future.
+
+[SECTION]
+
+The interim rule contained two thresholds that triggered agency review of FHCs that devote significant amounts of capital to merchant banking activities.  These thresholds--one triggered when total merchant banking investments exceed the lesser of $6 billion or 30 percent of the FHC's Tier 1 capital, and the other triggered when the direct investments of a FHC excluding investments in private equity funds exceed the lesser of $4 billion or 20 percent of the FHC's Tier 1 capital--were designed to allow the Board to ensure that FHCs that devote significant amounts of capital to merchant banking activities had in place the types of risk management policies, procedures and systems to conduct these activities safely and soundly.  The Board and the Treasury indicated that they would review the continued need for these thresholds when a final capital requirement for merchant banking activities was adopted.
+
+[SECTION]
+
+Even though these thresholds were high and applied only to the newly authorized merchant banking activities, these thresholds were very controversial and were viewed by many commenters as, in effect, caps on their merchant banking activities.  Consequently, commenters strongly urged the agencies to eliminate this review process, or, at a minimum, to remove the component of the thresholds that was based on the absolute dollar size of the FHC's merchant banking portfolio.
+
+[SECTION]
+
+The agencies continue to believe that capital and strong risk management policies and procedures provide the best protection for FHCs that engage in merchant banking activities.  Consequently, in line with the comments on this matter and the intent behind the original proposal, the final rule takes two steps.  First, the absolute dollar thresholds in the interim rule were eliminated from the final rule.  Accordingly, the thresholds are triggered only when merchant banking activities are at high proportions to the FHC's capital.  And recall, the thresholds trigger an agency review process--they are not an absolute cap on activity.
+
+[SECTION]
+
+Consistent with the original proposal, the final rule also contains a sunset provision that automatically eliminates the entire threshold review process once the banking agencies have implemented final rules governing the capital requirements for merchant banking activities.  As I'll discuss in a moment, the agencies have already jointly proposed a new capital treatment for public comment, and are working toward adopting a final capital rule.  I should note also that the thresholds may be exceeded with Board approval, and one experienced investment firm has already reached the thresholds and received Board approval to exceed the thresholds.
+
+[SECTION]
+
+The GLB Act contained two provisions that govern the relationship between depository institutions and portfolio companies owned by the same FHC: one prohibits cross-marketing activities and the other restricts credit and other funding transactions.  Both are contained in the GLB Act to reinforce the separation between banking and commerce.  The prohibition in the GLB Act on the ability of a depository institution controlled by a FHC to cross-market its products and services with a portfolio company that is held under the merchant banking authority is included in the final rule.  The final rule also clarifies that this cross-marketing restriction does not prevent a depository institution from marketing the shares of private equity funds controlled by an affiliated FHC, and does not apply to situations in which the FHC owns less than 5 percent of the voting shares of the portfolio company.
+
+[SECTION]
+
+The final rule also adopts the presumption established by the GLB Act that applies the limits on inter-affiliate transactions contained in section 23A of the Federal Reserve Act to transactions between a depository institution controlled by the investing FHC and any portfolio company in which the FHC owns at least a 15 percent equity interest.  In response to suggestions made by commenters, the final rule includes several safe harbors from this statutory presumption for situations in which the Board would consider, absent evidence to the contrary, that the presumption is rebutted and the restrictions of section 23A would not apply.
+
+[SECTION]
+
+C.  Capital Proposal.
+An integral part of our original merchant banking proposal involved the regulatory capital that would be required to support merchant banking activities.  As anyone who has experienced a down-turn in the stock market will attest, an investor's chances of financial survival are greater if the investor has used capital rather than debt to finance their investments.  And in the case of banking organizations, it is also important that the organization have sufficient capital after losses associated with declines in stock prices to support its other activities.
+
+[SECTION]
+
+The Board's capital proposal was intended to offset some of the risks from merchant banking investments by requiring financial holding companies to limit the amount of debt they used to support their merchant banking activities.  While many merchant bankers fund their merchant banking investments entirely with equity capital--that is, each dollar of investment is funded with one dollar of their own equity capital--the Board originally had proposed a regulatory minimum requirement of 50 cents of equity capital for each dollar invested in merchant banking.
+
+[SECTION]
+
+This proposal attracted quite a bit of comment, and is an example of an area where we learned from the public comments.  Importantly, most of the commenters did not disagree with our concern that merchant banking activities are riskier than more traditional banking activities.  Nonetheless, most commenters criticized our proposed capital treatment, and several offered constructive alternative approaches.
+
+[SECTION]
+
+In addition to reviewing the public comments, we worked with the other Federal banking agencies to improve the proposal in ways that took account of commenters concerns but also addressed the necessity for risky assets to be adequately capitalized by equity.  Together with the other agencies we were able to develop a new, revised capital proposal that would apply uniformly to equity investments held by bank holding companies and those held by depository institutions.
+
+[SECTION]
+
+The banking agencies were guided by several principles in considering the appropriate levels of capital that should be required as a regulatory minimum to support equity investment activities.  First, equity investment activities in nonfinancial companies generally involve greater risks than traditional bank and financial activities.  As I noted, this is a principle over which there is little disagreement.  Industry data on venture capital investments indicate losses on one-fourth to one-third of individual deals.  For portfolio investments, studies suggest that, while some portfolios achieve extraordinary returns, nearly 20 percent lose capital.  I explained in much more detail our analysis of the risks associated with equity investment activities in my testimony before this Subcommittee last June.  If anything, the activity in the equity markets since last June has confirmed that analysis, and few of the commenters on our original capital proposal disagreed with the substance of that analysis or with its conclusion that equity investment activities are significantly riskier activities than most traditional banking activities.
+
+[SECTION]
+
+A second and related principle is that the financial risks to an organization engaged in equity investment activities increase as the level of its investments accounts for a larger portion of the organization's capital, earnings and activities.  Banking organizations have for some time engaged in equity investment activities using various authorities, including primarily Small Business Investment Companies (SBICs) and the authority to make limited passive investments under sections 4(c)(6) and (7) of the BHC Act.  When the current capital treatment, which requires a minimum of 4 percent Tier 1 capital (6 percent in the case of depository institutions that must meet the regulatory well-capitalized definition), was developed, these equity investment activities were small in relation to the more traditional lending and other activities of these organizations.
+
+[SECTION]
+
+The level of these investment activities has grown significantly in recent years, however.  For example, investments made through SBICs owned by banking organizations have alone more than doubled in the past five years.  Industry wide, investments have more than quadrupled over the same period.  The grant to financial holding companies of a significant new authority to make equity investments under the GLB Act without many of the restrictions that apply to other authorities currently used by banking organizations to make these investments was an appropriate time to re-evaluate whether existing capital charges were adequate.
+
+[SECTION]
+
+A third principle guiding the agencies' efforts is that the risk of loss associated with a particular equity investment is likely to be the same regardless of the legal authority used to make the investment or whether the investment is held in the bank holding company or in the bank.  In fact, the agencies' supervisory experience is that banking organizations are increasingly making investment decisions and managing equity investment risks as a single business line within the organization and across legal entities.  These organizations use different legal authorities available to different legal entities within the organization to conduct a unified equity investment business.
+
+[SECTION]
+
+In light of these principles, the Board and the other agencies issued a revised proposal that would establish special minimum regulatory capital requirements for equity investments in nonfinancial companies.  This capital treatment would apply symmetrically to equity investment activities of bank holding companies and banks.
+
+[SECTION]
+
+Under the original capital proposal made last March, the Board proposed to apply a uniform 50 percent capital charge to all equity investments made by bank holding companies.  The revised proposal would apply a series of marginal capital charges that increase with the level of a banking organization's overall exposure to equity investment activities relative to the institution's Tier 1 capital.  Under the new proposal, with several exceptions that I will discuss in a moment, a modest 8 percent equity capital charge would apply to the portion of the banking organization's equity investment portfolio that totals less than 15 percent of the Tier 1 capital of the organization, and a 12 percent equity capital charge would apply to the portion of the portfolio between 15 percent and 25 percent of the banking organization's Tier 1 capital.  A 25 percent equity capital charge would be applied to the portion of a portfolio that exceeds 25 percent of the Tier 1 capital of the investing banking organization.  These charges are regulatory minima, and FHCs are expected to hold capital based on their assessment of the nature of their capital investments and the quality of the over-all risk management of these portfolios.
+
+[SECTION]
+
+The agencies announced that they would intensify their supervisory review and oversight of the equity investment activities at all banking organizations, including in particular banking organizations with concentrations in this activity that exceed 50 percent of the organization's equity capital.  The agencies also indicated that they would apply higher minimum regulatory capital charges on a case-by-case basis as appropriate in light of supervisory concerns regarding an organization's risk management systems; the risk, nature, size and composition of an organization's portfolio of investments; market conditions; and other relevant information and circumstances.
+
+[SECTION]
+
+The series of marginal capital charges in our revised proposal is somewhat more complex than the original single-charge proposal.  However, we believe that it better reflects the reality that, as an organization concentrates greater amounts of its resources in riskier activities, the organization increases its overall risk profile.  In order to continue to operate safely and soundly, a banking organization must increase its capital as it increases its risk profile.
+
+[SECTION]
+
+Commenters, including a number of members of this Subcommittee, strongly urged the agencies not to impose a higher capital charge than is currently applied on investments made through SBICs.  These commenters argued that SBICs serve the important public purpose of encouraging investment in small businesses, are already subject to investment limitations imposed by Congress and the Small Business Administration, and to date have been generally profitable.
+
+[SECTION]
+
+Commenters made similar arguments in support of an exception from higher capital charges for investments made by state banks under special grandfathering authority preserved by section 24 of the Federal Deposit Insurance Act.  These investments have also been reviewed and limited by Congress and are subject to further review and limitation by the FDIC.
+
+[SECTION]
+
+The agencies recognized substantial merit in these arguments.  Accordingly, we revised the capital proposal so that it does not generally impose a higher capital charge on investments made through SBICs.  Because SBICs may, under certain conditions, hold investments that exceed the statutory limitations imposed on bank investments in SBICs, the revised proposal would apply the higher marginal capital charges to SBIC investments only when the total amount of these investments exceeds 15 percent of the parent bank or bank holding company's Tier 1 capital.  This 15 percent threshold allows banking organizations a cushion for growth between the statutory investment limit and the higher capital charges under the revised proposal.
+
+[SECTION]
+
+The proposal also includes an exception for investments held by state banks in accordance with the special grandfather rights under section 24 of the FDI Act.  As commenters noted, these investments are limited by statute in both amount and type, and may only be made by a small, and diminishing group of grandfathered companies.
+
+[SECTION]
+
+Section 24 of the FDI Act also permits other, non-grandfathered investments with the approval of the FDIC.  In nearly all cases, the FDIC has imposed a higher capital charge on these investments than the marginal charges included in the revised interagency proposal.  Consequently, although the proposal covers these investments, it would not have an effect on the regulatory capital required for these investments.  The proposal would allow the FDIC, in exceptional individual cases, to impose a lesser minimum regulatory capital charge on investments under section 24 where the total of all investments made by the organization under section 24 and through an SBIC is less than 15 percent of the organization's Tier 1 capital.  The FDIC also retains authority to impose greater capital requirements on any investment activities under section 24 of the FDI Act as it deems appropriate to protect the deposit insurance funds and assure the safe and sound operation of the investing bank.
+
+[SECTION]
+
+One of the comments made most often in response to our original capital proposal was that the Board had selectively adopted part of the internal risk models used by banking and securities firms to assess the capital risks and needs of their organization--the part of the model that recognized that equity investment activities are risky activities that require substantial capital support--without also adopting the parts of those internal models that assess lower capital charges to activities with less risk.  Some commenters urged the Board to rely on internal capital models for assessing all aspects of regulatory capital requirements.
+
+[SECTION]
+
+Internal risk-based models for assessing capital adequacy of an organization would, indeed, better reflect the individual risk profile of individual organizations than the more general formulas that currently underlie the agencies' regulatory capital requirements.  As a result, we believe that internal capital models are important and ideally should serve as the basis for both economic and regulatory capital requirements.  However, the development of internal risk models is still in its infancy, with many organizations only beginning to develop internal models, and, even with those that have begun this task, with categories of assets and activities--such as portfolios of equities--still not adequately factored into most models.  We are committed to enhancing our ability as supervisors to assess and aid in the development of strong internal models.  We have been working with the Basle Capital Committee on a proposal, recently published for public comment, that would focus regulatory capital requirements at least at large banking organizations on internal risk models developed by the organization and verified by the regulatory agencies.
+
+[SECTION]
+
+But neither the banking agencies nor most banking organizations are at the stage where we can rely on these models as a replacement for regulatory minimum capital requirements.  We view our revised capital proposal for equity investment activities as a bridge to a robust internal model approach--one that covers a banking organization's assets generally and not just a subset of those assets.  When we cross that bridge will depend on a number of factors, including how the Basle proposal is received and develops, on the ability of banking organizations to develop their own models, and on our own ability to evaluate and verify the models that develop.  For those banking organizations that engage in equity investment activities but choose not to adopt internal capital models, the revised capital proposal will help provide a standard against which we can analyze the organizations' capital adequacy.
+
+[SECTION]
+
+The invitation for public comments on the revised capital proposal is still open, and will remain open until April 16, 2001.  We find the public comment process to be a useful and instructive discipline, especially for analyzing rules that will govern new activities and the banking industry broadly.  As always, the Board will carefully review all of the comments that we receive.  While we have not reached a final decision on the capital proposal, we believe that we are homing in on a final rule that addresses the information and concerns of commenters, will be workable, and, importantly, will enhance safety and soundness.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2001 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: April 4, 2001, 10:00 AM

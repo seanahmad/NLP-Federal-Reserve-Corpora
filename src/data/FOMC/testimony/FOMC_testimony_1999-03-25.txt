@@ -1,0 +1,147 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I appreciate this opportunity to appear before the Committee to present the views of the Board of Governors of the Federal Reserve System on currency collateral, financial netting, and consumer issues raised by the Conference Report on H. R. 3150, the Bankruptcy Reform Act of 1998.  The Board strongly supports Section 1013 of the Conference Report relating to Federal Reserve collateral requirements and urges its inclusion in this year's legislation.  The Board also strongly supports the financial contract provisions of Title X of the Conference Report.  Our testimony also offers comments on the consumer provisions found in Sections 112, 113, 114, and 1128 of the Conference Report.
+
+[SECTION]
+
+Currency Collateral	
+Section 16 of the Federal Reserve Act requires the Federal Reserve to collateralize Federal Reserve notes when they are issued.  The list of eligible collateral includes Treasury and federal agency securities, gold certificates, Special Drawing Right certificates, and foreign currencies, the items in bold print on the left side of the balance sheet in appendix A.  In addition, the legally eligible backing for currency includes discount window loans made under Section 13 of the Federal Reserve Act.  Over the years sections have been added to the Act that permit lending by the Federal Reserve to depository institutions under provisions other than Section 13 and against a broader range of collateral than is allowed under Section 13.  However, the currency collateralization requirement of Section 16 has not been similarly amended, thus limiting the types of loans the Federal Reserve can use to back the currency.
+
+[SECTION]
+
+To date, the Federal Reserve has always had more than enough collateral to back Federal Reserve notes.  In recent years, however, the margin of excess currency collateral has been dwindling.  The primary reason for the decline in excess currency collateral has been the development of retail sweep accounts.  Retail sweep accounts are a technique used by banks to increase earnings by reducing their required reserves.  Because of the growth of sweep accounts, required reserve balances have declined substantially over the past five years.
+
+[SECTION]
+
+Since reserve balances, unlike currency, do not have to be collateralized, they serve as a source of excess collateral for currency.  To maintain a balance between the demand for and the supply of reserve balances that is consistent with the intended stance of monetary policy, the Federal Reserve has responded to the declining demand for reserves by accumulating a smaller volume of Treasury securities than it would have in the absence of retail sweep accounts.  This means that the growth of retail sweep accounts has effectively diminished the margin of excess currency collateral.  As additional sweep programs are implemented, the margin will tend to shrink further.  One can trace the effects of declining reserve balances on excess currency collateral in the simplified Federal Reserve balance sheet in appendix A--excess currency collateral was down to about  $20 billion by the end of 1998, and is likely to drop further.
+
+[SECTION]
+
+The small margin of available collateral poses a serious potential problem for the Federal Reserve.  Although discount window borrowing has been very low in recent years, it could increase substantially in the future.  For example, one or more banks could experience operational problems (perhaps owing to computer failures related to the century date change) that require a large volume of temporary funding from the discount window.  These banks might not be able to tender the types of collateral that would qualify for loans under Section 13.  Consequently, any such loans would need to be made under other provisions of the Act, and under current law they would not be eligible to back currency.
+
+[SECTION]
+
+If the aggregate need for such loans exceeded excess currency collateral, the Federal Reserve would be faced with an unpalatable choice.  Were the Federal Reserve to extend the credit, it would not be able to absorb all of the resulting excess reserves by selling Treasury securities from its portfolio, because selling the necessary amount would cause a deficiency in currency collateral.  The increase in excess reserves would reduce short-term interest rates, causing an unintended easing of monetary policy and perhaps risking inflation.  The situation would persist until the loans were repaid.  Were the Federal Reserve instead to refuse to make the discount loans in order to maintain the stance of monetary policy and continue to collateralize the currency, the depository institutions seeking credit would not be able to meet their obligations, with possible adverse implications for the financial system as well as the individual depository institutions.  Thus the Federal Reserve would need to choose between two of its most fundamental policy objectives--protecting the value of the currency and preserving financial stability.
+
+[SECTION]
+
+The legislation in Section 1013 of the Conference Report would greatly reduce the likelihood of circumstances that would give rise to such difficulties.  It would authorize the Federal Reserve to collateralize the currency with all types of discount window loans, not just those made under Section 13.  By permitting all discount window loans to back the currency, the Federal Reserve would be able to collateralize currency fully--as the original framers of the Federal Reserve Act saw fit to require--in virtually all conceivable circumstances while conducting monetary policy in pursuit of the nation's macroeconomic objectives and making any and all discount window loans that are appropriate.
+
+[SECTION]
+
+I might note that Section 101 of S.576, the Senate regulatory relief bill, would also reduce the odds that the currency collateral requirement could inappropriately constrain Federal Reserve operations.  If the Federal Reserve were permitted to pay interest on required reserve balances, as provided for in that proposal, the incentives that depository institutions face to generate new retail sweep arrangements would be greatly reduced, and some banks would probably even dismantle such arrangements.  As a result, the level of reserve balances should rise, providing a modest additional source of funds to purchase collateral to back the currency.  This step by itself would not be adequate to address the currency collateral issue, but it would help.  More importantly, the prevention of further erosion in required reserve balances, and the possibility that they would rise, would assist the Federal Reserve in the implementation of monetary policy by forestalling the possibility that the volatility of overnight interest rates could rise substantially as a result of low reserve balances.  The Federal Reserve strongly supports this section of S.576.
+
+[SECTION]
+
+Financial Netting
+The Federal Reserve commends the Committee for addressing Title X, Financial Contract Provisions, of H.R. 3150, Bankruptcy Reform Act of 1998, which was considered in the last Congress.  Title X of H.R. 3150 included a number of proposed amendments to the Federal Deposit Insurance Act and the Bankruptcy Code as well as other statutes related to financial transactions.  Most of these amendments incorporated or were based on amendments to these statutes that were endorsed by the President's Working Group on Financial Markets.  As discussed more fully in appendix B, the Board supports enactment of the amendments recommended by the Working Group.  The importance of improving the legal regime underpinning financial markets has been recognized by the finance ministers of the G7 countries.  In this regard, the ability to terminate or close out and net contracts and to realize on collateral pledged in connection with these contracts is vital.  Enactment of the provisions of Title X would reduce uncertainty in these areas.  This reduced uncertainty should foster market efficiency and limit market disruptions in the event of an insolvency, limit risk to federally supervised financial market participants, including insured depository institutions, and limit systemic risk.
+
+[SECTION]
+
+Close out refers to the right to terminate a contract upon an event of default and to compute a termination value due to or due from the defaulting party, generally based on the market value of the contract at that time.  By providing for termination of contracts on default, nondefaulting parties can remove uncertainty as to whether the contract will be performed, fix the value of the contract at that point, and proceed to rehedge themselves against market risk.
+
+[SECTION]
+
+The right to terminate or close out contracts is important to the stability of market participants and reduces the likelihood that a single insolvency will trigger other insolvencies due to their market risk.  Further, absent termination and close out rights the inability of market participants to control their market risk is likely to lead them to reduce their market risk exposure, potentially drying up market liquidity and preventing the affected markets from serving their essential risk management, credit intermediation, and capital raising functions.
+
+[SECTION]
+
+Netting refers to the right to set off, or net, claims between parties to arrive at a single obligation between the parties.  Netting can serve to reduce the credit exposure of counterparties to a failed debtor and thereby to limit systemic risks and to foster market liquidity.
+
+[SECTION]
+
+Finally credit exposure under financial market transactions is frequently collateralized.  The right to liquidate collateral immediately is important for preserving the liquidity of financial market participants.
+
+[SECTION]
+
+Recognizing the importance of termination, or close out, netting, and collateral, in March of 1998 the Secretary of the Treasury, on behalf of the President's Working Group on Financial Markets, transmitted to Congress proposed legislation that would amend the banking laws and the Bankruptcy Code.  As I noted previously, the provisions of Title X, Financial Market Contracts, of H.R. 3150 were largely based on the provisions that were endorsed by the Working Group.  Additional language in Title X was designed to further the same ends that the Working Group sought to promote.  Other provisions, such as section 1012 on Asset-Backed Securitizations, which was not included in the Working Group's recommendations, also may foster the efficiency of the financial markets by promoting certainty.  I understand that there also have been concerns expressed over this provision.  Although we believe that this provision is beneficial, we think the provisions endorsed by the Working Group are sufficiently important to be pursued by Congress even if the asset securitization provision is not included.
+
+[SECTION]
+
+Consumer Protection
+	The Conference Report contains a number of provisions relating to consumer protection laws the Federal Reserve Board administers.  Section 113 would direct the Board to study the adequacy of existing protections that limit consumers' liability for the unauthorized use of "dual use" debit cards.  Commonly debit cards--such as those used at an automated teller machine (ATM)--can be used only if the consumer provides a personal identification number (PIN).  However, some debit cards also can be used without a PIN; consumers sign a sales draft as they would for credit cards.  Consumers' liability under the Truth in Lending Act (TILA) for the unauthorized use of a credit card is no more than $50; for debit cards, the potential loss under the Electronic Fund Transfer Act (EFTA) can be much higher.  Depending on how timely the consumer is in reporting the unauthorized use, the consumer's liability in the latter case may be as much as $500, and may even be unlimited if the consumer does not notify the institution within 60 days of the sending of a periodic statement listing an unauthorized transaction.
+
+[SECTION]
+
+Some observers have expressed concern that consumers using debit cards in the same way that they use credit cards may not understand the difference in their potential risk of loss.  The Conference Report requires the Board to study how well existing law protects consumers against unauthorized use of debit cards, whether the industry has enhanced the level of protection through voluntary rules, and whether additional amendments to the EFTA or the Board's regulations are necessary.
+
+[SECTION]
+
+The Board believes that market discipline is preferable to government-imposed regulations.  As an example of how market discipline might work, both VISA and MasterCard have already voluntarily established rules for financial institutions offering non-PIN protected debit cards that generally limit a consumer's liability to $50 or less.  Though these rules are not identical to those in the EFTA and the Board's Regulation E, which implements the EFTA, these voluntary rules bring consumers' liability for these debit cards more in line with the liability rules for credit cards.  The voluntary rules govern all institutions offering these types of debit cards and thus diminish consumers' liability substantially.  In this case we believe the private sector has already acted appropriately to address the liability issue.
+
+[SECTION]
+
+With regard to the possible need for additional disclosures that explain how non-PIN protected debit cards differ from other credit cards, the Board is studying this matter. We have the authority under the EFTA to adopt additional disclosures, but must weigh the value of additional consumer protection against the additional compliance costs that would be imposed.  Because the industry has already established voluntary limits on liability and the Board is currently analyzing the need for additional disclosures, we believe the study mandated in Section 113(c) of the Conference Report may be unnecessary.
+
+[SECTION]
+
+Section 112 of the Conference Report would require the Board to study the adequacy of information consumers receive about the deductibility of interest paid on home-secured credit transactions.  The Board is to consider whether additional disclosures are necessary when the total amount of the home-secured credit extended exceeds the fair market value of the dwelling.
+
+[SECTION]
+
+The Truth in Lending Act (TILA) and the Board's Regulation Z, which implements TILA, currently have limited disclosure requirements about the effect of the credit transaction on consumers' income tax liability.  Creditors offering home-secured lines of credit must provide generic disclosures when an application is made, including a statement warning consumers to consult a tax advisor regarding the deductibility of interest and other charges connected with the line of credit.  Creditors offering purchase-money mortages and other home-secured installment loans are not required to provide any tax-related disclosures.
+
+[SECTION]
+
+The Board recognizes that it is useful for consumers to be aware of the potential tax implications of home-secured credit transactions.  But we have concerns about the study required by Section 112(a).  The tax code is complex and its applicability to each consumer depends on personal financial information and additional analysis.  Creditors often do not have all the information that would permit them to provide specific meaningful tax advice to consumers.  We would be concerned that additional disclosures might give consumers the impression that a creditor has considered their individual circumstances and made a determination about the income tax consequences.  In the end, the most meaningful disclosure a creditor could offer might be a generic statement advising the consumer to consult a tax advisor, or in the case of credit that exceeds a home's fair market value, a disclosure that the tax laws may not allow a deduction for all the interest paid on that loan.
+
+[SECTION]
+
+It will be very difficult to obtain the data necessary to do the study required by Section 112(a).  Findings would likely be based on consumer surveys that ask consumers to relate their experiences in deducting interest associated with home-secured credit for income tax purposes.  Taxpayers are notoriously private about their dealings with the Internal Revenue Service, and surveys about their dealings could result in unreliable information.
+
+[SECTION]
+
+The third Board study, required by Section 114(e) of the Conference Report, addresses the adequacy of the information consumers receive about certain borrowing practices that may result in financial problems.  The focus of the study is consumers' practice of making only minimum payments on their credit card accounts or other revolving credit plans.  The Board would be directed to use the results of the study to determine whether consumers need additional disclosures regarding minimum payment features beyond the minimum payment disclosures added by other provisions of the bill.
+
+[SECTION]
+
+The Board is again concerned that there would be difficulties in obtaining reliable data.  For example, the Board is asked to consider the extent to which the availability of low minimum payments causes financial difficulties, and the impact of minimum payments on default rates.  We believe these relationships are difficult, perhaps impossible, to estimate.  The Board would be happy to work with the Congress to draft  a more manageable alternative.
+
+[SECTION]
+
+Section 114 of the Conference Report would amend TILA to require creditors offering open-end credit plans, such as credit cards, to provide additional disclosures about minimum payments as well as arrangements where consumers may "skip payments" while interest continues to accrue on the unpaid balance.  It would also require lenders to provide an example of how long it would take to pay off a $500 balance, if the consumer makes only the minimum payment and does not obtain additional credit.  These disclosures would be provided when the account is opened, annually, and in the case of the minimum payment disclosure, on each periodic statement.
+
+[SECTION]
+
+Regarding these additional disclosures, the Board recognizes the value of ensuring that consumers better understand the implications of making minimum payments on open-end credit plans.  But the Congress might ask whether providing similar disclosures repeatedly, as required by this legislation, may have the unintended effect of creating "information overload" for consumers receiving these disclosures.  Here is where a study might be helpful.
+
+[SECTION]
+
+Section 1128 amends TILA to prohibit creditors from terminating open-end credit accounts solely because the consumer does not incur a finance charge on the account.  (Typically, these cardholders are "convenience users" who pay their credit card balances in full each month.)  Under the provision, creditors could terminate an account for inactivity of three months or more, but consumers who use their cards regularly and pay their balances in full could not have their accounts terminated for that reason.
+
+[SECTION]
+
+The Board generally does not favor federal laws that restrict creditors' ability to determine whether particular accounts or transactions are economically viable.  We believe competition in the marketplace is the better approach for motivating creditors' activities, and the credit card market is certainly competitive.  Moreover, we have concerns about the possible consequences of such a prohibition.  We are not aware that the practice of terminating accounts is prevalent in the industry, but we presume that to the extent creditors do so, it is because the accounts are considered unprofitable.  If creditors cannot terminate these accounts, they will likely seek to recover their costs by increasing fees on convenience cardholders, or for all their cardholders.
+
+[SECTION]
+
+In addition to these comments, the Board would also like to bring certain technical comments on the consumer provisions to the Committee's attention.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+

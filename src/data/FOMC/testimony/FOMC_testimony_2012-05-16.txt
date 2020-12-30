@@ -1,0 +1,221 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 16, 2012
+
+[SECTION]
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Capito, Ranking Member Maloney, and other members of the Subcommittee, thank you for the opportunity to testify on implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) as it relates to the designation, supervision, and regulation of systemically important nonbank financial companies.
+
+[SECTION]
+
+Systemically Important Nonbank Financial Companies and the Problem of "Too Big to Fail"
+       The recent financial crisis showed that some financial companies, including nonbank financial companies not historically subject to consolidated prudential supervision, had grown so large, leveraged, and interconnected that their failure could pose a threat to overall financial stability. The sudden collapses or near-collapses of major financial companies, and in particular major nonbank financial companies, were among the most destabilizing events of the crisis. The crisis also demonstrated weaknesses in the existing framework for supervising, regulating, and otherwise constraining the risks of major financial companies, as well as deficiencies in the government's toolkit for managing their failure.
+
+[SECTION]
+
+As a result of the imprudent risk-taking of major financial companies and the perceived severe consequences to the financial system and the economy associated with their disorderly failure, the U.S. government (and many foreign governments) intervened to reduce the impact of, or prevent, the failure of these companies. Before the crisis, market participants had assumed that major financial companies likely would receive government assistance if they became troubled. The actions taken by governments in response to the crisis, although necessary, helped to solidify the market view that such financial firms were too big to fail.
+
+[SECTION]
+
+The Dodd-Frank Act addresses key gaps in the framework for supervising and regulating systemically important financial institutions and the market perception that such firms are too big to fail. Specifically, the Dodd-Frank Act seeks to mitigate the threat to financial stability posed by systemically important nonbank financial companies that were historically outside the existing regulatory framework for bank holding companies. The Dodd-Frank Act takes a multi-pronged approach to do so, including: (i) the establishment of the Financial Stability Oversight Council (the Council), which has the authority to designate nonbank financial companies that could pose a threat to financial stability; (ii) a new framework for consolidated supervision and regulation by the Federal Reserve of nonbank financial companies designated by the Council; and (iii) improved tools for the resolution of failed nonbank financial companies.
+
+[SECTION]
+
+I will briefly discuss the Federal Reserve's work to date in each of these key areas.
+
+[SECTION]
+
+Designation of Nonbank Financial Companies by the Financial Stability Oversight Council
+       As you know, the Dodd-Frank Act created a council of regulators, the Financial Stability Oversight Council, to coordinate efforts to identify and mitigate threats to U.S. financial stability across a range of institutions and markets. Among the Council's most important responsibilities are establishing a framework for designating nonbank financial companies whose failure could pose a threat to financial stability, and applying that framework to designate and reassess individual firms over time. Once designated, these firms would be subject to consolidated supervision by the Federal Reserve and would be required to satisfy enhanced prudential standards established by the Federal Reserve under title I of the Dodd-Frank Act.
+
+[SECTION]
+
+The Federal Reserve has been working closely with the other member agencies of the Council to put this designation framework in place. On April 3, the Council issued a final rule and interpretive guidance setting forth the criteria and process it will use to designate nonbank financial firms as systemically important. The Council's rule provides detail on the framework that it intends to use to assess a particular firm's potential to threaten U.S. financial stability. The analysis would take into account the firm's size, interconnectedness, provision of critical products or services, leverage, and reliance on short-term funding, as well as its existing regulatory oversight.
+
+[SECTION]
+
+The Council's issuance of this rule is an important step forward in ensuring that systemically critical nonbank financial firms will be subject to strong consolidated supervision and regulation. The Council and its member agencies' staffs currently are using these criteria to analyze the potential systemic importance of individual nonbank financial companies in different industries. As the Council gains experience with the designation process, we expect it will make adjustments to its rule and procedures as appropriate.
+
+[SECTION]
+
+Regulation and Supervision of Systemically Important Nonbank Financial Companies
+       Of course, the identification and designation of systemically important nonbank financial companies is only an initial step. Just as important is the establishment of a strong, effective regulatory framework for constraining the systemic risk posed by such firms. In this regard, sections 165 and 166 of the Dodd-Frank Act require the Federal Reserve to establish enhanced prudential standards both for bank holding companies with total consolidated assets of $50 billion or more and for nonbank financial companies designated by the Council. These standards include enhanced risk-based capital and leverage requirements, liquidity requirements, single-counterparty credit limits, stress testing, risk-management requirements, an early remediation regime, and resolution-planning requirements. Sections 165 and 166 also require that these prudential standards become more stringent as the systemic footprint of the firm increases.
+
+[SECTION]
+
+In December, the Federal Reserve issued a package of proposed rules to implement sections 165 and 166 of the Dodd-Frank Act. The Federal Reserve's proposed rules would apply the same set of enhanced prudential standards to covered companies that are bank holding companies and covered companies that are nonbank financial companies designated by the Council. As we made clear in the proposal, however, the Federal Reserve may tailor the application of the enhanced standards to different companies on an individual basis or by category, taking into consideration each company's capital structure, riskiness, complexity, financial activities, size, and any other risk-related factors that the Federal Reserve deems appropriate. Working out the exact details of how enhanced prudential standards will apply to nonbank financial companies will certainly require a thoughtful and iterative analysis of each designated company over time. Once the Council designates one or more nonbank financial companies, the Federal Reserve is committed to thoroughly assessing the business model, capital structure, and risk profile of each designated company and tailoring the application of the enhanced standards to each company on an individual basis or by category, as appropriate. The Federal Reserve will also give careful consideration to the appropriate transition period required for newly designated nonbank financial companies to comply with the enhanced prudential standards and other regulatory requirements.
+
+[SECTION]
+
+The comment period for the Federal Reserve's enhanced prudential standards proposal closed on April 30, 2012. Nearly 100 comments letters were received. The Federal Reserve is currently reviewing those comments carefully as we work to develop final rules to implement sections 165 and 166.
+
+[SECTION]
+
+Living Wills and Orderly Resolution
+       Ending "too big to fail" also requires that a systemically important financial institution be allowed to fail if it cannot meet its obligations--and to fail without inflicting serious damage on the broader financial system. Thus, the Dodd-Frank Act empowers the Federal Reserve and the Federal Deposit Insurance Corporation (FDIC) to reduce the impact on the system in the event of the failure of a systemically important nonbank financial company through two important new regulatory tools. First, section 165(d) of the Dodd-Frank Act requires each bank holding company with total consolidated assets of $50 billion or more and each nonbank financial company designated by the Council to prepare and provide to the FDIC and the Federal Reserve a resolution plan, or "living will," for its rapid and orderly resolution under the U.S. bankruptcy code. Second, title II of the Dodd-Frank Act provides for an orderly resolution process to be administered by the FDIC. Importantly, both of these new tools extend to systemically important nonbank financial companies, in addition to bank holding companies with total consolidated assets of $50 billion or more.
+
+[SECTION]
+
+Thank you very much for your attention. I would be pleased to answer any questions you might have.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

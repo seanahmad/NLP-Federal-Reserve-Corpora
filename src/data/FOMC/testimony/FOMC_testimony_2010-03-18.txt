@@ -1,0 +1,281 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 18, 2010
+
+[SECTION]
+
+Jon D. Greenlee, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Kanjorski, Ranking Member Garrett, and other members of the Committee, thank you for the invitation to today's hearing to discuss the supervision and oversight of insurance companies. In the United States, primary supervisory and regulatory authority for insurance companies is vested with the states. The Federal Reserve does, however, serve as consolidated supervisor for bank holding companies (BHCs), including financial holding companies (FHCs) established under the Gramm-Leach-Bliley Act (GLB Act), some of which are affiliated with insurance companies. In addition, the Federal Reserve serves as the primary federal supervisor for state-chartered banks that are members of the Federal Reserve System (state member banks), many of which engage in insurance sales activities.
+
+[SECTION]
+
+In my statement I will first describe the scope of the Federal Reserve's supervisory and regulatory authority for BHCs, FHCs, and state member banks and provide an overview of the types of insurance activities that may be conducted by banking organizations supervised by the Federal Reserve. I will then discuss the Federal Reserve's approach to supervising BHCs, FHCs, and state member banks both generally and with respect to any insurance activities that may be conducted by these organizations.
+
+[SECTION]
+
+Background
+       The Federal Reserve has supervisory and regulatory authority for BHCs; state member banks; U.S. operations of foreign banking organizations that have a branch, agency, or commercial lending subsidiary in the United States; and certain other financial institutions and activities. As of year-end 2009, a total of 5,635 top-tier U.S. BHCs were in operation. These institutions controlled 5,710 insured commercial banks and held approximately 88.5 percent of all insured commercial bank assets in the United States. Also as of year-end 2009, 844 state-chartered banks (excluding nondepository trust companies and private banks) were members of the Federal Reserve System. We work with other federal and state supervisory authorities to ensure the safety and soundness of the banking industry, foster stability of the financial system, and provide for the fair and equitable treatment of consumers in financial transactions.
+
+[SECTION]
+
+While banking organizations have been widely involved in insurance sales activities for many years, the ability of banking organizations to broadly underwrite insurance is both more limited and more recent. For example, state banks--including state member banks--generally are permitted to act as an agent in the sale of insurance to the extent permitted by state law, and most states authorize this activity. Federal law, however, generally prohibits national or state-chartered insured banks from underwriting insurance, with certain exceptions.1 Prior to the GLB Act, the ability of BHCs to affiliate with a company engaged in insurance sales or underwriting activity also was quite limited.
+
+[SECTION]
+
+Since 2000, the GLB Act permits those BHCs that qualify to be, and then elect to become, an FHC to engage in, or affiliate with a company engaged in, the sale or underwriting of any type of insurance. To qualify as an FHC, all of a BHC's depository institution subsidiaries must be well capitalized and well managed, and all of the company's insured depository institutions (other than certain newly acquired institutions) must have a satisfactory or better record of performance under the Community Reinvestment Act.
+
+[SECTION]
+
+Approximately 548 financial services organizations with total assets of $16.1 trillion (or 86 percent of all assets controlled by BHCs) operate in the United States as FHCs. Of these companies, 507 are domestic FHCs and 41 are foreign-owned FHCs. As of September 30, 2009, a total of 33 FHCs reported engaging in insurance underwriting activities pursuant to the expanded authorities provided by the GLB Act, of which 22 were domestic companies and 11 were foreign-owned organizations. These 33 organizations reported an aggregate of $551 billion of insurance-related underwriting activities, which represents 3.4 percent of total FHC assets of $16.1 trillion.
+
+[SECTION]
+
+Additionally, some 194 FHCs reported conducting insurance sales activities. Because insurance sales activities are conducted as agent (and not as a principal, as with insurance underwriting), insurance sales activities typically do not account for a significant percentage of the assets of banking organizations.
+
+[SECTION]
+
+Federal Reserve Supervisory Standards and Approach
+       The Federal Reserve is involved in both regulation, which is establishing the rules within which banking organizations must operate, and supervision, which is ensuring that banking organizations abide by those rules and remain safe and sound. The Federal Reserve's regulations impose consolidated capital requirements on BHCs (including FHCs) and state member banks, restrict intercompany transactions between an insured depository institution and its affiliates, and implement the activity restrictions that the Congress has established for banking organizations to help protect the federal safety net and prevent the mixing of banking and commerce. Because rules and regulations in many cases cannot reasonably prescribe the exact practices each organization should use in managing the risks it faces, supervisors provide policies and guidance that expand upon requirements set forth in rules and regulations and that establish expectations for the range of acceptable practices. Supervisors rely extensively on these policies and guidance as they conduct examinations or inspections and assign supervisory ratings. The Federal Reserve supervisory staff regularly conduct on-site examinations and off-site monitoring to ensure the safety and soundness of supervised state member banks.
+
+[SECTION]
+
+As consolidated supervisor, the Federal Reserve also conducts regular inspections of all BHCs, including FHCs. The primary purpose of these inspections is to ensure that the holding company and its nonbank subsidiaries do not pose a threat to the BHC's insured depository institution subsidiaries. In conducting our supervisory and inspection activities, we work closely with the primary supervisor of a BHC's subsidiary depository institutions, as well as with the functional regulator of any securities broker-dealer or insurance company owned by the BHC. Indeed, the GLB Act requires that the Federal Reserve rely, to the fullest extent possible, on the reports of examinations prepared by the relevant state insurance authority of any insurance company subsidiary of a BHC.
+
+[SECTION]
+
+Our supervision of BHCs and FHCs is focused on the consolidated risk exposures, financial strength, capital adequacy, and liquidity of these firms. In short, our approach is risk-focused, and encompasses all of the risks of the firm. Inspections are built around a rating system introduced in 2005 that reflects the shift in supervisory practices away from a historical analysis of financial conditions toward a more dynamic, forward-looking assessment of risk-management practices and financial factors. Under the system, known as RFI, but more fully termed RFI/C(D), holding companies are assigned a composite rating (C) that is based on assessments of three components: risk management (R), financial condition (F), and the potential impact (I) of the parent company and its nondepository subsidiaries on the subsidiary depository institution. The fourth component, depository institution (D), is intended to mirror the primary supervisor's rating of the subsidiary depository institution.
+
+[SECTION]
+
+In October 2008, the Federal Reserve finalized comprehensive supervisory guidance, initiated prior to the onset of the financial crisis, to enhance and clarify our role as consolidated supervisor of BHCs, including FHCs. For example, it improves the consistency of the Federal Reserve's supervisory practices and assessments across institutions with similar activities and risks, and directs examiners to pay special attention to areas that are critical to managing firmwide risks, such as primary governance functions and risk controls, material business lines and nonbank operations, funding and liquidity management, consumer compliance, and other key activities and risks. The enhanced consolidated supervisory approach also emphasizes several elements designed to foster financial stability and deter or manage financial crises, including an increased focus on clearing and settlement activities in critical financial markets. The guidance also reiterates the need as required by statute to rely, to the fullest extent possible, on information from the appropriate primary or functional regulators of the bank, securities, and insurance subsidiaries of an organization in order to make an informed assessment about the nature of the risks posed to the insured depository institution affiliate and the consolidated organization. Importantly, it also describes how the Federal Reserve will coordinate its activities and share information with the functional regulators of a BHC's subsidiaries.
+
+[SECTION]
+
+In the spring of 2009, the Federal Reserve led the Supervisory Capital Assessment Program, popularly known as the bank "stress test," which helped restore confidence in the banking system and represented a turning point in the financial crisis. An important lesson of that program was that combining on-site examinations and inspections with a suite of quantitative and analytical tools can greatly improve comparability of the results and better identify potential risks or outlier situations. In that spirit, the Federal Reserve is developing an enhanced quantitative surveillance program for large BHCs. Supervisory information will be combined with firm-level, market-based indicators and aggregate economic data to provide a more complete picture of the risks facing these institutions and the broader financial system. Making use of the Federal Reserve's unparalleled breadth of expertise, this program will apply a multidisciplinary approach that involves economists, specialists in particular financial markets, payments systems experts, and other professionals, including bank supervisors.
+
+[SECTION]
+
+Appropriate enhancements of both prudential and consolidated supervision will only increase the need for supervisors to be able to draw on a broad array of economic and financial knowledge and experience. The insights gained from the macroeconomic analyses associated with the formulation of monetary policy, and from the familiarity with financial markets derived from our open market operations and payments systems responsibilities, have the potential to add enormous value to holding company supervision.
+
+[SECTION]
+
+The current financial crisis has clearly demonstrated that risks to the financial system can arise not only in the banking sector, but also from the activities of other financial firms--such as investment banks or insurance companies--that traditionally have not been subject to the type of regulation and consolidated supervision applicable to bank holding companies. To close this important gap in our regulatory structure, legislative action is needed that would subject all systemically important financial institutions to the same framework for consolidated prudential supervision that currently applies to BHCs and FHCs. Such action would prevent financial firms that do not own a bank, but nonetheless pose risks to the overall financial system because of the size, risks, or interconnectedness of their financial activities, from avoiding comprehensive supervisory oversight.
+
+[SECTION]
+
+Federal Reserve Supervision of Insurance Activities
+In supervising banking organizations that are engaged in insurance activities, the Federal Reserve is guided by the same principles that govern our supervision of banking organizations generally. For BHCs and FHCs conducting insurance activities, we focus on assessing and, if necessary, addressing the potential risk that those activities may pose to the depository affiliates and the consolidated financial condition of the BHC or FHC. In the case of state member banks engaged in insurance activities, we focus primarily on assessing and limiting the risk of those activities to the relevant institution and ensuring compliance with the consumer protections for bank sales of insurance products established by the GLB Act.
+
+[SECTION]
+
+While our general approach is the same, we also adjust our supervisory methods and analysis to account for the unique risks and nature of insurance products. For example, although most risks--including credit, market, operational, liquidity, reputational, and legal risks--are not unique to BHCs with insurance underwriting activities, our supervisory approach recognizes that these risks may arise in new or different ways at such firms engaged in insurance activities. Our supervisory approach also recognizes the additional risks arising from the underwriting of life insurance policies and property and casualty insurance policies. We incorporate these risks in our assessments of the overall financial strength of a BHC's or FHC's consolidated risk-management processes, as well as any potential effect on affiliated depository institutions.
+
+[SECTION]
+
+Federal Reserve oversight of insurance activities of state member banks varies based on the nature and scope of the institution's insurance activities. We have supervisory tools for assessing the robustness of the risk-management processes for corporate programs for insurable risks, including purchased insurance on the lives of bank employees (bank-owned life insurance). Additionally, we have supervisory tools for assessing the management of the risks associated with retail sales of insurance on bank premises or on behalf of a bank and the Consumer Protection in Sales of Insurance provisions of the Board's Regulation H.
+
+[SECTION]
+
+In performing our assessments of the financial strength and consolidated risk management of BHCs or FHCs, the Federal Reserve focuses on corporate-level internal policies and procedures, as well as consolidated risk reports of the firms. In addition, we actively engage management in discussions of the firms' overall strategy, lines of businesses, financial condition, and internal risk and capital adequacy processes. The Federal Reserve may conduct off-site monitoring and engage management in further discussions or conduct targeted reviews to enhance our understanding of a BHC's or FHC's insurance activities.
+
+[SECTION]
+
+In carrying out its supervisory activities, the Federal Reserve routinely communicates with the primary or functional regulatory authorities, including those responsible for licensing and regulating the insurance subsidiaries of the BHC or FHC. This communication is an important part of our approach to the consolidated supervisory processes for two reasons. First, functional regulators provide information about the legal and regulatory framework in which insurance activities are conducted at the subsidiary that they license and regulate. Similarly, the functional regulators' assessments of risk and risk management at the insurance subsidiary help inform our assessments of any potential effect that these activities may have on affiliate depository institutions and the consolidated organization's financial condition or risk-management practices.
+
+[SECTION]
+
+To facilitate this information sharing, over the past decade, the Federal Reserve Board has executed memoranda of understanding with the insurance regulatory authorities of all 50states, the District of Columbia, and Puerto Rico. The Federal Reserve Board and the other federal banking agencies also coordinate with the appropriate state insurance authorities when a BHC, FHC, or insured depository institution plans to acquire or affiliate with a company engaged in insurance activities. In addition, in carrying out our BHC supervisory responsibilities, we communicate with international insurance supervisors if appropriate depending on the size, nature, and extent of a BHC's or FHC's insurance businesses.
+
+[SECTION]
+
+To assist its staff in understanding the risks arising from insurance activities, the Federal Reserve has designed and implemented training programs and developed examiner tools. Additionally, in conjunction with the National Association of Insurance Commissioners (NAIC) and state insurance regulatory authorities, the Federal Reserve drafted materials comparing various aspects of the regulatory paradigms for banking organizations and insurance companies that are routinely made available to supervision staff. For example, the Federal Reserve and the NAIC have collaborated on three published reports that were intended to facilitate better communication and understanding on banking and insurance regulation, risks, and capital requirements. In May 2002, the Federal Reserve and the NAIC issued the first report, titled "Report of the NAIC and the Federal Reserve System Joint Subgroup on Risk-Based Capital and Regulatory Arbitrage." It compares banking and insurance company risk-based capital formulas, and identifies potential opportunities for regulatory capital arbitrage between insurance and bank subsidiaries. The report acknowledges that the two regulatory capital frameworks differ fundamentally in the risks they are designed to assess, and that capital requirements for assets, liabilities, and various risks are treated differently.
+
+[SECTION]
+
+The second report, titled "Report of the NAIC and the Federal Reserve System Joint Subgroup on Financial Issues," was issued in June 2003. It discusses the components of risk arising from insurance activities and relevant insurance regulatory tools that might assist the Federal Reserve in supervising FHCs conducting insurance activities. The report includes a mapping of insurance industry risks into the Federal Reserve's defined banking risks. The third report, titled "Report of the NAIC and the Federal Reserve System Joint Troubled Company Subgroup: A Comparison of the Insurance and Banking Regulatory Frameworks for Identifying and Supervising Companies in Weakened Financial Condition," was issued in April 2005. This report outlines the different approaches used by banking and insurance regulators for identifying and intervening in troubled company and troubled holding company situations, including regulatory authorities, on- and off-site company financial condition monitoring tools, time frames for intervention, and types of actions taken.
+
+[SECTION]
+
+Conclusion
+       While the Federal Reserve is not the primary supervisor of insurance companies, certain organizations we supervise do engage in, or have subsidiaries that engage in, insurance activities. The Federal Reserve's role as the supervisor of a BHC or FHC is to review and assess the consolidated organization's operations, risk-management systems, and capital adequacy to ensure that the holding company and its nonbank subsidiaries do not threaten the viability of the company's insured depository institutions. In this role, the Federal Reserve serves as the "umbrella supervisor" of the con­solidated organization. In fulfilling this role, the Federal Reserve relies to the fullest extent possible on information and analysis provided by the appropriate supervisory authority of the company's bank, securities, or insurance subsidiaries.
+
+[SECTION]
+
+Recent experience shows the need for the Federal Reserve's approach to consolidated supervision of the holding company in addition to, and distinct from, bank supervision. Large organizations increasingly operate and manage their businesses on an integrated basis with little regard for the corporate boundaries that typically define the jurisdictions of individual functional supervisors. Indeed, the crisis has highlighted the financial, managerial, operational, and reputational linkages among the bank, securities, commodity, insurance, and other units of financial firms.
+
+[SECTION]
+
+The customary focus on protecting the bank within the holding company, while necessary, is clearly not sufficient now, when systemic risk can arise wholly outside of insured depository institutions. Similarly, the premise of functional regulation--that risks within a diversified organization can be evaluated and managed properly through supervision focused on individual subsidiaries within the firm--has been undermined further; the need for greater attention to the potential for damage to the bank, the organization within which it operates, and, in some cases, the financial system generally, requires a comprehensive and integrated assessment of activities throughout the holding company.
+
+[SECTION]
+
+This concludes my prepared remarks, and I would be happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+See 12 U.S.C. § 1831a; 15 U.S.C. § 6712. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

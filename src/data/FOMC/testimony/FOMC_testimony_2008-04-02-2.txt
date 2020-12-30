@@ -1,0 +1,245 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 02, 2008
+
+[SECTION]
+
+Louise L. Roseman, Director, Division of Reserve Bank Operations and Payment Systems
+
+[SECTION]
+
+Before the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Gutierrez, Ranking Member Paul, and members of the Subcommittee, I am pleased to appear before you to discuss the implementation of the Unlawful Internet Gambling Enforcement Act of 2006. I will provide an overview of the Act and of the proposed rule to implement the Act that the Federal Reserve Board and the Secretary of the Treasury (the Agencies) published for comment. I will also highlight the major issues raised in the comments we received.
+
+[SECTION]
+
+Unlawful Internet Gambling Enforcement Act of 2006The Act prohibits gambling businesses from accepting payments in connection with unlawful Internet gambling. Such payments are termed "restricted transactions." The Act also requires the Board and the Secretary of Treasury, in consultation with the Attorney General, to prescribe regulations requiring designated payment systems and their participants to establish policies and procedures reasonably designed to identify and block or otherwise prevent or prohibit the acceptance of restricted transactions.
+
+[SECTION]
+
+The Act does not spell out which gambling activities are lawful and which are unlawful, but rather relies on the underlying substantive Federal and State laws. The Act does, however, exclude certain intrastate and intratribal wagers from the definition of "unlawful Internet gambling," and also excludes any activity that is allowed under the Interstate Horseracing Act of 1978. The activities that are permissible under the various Federal and State gambling laws are not well-settled and can be subject to varying interpretations. Congress recognized this fact when it included in the Act a "sense of Congress" provision that states that the Interstate Horseracing Act exclusion "is not intended to resolve any existing disagreements over how to interpret the relationship between the Interstate Horseracing Act and other Federal statutes."
+
+[SECTION]
+
+The Act directs the Agencies to designate payment systems that could be used to facilitate restricted transactions. A designated payment system and its participants must comply with the rule. Congress recognized, however, that it may be difficult to block restricted transactions made in certain payment systems, and directed the Agencies to exempt transactions or designated payment systems from the rule's requirements in those cases where it is not reasonably practical to block restricted transactions. By including this requirement, Congress recognized the importance of an efficient payment system to a well-functioning economy and of ensuring that the Agencies' rule does not have a material adverse effect on payment system efficiency. In addition, the Act requires that the regulations identify the types of policies and procedures, including non-exclusive examples, that the Agencies would deem reasonably designed to prevent or prohibit restricted transactions. The Act also requires the Agencies to ensure that their regulations do not block or otherwise prevent or prohibit transactions related to activity that is explicitly excluded from the definition of unlawful Internet gambling.
+
+[SECTION]
+
+The Proposed Rule and Comments ReceivedOverview of the proposed rule. Over the course of this rulemaking, the Agencies have done a considerable amount of outreach to payment system representatives, gaming interests, Federal and State regulators, and others. These consultations enabled the Agencies to gain a better understanding of gaming and its regulatory structure, and the role the various payment systems play in facilitating gaming. Although Board staff is quite familiar with the operations of many types of payment systems, this consultation provided a deeper understanding of certain payment systems, such as money transmitting businesses (for example, Western Union, MoneyGram, and PayPal), and allowed the Agencies to better focus on formulating options for policies and procedures that would be practical for those systems to comply with the Act.
+
+[SECTION]
+
+In October 2007, the Agencies published for comment a proposed rule to implement the Act. The proposed rule (1) designates payment systems that could be used by participants in connection with a restricted transaction, (2) exempts certain participants in certain designated payment systems from the requirements of the regulation, and (3) requires non-exempt participants to establish and implement policies and procedures reasonably designed to prevent or prohibit restricted transactions.
+
+[SECTION]
+
+For each designated payment system, the proposed rule sets out non-exclusive examples of policies and procedures for non-exempt participants in the system that the Agencies believe are reasonably designed to prevent or prohibit restricted transactions. These examples are tailored to the particular roles participants play in each payment system. The examples include policies and procedures that address methods for conducting due diligence in establishing and maintaining a customer relationship designed to ensure that the customer does not originate or receive restricted transactions through the customer relationship. The examples also include policies and procedures that address remedial actions with respect to a customer if the participant becomes aware that the customer has originated or received restricted transactions through the customer relationship. Examples applicable to card systems and money transmitting businesses include procedures to address ongoing monitoring or testing to detect possible restricted transactions and, in the case of card systems, establishing transaction codes and merchant category codes that enable the card system or card issuer to identify and deny authorization for a restricted transaction.
+
+[SECTION]
+
+More than 200 organizations and consumers submitted comments on the proposal. Many of the comments were directed toward the Act itself. Most consumers who commented indicated that the Act represents an inappropriate governmental intrusion into citizens' private affairs. Other commenters expressed concern that the Act will exacerbate the U.S.'s difficulties with the World Trade Organization related to Internet gambling. Some banks warned that the cumulative effect of the increased compliance burden of this and other laws will adversely affect the competitiveness of the U.S. payment system. In contrast, some commenters supported the Act's goals, noting the problems that Internet gambling causes for individuals who gamble beyond their means.
+
+[SECTION]
+
+I will now highlight certain aspects of the proposed rule and the associated comments that the Agencies received.
+
+[SECTION]
+
+Determination of what constitutes unlawful Internet gambling. Like the Act, the proposed rule did not specify what constitutes unlawful Internet gambling. Lack of clarity on this topic in both the Act and the proposed regulation was the most prominent concern raised by the commenters. Commenters that represent payment systems and their participants stressed that uncertainty about what constitutes unlawful Internet gambling would make compliance with the rule very difficult and burdensome. Commenters generally supported bright-line mechanisms for determining which transactions they should block. Clarity on this point would permit them to design policies and procedures that they could be assured would meet the rule's requirements. A number of commenters recommended that the Agencies develop a list of gambling businesses whose transactions should be blocked. While some of these commenters acknowledged the limited effectiveness of such a list, they desired the certainty and efficiency that it would provide. Other commenters suggested that the rule should place the onus on the Internet gambling business to demonstrate to its bank the legality of its transactions. Still others, including some gambling businesses and many consumers, asked that the rule clarify that certain types of gambling, such as pari-mutuel betting or poker, are lawful.
+
+[SECTION]
+
+Designated payment systems. The Agencies proposed designating a broad range of payment systems that could be used in connection with Internet gambling. Designated payment systems include automated clearinghouse (ACH) systems, card systems (including credit card, debit card, and prepaid or stored-value systems), check collection systems, money transmitting businesses, and wire transfer systems (such as Fedwire and CHIPS). Commenters generally concurred with the scope of the payment system designations.
+
+[SECTION]
+
+Exemptions. The Agencies considered instances when it would not be reasonably practical to identify and block, or otherwise prevent or prohibit, restricted transactions. The proposed rule did not exempt from compliance any designated payment system in its entirety, but rather exempted certain participants in the ACH, check collection, and wire transfer systems. With respect to domestic transactions, the proposed rule exempts all participants in these systems except for a participant that would have a customer relationship with an Internet gambling business. The institution that has the customer relationship with that business is in the best position to determine the nature of the customerâs business and whether the customer is likely to receive restricted transactions for credit to its account. The Agencies believe it is not reasonably practical for other parties to transactions in these systems to identify restricted transactions because these systems do not have the functional capabilities in place for identifying and blocking payments made for specific purposes or initiated in specific ways, such as on the Internet. For that reason, some banks recommended that these systems be exempt from the rule altogether. The proposed rule did not include exemptions for any participant in a card system or money transmitting business; rather, the Agencies tailored the examples of policies and procedures to the functional capabilities of those systems and their participants.
+
+[SECTION]
+
+Due diligence. As I noted earlier, the proposed rule contained examples of policies and procedures that would comply with the rule. Those examples included procedures to conduct due diligence in establishing and maintaining commercial customer relationships to ensure that commercial customers do not originate or receive restricted transactions. Bank commenters generally believed that such due diligence could be performed at the time of account opening for accounts established following the effective date of the regulation if they had a mechanism to readily determine which Internet gambling activity was unlawful. They indicated it would be very difficult and burdensome, however, to ascertain which existing business customers conduct Internet gambling activity, because they have not maintained records on their accounts in a manner that would readily permit identification of such accounts. This requirement would be particularly challenging for the largest banks, which have millions of commercial account relationships.
+
+[SECTION]
+
+Cross-border transactions. Most unlawful Internet gambling businesses are based outside the United States and therefore do not have account relationships with U.S. financial institutions. Instead, their accounts are held at foreign institutions, and restricted transactions enter the U.S. payment system through cross-border relationships between those foreign institutions and U.S. financial institutions or payment systems. The proposed rule, therefore, places responsibility on U.S. payment system participants that send transactions to, or receive transactions from, foreign institutions to establish policies and procedures reasonably designed to prevent these restricted transactions. For example, a U.S. correspondent bank could require in its account agreement that foreign institutions have policies and procedures in place to avoid sending restricted transactions to the U.S. participant.
+
+[SECTION]
+
+Commenters stated that measures to prevent foreign institutions from sending restricted transactions to the United States would likely be unworkable. They believed that most foreign banks would not agree to modify their contracts with U.S. banks, particularly if Internet gambling is legal in a foreign institution's home country. Detecting and preventing cross-border Internet gambling transactions presents challenges that differ from other criminal financial transactions, such as money laundering or terrorist financing. Laws in many other jurisdictions impose compliance obligations upon financial institutions with respect to those types of financial crime; there are, however, few comparable compliance requirements with respect to Internet gambling.
+
+[SECTION]
+
+Given that Internet gambling is lawful in many countries where U.S. banks have correspondent relationships, it may be particularly difficult to craft workable procedures to prevent individuals in the United States from making payments to a foreign Internet gambling company's account at a foreign bank. Moreover, commenters noted that, given the complexity of U.S. gambling law, it is unrealistic for foreign institutions to ascertain which forms of Internet gambling are unlawful and therefore should be prevented.
+
+[SECTION]
+
+Many of these cross-border correspondent relationships support large volumes of daily payments that are wholly unrelated to gambling. It seems impractical to require U.S. banks to end these relationships because some small percentage of their overall payments may be directed toward unlawful Internet gambling. Therefore, there may be limited options for dealing with the international banking relationships through which most unlawful Internet gambling transactions are processed without causing significant disruption to international payment flows.
+
+[SECTION]
+
+Overblocking. The proposed rule implements the Act's overblocking provision by stating that nothing in the regulation is intended to suggest that payment systems or their participants must or should block transactions explicitly excluded from the definition of unlawful Internet gambling. Banks and other payment system participants supported the proposed rule's implementation of the Act's overblocking provision, stating that the Act does not require that these gambling transactions, or any other transactions, be processed, but, instead, simply requires that the regulation itself not mandate that these gambling transactions be blocked. Some of these commenters indicated that, even before the Act's passage, they had decided to avoid processing any gambling transactions, even if lawful, because these transactions were not sufficiently profitable to warrant the higher risk they posed. In contrast, some organizations representing gaming interests commented that the rule should require payment system participants to process transactions excluded from the Act's definition of unlawful Internet gambling. Certain gaming interests recommended that the rule's policies and procedures for card systems at a minimum include the establishment of separate merchant category codes for the types of gambling that are not defined as unlawful under the Act. As noted in the proposal, the Agencies believe that the Act does not provide the Agencies with the authority to require designated payment systems or participants in these systems to process any gambling transactions, including those transactions excluded from the Act's definition of unlawful Internet gambling, if a system or participant decides for business reasons not to process such transactions. Nor do we possess any other authority that would allow us to do so.
+
+[SECTION]
+
+ConclusionIn recent years, funding Internet gambling through the U.S. payment system has become more difficult, due in large part to steps card issuers and money transmitting businesses have already taken on their own initiative to prevent these transactions. Board and Treasury staffs are currently focused on developing a final rule that leverages existing practices to prevent unlawful Internet gambling transactions and provides additional and reasonably practical examples of actions that U.S. payment system participants can take to further impede the flow of restricted transactions through the U.S. payment system. As the comments to the proposed rule make clear, this is a challenging task, and the ability of the final rule to achieve a substantial further reduction in the use of the U.S. payment system for unlawful Internet gambling is uncertain. As part of this effort, we are carefully considering all comments received on the proposed rule and determining what modifications may be appropriate in light of the issues raised by those comments. Our objective is to craft a rule to implement the Act as effectively as possible in a manner that does not have a substantial adverse effect on the efficiency of the nation's payment system.
+
+[SECTION]
+
+I would welcome any questions that the Committee members may have.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

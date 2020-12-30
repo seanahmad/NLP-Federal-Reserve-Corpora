@@ -1,0 +1,620 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear before this Subcommittee today to discuss trends
+
+in consumer lending and the Federal Reserve Board's view of how recent
+
+developments in this sector are affecting U.S. commercial banks.  As the
+
+Subcommittee knows, consumer delinquencies on nonmortgage debt have
+
+increased in recent periods and are beginning to affect profit margins at some
+
+financial institutions.  The Federal Reserve has been monitoring these
+
+conditions and discussing their implications with individual banking
+
+organizations and industry groups.  However, given the generally strong
+
+financial condition of the institutions most affected by these developments and
+
+that of the U.S. banking system, we believe that these adverse trends do not
+
+currently present a material threat either to individual banking organizations
+
+or to the overall banking system.
+
+[SECTION]
+
+In my remarks, I would like to begin with an overview of the economic
+
+developments that have caused the Federal Reserve to devote greater attention
+
+to consumer lending matters.  I shall then turn to the emerging--and still well
+
+contained--consequences that these developments are having on the banking
+
+organizations that are most affected and on the industry, overall.  Since
+
+current concerns are predominantly centered on revolving credit portfolios, I
+
+shall focus my comments on a discussion of credit card lending activities.
+
+Finally, I shall discuss the steps taken by the Federal Reserve throughout the
+
+past year to caution its examiners, state member banks, and bank holding
+
+companies about the risks inherent in weakening credit standards and to
+
+ensure that financial institutions are taking appropriate action to address
+
+emerging problems in consumer loan portfolios.
+
+[SECTION]
+
+Economic Trends
+   Economic conditions in the United States have in recent years been
+
+favorable to growth in spending and borrowing by the household sector and to
+
+strong growth in consumer lending by U.S. banks.  Just since early 1992,
+
+nonfarm payroll employment has increased nearly 11 1/2 million, driving the
+
+U.S. unemployment rate to 5.3 percent in June of this year, its lowest level in
+
+six years.  As one consequence, personal income has risen substantially.  The
+
+dramatic rise in stock and bond prices in recent years has also produced sharp
+
+gains in wealth for some households.
+
+[SECTION]
+
+During this same time period, rates and fees on consumer financing
+
+products have been coming down.  Average credit card rates which stood at
+
+about 18 1/4 percent in late 1991 declined to less than 15 1/2 percent by May
+
+of this year.  At the same time, annual fees on credit cards were dropped by
+
+many institutions.  In addition, declining residential mortgage rates throughout
+
+most of this interval contributed to a significant reduction in monthly
+
+payments on such debts.  While mortgage rates have recently backed up, the
+
+relatively low mortgage rates of the early 1990s precipitated a refinancing
+
+boom that allowed many consumers to significantly reduce their monthly
+
+mortgage obligations.
+
+[SECTION]
+
+Combined, these generally favorable developments have given consumers
+
+the confidence and financial foundation to incur additional debt in order to
+
+finance major purchases.  Nevertheless, some concerns remain about the
+
+increase in consumer debt.  Aggregate statistics do not address conditions in
+
+individual households, an important consideration because the economic
+
+expansion has not affected all households equally.  Further, while for some
+
+households the use of credit in making a purchase is simply a matter of
+
+convenience or a means of managing liquidity, for others, borrowing may be a
+
+means of sustaining consumption through a period of household economic
+
+distress.
+
+[SECTION]
+
+Nonmortgage consumer debt has grown at double-digit rates over the
+
+past two to three years.  This rapid pace is not unusual for a period of
+
+economic expansion.  Indeed, as the economy emerged from recession in 1991,
+
+growth in nonmortgage consumer debt was much slower than typical, reflecting
+
+sluggish  spending on durable goods and lingering fears about long-term
+
+layoffs and other threats to job security.  However, by 1994, consumer
+
+confidence had recovered considerably and demand for autos and other
+
+durable goods had strengthened.  Nonmortgage consumer debt grew by about
+
+15 percent that year and the next, but even this rapid pace remained below
+
+that of a decade earlier.  Lower inflation in recent years can account for some
+
+of the difference.
+
+[SECTION]
+
+Recently, revolving
+
+credit--primarily credit card debt--has been, by far, the fastest growing
+
+component of consumer debt, averaging annual increases of 20 percent over
+
+the past two years.  However, that performance--rapid growth during an
+
+expansion--is also typical of the last two decades.  The cumulative effect has
+
+been a dramatic rise in the relative importance of revolving credit.  In 1977,
+
+when first reported separately to the Federal Reserve, revolving debt of U.S.
+
+consumers totaled $30 billion, or 14 percent of all consumer debt.  In May of
+
+this year, the amount outstanding was $444 billion, or nearly 40 percent of the
+
+total.  Surveys show that 80 percent of U.S. households now have at least one
+
+credit card.
+
+[SECTION]
+
+A consequence of the increase in consumer borrowing of recent years is
+
+that debt servicing requirements--that is, the amount of scheduled payments
+
+of principal and interest--have consumed a bigger share of disposable income.
+
+Our staff estimates that this ratio, which includes both mortgage and
+
+nonmortgage payments, peaked in late 1989 at about 17 1/2 percent, and then
+
+declined over the next four years to about 15 1/2 percent in 1993, as
+
+households curtailed their borrowing and average interest rates on their debts
+
+fell.  Since then, the ratio has risen to about 16 3/4 percent.  This standard
+
+measure is based on aggregates that include households without debt and uses
+
+estimates of scheduled payments.  The Survey of Consumer Finances,
+
+conducted periodically by the Federal Reserve, suggests that the median ratio
+
+of actual debt payments to pretax income of debtholders was relatively
+
+constant from 1989 to 1995, as was the proportion of the debtholders that had
+
+very high debt repayment to income ratios.  What has tended to rise over time
+
+is the proportion of low income households with an unusually high fraction of
+
+their income absorbed by debt repayments.  Unfortunately, the latest data--
+
+which are still preliminary--are a year old.
+
+[SECTION]
+
+To be sure, some of the increase in consumer debt is merely a reflection
+
+of the greater prevalence of convenience use of credit cards as a substitute for
+
+cash or check payment, with card balances paid in full each month.  This is a
+
+trend that has been reinforced in recent years by a variety of incentives, such
+
+as the availability of frequent flier miles.  But--as our Survey of Consumer
+
+Finances suggests--there are also signs that some households have let their
+
+debts build up to the point where they may have difficulty servicing them:
+
+loan delinquency rates and personal bankruptcies are both up.
+
+[SECTION]
+
+Generally speaking, delinquency rates on nonmortgage consumer loans
+
+have been trending up for the past year, with some of the increase in
+
+delinquency rates merely the result of the "seasoning" of recently underwritten
+
+loans, a typical pattern.  However, for credit cards, the widely followed
+
+statistics of the American Bankers Association show that the delinquency rate
+
+by number of accounts is historically high.  The more comprehensive figures
+
+from the official bank call reports based on the dollar volumes of loan
+
+balances, however, show a much milder upturn in delinquencies--but still one
+
+warranting our attention.
+
+[SECTION]
+
+Credit Card Lending by Commercial Banks
+  These economic and market developments have had clear effects on
+
+banks.  As a percent of total bank loans, consumer debt (including mortgages)
+
+has been increasing steadily for some time--from 33 percent of total bank
+
+loans in 1980 to roughly 40 percent five years ago and about 44 percent today.
+
+This shift in asset allocation by banks reflects several factors, not the least of
+
+which is a declining market share of the credit extended to commercial
+
+customers.  In part, it also reflects substantial growth in credit card debt.
+
+Since late in 1991, credit card debt has risen about twice as fast as total loans.
+
+If one adds back estimates of the outstanding securitized credit card debt of
+
+banks, such credit has risen almost three times as fast as total loans at banks.
+
+[SECTION]
+
+The industry's total increase in credit card loans has come about with
+
+the growing popularity of cards, supported by their aggressive marketing by
+
+some banks.  Marketing campaigns typically involve broad-based, regional or
+
+nationwide solicitations and often include pre-approved lines of credit based
+
+on the results of "credit scoring" models that statistically evaluate an
+
+individual's creditworthiness.  In addition, banks' success in securitizing
+
+consumer debt instruments for resale in capital markets has increased both
+
+their willingness and their ability to make such loans.
+
+[SECTION]
+
+Also encouraging more aggressive competition have been heavy
+
+investments in the technological infrastructure needed to evaluate, originate,
+
+and manage effectively such credits.  Indeed, the major competitors have
+
+increasingly used special promotions offering reduced fees and rates to obtain
+
+market share and maximize the scale economies of their operations.  Some
+
+have also been more willing to take on greater risk in the interest of increasing
+
+loan volumes.  Such competitive zeal all too often attracts weak or otherwise
+
+marginal borrowers.  The resultant adverse selection of credit risks has
+
+contributed to a decline in asset quality at some banks.
+
+[SECTION]
+
+While these problems have eroded returns at individual institutions, a
+
+critical factor that continues to contribute to the emphasis on such lending
+
+has been the significant, overall long-term profitability of the credit card
+
+business.  This is not irrelevant for a banking system whose largest institutions
+
+had been under earnings pressure through much of the 1980s due to their
+
+exposures to developing countries, energy sector borrowers, and commercial
+
+real estate markets.
+
+[SECTION]
+
+One indication of the profitability of credit card lending can be seen in
+
+analyzing the so-called credit card banks (defined here to include banks with
+
+more than $1 billion in assets and with credit card balances comprising more
+
+than 50 percent of total assets).  For various legal, tax, and operating reasons,
+
+most large banking organizations find it convenient to establish such banks,
+
+separate from their other operations, as a vehicle for booking most, if not all,
+
+of their credit card loans.  These roughly 30 entities most recently reported an
+
+average return on assets of 2 percent, compared to 1.1 percent for all insured
+
+commercial banks.  They also maintained average equity to asset and loan loss
+
+reserve to total loan ratios well above industry averages.
+
+[SECTION]
+
+The strong earnings profiles of the credit card banks, and their
+
+associated capital and reserve allocations, are reflections of the risks
+
+associated with this form of lending.  Higher risk and higher return go hand-
+
+in-hand, and the higher capital and reserves associated with this form of
+
+credit are required to balance the risk.  Put another way, lenders active in the
+
+credit card business are conscious of higher potential loss rates and expect
+
+returns that will fully absorb these losses and still provide an adequate profit
+
+margin.  They also are aware of the necessity to take steps to assure that the
+
+variance in returns on these loans do not create significant solvency concerns
+
+for their organizations.
+
+[SECTION]
+
+Increased Incidence of Personal Bankruptcy
+    On several occasions during the past year or so, various industry and
+
+professional groups have expressed concern about perceived weakening of
+
+credit standards within consumer lending, including the aggressive marketing
+
+of credit cards.  At these meetings, some of the private sector participants
+
+have given anecdotal evidence of practices that they believe to be potentially
+
+harmful in the long run, either to financial institutions or to the consumer
+
+lending market, in general.  Similar, and still anecdotal, indications of declining
+
+standards and increased competition have been provided by various state
+
+banking delegations that periodically visit the Federal Reserve and other bank
+
+regulatory agencies.
+
+[SECTION]
+
+One concern cited with increased frequency is a higher incidence of
+
+borrowers with substantial credit card debt declaring bankruptcy, without any
+
+previous record of missed or delinquent payments.  Bankers often cite
+
+borrowers who have tens of thousands of dollars of outstanding loans on a
+
+number of credit card accounts with various financial institutions.  Such
+
+borrowers may not always be readily detected by controls and monitoring
+
+procedures and could contribute to increased chargeoffs at card issuers.
+
+[SECTION]
+
+Several factors are said to be contributing to higher rates of personal
+
+bankruptcy, including greater social acceptability of the practice, changes in
+
+law that have made bankruptcy less onerous for individuals, and increased
+
+advertising by bankruptcy attorneys.  Whatever the underlying causes, it is a
+
+reality that credit card issuers and others must address.  Moreover, banks and
+
+nonbanks that issue credit cards and other consumer lines of credit should
+
+also consider the extent to which the trend is fueled by their willingness to
+
+lend to individuals whose credit history is dubious.  One may not wish to
+
+foreclose the possibility of renewed credit access to those who have been
+
+forced by uncontrollable circumstances to seek the protection of bankruptcy,
+
+but it should be recognized that undue generosity on this score only
+
+encourages greater use of the bankruptcy remedy and consequent chargeoffs.
+
+[SECTION]
+
+Supervisory Response
+  In response to these and other indications that terms of credit and
+
+credit standards may have been declining, about a year ago the Federal
+
+Reserve issued an advisory letter to its examiners and supervised banking
+
+organizations cautioning them about the risk of weakening standards.  This
+
+advisory also requested Federal Reserve examiners to discuss any questionable
+
+easing of standards with bank management, regardless of whether quantitative
+
+measures of problem loans had begun to increase.
+
+[SECTION]
+
+Since March 1995, the Federal Reserve has also been conducting a
+
+quarterly survey of its most senior examiners to track their assessments of
+
+conditions in the banking market, including their assessments of any changes
+
+in lending terms and conditions for consumer loans.  To supplement these
+
+surveys, regular discussions are conducted with bankers and supervisory
+
+officials at the Reserve Banks to ascertain their opinions on current lending
+
+conditions.
+
+[SECTION]
+
+The Federal Reserve has also recently undertaken a
+
+number of initiatives to focus its examinations more tightly on the activities
+
+exposing financial institutions to significant risks and to heighten its emphasis
+
+on evaluating management processes to identify, measure, monitor, and control
+
+the risk of banking activities.  We believe that these enhancements to our
+
+supervisory procedures will further improve our ability to detect nascent
+
+problems--such as those arising from the increased and more accommodating
+
+consumer lending of recent years--and will foster appropriate responses by
+
+bank management.  Consistent with these initiatives, an interdistrict task force
+
+of Federal Reserve examiners is currently conducting a comprehensive review
+
+of the retail credit and credit scoring operations of several large bank holding
+
+companies.
+
+[SECTION]
+
+Earlier this year, we also implemented procedures whereby examiners
+
+assign specific ratings to an institution's overall risk management processes,
+
+including its internal controls.  This requirement, we believe, further highlights
+
+the importance of sound management practices and should help to provide
+
+more specific feedback to senior management of the examined institution.   In
+
+the context of consumer lending, such assessments generally address a banking
+
+organization's operating strategies for increasing market share, its goals, and
+
+the controls in place to maintain credit standards, including ongoing review of
+
+the credit strength of its loan portfolio.  Examiners also typically evaluate the
+
+adequacy of the institution's information systems and the appropriateness of
+
+the information provided to directors and senior managers.
+
+[SECTION]
+
+Recently, our supervisory activities, surveys of examiners, and
+
+discussions with bankers all have supported the view that banks are
+
+recognizing weaknesses in the consumer lending market and are actively
+
+adjusting their underwriting and monitoring procedures for these loans.  Some
+
+banks have also increased their levels of reserves for these loans in recent
+
+months.
+
+[SECTION]
+
+I should also note that in each of the two most recent Federal Reserve
+
+Senior Loan Officer Surveys approximately one quarter of the respondent
+
+banks, on net, had tightened underwriting standards for approving new credit
+
+card applications.  More broadly, the proportion of respondents less willing to
+
+make consumer installment loans slightly exceeded the proportion that was
+
+more willing to lend, for the first time since 1991.  Such a revisiting of current
+
+credit standards and practices seems well considered, given the length of the
+
+current period of economic expansion and the signs of weakness in some
+
+elements of consumer finances that we have seen.
+
+[SECTION]
+
+Conclusion
+  To sum up, the rapid growth in consumer lending by banks, particularly
+
+that involving credit card loans, reflects a natural evolution of banking
+
+activities toward the household sector and has generally enhanced consumer
+
+convenience and produced significant profits for banks.  In recent years, this
+
+growth has been due, in part, to aggressive solicitations of credit card
+
+customers by a relatively small number of large bank and nonbank
+
+organizations and by an active market for securitized credit card debt.
+
+[SECTION]
+
+The recently emerging trend of higher delinquencies and personal
+
+bankruptcies has certainly increased the costs of making consumer credit card
+
+loans and is forcing some institutions to review and modify their marketing
+
+strategies and underwriting standards.  It has also prompted the Federal
+
+Reserve to devote more attention to the monitoring of consumer loan
+
+exposures, both on and off bank balance sheets, and to the evaluation of risk
+
+management practices, including internal controls, for these activities.
+
+Nevertheless, the industry's condition is strong when measured in terms of its
+
+profitability, capital ratios, loss reserves, and overall asset quality.  Moreover,
+
+banks price and reserve for credit card loans with the expectation of
+
+occasional periods of relatively high rates of loss.  Therefore, unless future
+
+conditions deteriorate dramatically, we believe that the industry is well-
+
+positioned to absorb any problems resulting from the competitive consumer
+
+underwriting practices of the recent past.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1996 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+
+Last update: July 24, 1996, 12:00 PM

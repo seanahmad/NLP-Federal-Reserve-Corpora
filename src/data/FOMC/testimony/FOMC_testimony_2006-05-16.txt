@@ -1,0 +1,333 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 16, 2006
+
+[SECTION]
+
+Patrick M. Parkinson, Deputy Director, Division of Research and Statistics
+
+[SECTION]
+
+Before the Subcommittee on Securities and Investment, Committee on Banking, Housing, and Urban Affairs, U.S. Senate
+
+[SECTION]
+
+Chairman Hagel, Senator Dodd, and members of the Subcommittee: Thank you for the opportunity to testify on the role of hedge funds in the capital markets. In my remarks today, I will discuss the increasing importance of that role, the public policy issues associated with it, and what the Federal Reserve has been doing to address concerns about potential systemic risks from hedge fundsâ activities.
+
+[SECTION]
+
+Role of Hedge Funds in the Capital MarketsThe role that hedge funds are playing in capital markets cannot be quantified with any precision. A fundamental problem is that the definition of a hedge fund is imprecise, and distinctions between hedge funds and other types of funds are increasingly arbitrary. Hedge funds often are characterized as unregulated private funds that can take on significant leverage and employ complex trading strategies using derivatives or other new financial instruments. Private equity funds are usually not considered hedge funds, yet they are typically unregulated and often leverage significantly the companies in which they invest. Likewise, traditional asset managers more and more are using derivatives or are investing in structured securities that allow them to take on leverage or establish short positions.
+
+[SECTION]
+
+Although several databases on hedge funds are compiled by private vendors, they cover only the hedge funds that voluntarily provide data.1 Consequently, the data are not comprehensive. Furthermore, because the funds that choose to report may not be representative of the total population of hedge funds, generalizations based on these databases may be misleading. Data collected by the Securities and Exchange Commission (SEC) from registered advisers to hedge funds are not comprehensive either. The primary purpose of registration is to protect investors by discouraging hedge fund fraud. The SEC does not require an adviser to a hedge fund, regardless of how large it is, to register if the fund does not permit investors to redeem their interests within two years of purchasing them.2 While registration of advisers of such funds may well be unnecessary to discourage fraud, the exclusion from the database of funds with long lock-up periods makes the data less useful for quantifying the role that hedge funds are playing in the capital markets.
+
+[SECTION]
+
+Even if a fund is included in a private database or its adviser is registered with the SEC, the information available is quite limited. The only quantitative information that the SEC currently collects is total assets under management. Private databases typically provide assets under management as well as some limited information on how the assets are allocated among investment strategies, but they do not provide detailed balance sheets. Some databases provide information on fundsâ use of leverage, but their definition of leverage is often unclear. As hedge funds and other market participants increasingly use financial products such as derivatives and securitized assets that embed leverage, conventional measures of leverage have become much less useful. More meaningful economic measures of leverage are complex and highly sensitive to assumptions about the liquidity of the markets in which financial instruments can be sold or hedged.3
+
+[SECTION]
+
+Although the role of hedge funds in the capital markets cannot be precisely quantified, the growing importance of that role is clear. Total assets under management are usually reported to exceed $1 trillion.4 Furthermore, hedge funds can leverage those assets through borrowing money and through their use of derivatives, short positions, and structured securities. Their market impact is further magnified by the extremely active trading of some hedge funds. The trading volumes of these funds reportedly account for significant shares of total trading volumes in some segments of fixed income, equity, and derivatives markets.5
+
+[SECTION]
+
+In various capital markets, hedge funds clearly are increasingly consequential as providers of liquidity and absorbers of risk. For example, a study of the markets in U.S. dollar interest rate options indicated that participants viewed hedge funds as a significant stabilizing force. In particular, when the options and other fixed income markets were under stress in the summer of 2003, the willingness of hedge funds to sell options following a spike in options prices helped restore market liquidity and limit losses to derivatives dealers and investors in fixed-rate mortgages and mortgage-backed securities.6 Hedge funds reportedly are significant buyers of the riskier equity and subordinated tranches of collateralized debt obligations (CDOs) and of asset-backed securities, including securities backed by nonconforming residential mortgages.7
+
+[SECTION]
+
+At the same time, however, the growing role of hedge funds has given rise to public policy concerns. These include concerns about whether hedge fund investors can protect themselves adequately from the risks associated with such investments, whether hedge fund leverage is being constrained effectively, and what potential risks the funds pose to the financial system if their leverage becomes excessive.
+
+[SECTION]
+
+Investor ProtectionHedge funds and their investment advisers historically were exempt from most provisions of the federal securities laws.8 Those laws effectively allow only institutions and relatively wealthy individuals to invest in hedge funds. Such investors arguably are in a position to protect themselves from the risks associated with hedge funds.9 However, in recent years hedge funds reportedly have been marketed increasingly to a less wealthy clientele. Furthermore, pension funds, many of whose beneficiaries are not wealthy, have increased investments in hedge funds.
+
+[SECTION]
+
+Concerns about the potential direct and indirect exposures of less wealthy investors from hedge fund investments and hedge fund fraud contributed to the SECâs decision in December 2004 to require many advisers to hedge funds that are offered to U.S. investors to register with the commission.
+
+[SECTION]
+
+The SEC believes that the examination of registered hedge fund advisers will deter fraud. But fraud is very difficult to uncover, even through on-site examinations.10 Therefore, it is critical that investors do not view the SEC registration of advisers as an effective substitute for their own due diligence in selecting funds and their own monitoring of hedge fund performance. Most institutional investors probably understand this well. In a survey several years ago of U.S. endowments and foundations, 70 percent of the respondents said that a hedge fund adviserâs registration or lack of registration with the SEC had no effect on their decision about whether or not to invest because the institutions conducted their own due diligence.11
+
+[SECTION]
+
+In the case of pension funds, sponsors and pension fund regulators should ensure that pension funds conduct appropriate due diligence with respect to all their investments, not just their investments in hedge funds. Pension funds and other institutional investors seem to have a growing appetite for a variety of alternatives to holding stocks and bonds, including real estate, private equity and commodities, and investments in hedge funds are only one means of gaining exposures to those alternative assets. The registration of hedge fund advisers simply cannot protect pension fund beneficiaries from the failures of plan sponsors to carry out their fiduciary responsibilities.
+
+[SECTION]
+
+As for individual investors, the income and wealth criteria that define eligible investors in hedge funds unavoidably are a crude test for sophistication.12 If individuals with relatively little wealth increasingly become the victims of hedge fund fraud, it may become appropriate to tighten the criteria for an individual to be considered an eligible investor.
+
+[SECTION]
+
+Excessive Leverage and Systemic RiskThe near failure of the hedge fund Long-Term Capital Management (LTCM) in September 1998 illustrated the potential for a large hedge fund to become excessively leveraged and raised concerns that a forced liquidation of large positions held by a highly leveraged institution would create systemic risk by exacerbating market volatility and illiquidity. In our market-based economy, the primary mechanism that regulates firmsâ leverage is the market discipline imposed by creditors and counterparties. Even when the government has oversight of leverage, as in the case of banks and broker-dealers, such oversight is intended to supplement market discipline rather than to replace it. In the case of LTCM, however, market discipline broke down.
+
+[SECTION]
+
+In the wake of the LTCM episode, the Presidentâs Working Group on Financial Markets considered how best to constrain excessive leverage by hedge funds. The Working Group concluded that hedge fundsâ leverage could be constrained most effectively by promoting measures that enhance market discipline by improving credit risk management by hedge fundsâ counterparties and creditors, nearly all of which are regulated banks and securities firms.13 The Working Group termed this approach âindirect regulationâ of hedge funds. The Working Group considered the alternative of direct government regulation of hedge funds, but it concluded that developing a regulatory regime for hedge funds would present formidable challenges in terms of cost and effectiveness. It believed that indirect regulation would address concerns about systemic risks from hedge funds most effectively and would avoid the potential attendant costs of direct regulation.14
+
+[SECTION]
+
+The Federal Reserve and Hedge FundsThe Presidentâs Working Group made a series of recommendations for improving market discipline on hedge funds. These included recommendations for improvements in credit risk management practices by the banks and securities firms that are hedge fundsâ counterparties and creditors and improvements in supervisory oversight of those banks and securities firms. As a regulator of banks and bank holding companies, the Federal Reserve has worked with other domestic and international regulators to implement the necessary improvements in supervisory oversight. Regulatory cooperation is essential in this area because hedge fundsâ principal creditors and counterparties include foreign banks as well as U.S. banks and securities firms.
+
+[SECTION]
+
+In January 1999, the Basel Committee on Banking Supervision (BCBS) published a set of recommendations for sound practices for managing counterparty credit risks to hedge funds and other highly leveraged institutions. Around the same time, the Federal Reserve, the SEC, and the Treasury Department encouraged a group of twelve major banks and securities firms to form a Counterparty Risk Management Policy Group (CRMPG), which in July 1999 issued its own complementary recommendations for improving counterparty risk management practices.15
+
+[SECTION]
+
+The BCBS sound practices have been incorporated into Federal Reserve supervisory guidance and examination procedures applicable to banksâ capital market activities. In general terms, routine supervisory reviews of counterparty risk management practices with respect to hedge funds and other counterparties seek to ensure that banks (1) perform appropriate due diligence in assessing the business, risk exposures, and credit standing of their counterparties; (2) establish, monitor, and enforce appropriate quantitative risk exposure limits for each of their counterparties; (3) use appropriate systems to measure and manage counterparty credit risk; and (4) deploy appropriate internal controls to ensure the integrity of their processes for managing counterparty credit risk. Besides conducting routine reviews and continually monitoring counterparty credit exposures, the Federal Reserve periodically performs targeted reviews of the credit risk management practices of banks that are major hedge fund counterparties. These targeted reviews examine in depth the banksâ practices against the BCBS and Federal Reserve sound practices guidance and the CRMPG recommendations.
+
+[SECTION]
+
+According to supervisors and most market participants, counterparty risk management has improved significantly since the LTCM episode in 1998. However, since that time, hedge funds have greatly expanded their activities and strategies in an environment of intense competition for hedge fund business among banks and securities firms. Furthermore, some hedge funds are among the most active investors in new, more-complex structured financial products, for which valuation and risk measurement are challenging both to the funds themselves and to their counterparties. Counterparties and supervisors need to ensure that competitive pressures do not result in any significant weakening of counterparty risk management and that risk management practices are evolving as necessary to address the increasing complexity of the financial instruments used by hedge funds.
+
+[SECTION]
+
+The Federal Reserve has also sought to limit hedge fundsâ potential to be a source of systemic risk by ensuring that the clearing and settlement infrastructure that supports the markets in which the funds trade is robust. Very active trading by hedge funds has contributed significantly to the extraordinary growth in the past several years of the markets for credit derivatives. A July 2005 report by a new Counterparty Risk Management Policy Group (CRMPG II) called attention to the fact that the clearing and settlement infrastructure for credit derivatives (and over-the-counter derivatives generally) had not kept pace with the volume of trading.16 In particular, a backlog of unsigned trade confirmations was growing, and the acceptance by dealers of assignments of trades by one counterparty without the prior consent of the other, despite trade documentation requirements for such consent, was becoming widespread.
+
+[SECTION]
+
+To address these and other concerns about the clearing and settlement of credit derivatives, in September 2005 the Federal Reserve Bank of New York brought together fourteen major U.S. and foreign derivatives dealers and their supervisors. The supervisors collectively made clear their concerns about the risks created by the infrastructure weaknesses and asked the dealers to develop plans to address those concerns. With supervisors providing common incentives for the collective actions that were necessary, the dealers have made remarkable progress since last September. The practice of unauthorized assignments has almost ceased, and dealers are now expeditiously responding to requests for the authorization of assignments. For the fourteen dealers as a group, total credit derivative confirmations outstanding for more than thirty days fell 70 percent between September 2005 and March 2006. The reduction in outstanding confirmations was made possible in part by more widespread and intensive use of an electronic confirmation-processing system operated by the Depository Trust and Clearing Corporation (DTCC). The dealers have worked with their largest and most active clients, most of which are hedge funds, to ensure that they can electronically confirm trades in credit derivatives. By March 2006, 69 percent of the fourteen dealersâ credit derivatives trades were being confirmed electronically, up from 47 percent last September.
+
+[SECTION]
+
+Supervisors and market participants agree that further progress is needed, and in March the fourteen dealers committed themselves to achieving by October 31, 2006, a âsteady stateâ position for the industry.17 The steady state will involve (1) the creation of a largely electronic marketplace in which all trades that can be processed electronically will be; (2) the creation by DTCC of an industry trade information warehouse and support infrastructure to standardize and automate processing of events throughout each contractsâs life; (3) new processing standards for those trades that cannot be confirmed electronically; and (4) the creation of an automated platform to support notifications and consents with respect to trade assignments. The principal trade association for the hedge fund industry has stated its support for plans embodied in the dealersâ commitments.18
+
+[SECTION]
+
+SummaryHedge funds clearly are becoming more important in the capital markets as sources of liquidity and holders and managers of risk. But as their importance has grown, so too have concerns about investor protection and systemic risk. The SEC believes that the examination of registered hedge advisers will deter fraud. But investors must not view SEC regulation of advisers as an effective substitute for their own due diligence in selecting funds and their own monitoring of hedge fund performance.
+
+[SECTION]
+
+After the LTCM episode, the Presidentâs Working Group on Financial Markets considered how best to address concerns about potential systemic risks from excessive hedge fund leverage. The Working Group concluded that hedge fundsâ leverage could be constrained most effectively by promoting measures that enhance market discipline by improving credit risk management by fundsâ counterparties and creditors, nearly all of which are regulated banks and securities firms. The Working Group considered the alternative of direct government regulation of hedge funds but concluded that it would be more costly and would be less effective than an approach focused on strengthening market discipline.
+
+[SECTION]
+
+The Federal Reserve has been seeking to ensure appropriate market discipline on hedge funds by working with other regulators to promote effective counterparty risk management by hedge fundsâ counterparties and creditors. It has also sought to limit the potential for hedge funds to be a source of systemic risk by ensuring that the clearing and settlement infrastructure that supports the markets in which they trade is robust.
+
+[SECTION]
+
+Examples of hedge fund databases include Trading Advisors Selection System (TASS), Centre for International Securities and Derivatives Markets (CISDM) Hedge Fund Database, and Hedge Fund Research Database.  Return to text
+
+[SECTION]
+
+The commission decided not to require such funds to register because it had not encountered significant problems with fraud at private equity or venture capital funds, which are similar in some respects to hedge funds but usually require investors to make long-term commitments of capital.  Return to text
+
+[SECTION]
+
+For a discussion of the definition and construction of economically meaningful measures of leverage, see appendix A in Counterparty Risk Management Policy Group (1999), Improving Counterparty Risk Management Practices (New York: CRMPG, June).  Return to text
+
+[SECTION]
+
+Some of these estimates may double count investments in funds of funds. At the end of last year, and excluding fund of funds, the TASS database included funds that had $979.3 billion in assets. Of course, not all funds are included in this database.  Return to text
+
+[SECTION]
+
+Greenwich Associates estimates that hedge funds in 2004 accounted for 20 to 30 percent of trading volumes in markets for below-investment-grade debt, credit derivatives, collateralized debt obligations, emerging-market bonds, and leveraged loans, and 80 percent of trading in distressed debt. See Greenwich Associates (2004), Hedge Funds: The End of the Beginning? (Greenwich Associates, December). These estimates were based on interviews with hedge funds and other institutional investors that Greenwich Associates conducted from February through April 2004.  Return to text
+
+[SECTION]
+
+Federal Reserve Board (2005), Concentration and Risk in the OTC Markets for U.S. Dollar Interest Rate Options (49 KB PDF)  Return to text
+
+[SECTION]
+
+See Fitch Ratings (2005), Hedge Funds: An Emerging Force in the Global Credit Markets (New York: Fitch Ratings, 2005), p. 6.  Return to text
+
+[SECTION]
+
+The antifraud provisions of the Securities Act and the Securities Exchange Act apply to the sale of a private fundâs securities, whether or not the private fund is registered under the Investment Company Act.  Return to text
+
+[SECTION]
+
+See Presidentâs Working Group on Financial Markets (1999), Hedge Funds, Leverage, and the Lessons of Long- Term Capital Management (Washington: Presidentâs Working Group, April), p. B-13.  Return to text
+
+[SECTION]
+
+For example, three Federal Reserve examinations of the New York branch of Daiwa Bank between 1992 and 1994 failed to uncover $1.1 billion of hidden trading losses. See Alan Greenspan (1996), âStatement before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, November 27, 1995,â Federal Reserve Bulletin, vol. 82 (January), pp. 31-35.  Return to text
+
+[SECTION]
+
+See Greenwich associates (2004), p. 3.  Return to text
+
+[SECTION]
+
+Each individual investor in a hedge fund that is subject to the Investment Advisers Act and whose adviser charges a performance fee generally must have a net worth of at least $1.5 million or have at least $750,000 of assets under management with the adviser. In addition, most hedge funds avoid regulation under the Investment Company Act by meeting a requirement that each investor in the fund must be a âqualified purchaser,â which for individual investors means having assets of at least $5 million.  Return to text
+
+[SECTION]
+
+Presidentâs Working Group (1999).  Return to text
+
+[SECTION]
+
+See Presidentâs Working Group (1999), p. 42.  Return to text
+
+[SECTION]
+
+See CRMPG (1999).  Return to text
+
+[SECTION]
+
+Counterparty Risk Management Policy Group II (2005), Toward Greater Financial Stability: A Private Sector Perspective (New York: CRMPG II, July).  Return to text
+
+[SECTION]
+
+See Federal Reserve Bank of New York press release dated March 13, 2006.  Return to text
+
+[SECTION]
+
+See press release (86 KB PDF) by the Managed Funds Association dated March 13, 2006.  Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

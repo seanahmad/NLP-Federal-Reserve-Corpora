@@ -1,0 +1,85 @@
+Testimony of Governor Susan M. Phillips
+Reform of derivatives under the Commodity Exchange Act
+Before the Subcommittee on Risk Management and Specialty Crops 
+of the Committee on Agriculture, 
+U.S. House of Representatives
+April 15, 1997
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to be here today to present the Federal Reserve Board's views on efforts to clarify and reform the regulation of derivatives contracts under the Commodity Exchange Act (CEA).  The Board has been participating actively in discussions of derivatives regulation for the last ten years.  In part, the Board's interest stems from its responsibilities for the supervision of banking organizations.  Many U.S. banking organizations, especially the largest, are very significant participants in derivatives markets.  They use exchange-traded derivatives to manage their interest rate, foreign exchange, and other market risks.  Some operate subsidiaries that act as futures commission merchants.  In addition, U.S. banking organizations are among the leading dealers in off-exchange, privately negotiated derivatives contracts.  The Board also considers it important to address these issues because, as the nation's central bank, it has a broad interest in the integrity and efficiency of U.S. financial markets.
+
+[SECTION]
+
+The Board strongly endorses the Congress's efforts to carefully reexamine the existing regulatory framework for derivatives.  The key elements of the CEA were put in place in the 1920s and 1930s to regulate the trading on exchanges of grain futures by the general public, including retail investors.  Since then, derivatives markets in the United States have undergone profound changes.  On the futures exchanges themselves, financial futures, not agricultural futures, now account for the great bulk of the activity, and retail participation in many of the financial futures contracts is negligible.  Outside the futures exchanges, enormous markets have developed in which banks, corporations, and other institutions privately negotiate customized derivatives contracts, the vast majority of which are based on interest rates or exchange rates.  The cash markets for such financial instruments were well-developed long before the introduction of exchange-traded futures and options and, for some instruments, privately negotiated derivatives also predated exchange trading.
+
+[SECTION]
+
+In my remarks today I shall indicate the types of amendments to the CEA that the Board believes are appropriate in light of these profound changes in the derivatives markets.  I shall begin by offering some general observations about government regulation of financial markets.   I shall then evaluate three sets of issues in which the Board has a particular interest:  (1) the application of the CEA to privately negotiated transactions between institutions; (2) the regulation of the marketing of off-exchange derivatives to retail investors; and (3) the regulation of so-called professional markets, that is, organized exchanges not open to the general public.
+
+[SECTION]
+
+Government Regulation of Financial Markets
+	In evaluating the need for government regulation, the Board believes it essential that the public policy objectives be identified very clearly.  It seems self-evident that, if the goals of regulation are not clearly articulated, the regulations implemented are unlikely to best serve the public interest.  More likely, they will prove unnecessary, burdensome, and perhaps have unintended consequences, including results contrary to the underlying objectives.  In the case of the Commodity Exchange Act, the objectives seem quite clear.  Most, perhaps all, would agree that the objectives of public policy in this area are to ensure the integrity of commodity markets, especially deterring market manipulation, and to protect market participants from losses resulting from fraud or the insolvency of contract counterparties.
+
+[SECTION]
+
+Where there is disagreement is on the need for government regulation to achieve these objectives and, where regulation is agreed to be appropriate, on whether existing provisions of the CEA permit the best regulatory framework.  The Board believes that, before implementing government regulation of a market, policymakers should consider whether market forces by themselves are sufficient to achieve the relevant public policy objectives.   Participants in financial markets often are fully capable of protecting their own interests and, in so doing, often serve the public interest equally well.  To be sure, this is not always the case.  Some market participants may lack incentives or the ability to protect their interests, or their private interests may conflict with the public interest.  In such circumstances, government regulation may assist market mechanisms, especially if it is designed to enhance the capabilities of market participants or to harmonize private incentives with the public interest.
+
+[SECTION]
+
+The Board believes that a particular market's characteristics determine whether government regulation is necessary, and, if so, what form of government regulation is appropriate.  Agricultural futures often tend to be susceptible to manipulation because physical delivery is required; because the deliverable supply is relatively price inelastic; and because exchange rules impose substantial costs on sellers who fail to deliver.  By contrast, many financial derivatives are much more difficult if not impossible to manipulate, even when traded on exchanges, because they are settled in cash or, in any event, are based on underlying assets whose supply is highly price elastic.  Similarly, the extent to which market participants are vulnerable to losses from fraud or counterparty insolvencies depends on the types of participants.  Retail participants may lack the knowledge and sophistication to manage counterparty credit exposures or to protect themselves effectively against uncompensated losses from fraud.  By contrast, institutions typically are quite adept at managing credit risks and are more likely to base their investment decisions on independent judgments and, if defrauded, usually are quite capable of gaining restitution through use of the legal system.
+
+[SECTION]
+
+Because the need for and appropriate form of government regulation are market specific, the Board believes that a "one-size-fits-all" approach to financial market regulation is inappropriate.  Privately negotiated transactions between principals should be regulated differently than transactions on organized exchanges, where trades often are executed on behalf of third parties.  Institutional markets can and should be differently regulated than markets open to the retail public.  Moreover, we believe counterparties should be free to choose whether to seek the protection and accept the burdens of government regulation or to opt out of those benefits and burdens and transact on their own terms.
+
+[SECTION]
+
+Application of the CEA to Privately Negotiated Transactions Between Institutions
+	In the case of privately negotiated derivative transactions between institutions, the Board has supported exclusion of such transactions from coverage under the CEA in the past and continues to do so.  In these markets, private market discipline appears to quite effectively and efficiently achieve the public policy objectives of the CEA.  Counterparties to privately negotiated transactions have limited their activity to contracts that are very difficult to manipulate.  The vast majority of privately negotiated contracts are settled in cash rather than through delivery.  Cash settlement typically is based on a rate or price in a highly liquid market with a very large or virtually unlimited deliverable supply, for example, LIBOR or the spot dollar-yen exchange rate.  Furthermore, the costs of default or of failing to deliver typically are limited to actual damages.  Thus, attempts to corner a market, even if successful, could not induce sellers in privately negotiated transactions to pay significantly higher prices to offset their contracts or to purchase the underlying assets.  Most important, prices established in privately negotiated transactions are not used directly or indiscriminately as the basis for pricing other transactions, so any price distortions would not affect other buyers or sellers of the underlying asset.  In these respects, privately negotiated contracts have different characteristics than exchange-traded contracts generally, and agricultural futures in particular.
+
+[SECTION]
+
+Institutional counterparties to privately negotiated contracts also have demonstrated their ability to protect themselves from losses from fraud and counterparty insolvencies.  They have insisted that dealers have financial strength sufficient to warrant a credit rating of A or higher.  Consequently, dealers are established institutions with substantial assets and significant investments in their reputations.  When such dealers have engaged in deceptive practices, institutions that have been victimized have been able to obtain redress by going to court or directly negotiating a settlement with the dealer.  The threat of legal damage awards provides dealers with incentives to avoid misconduct.  A far more powerful incentive, however, is the fear of loss of the dealer's good reputation, without which it cannot compete effectively, regardless of its financial strength or financial engineering capabilities.  Institutional counterparties to privately negotiated transactions have demonstrated their ability to manage credit risks quite effectively through careful evaluation of counterparties, the setting of internal credit limits, and the judicious use of netting agreements and collateral.  Actual losses to institutional counterparties in the United States from dealer defaults have been negligible.  Recent cooperative international efforts to improve the quality of public disclosure of financial information by banks and other dealers in privately negotiated transactions should further enhance the effectiveness of private market discipline.
+
+[SECTION]
+
+In the future, counterparties to privately negotiated transactions may seek to establish some type of centralized clearing facilities for such transactions.  Such facilities potentially could make management of counterparty credit risks and liquidity risks even more effective.  At the same time, however, clearing facilities often concentrate and mutualize risk.  For this reason, the Board believes that if counterparties were to choose to develop such facilities, some type of government oversight generally would be appropriate to supplement the private self-regulation that the counterparties would provide.  However, it is not obvious that in all cases regulation of such clearing facilities under the CEA would be the best approach.  For example, if a clearing facility were established for privately negotiated interest rate or exchange rate contracts between dealers, most of which were banks, oversight by the federal banking agencies would seem more appropriate.  Likewise, a clearing facility for privately negotiated derivatives on underlying assets that are securities might best be regulated by the Securities and Exchange Commission.  Thus, if an exclusion of privately negotiated transactions from the CEA were conditioned on government supervision or regulation of any centralized clearing facility, the Board believes that supervision of the clearing facility by one of the federal banking agencies, by the SEC, or by the Commodity Futures Trading Commission should be sufficient for exclusion.
+
+[SECTION]
+
+Regulation of the Marketing of Off-Exchange Derivatives to Retail Investors
+	As I noted earlier, the Board believes it is appropriate for regulatory purposes to distinguish transactions between institutions from transactions involving retail investors.   Because many retail investors may lack the ability to evaluate counterparties and transactions effectively, some type of government regulation of off-exchange transactions may be necessary to protect them against unrecoverable losses from fraud or dealer insolvencies.  But, even for such retail transactions, it is not obvious that the CEA provides the best regulatory framework.  In particular, the Board believes that the marketing of off-exchange derivatives to retail customers by banks and broker-dealers is more appropriately regulated by the federal banking regulatory agencies and the Securities and Exchange Commission, respectively.  Such an approach also would eliminate the undesirable result of oversight by multiple government entities.
+
+[SECTION]
+
+By way of background, in the case of banks, investigations by our staff and staff of the other banking agencies indicate that currently there is very little, if any, marketing of derivative contracts to retail investors.  In any event, the Board and the other banking agencies already have issued supervisory guidance on sales practices for securities, mutual funds, and derivatives that would be broadly applicable to such transactions.  If experience suggested that more specific or extensive guidance was needed to protect retail investors and, thereby, also to protect the reputation of banks engaged in retail marketing, the Board would work with the other banking agencies to develop and promulgate such guidance.
+
+[SECTION]
+
+Regulation of Professional Markets
+	The Board believes that it is appropriate for regulatory purposes to differentiate between privately negotiated transactions and transactions on exchanges, especially when transactions on exchanges are executed on behalf of third parties, rather than solely between principals.  Nonetheless, the Board agrees on the need to reexamine the regulation of exchange trading and to consider whether specific regulations are still necessary in light of the profound changes in the contracts traded and the intense competitive pressures that the exchanges are experiencing.  In particular, the Board is supportive of the development of an alternative, less intrusive regulatory regime for exchanges that limit participation to institutions and limit contracts traded to those that are not readily susceptible to manipulationfor example, financial contracts that are settled in cash or through physical delivery of assets whose supply is highly price elastic.  Some have expressed concerns about the potential effects of introduction of professional markets on existing futures markets.  In particular, some fear that if liquidity in existing contracts were transferred to the professional markets, the general public could be disadvantaged.  Although such concerns, if justified, might argue against professional markets in instruments in which the general public currently participates significantly, they would seem to have no bearing on the case for professional markets for those contracts for which retail participation currently is negligible.  In addition, alternative regulated market making systems could develop to facilitate retail exchange trading as an adjunct to the professional trading, with the markets linked by arbitrage.
+
+[SECTION]
+
+The Board has not examined existing exchange regulations sufficiently carefully to offer comprehensive suggestions as to which regulations need or need not be applied to professional markets.  We would observe, however, that the gap between what the exchanges are perceived to be seeking and what is currently available under the Commodity Futures Trading Commission's pilot program for professional markets is quite wide, and would appear to offer ample room for a compromise that would address the exchanges' competitive concerns and still be consistent with the public interest.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: April 15, 1997 10:30 AM

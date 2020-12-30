@@ -1,0 +1,285 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 16, 2011
+
+[SECTION]
+
+Kevin M. Bertsch, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives , Newnan, Georgia
+
+[SECTION]
+
+Chairwoman Capito, Chairman Bachus, Ranking Member Maloney, and members of the Subcommittee, I appreciate the opportunity to appear before you today to discuss the Federal Reserve's efforts to ensure a consistent approach to the examination of community banking organizations.1 Developments over the past few years have been particularly challenging for these institutions, and the Federal Reserve recognizes that within this context supervisory actions must be well considered and carefully implemented.
+
+[SECTION]
+
+Currently, the Federal Reserve supervises more than 5,000 bank holding companies and 825 state-chartered banks that are members of the Federal Reserve System (state member banks). As of July 21, the Federal Reserve also assumed responsibility for the supervision of more than 430 savings and loan holding companies. Although these supervised institutions include some of the largest diversified financial firms in the world, most are small community banking organizations focused on traditional banking activities.
+
+[SECTION]
+
+In my remarks, I will start with a brief overview of the examination and enforcement policies that guide the Federal Reserve's supervisory activities for these institutions. I will then touch briefly on the recent performance of community banking organizations, highlighting the main sources of recent problems for these companies. In concluding, I will describe the steps that the Federal Reserve is taking to help ensure a consistent and balanced examination process across all of its Reserve Banks.
+
+[SECTION]
+
+Examination and Enforcement Policies and Procedures
+       The Federal Reserve conducts its supervisory activities through its 12 Federal Reserve Banks across the country. This means that supervision is guided by policies and procedures established by the Board, but is conducted day-to-day by the Reserve Banks and their examiners, many of whom have lived and worked within the districts they serve for many years. We believe this approach ensures that Federal Reserve supervision of community banks is consistent and disciplined, and that it also reflects a local perspective that takes account of differences in regional economic conditions. For example, in the Midwest, where many community banks specialize in agricultural lending, Federal Reserve examiners maintain a special expertise in agricultural markets and associated lending practices. They also draw frequently on the expertise of regional and agricultural economists in the districts to maintain an up-to-date understanding of local conditions. This helps ensure that examiners are familiar with the unique features of their local economies and that they apply examination policies in a manner that is sensitive to local conditions or business practices.
+
+[SECTION]
+
+Examination and enforcement policies followed by Federal Reserve examiners are set forth in supervision manuals published by the Board.2 In addition, the Board regularly publishes supervisory letters to address emerging supervisory issues and provide guidance to examiners and banking organizations.3 Many recent supervisory letters, for example, have addressed commercial real estate--an area of concern for many community banks. To promote consistency in examination practices across federal banking agencies, the Federal Reserve also participates in the interagency Federal Financial Institutions Examination Council, which has long-established task forces that address supervision, regulatory reporting, surveillance, and other common regulatory activities.
+
+[SECTION]
+
+Safety and soundness bank-examination guidance covers a broad range of issues, but it focuses primarily on providing examiners with the guidance and procedures necessary to assess capital adequacy, asset quality, management and board oversight, earnings, liquidity, and sensitivity to market risk. Examiners use this guidance to assign a supervisory CAMELS rating at on-site examinations, which are required at least once every 18 months.4 The examination guidance outlines procedures for conducting a thorough review of a bank's loan and investment portfolio, a comprehensive assessment of funds-management practices, an evaluation of the quality and level of capital, the adequacy of internal controls, and the accuracy of regulatory reporting. In addition, examiners are directed to review various bank policies, board of directors' activities, and compliance with laws and regulations.
+
+[SECTION]
+
+Guidance governing inspections of bank holding companies addresses issues similar to those highlighted for bank examinations, but also focuses on specific issues related to the parent company and its nonbank affiliates. These include the extent to which leverage is used to support bank subsidiary activities, intercompany transactions and their impact on bank subsidiaries, nonbank activities and their effect on the consolidated financial condition of the organization, and the parent company's ability to serve as a source of strength to its insured depository institutions.
+
+[SECTION]
+
+The Federal Reserve has a broad range of enforcement powers over financial institutions and the individuals associated with them. Formal actions, which are used to address significant issues, are governed by statute and administered from the Board in consultation with the Reserve Banks. These include written agreements and cease-and-desist orders. Informal actions, which are used to address less severe issues, are administered by the Reserve Banks and include board resolutions and memorandums of understanding.
+
+[SECTION]
+
+Bank Performance in the Current Financial Market
+       In recent quarters, earnings for community banks have improved notably, and asset quality has largely stabilized and begun to improve. However, earnings remain quite weak by historical standards, and high levels of problem loans and charge-offs continue to strain bank resources. Revenue growth has also been held back, as loan balances at community banks have declined for 11 consecutive quarters.
+
+[SECTION]
+
+Most of the asset quality and earnings problems in community banks stem from relatively high concentrations in construction and other commercial real estate loans that were built up during the real estate boom that started in the early part of the last decade. As real estate markets began weakening in 2007, cash flows supporting commercial real estate loans fell, and banks experienced a significant increase in weak and impaired assets. Community banks in all regions of the country have experienced problems stemming from the weakened real estate market, but those operating in regions that experienced the greatest run-ups in real estate prices--the Southeast, Southwest, and West Coast--have been most significantly affected.
+
+[SECTION]
+
+Consistent with this, of the 388 failures of insured banks and thrifts since early 2007, 140--or nearly 40 percent--occurred in the Southeastern states, with many failures here in Georgia. A significant number of Georgia banks that failed held large concentrations of loans related to land acquisition, development, and construction--many tied to the region's housing boom in the years leading up to the economic downturn. When real estate markets softened, the level of problem loans increased rapidly for these banks and ultimately overwhelmed their available capital.
+
+[SECTION]
+
+The commercial banks that continue to operate in the Georgia market generally have an elevated level of non-current real estate loans, which in turn have reduced earnings and strained capital levels. Through the second quarter of 2011, 41percent of Georgia's insured commercial banks were unprofitable. Though an improvement over last year, this contrasts significantly with results for the nation as a whole, where only 15percent were unprofitable. Similarly, the aggregate Return on Assets for Georgia's banks was 0.07 percent, well below the 0.87 percent nationally.
+
+[SECTION]
+
+Achieving Consistency in the Supervisory Process
+       There has been much discussion recently about whether examiners are unnecessarily restricting the activities of community banks. The Federal Reserve takes seriously its responsibility to address these concerns, and working with the other agencies, the Board has issued several pieces of examination guidance over the past years to stress the importance of taking a balanced approach to supervision. More recently, examples of such guidance include the November 12, 2008, "Interagency Statement on Meeting the Needs of Creditworthy Borrowers,"5 and an October 30, 2009, interagency statement designed to encourage prudent workouts of commercial real estate loans and to facilitate a balanced approach by field staff to evaluating commercial real estate credits.6 On February 5, 2010, the Federal Reserve and other regulatory agencies issued a joint statement on lending to creditworthy small businesses.7 The Federal Reserve has complemented these statements with training programs for examiners and outreach to the banking industry to underscore the importance of sound lending practices. In addition, the Federal Reserve continues to strongly reinforce the importance of these interagency statements with its examiners and has taken several steps to evaluate compliance with the guidance as part of its regular monitoring of the examination process.
+
+[SECTION]
+
+First, all examination findings must go through a thorough review process before being finalized. Local management teams vet the examination findings at the district Reserve Banks to ensure that common issues are addressed consistently, findings are fully supported, and supervisory determinations conform with Federal Reserve policies. If these vetting sessions identify policy issues requiring clarification, Reserve Banks contact the Board staff in Washington for guidance. Vettings for complex or problem banks often include participation from Board staff.
+
+[SECTION]
+
+In addition, Board analysts assigned to monitor community bank supervision activities in the districts sample recently completed examination reports to assess compliance with policies. Potential deviations from policy requirements that are identified through this process are discussed with the Reserve Banks and corrected as needed. Board analysts also review quarterly off-site financial surveillance reports with the Reserve Banks to ensure identified issues are consistently and promptly addressed.
+
+[SECTION]
+
+Board staff also conduct periodic reviews of specific examination activities. For example, recently we undertook a focused review of commercial real estate loan-classification practices in the districts. We initiated this review to assess whether Federal Reserve examiners were implementing the interagency policy statement on commercial real estate loan workouts as intended. As part of this effort, we reviewed documentation for more than 300 commercial real estate loans with identified weaknesses in six Federal Reserve districts. Based on this review, we concluded that Federal Reserve examiners were appropriately implementing the guidance and were consistently taking a balanced approach in determining loan classifications. We further noted that the documentation indicated that examiners were carefully considering the full range of information provided by bankers when evaluating these loans. In this regard, workpapers often indicated that examiners were taking into account mitigating factors noted by bankers, where appropriate, in determining the regulatory treatment for the loans.
+
+[SECTION]
+
+Overall, our monitoring efforts to date suggest that Federal Reserve examiners are following established guidance in evaluating supervised institutions. However, if any banking organizations are concerned about supervisory actions that they believe are inappropriate, we continue to encourage them to contact Reserve Bank or Federal Reserve Board supervisory staff to discuss their concerns. Any specific instances of possible undue regulatory constraints are evaluated by both Reserve Bank and Board staff. In addition, the Board maintains an Ombudsman, independent of the supervisory process, who handles any such concerns on a confidential basis.8
+
+[SECTION]
+
+Conclusion
+       We at the Federal Reserve are acutely aware of the need for a strong and stable community banking industry that can make credit available to creditworthy borrowers across the country. We want banks to deploy capital and liquidity, but in a responsible way that avoids past mistakes and does not create new ones. The Federal Reserve is committed to working to promote the concurrent goals of fostering credit availability and maintaining a safe and sound banking system. Through our ongoing communication with Reserve Banks and bankers, the Federal Reserve will continue to strive to ensure our guidance is applied in a fair, balanced, and consistent manner across all institutions. I would be pleased to take your questions.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+For supervisory purposes, the Federal Reserve defines banking organizations with assets of $10 billion or less as community banking organizations. Return to text
+
+[SECTION]
+
+The Board's supervision manuals are available at www.federalreserve.gov/boarddocs/supmanual. Return to text
+
+[SECTION]
+
+Active supervision and regulation letters are available on the Board's website at www.federalreserve.gov/boarddocs/srletters. Return to text
+
+[SECTION]
+
+To assess the bank's performance and summarize its overall condition, examiners use the Uniform Financial Institutions Rating System (UFIRS), which is commonly referred to as the CAMELS rating system. The acronym CAMELS is derived from six key areas of examination focus: Capital Adequacy, Asset Quality, Management and board oversight, Earning, Liquidity, and Sensitivity to market risk. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System (2008), "Interagency Statement on Meeting the Needs of Creditworthy Borrowers," press release, November 12. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System (2009), "Federal Reserve Adopts a Policy Statement Supporting Prudent Commercial Real Estate (CRE) Loan Workouts," press release, October 30. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency, Office of Thrift Supervision, and Conference of State Bank Supervisors (2010), "Regulators Issue Statement on Lending to Creditworthy Small Businesses," joint press release, February 5. Return to text
+
+[SECTION]
+
+For more information and for contact information for the Ombudsman, see www.federalreserve.gov/aboutthefed/ombudsman.htm. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

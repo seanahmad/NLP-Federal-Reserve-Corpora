@@ -1,0 +1,277 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 06, 2011
+
+[SECTION]
+
+Maryann F. Hunter, Deputy Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Protection, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Brown, Ranking Member Corker, and members of the subcommittee, thank you for the opportunity to testify today on the challenges and opportunities facing community banks. As a former examiner and former head of banking supervision at the Federal Reserve Bank of Kansas City, which has one of the highest numbers of community banks in the Federal Reserve System, I am keenly aware of the critical role that community banks play in their local communities. Community banks also provide valuable insights into the health of their local economies, which the Federal Reserve finds invaluable in determining the appropriate path of monetary policy and in taking actions to preserve the nation's financial stability. Accordingly, I and my colleagues at the Federal Reserve value our connection with community banks and take very seriously our responsibility for the supervision of these banks.
+
+[SECTION]
+
+The Federal Reserve, in conjunction with our colleagues at the state banking supervisory agencies, is responsible for supervising approximately 830 state member banks. The vast majority of these banks are community banks1 that provide traditional banking services and loans to small businesses and consumers. In addition, the Federal Reserve supervises more than 4,700 community bank holding companies, which together control more than $2 trillion in assets and a significant majority of the number of commercial banks operating in the United States. Beginning in July 2011, the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) will transfer responsibility from the Office of Thrift Supervision to the Federal Reserve for the supervision of more than 425 savings and loan holding companies, most of which operate community thrifts. Given these supervisory responsibilities--as well as the Federal Reserve's need to fully understand regional economic conditions--we closely monitor the condition and performance of community banks and appreciate the opportunity to discuss with you today some of the factors affecting their operations.
+
+[SECTION]
+
+We gain considerable insight into community banking through our supervisory, research, and outreach activities both at the Reserve Banks and at the Board of Governors. Moreover, the Federal Reserve has undertaken several recent initiatives to better understand the perspectives of community banks and the challenges they face. The Board recently established a special supervision subcommittee of Board members that provides leadership and oversight on a variety of matters related specifically to our supervision of community and smaller regional banks.2 This subcommittee is chaired by Governor Elizabeth Duke, a former longtime community banker, and also includes Governor Sarah Bloom Raskin, previously the Maryland state banking commissioner. A key role of this subcommittee is to review policy proposals to better understand the effect that these policies and their implementation could have on smaller institutions, both in terms of safety and soundness and potential regulatory burden.
+
+[SECTION]
+
+The Federal Reserve also has undertaken an initiative to formalize and expand its dialogue with community banks. In October 2010, the Board announced the formation of the Community Depository Institutions Advisory Council (CDIAC) to provide the Board with direct insight and information from community bankers about the economy, lending conditions, supervisory matters, and other issues of interest to community banks.3 Council members share first-hand knowledge and experience regarding the challenges they and their communities face, as well as their plans to address these challenges. Each Reserve Bank has its own local advisory council comprising representatives from banks, thrift institutions, and credit unions, and one member from each local council serves on the national council that meets with the Board twice a year in Washington. Each of the local advisory councils has held its first meeting, and the first meeting of the CDIAC with all of the members of the Federal Reserve Board took place on Friday, April 1. We expect these ongoing discussions will provide a particularly useful and relevant forum for improving our understanding of the effect of legislation, regulation, and examination activities on small banking organizations.
+
+[SECTION]
+
+State of Community Banking
+       The economic downturn has had a significant impact on community banks and, unfortunately, many continue to struggle. Although community banks recorded an aggregate profit for 2010, one in every five community banks reported a loss. This weakness stemmed mainly from elevated loan losses and the need to bolster reserves in anticipation of future loan deterioration. Provisions for loan losses were down considerably from 2009 but remained near historically high levels. There are some positive signs, however. For example, the pace of deterioration in loan quality continued to slow during the fourth quarter of 2010 and nonperforming assets4 fell for the third straight quarter. However, the nonperforming assets ratio is still higher than the levels that prevailed during the significant credit downturn in the early 1990s. Loans secured by real estate continue to be the main contributors behind poor asset quality, particularly loans for construction and land development.
+
+[SECTION]
+
+Although community banks have sharply reduced exposures to commercial real estate lending--sometimes through heavy write-offs of problem loans--many remain vulnerable to further deterioration in real estate markets. The continued weaknesses in real estate markets offer particular challenges to community banks, which secure much of their lending with properties in their local markets. This has reduced a significant source of revenue and has caused many banks to rethink their operating models and seek alternative sources of revenue in new lending segments.
+
+[SECTION]
+
+As they seek to work through loan problems with their borrowers and implement guidance issued by the supervisory agencies in 2009, community banks have continued to actively restructure loans to creditworthy borrowers who are experiencing financial difficulties. During the past year, loans restructured and in compliance with modified terms have increased more than 30 percent to $15.1 billion. This includes $3.5 billion in restructured residential mortgages. We believe these efforts will contribute to the recovery of many struggling banks and the preservation of many small businesses, but significant improvement in financial conditions will likely take considerable time for many community banks. Indeed, although banks have been aggressive in charging off losses on problem loans and restructuring loans to borrowers experiencing financial difficulties, the adequacy of loan loss reserves remains an ongoing supervisory focus. As a consequence, reserves may require further strengthening and loan loss provisions will likely continue to weigh on earnings in future quarters at many banks.
+
+[SECTION]
+
+Disappointingly, outstanding loan balances have declined for nine consecutive quarters for community banks as a group, as they have for the banking system as a whole. However, we have seen evidence that many healthy community banks have continued to lend to creditworthy borrowers. While lending contracted overall from mid-2008 through 2010, this contraction was not uniform; a significantly higher proportion of smaller banks (in this case, those with assets of $1 billion or less) actually increased their lending during this period than was the case for larger banks.
+
+[SECTION]
+
+Community banks have reported a number of potential causes for the low level of lending, including reduced loan demand, a tightening of underwriting standards, a lack of creditworthy borrowers, declining collateral values, and high levels of problem loans. They have also frequently raised concerns about what they characterize as heightened supervisory expectations for capital, liquidity, and the management of concentrations in loans secured by commercial real estate, which some bankers say are leading them to make fewer loans. We take these concerns seriously and have worked hard to ensure that examiners are well-trained and employ a balanced approach to bank supervision. For example, following the issuance of the interagency Policy Statement on Prudent Commercial Real Estate Loan Workouts in October 2009,5 an intensive training effort was conducted for examiners across the Federal Reserve System to promote consistency and balance in reviewing bank workouts of troubled commercial real estate loans. We have also undertaken a number of initiatives through our community affairs functions across the Federal Reserve System to encourage lending to creditworthy small businesses and consumers.
+
+[SECTION]
+
+On a final note, community bankers and their supervisors have also been increasing their attention to other areas where lending concentrations may exist. For instance, both the Federal Reserve and many community banks are monitoring developments in agricultural lending to ensure that underwriting standards are consistent with assessments of potential exposures to fluctuations in commodity prices and land values.
+
+[SECTION]
+
+Effects of Recent Legislation
+       In our interactions with community bankers, we consistently hear that the changing regulatory environment is a key challenge and concern for community banks. Even though recent reforms are directed principally at the largest and most complex U.S. financial firms and explicitly exempt small banks from the most stringent requirements, community bankers remain concerned that expectations being set for the largest institutions will ultimately be imposed in a burdensome manner on smaller institutions or will otherwise adversely affect the community bank model.
+
+[SECTION]
+
+For example, bankers have brought several provisions of the Dodd-Frank Act to our attention as particular areas of concern for community banks. One such provision is the requirement that the Federal Reserve issue a rule to limit debit card interchange fees and to prohibit network exclusivity arrangements and merchant routing restrictions. Many community bankers have also expressed a sense of uncertainty about the rulemaking authority of the new Consumer Financial Protection Bureau formed by the Dodd-Frank Act. Another concern is that the more-stringent prudential standards6 that the Federal Reserve is required to develop for banking firms with assets greater than $50 billion and all nonbank financial firms designated as systemically important by the Financial Stability Oversight Council might ultimately filter down to smaller banks. In this regard, some concerns have been raised that the new, international Basel III prudential framework for large, globally active banks--which will require large banks to hold more and better-quality capital and more-robust liquidity buffers--may be applied to banks that are not systemic or internationally active. More generally, community banks have raised concerns that the cost of compliance with new regulations and requirements may fall disproportionately on smaller banks that do not benefit from the economies of scale of larger institutions, and that this may exacerbate consolidation of the banking sector.
+
+[SECTION]
+
+In this regard, the Federal Reserve and the other federal financial supervisory agencies will be publishing all of the Dodd-Frank proposed rulemakings for public comment. For example, last week the Federal Reserve, in conjunction with other federal agencies,7 issued a proposed rule that would require sponsors of asset-backed securities to retain at least 5 percent of the credit risk of the assets underlying the securities and would not permit sponsors to transfer or hedge that credit risk. We are aware that some community banks have expressed concerns about the potential impact this proposed rule might have on the availability of credit. We encourage public comments from community banks and other commenters on this and all proposals, and will carefully consider comments in drafting final rules.
+
+[SECTION]
+
+Before concluding my remarks on the effects of recent legislation, let me say a few words about the transfer of savings and loan holding company supervisory authority to the Federal Reserve. We have been working in close coordination with the Office of Thrift Supervision, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation to prepare for this transfer. Our intent--to the maximum extent possible and consistent with the Home Owners' Loan Act and other laws--is to create an oversight regime for savings and loan holding companies that is consistent with our comprehensive consolidated supervision regime for bank holding companies, and we intend to issue a public notice to this effect shortly. We appreciate that savings and loan and bank holding companies differ in important ways and will remain governed by different statutes. Federal Reserve staff have been engaged in an active and constructive outreach effort to savings and loan holding companies to better understand their unique features and to help them understand our supervisory approach to holding companies.
+
+[SECTION]
+
+Resilience of Community Banks
+       These regulatory changes will provide a new set of challenges for community banks. However, community banks have faced similar challenges in the past and have performed effectively and continued to meet the needs of their communities. Indeed, while much of the focus in recent years has been on the inability of many community banks to withstand intense credit and liquidity pressures, it is important to note that many community banks supervised by the Federal Reserve remained in sound condition throughout the crisis. Most of these banks entered the crisis with moderate exposures to commercial real estate, moderate loan-to-deposit ratios, and ample investment securities. They tended to report solid earnings and net interest margins, very limited reliance on noncore funding, and generally strong capital levels throughout the crisis. In summary, the banks that weathered the crisis most effectively were those that adhered to the traditional community banking model.
+
+[SECTION]
+
+The performance of these banks provides perhaps the best example of the resilience of the community bank model. Looking back over the crisis, these banks operated safely, soundly, and profitably despite the most challenging financial climate since the Great Depression. This speaks to the skill of their management and the soundness of their business models.
+
+[SECTION]
+
+Conclusion
+       Community banks will continue to face a challenging environment for some time as they work through financial difficulties brought on by the economic downturn and face challenges that arise from a rapidly changing regulatory environment. The unique connection between community banks and the communities they serve is clear. The bankers who live and work in these communities know their customers and understand their local economies, and that knowledge is not easily replaced or replicated. This relationship banking is crucial to the community banking model and an important part of its viability. The Federal Reserve will continue to listen to the concerns of community banks and carefully weigh the impact of regulatory and policy changes on them, while at the same time working with them to address the future challenges they may face.
+
+[SECTION]
+
+Thank you again for inviting me to appear before you today on this important subject. I would be pleased to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+For supervisory purposes, the Federal Reserve defines banking organizations with assets of $10 billion or less as community banking organizations. Return to text
+
+[SECTION]
+
+For supervisory purposes, the Federal Reserve generally considers banking organizations with assets between $10 billion and $50 billion to be regional banking organizations. Return to text
+
+[SECTION]
+
+The CDIAC replaces the former Thrift Institutions Advisory Council, which provided the Board with information from the perspective of thrift institutions and credit unions. Return to text
+
+[SECTION]
+
+Defined as nonaccruing loans plus other real estate owned. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2009), "Prudent Commercial Real Estate Loan Workouts," Supervision and Regulation Letter 09-7 (October 30). Return to text
+
+[SECTION]
+
+These more-stringent standards for large institutions will include stronger capital and leverage requirements, liquidity requirements, and single-counterparty credit limits, as well as requirements to periodically produce resolution plans and conduct stress tests. Return to text
+
+[SECTION]
+
+The other agencies are the Department of Housing and Urban Development, Federal Deposit Insurance Corporation, Federal Housing Finance Agency, Office of the Comptroller of the Currency, and Securities and Exchange Commission. For more information, see Board of Governors of the Federal Reserve System (2011), "Agencies Seek Comment on Risk Retention Proposal," joint press release, March 31. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

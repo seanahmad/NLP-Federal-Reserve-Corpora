@@ -1,0 +1,100 @@
+Testimony of Chairman Alan Greenspan
+The Commodity Exchange Act and OTC derivatives
+Before the Committee on Agriculture, Nutrition, and Forestry, U.S. Senate
+
+July 30, 1998
+
+[SECTION]
+
+I am pleased to be here today to present the Federal Reserve Board's views on the regulation of over-the-counter (OTC) derivatives.  This hearing was prompted by the Commodity Futures Trading Commission's issuance of a concept release on regulation of OTC derivatives and subsequent calls for a standstill of attempts by the CFTC to impose new regulations on these markets.  The Board generally agrees with the Treasury Department's views on the concept release and efforts to address the heightened uncertainty that resulted.
+
+[SECTION]
+
+In my testimony this morning I shall step back from these issues of immediate concern and address the fundamental underlying issue, that is, whether it is appropriate to apply the Commodity Exchange Act (CEA) to over-the-counter derivatives (and, indeed, to financial derivatives generally) in order to achieve the CEA's objectives--deterring market manipulation and protecting investors.
+
+[SECTION]
+
+The CEA and Its Objectives
+		The Commodity Exchange Act of 1936 and its predecessor the Grain Futures Act of 1922 were a response to the perceived problems of manipulation of grain markets that were particularly evident in the latter part of the nineteenth and early part of the twentieth centuries.  For example, endeavors to corner markets in wheat, while rarely successful, often led to temporary, but sharp, increases in prices that engendered very large losses to those short sellers of futures contracts who had no alternative but to buy and deliver grain under their contractual obligations.  Because quantities of grain following a harvest are generally known and limited, it is possible, at least in principle, to corner a grain market.
+
+[SECTION]
+
+It is not possible to corner a market for financial futures where the underlying asset or its equivalent is in essentially unlimited supply.  Financial derivative contracts are fundamentally different from agricultural futures owing to the nature of the underlying asset from which the derivative contract is "derived."  Supplies of foreign exchange, government securities, and certain other financial instruments are being continuously replenished, and large inventories held throughout the world are immediately available to be offered in markets if traders endeavor to create an artificial shortage.  Thus, unlike commodities whose supply is limited to a particular growing season and finite carryover, the markets for financial instruments and their derivatives are deep and, as a consequence, are extremely difficult to manipulate.  The type of regulation that is applied to crop futures appears wholly out of place and inappropriate for financial futures, whether traded on organized exchanges or over-the-counter, and accordingly, the Federal Reserve Board sees no need for it.
+
+[SECTION]
+
+The early legislation on the trading of commodity futures was primarily designed to discourage forms of speculation that were seen as exacerbating price volatility and hurting farmers.  In addition, it included provisions designed primarily to protect small investors in commodity futures, whose participation had been increasing and was viewed as beneficial.  The Commodity Futures Trading Commission Act of 1974 did not make any fundamental changes in the objectives of derivatives regulation.  However, it expanded the scope of the CEA quite significantly.  In addition to creating the CFTC as an independent agency and giving the CFTC exclusive jurisdiction over commodity futures and options, the 1974 Act expanded the CEA's definition of a "commodity" beyond a specific list of agricultural commodities to include "all other goods and articles, except onions,...and all services, rights, and interests in which contracts for future delivery are presently or in the future dealt in."
+
+[SECTION]
+
+Given this broadened definition of a commodity and an equally broad interpretation of what constitutes a futures contract, a wide range of off-exchange transactions would have been brought potentially within the scope of the CEA.  The Treasury Department was particularly concerned about the prospect that the foreign exchange markets might be found to fall within the Act's scope.  Aside from the difficulty of manipulating these markets, Treasury argued that participants in OTC markets, primarily banks and other financial institutions, and large corporations, did not need the consumer protections of the Commodity Exchange Act.  Consequently, Treasury proposed and Congress included a provision in the 1974 Act, the "Treasury Amendment," which excluded off-exchange derivative transactions in foreign currency (as well as government securities, and certain other financial instruments) from the newly expanded CEA.  What the Treasury did not envision, and the Treasury Amendment did not protect, was the subsequent development and spectacular growth of a much wider range of OTC derivative contracts--swaps on interest rates, exchange rates, and prices of commodities and securities.
+
+[SECTION]
+
+Potential Application of the CEA to OTC Derivatives
+		The vast majority of privately negotiated OTC contracts are settled in cash rather than through delivery.  Cash settlement typically is based on a rate or price in a highly liquid market with a very large or virtually unlimited deliverable supply, for example, LIBOR or the spot dollar-yen exchange rate.  To be sure, there are a limited number of OTC derivative contracts that apply to nonfinancial underlying assets.  There is a significant business in oil-based derivatives, for example.  But unlike farm crops, especially near the end of a crop season, private counterparties in oil contracts have virtually no ability to restrict the worldwide supply of this commodity.  (Even OPEC has been less than successful over the years.)  Nor can private counterparties restrict supplies of gold, another commodity whose derivatives are often traded over-the-counter, where central banks stand ready to lease gold in increasing quantities should the price rise.
+
+[SECTION]
+
+To be sure, a few, albeit growing, types of OTC contracts such as equity swaps and some credit derivatives have a limited deliverable supply.  However, unlike crop futures, where failure to deliver has additional significant penalties, costs of failure to deliver in OTC derivatives are almost always limited to actual damages.  There is no reason to believe either equity swaps or credit derivatives can influence the price of the underlying assets any more than conventional securities trading does.  Thus, manipulators attempting to corner a market, even if successful, would have great difficulty in inducing sellers in privately negotiated transactions to pay significantly higher prices to offset their contracts or to purchase the underlying assets.
+
+[SECTION]
+
+Finally, the prices established in privately negotiated transactions are not widely disseminated or used directly or indiscriminately as the basis for pricing other transactions.  Counterparties in the OTC markets can easily recognize the risks to which they would be exposed by failing to make their own independent valuations of their transactions, whose economic and credit terms may differ in significant respects.  Moreover, they usually have access to other, often more reliable or more relevant sources of information.  Hence, any price distortions in particular transactions could not affect other buyers or sellers of the underlying asset.
+
+[SECTION]
+
+Professional counterparties to privately negotiated contracts also have demonstrated their ability to protect themselves from losses from fraud and counterparty insolvencies. They have managed credit risks quite effectively through careful evaluation of counterparties, the setting of internal credit limits, and judicious use of netting and collateral agreements.  In particular, they have insisted that dealers have financial strength sufficient to warrant a credit rating of A or higher.  This, in turn, provides substantial protection against losses from fraud.  Dealers are established institutions with substantial assets and significant investments in their reputations.  When they have been seen to engage in deceptive practices, the professional counterparties that have been victimized have been able to obtain redress under laws applicable to contracts generally.  Moreover, the threat of legal damage awards provides dealers with strong incentives to avoid misconduct.
+
+[SECTION]
+
+A far more powerful incentive, however, is the fear of loss of the dealer's good reputation, without which it cannot compete effectively, regardless of its financial strength or financial engineering capabilities.  In these respects, derivatives dealers bear no resemblance to the "bucket shops" whose activities apparently motivate the exchange trading requirement.
+
+[SECTION]
+
+I do not mean to suggest that counterparties will not in the future suffer significant losses on their OTC derivatives transactions.  Since 1994 the effectiveness of their risk management skills has not been tested by widespread major declines in underlying asset prices.  
+I have no doubt derivatives losses will mushroom at the next significant downturn as will losses on holdings of other risk assets, both on and off exchange.  Nonetheless, I see no reason to question the underlying stability of the OTC markets, or the overall effectiveness of private market discipline, or the prudential supervision of the derivatives activities of banks and other regulated participants.  The huge increase in the volume of OTC transactions reflects the judgments of counterparties that these instruments provide extensive protection against undue asset concentration risk.  They are clearly perceived to add significant value to our financial structure, both here in the United States and internationally.
+
+[SECTION]
+
+Accordingly the Federal Reserve Board sees no reason why these markets should be encumbered with a regulatory structure devised for a wholly different type of market process, where supplies of underlying assets are driven by the vagaries of weather and seasons.  Inappropriate regulation distorts the efficiency of our market system and as a consequence impedes growth and improvement in standards of living.
+
+[SECTION]
+
+Application of the CEA to Centralized Markets for Derivatives
+		Recently, some participants in the OTC markets have shown interest in utilizing centralized mechanisms for clearing or executing OTC derivatives transactions.  For example, the London Clearing House plans to introduce clearing of interest rate swaps and forward rate agreements in the second half of 1999, and the Electronic Broking Service, a brokerage system for foreign exchange contracts, reportedly is planning to begin brokering forward rate agreements.  The latter service may not be offered in the United States, however, because of the threat of application of the CEA.
+
+[SECTION]
+
+Even some who argue that privately negotiated and bilaterally settled derivatives transactions should be excluded from the CEA, nonetheless believe that such transactions should be subject to the CEA if they are centrally executed or cleared, for fear that such facilities can foster price manipulation.  Leaving aside our concern about the regulatory regime of financial futures generally, the Federal Reserve Board is particularly concerned that the vast majority of the instruments currently traded in the OTC markets not be subject to the CEA, even if they become sufficiently standardized to be centrally executed or cleared.  To be sure, OTC contracts between counterparties would then have many similarities to exchange-traded contracts.  But, they would still retain distinct characteristics that would leave them economically far short of standardization.  For example, participants in trade execution systems may seek to retain counterparty credit limits, and participants in clearing systems likely will resist constraints on their ability to customize the economic terms of contracts.  To force full standardization would reduce the economic value of a bilateral contract to both parties, and to the marketplace as a whole.  In the 1992 Act, Congress encouraged the CFTC to exempt all OTC derivatives transactions between professional counterparties from the CEA, unless both the credit terms and the economic terms are fully standardized.  Even with centralized execution or clearing, the most relevant attributes of these markets would not resemble those of the agricultural futures markets and hence would not be susceptible to manipulation.
+
+[SECTION]
+
+Harmonizing Regulation of the OTC Markets and Futures Exchanges
+		Beyond question, the centralized execution and clearing of what to date have been privately negotiated and bilaterally cleared transactions would narrow the existing differences between exchange-traded and OTC derivatives transactions.  However, that is not a reason to extend the CEA to cover OTC transactions.  As we have argued, doing so is unnecessary to achieve the public policy objectives of the CEA.  Moreover, as the economic differences between OTC and exchange-traded contracts are narrowing, it is becoming more apparent that OTC market participants share this conclusion; their decision to trade outside the regulated environment implies they do not see the benefits of the CEA as outweighing its costs.
+
+[SECTION]
+
+Instead, the Federal Reserve believes that the fact that OTC markets function so effectively without the benefits of the CEA provides a strong argument for development of a less burdensome regulatory regime for financial derivatives traded on futures exchanges.  To reiterate, the existing regulatory framework for futures trading was designed in the 1920s and 1930s for the trading of grain futures by the general public.  Like OTC derivatives, exchange-traded financial derivatives generally are not as susceptible to manipulation and are traded predominantly by professional counterparties.
+
+[SECTION]
+
+Indeed, Congress has rejected the notion of a "one-size-fits-all" approach to regulation of
+exchange trading.  The exemptive authority that Congress gave the CFTC in 1992 permitted it to create a less restrictive regulatory regime for professional trading of financial futures.  However, the pilot program proposed by the CFTC evidently has not met the competitive and business requirements of the futures exchanges--no contracts are currently trading under the program.  Last year, the Agriculture Committees of the House and the Senate both attempted to craft legislation that would spur development of such a new regulatory framework but were unable to achieve consensus on the best approach.  If progress toward a more appropriate regime is not forthcoming soon, Congress should seriously consider passage of legislation that would mandate progress.
+
+[SECTION]
+
+Conclusion
+		In conclusion, the Board continues to believe that, aside from safety and soundness regulation of derivatives dealers under the banking or securities laws, regulation of derivatives transactions that are privately negotiated by professionals is unnecessary.  Moreover, the Board questions whether the CEA as currently implemented is an appropriate framework for professional trading of financial futures on exchanges.  The key elements of the CEA were put in place in the 1920s and 1930s to regulate the trading of agricultural futures by the general public.  The vast majority of financial futures traded simply are not as susceptible to manipulation as agricultural and other commodity futures where supplies are more limited.  And participants in financial futures markets are predominantly professionals that simply do not require the customer protections that may be needed by the general public.  Regulation that serves no useful purpose hinders the efficiency of markets to enlarge standards of living.  In choosing a particular regulatory regime it is important to remember that no system will fully eliminate inappropriate or illegal activities.  Banking examiners, for example, find it difficult to unearth fraud and embezzlement in their early stages.  Securities regulators have difficulty ferreting out malfeasance.  Even trading on exchanges does not in itself eliminate all endeavors at manipulation, as the Hunt brothers' 1979-80 fiasco in silver demonstrated.  The primary source of regulatory effectiveness has always been private traders being knowledgeable of their counterparties.  Government regulation can only act as a backup.  It should be careful to create net benefits to markets.
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: July 30, 1998, 10:00 AM

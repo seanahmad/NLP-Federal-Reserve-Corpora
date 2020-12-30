@@ -1,0 +1,245 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 19, 2007
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Frank, Ranking Member Bachus, and members of the Committee, I appreciate the opportunity to appear today to discuss the accuracy of credit reports and the rules pertaining to furnishers of information to consumer reporting agencies ("furnisher rules") required under the Fair and Accurate Credit Transactions Act of 2003 (FACT Act), which amended the Fair Credit Reporting Act (FCRA).
+
+[SECTION]
+
+IntroductionThe accuracy of credit reports is vital because inaccuracies in credit reports can result in a consumer being denied credit or paying higher rates for credit.   Inaccurate information can be introduced into credit reports by a variety of means, including mistakes in public records or data processing errors made by furnishers in connection with the information they provide.  Other causes are the reporting of fraudulent accounts opened as a result of identity theft, the mixing or commingling of the files of consumers who have similar names or Social Security numbers, or data processing errors made by consumer reporting agencies in connection with the information they receive.  Also, information that is correct at the time it is furnished is sometimes not updated in a timely manner.  Furnishers and consumer reporting agencies share responsibility for ensuring the accuracy of credit reports.Prior to the FACT Act, the FCRA imposed duties on both consumer reporting agencies and furnishers with regard to the accuracy of information in credit reports.  The FCRAâs existing dispute process allows consumers to contact consumer reporting agencies to dispute the accuracy of credit report information, and it requires a furnisher to assist in an investigation and correct any errors in the information furnished.  Congress adopted the FACT Act in 2003 to enhance the accuracy of credit reports and improve the dispute process.  Among other things, the FACT Act gives consumers the right to request free copies of their credit reports annually from each of the three nationwide credit bureaus.  This tool makes it possible for consumers to play a more active role in ensuring the accuracy of their own credit reports.  Several other provisions focus on the specific duties of furnishers to ensure the accuracy of the information they report to consumer reporting agencies and to strengthen the dispute process.  Under section 312 of the FACT Act, the federal banking agencies 1 the National Credit Union Administration (NCUA), and the Federal Trade Commission (FTC) (collectively "the agencies") must establish guidelines for use by furnishers to ensure the accuracy and integrity of the consumer information they report to a consumer reporting agency, and they must write regulations requiring furnishers to adopt reasonable policies and procedures to implement the guidelines.  In addition, section 312 requires the agencies to identify the circumstances when a furnisher must investigate a consumerâs dispute about the accuracy of credit report information based on a complaint that comes to the furnisher directly from the consumer, rather than through a consumer reporting agency.  The FACT Act also required the Board to issue a model notice for creditorsâ use when notifying consumers about the furnishing of negative information to credit bureaus, which the Board published in final form in June 2004.  Finally, the FACT Act requires certain studies relating to the accuracy of credit report information and the dispute process.  The Board and the FTC jointly submitted a report to Congress in August 2006 regarding the dispute process study.  The accuracy study was assigned to the FTC.
+
+[SECTION]
+
+The interagency rulemakings to develop the furnisher accuracy and integrity guidelines and direct dispute rules have not yet been completed.  An advance notice of proposed rulemaking (ANPR) relating to these interagency rules was published in March 2006.  The agencies are currently working to develop a proposal.
+
+[SECTION]
+
+Consumer Reporting in the United States The consumer reporting system in the United States is based largely on the voluntary submission of information by creditors and others to three major nationwide consumer reporting agencies or credit bureaus--Equifax, Experian, and TransUnion.  These credit bureaus collect information about consumers and sell the information in their files to creditors and others who have a permissible purpose under the FCRA to obtain and use the information.  The databases of the three nationwide credit bureaus contain detailed information that is widely used to determine whether to grant consumers credit or insurance or whether to offer employment, rental housing, or other products and services to consumers, as well as the terms that may be offered to consumers.The credit reporting system also includes a number of smaller consumer reporting agencies that operate on a regional or local basis.  These consumer reporting agencies typically contract for the right to house some or all of the consumer data that they own on the computer systems of one of the major credit bureaus.  Some consumer reporting agencies specialize by collecting and maintaining data pertaining only to certain topics, such as employment history, residential or tenant history, medical records or payments, check writing histories, or insurance claims.  The credit reporting business also includes "resellers" that buy consumer reports from one or more credit bureaus, add value to the consumer report (for example, by merging files from multiple credit bureaus), and resell to users who have a permissible purpose.  For example, some resellers specialize in selling merged-file reports to mortgage lenders.Much of the information that consumer reporting agencies collect, maintain, and sell is furnished voluntarily by banks, credit unions, finance companies, insurance companies, doctors and hospitals, debt collectors, and landlords.  However, as there is no requirement to furnish consumer information to consumer reporting agencies and since furnishers incur costs and obligations by participating in the credit reporting system, some potential furnishers decide not to submit consumer data to consumer reporting agencies.  Moreover, not all furnishers provide the same type of information.  Many report full account payment information to consumer reporting agencies (positive information when an account is current and negative information when an account is delinquent), but some report only negative information.  This is particularly true for accounts related to medical, telecommunications, and utility debts.  Some credit card issuers do not furnish data on consumersâ credit limits.  Finally, some furnishers provide information to only one or two of the nationwide credit bureaus, while others may report only to one of the specialized consumer reporting agencies.The Importance of Accuracy in Consumer Reports
+
+[SECTION]
+
+Current Legal Requirements, Board Enforcement, and Industry PracticesExisting FCRA Responsibilities of FurnishersRecognizing the importance of data accuracy in credit reports, Congress imposed requirements on furnishers in the FCRA, as amended by the FACT Act, to ensure the accuracy of the data that are furnished to consumer reporting agencies and to require furnishers to investigate disputes about accuracy when notified by a consumer reporting agency about a dispute. Under the FCRA, a person may not furnish information about a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate.  However, the FCRA provides that this standard does not apply to a furnisher that clearly and conspicuously provides consumers with an address for submitting notices of dispute.  Nevertheless, if a consumer sends a dispute to that address challenging the accuracy of any information the furnisher has provided to a consumer reporting agency about the consumer, and the information is, in fact, inaccurate, the furnisher must not report the incorrect information to any consumer reporting agency in the future.In addition, the FCRA generally imposes the following obligations on furnishers that regularly and in the ordinary course of business furnish information to one or more consumer reporting agencies:
+
+[SECTION]
+
+Moreover, the FCRA generally requires any furnisher of information to a consumer reporting agency to do the following:
+
+[SECTION]
+
+Existing FCRA Dispute ProcessThe FCRA establishes a comprehensive dispute process that allows a consumer to dispute the accuracy or completeness of information in the consumerâs credit file with the consumer reporting agency that maintains the file.  When the consumer reporting agency receives such a dispute, it must notify the furnisher.  Both the furnisher and the consumer reporting agency have responsibilities under the FCRA for investigating and resolving the dispute.
+
+[SECTION]
+
+Duties of the Consumer Reporting Agency.  If a consumer disputes the accuracy or completeness of any information in the consumerâs file, the consumer reporting agency must:
+
+[SECTION]
+
+Board Oversight of Furnishers The Federal Reserve System examines state-member banks and other entities over which it has FCRA enforcement authority for compliance with the FCRAâs existing furnisher provisions.  The OCC is responsible for enforcing the FCRA against national banks.  The FDIC is responsible for enforcing the FCRA against state non-member banks.  The OTS is responsible for enforcing the FCRA against thrifts.  The NCUA is responsible for enforcing the FCRA against federal credit unions.  The FTC is responsible for enforcing the FCRA against most other entities, including consumer reporting agencies, non-bank finance companies, state-chartered credit unions, utilities, retailers, and others.  State-member banks will be cited for violating the law if Reserve Bank examiners find violations of the FCRAâs furnisher provisions.  Between January 1, 2004, and May 1, 2007, examiners cited three banks for violations of section 623 of the FCRA.  In each case, the bank failed to comply with the negative information notice requirement.The Federal Reserve System also investigates consumer complaints against state-member banks.  The Reserve Banks have cited banks for violating the FCRA based on those complaints when warranted.  The Board maintains a database of consumer complaints against state-member banks.  Between January 1, 2004, and May 1, 2007, the Federal Reserve System received approximately 360 consumer complaints against state-member banks relating to the furnishing of inaccurate account information to consumer reporting agencies.  For most of the complaints received, there was no violation of the FCRA.  Four of the consumer complaints received during this period, however, revealed violations of the FCRA and prompted the Reserve Bank to cite the bank.  These violations are in addition to the three violations noted above.  Thus, during the forty-month period surveyed, the Federal Reserve System cited a total of seven violations of the furnisher provisions of the FCRA, three identified during bank examinations and four resulting from consumer complaints.In many cases in which there was no violation, the bank made an accommodation to the consumer to resolve the complaint.  For example, in one case, the complaining consumer believed she had paid her account in full and closed it, but her credit report indicated that the account was delinquent.  The Reserve Bank found that the consumer had paid the balance in full at one point, but found no evidence of a request to close the account.  Unpaid fees continued to accrue on the account and therefore the delinquency remained on the consumerâs credit report.  The bank agreed to waive the unpaid fees and close the account after it learned of the complaint.
+
+[SECTION]
+
+In approximately forty cases, the bank made an error and corrected the error.  Of course, not every bank error constitutes a violation of the FCRA.  For example, in one case, the consumer filed a complaint asserting that her credit card account was current and that the bank had erroneously reported to the credit bureau that her account was delinquent.  The Reserve Bankâs investigation found that the bank had not updated its files to reflect the complaining consumerâs new address.  Therefore, the consumer had not received periodic statements at her new address and, consequently, her account was past due.  Because the bank made the error, it updated its files and instructed the credit bureaus to remove the negative information from the consumerâs account history.  FACT Act Dispute StudyCompliance with Existing Dispute Responsibilities.  The FACT Act required the Board and the FTC jointly to study the extent to which consumer reporting agencies and furnishers comply with the FCRAâs existing requirements to investigate disputes about the accuracy of credit reports.  The Board and the FTC submitted their report (Dispute Study) to Congress in August 2006.6  In preparing the Dispute Study, the Board solicited public comment about the practices of furnishers under the existing dispute process.When a consumer reporting agency notifies a furnisher of information about receipt of a dispute from a consumer, the FCRA requires the notice to include all relevant information received from the consumer.  The Dispute Study offers some insight into how the three nationwide credit bureaus typically provide information to the furnisher using a consumer dispute verification (CDV) form sent by mail or fax or an electronic automated consumer dispute verification (ACDV) form that is prepared by the credit bureau.  The nature of the dispute is reflected in the form, with one or two codes (out of a total of twenty-six codes) typically used to summarize the nature of the consumerâs dispute.  If the credit bureau deems it necessary, a narrative summary is provided to supplement the dispute codes.  The nationwide credit bureaus typically do not forward to the furnisher documents provided by the consumer to support his or her claim.  Consumer groups that provided comments to the Board and the FTC as part of the Dispute Study criticized this practice as a flaw in the current dispute process and as inconsistent with the statuteâs requirement for the credit bureau to provide "all relevant information" received from the consumer to the furnisher.  The nationwide credit bureaus, on the other hand, have taken the position that providing to the furnisher a code that summarizes the consumerâs dispute satisfies the requirement to provide "all relevant information" to the furnisher.Direct Disputes.  The Dispute Study also examined current practices of furnishers regarding disputes they receive directly from consumers about the accuracy of information reported to consumer reporting agencies.  Most furnishers that commented reported that they investigate and attempt to resolve disputes received directly from consumers using procedures similar to those used for investigating disputes received through a consumer reporting agency, even though they are not currently required to do so.  Some furnishers that commented reported that they provide or plan to provide a specific address or other information to enable consumers to initiate a dispute directly with them.Enforcement Actions and Complaints.  As part of the Dispute Study, several banking agencies contributed data about enforcement actions and complaints.  The Board and the FDIC looked at violations of the furnisher dispute provisions by state-chartered banks and found very few violations.  In addition, the Board, FDIC, and OCC surveyed their complaint databases and found only a small number of complaints alleging that furnishers failed to properly reinvestigate information disputed by consumers.Recommendations.  In the Dispute Study, the Board and the FTC did not make any recommendations for further legislative action related to the dispute process because some of the new FACT Act requirements on furnishers and consumer reporting agencies have only been implemented recently and others still need to be implemented.  The Board and the FTC agreed that further legislative action would be premature.Status of the FACT Act RulemakingsThe FACT Act amended the FCRA to enhance the ability of consumers to combat identity theft, improve the accuracy of consumer reports, restrict the use of medical information in credit eligibility determinations, and allow consumers to exercise greater control regarding the type and amount of marketing solicitations they receive.  Many provisions of the FACT Act are not self-executing, but require the issuance of implementing rules before taking effect.  A number of these implementing rules must be developed on an interagency basis by the Board, the other federal banking agencies, the NCUA, the FTC, and, in one instance, the Securities and Exchange Commission.  There are two reasons for the delay in completing the furnisher rules under section 312 of the FACT Act.  One reason has to do with setting priorities.  Given the number of rulemakings required under the FACT Act and the complexity of many of those provisions, the agencies had to set priorities.  In setting priorities, the agencies were guided by two principles.  The agencies gave priority to working first on those rulemakings for which Congress set a statutory deadline for completion, such as for the medical information rules.  Congress set statutory deadlines for completing some, but not all, of the rulemakings, and did not set a statutory deadline for completing the interagency furnisher rulemakings.  The agencies also gave priority to working on rulemakings that address areas where federal consumer protection law is less developed.  For example, identity theft is a serious problem and federal consumer protections for identity theft are less developed than the consumer protections relating to furnisher responsibilities.  Therefore, the agencies worked to develop the identity theft red flags provisions, which were proposed in August 2006, before turning to the furnisher rules.A second reason has to do with the interagency process itself.  On the one hand, interagency rulemakings ensure that different perspectives are considered in developing a rule and that all agencies have a say in the outcome.  On the other hand, the interagency rulemaking process generally is a less efficient way to develop new regulations.  Frequently, it can be challenging to achieve a consensus among the different agencies involved in an interagency rulemaking.  As a result, interagency rulemakings can take considerably longer to complete than rulemakings that are assigned to a single agency.  In the case of the FACT Act, these challenges are compounded by the fact that we are not dealing with a single interagency rulemaking but with multiple interagency rulemakings.There are three rulemakings required by the FACT Act that pertain to the duties of furnishers.  One of these rulemakings, which did not involve multiple agencies, was completed in 2004.  The two interagency rulemakings dealing with furnishers under section 312 have not yet been completed.  The status of each of these rulemakings is summarized below.Negative Information Notice  The FACT Act requires a financial institution that furnishes negative information to a consumer reporting agency regarding credit extended to a customer to provide a notice to the customer about the furnishing of negative information.  This provision applies to financial institutions that extend credit and regularly furnish information to nationwide consumer reporting agencies.  For example, a financial institution must inform a customer that it has provided or may provide information about late payments, missed payments, or other defaults to credit bureaus.  The statute requires the Board to prescribe a model disclosure that financial institutions may use to comply with this requirement.  The Board fulfilled its statutory mandate by publishing a model disclosure in the Federal Register in June 2004, following notice and a period of public comment.    Accuracy and Integrity GuidelinesThe FACT Act requires the agencies to establish and maintain guidelines for use by each furnisher regarding the accuracy and integrity of the consumer information that the furnisher provides to consumer reporting agencies.  In addition, the agencies must prescribe regulations requiring furnishers to establish reasonable policies and procedures for implementing the accuracy and integrity guidelines.  The agencies must consult and coordinate with one another so that, to the extent possible, the regulations published by each agency are consistent and comparable.  Developing these regulations and guidelines is a complex task.  In fact, Congress instructed the agencies to take a deliberative approach in developing the accuracy and integrity guidelines by specifically directing the agencies to:
+
+[SECTION]
+
+In March 2006, the agencies took the first step in this process by publishing an ANPR regarding the interagency furnisher rules (71 Fed. Reg. 14,419 (Mar. 22, 2006)).  Two purposes of the ANPR were to gather information about the four elements the agencies must consider in developing the accuracy and integrity guidelines and to seek public input regarding reasonable policies and procedures for implementing the guidelines.Commenters on the ANPR identified certain furnisher activities that may compromise the accuracy and integrity of consumer reports.  These activities include:
+
+[SECTION]
+
+Commenters also provided input on reasonable policies and procedures that furnishers should implement to ensure the accuracy and integrity of the information they provide to consumer reporting agencies.  Suggestions included maintaining proper internal controls, training employees, conducting regular audits, using standardized reporting methods, requiring furnishers to review documents provided by the consumer, and requiring debt collectors and debt sellers to improve their practices.  One challenge in developing the accuracy and integrity guidelines is to ensure that they address only those inaccuracies introduced into credit reports by furnisher actions, rather than by the actions of other parties.  For example, some commenters on the ANPR noted that inaccuracies can result from the conversion or translation of furnished data by the consumer reporting agency using proprietary algorithms, even when the furnished data is accurate.  In such cases, the consumer reporting agency would be the party responsible for introducing the inaccuracy, but the guidelines will not apply to them.Furnishers can do a number of things to improve the accuracy of the information they furnish to consumer reporting agencies.  All furnishers should establish and implement policies and procedures to ensure the accuracy of the information that they furnish.  Such policies and procedures may include implementing appropriate controls, training employees, and conducting regular audits of furnishing activities.  As the 2003 and 2004 Board staff studies noted, the inaccurate, incomplete, or duplicative reporting of collection accounts by debt collectors is one particular area of concern.  I expect these items to be addressed in the accuracy and integrity guidelines.  Furnishers, however, cannot take full responsibility for improving the accuracy of credit reports.  Consumer reporting agencies need to examine their policies and procedures to ensure that they are not introducing errors into credit reports, for example, through data translation or data conversion errors or through the mixing or commingling of information about two consumers.  Errors can also exist in public records, such as bankruptcy court data, that consumer reporting agencies include in credit reports.  Finally, consumers now have access to free annual copies of their credit reports from each of the nationwide credit bureaus.  Consumers should obtain their free annual credit reports and check them for accuracy.  Direct Dispute RegulationsThe FACT Act requires the agencies jointly to prescribe regulations that identify the circumstances under which a furnisher is required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report based on a direct request by the consumer.  Development of this rule is also a complex task.  As it did with the accuracy and integrity guidelines, Congress instructed the agencies to take a deliberative approach in developing these regulations by specifically directing the agencies to weigh the following considerations:
+
+[SECTION]
+
+Another purpose of the March 2006 ANPR was to gather information with regard to each of the four considerations that the agencies must weigh when promulgating the direct dispute rules.  Commenters on the ANPR had a variety of views about when furnishers should be required to investigate alleged errors in credit reports based on direct communication from the consumer.  Many industry commenters believed that there were few, if any, circumstances in which furnishers should be required to investigate direct disputes.  Some believed that disputes initiated through a consumer reporting agency tend to be handled more quickly and are less prone to error.  Others believed that having a single point of contact is more efficient for consumers who find multiple errors on their credit reports.  Finally, others noted that furnishers are not equipped to resolve certain types of errors, such as errors involving commingled account information or mixed files.  On the other hand, some industry commenters suggested that investigations of direct disputes should be required only in connection with the most complicated types of disputes, such as those alleging fraud or identity theft.  According to industry commenters, financial institutions generally investigate disputes received directly from consumers even though the FCRA currently does not require them to do so.  Consumer group commenters said that furnishers should be required to investigate direct disputes.  These commenters noted that most furnishers already have obligations under other laws to investigate disputes received from consumers regarding many of their major product categories, such as credit cards and mortgages.  These commenters also believed that a direct dispute rule would mitigate problems that arise when furnishers either do not receive, or receive but fail to consider, documentation provided by the consumer to the consumer reporting agency.One challenge for the agencies in developing direct dispute rules is to determine when direct disputes would provide benefits to consumers, such as improved consumer report accuracy and expedited dispute resolution, without imposing undue costs or burdens on furnishers and the consumer reporting system.  For example, a system in which consumers routinely submit duplicate disputes to both furnishers and consumer reporting agencies would likely impose undue costs and burdens on furnishers and the consumer reporting system.  A complicating factor is the fact that in many cases a consumer who discovers an inaccuracy in his or her credit report may not know whether the furnisher or the consumer reporting agency caused the error. ConclusionCredit report accuracy is vital because inaccuracies can result in a consumer being denied credit or paying higher rates for credit.  Responsibility for ensuring accuracy must be shared by furnishers and consumer reporting agencies.  Consumers can also play an active role by obtaining free copies of their credit reports annually and checking them for accuracy.  The existing FCRA standards that apply to furnishers regarding the accuracy of credit report information and the investigation of disputes provide meaningful protections for consumers.  However, improvements to the furnisher rules can and should be made where appropriate.  The Board and the Reserve Banks enforce the existing FCRA furnisher standards against state-member banks through the examination process and assist consumers in resolving complaints about the reporting of inaccurate information to consumer reporting agencies.  To supplement these important consumer protections, the Board is committed to working with the other agencies to complete the interagency furnisher rulemakings as expeditiously as possible.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+The federal banking agencies are the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), the Office of the Comptroller of the Currency (OCC), and the Office of Thrift Supervision (OTS).Return to text
+
+[SECTION]
+
+Robert B. Avery, Raphael W. Bostic, Paul S. Calem, and Glenn B. Canner, An Overview of Consumer Data and Credit Reporting, Federal Reserve Bulletin, vol. 89, at 47-73 (Feb. 2003) (2003 Board staff study); Robert B. Avery, Paul S. Calem, Glenn B. Canner, and Shannon C. Mok, Credit Report Accuracy and Access to Credit, Federal Reserve Bulletin, vol. 90, at 297-322 (Summer 2004) (2004 Board staff study). Return to text
+
+[SECTION]
+
+Consumer Federation of America and National Credit Reporting Association, Credit Score Accuracy and Implications for Consumers (Dec. 17, 2002), at http://www.consumerfed.org/pdfs/121702CFA_NCRA_Credit_Score_Report_Final.pdf (258 KB) Return to text
+
+[SECTION]
+
+The FTCâs first and second interim reports to Congress regarding this ongoing study are available at http://www.ftc.gov/reports/FACTACT/FACT_Act_Report_2006.pdf (34 KB) and http://www.ftc.gov/reports/facta/041209factarpt.pdf (1.1 MB)Return to text
+
+[SECTION]
+
+2003 Board staff study; 2004 Board staff study. Return to text
+
+[SECTION]
+
+Report to Congress on the Fair Credit Reporting Act Dispute Process (August 2006) (hereafter "Dispute Study"). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

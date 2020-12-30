@@ -1,0 +1,130 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I would like to thank the Committee for the opportunity to present the views of the Federal Reserve on the current version of H.R. 10, the approach to financial modernization most recently approved by the House Banking Committee.  Last year, I testified at length before this Committee on many of the issues related to your deliberations on this legislation.  Our views have not changed on the need to modernize our banking and financial system, on consolidated supervision, on the emphasis on reduced regulation, on the unitary thrift loophole, and especially on continuing to prohibit banks from conducting through their subsidiaries those activities that they are prohibited to do themselves.  In the interest of time, however, I thought it might be best if I limit my formal comments only to the latter, that is, the setting of the underlying structure of American banking in the 21st century.  The issue is whether the important new powers being contemplated are exercised in a financial services holding company through a non-bank affiliate or in a bank through its subsidiary.  Such a decision would be of minor significance, and decidedly not a concern of legislators and regulators, if banks were not subsidized.
+
+[SECTION]
+
+We at the Federal Reserve strongly support the new powers that would be authorized by H.R. 10.  We believe that these powers, however, should be financed essentially in the competitive market place, and not financed by the sovereign credit of the United States.  This requires that the new activities be permitted through holding companies and prohibited through banks.
+
+[SECTION]
+
+Operating Subsidiaries
+The Board believes that any version of financial modernization legislation that authorizes banks to conduct in their subsidiaries any activity as principal that is prohibited to the bank itself, is potentially a step backward to greater federal subsidization, and eventually to more regulation to contain the subsidies.  I and my colleagues, accordingly, are firmly of the view that the 
+ long-term stability of U.S. financial markets and the interests of the American taxpayer would be better served by no financial modernization bill rather than one that allows the proposed new activities to be conducted by the bank, as proposed by H.R. 10.  For reasons I shall discuss shortly, the Board is not dissuaded from this view by provisions that have been incorporated in H.R. 10 to address our concerns.
+
+[SECTION]
+
+Subsidies.  Government guarantees of the banking system--deposit insurance and direct access to the Fed's discount window and payments system guarantees--provide banks with a lower average cost of capital than would otherwise be the case.  This subsidized cost of capital is achieved through lower market risk premiums on both insured and uninsured debt, and through lower capital than would be required by the market if there were no government guarantees.  The lower cost of funding gives banks a distinct competitive advantage over nonbank financial competitors, and permits them to take greater risks than they could otherwise.
+
+[SECTION]
+
+The safety net subsidy is reflected in lower equity capital ratios at banks, that are consistently below those of a variety of nonbank financial institutions.  Importantly, this is true even when we compare bank and nonbank financial institutions with the same credit ratings:  banks with the same credit ratings as their nonbank competitors are allowed by the market to have lower capital ratios.  While the differences in capital ratios could reflect differences in overall asset quality, there is little to suggest that this factor accounts for more than a small part of the difference.
+
+[SECTION]
+
+Under H.R. 10, the subsidy that the government provides to banks as a byproduct of the safety net would be directly transferable to their operating subsidiaries to finance powers not currently permissible to the bank or its subsidiaries.  The funds a bank uses to invest in the equity of its subs are available to the bank at a lower cost than that of any other potential investor, save the United States Government, because of the subsidy.  Thus, operating subsidiaries under 
+H.R. 10 could conduct new securities, merchant banking, and other activities with a government subsidized competitive advantage over independent firms that conduct the same activity.  That is to say, the use of the universal bank structure envisioned in H.R. 10 means the transference of the subsidy to a wider range of financial businesses, producing distortions in the competitive balance between those latter units that receive a subsidy and identical units that do not--whether those units are subs of holding companies or totally independent of banking.
+
+[SECTION]
+
+H.R. 10 does not contain provisions that effectively curtail the transfer of the subsidy to operating subsidiaries or address this competitive imbalance.  The provisions of H.R. 10 that would require the deduction of such investments from the regulatory capital of the bank (after which the bank must still meet the regulatory definition of well-capitalized) attempt, but fail, to limit the amount of subsidized funds that an individual bank can invest in its subs.  What matters is not regulatory capital, but actual or economic capital.  The vast majority of banks now hold significantly more capital than regulatory definitions of "well-capitalized" require.  This capital is not "excess" in an economic sense that is somehow available for use outside the bank; it is the actual amount required by the market for the bank to conduct its own activities.  The actual capital maintained by a bank is established in order to earn the perceived maximum risk-adjusted rate of return on equity.  Unless this optimum economic capital is equal to, or less than, regulatory capital, deductions from regulatory capital would in no way inhibit the transfer of the subsidy from the bank to the subsidiary.
+
+[SECTION]
+
+Some have argued that the subsidy transference to subsidiaries of banks is no different from the transfer of subsidized bank dividends through the holding company parent to holding company affiliates.  The direct upstreaming of dividends by a bank to its holding company parent that in turn invests the proceeds in subsidiaries of the holding company, while legally permissible, in fact does not occur--and for good reasons, as I will explain below.  In the 1990's, dividend flows from banks to their parent holding companies have been less than the sum of holding company dividends, interest on holding company debt, and the cost of holding company stock buy backs, a substitute for dividends.  Thus, the empirical evidence indicates that, on net, at the largest organizations there has been no financing of a bank's holding company affiliates with subsidized equity of the associated banks.  All of that part of the subsidy reflected in earnings has flowed to investors.  (There are a few large individual institutions that have, in some years, upstreamed dividends in excess of investor payments, but the cumulative amounts are very small and the conclusions are unchanged.)
+
+[SECTION]
+
+That bank dividends are not used to finance holding company subsidiaries should not be surprising.  It simply is not in the interest of the consolidated banking organization to increase bank dividend flows beyond parent company capital-servicing cash flow needs because the resultant decline in bank capital would increase funding costs of the bank.  Research at the Federal Reserve indicates that, over the past quarter of a century, for the largest banks the cost of uninsured bank funds has tended to rise as a bank's capital ratio fell and vice-versa.  This is just what one should expect: As the risk-absorbing equity cushion falls, the risk for uninsured creditors rises.  The flow of dividends from the bank to the parent holding company reduces bank capital.  That reduction, in turn, reduces the risk buffer for uninsured creditors, increasing the funding cost of the bank on all the uninsured liabilities by more--the data show--than the small subsidy transference of funding the additional equity investment in the affiliate.
+
+[SECTION]
+
+Thus, were a bank holding company to finance its nonbank affiliates from bank dividends--that is, to directly pass on the bank's subsidy to the holding company's affiliates-- the profitability of the consolidated organization would decline.  If there were no net costs to the bank from upstreaming dividends to its parent for affiliate funding, it would be the prevalent practice today.  In short, the subsidy appears to have been effectively bottled up in the bank.  The Federal Reserve Board believes that this genie would be irreversibly let out of the bottle, however, should the Congress authorize wider financial activities in operating subs.  Subsidized equity investments by banks can be made in their own subsidiaries without increasing funding costs on all of the bank's uninsured liabilities because the consolidated capital of the bank would not change in the process.  But since the activities authorized to banks' subsidiaries cannot differ from those available to the bank itself, there is no additional profit to the overall banking organization in shifting bank powers to a subsidiary.
+
+[SECTION]
+
+But H.R. 10 would permit activities not now permitted in a bank.  Those activities, when performed in bank subsidiaries and financed with bank equity capital would increase the potential profit to the overall banking organization.  It would also inevitably induce the gravitation to subsidiaries of banks, not only of the new powers authorized by H.R. 10, but all of those powers currently financed in holding company affiliates at higher costs of capital than those available to the bank.  H.R. 10 thus effectively authorizes all holding company powers to be funded in the bank at funding costs significantly lower than the funding costs of its holding company.
+
+[SECTION]
+
+For the 35 of the 50 largest bank holding companies for which comparisons are available,  ratings on debentures are always somewhat higher at the bank than at the holding company parent and, of course, higher ratings translate into lower interest rates.  As might be expected, the data show that the value of these differences in bond ratings is higher during periods of market stress, when subsidies are more valuable, because the market is more risk sensitive.  But even today, when losses in the financial system are quite low, the cost of debt capital to banks still averages 10 to 12 basis points below that of the parent holding companies.  That difference in bond ratings today between banks and bank holding companies, let alone the larger difference between banks and other financial institutions, is a significant part of the 20 to 30 basis point gross margin on A-rated or better investment grade business loans--more than enough significantly to change lending behavior if it were not available.
+
+[SECTION]
+
+Business loan markets are particularly competitive, and hence there is little leeway for a competitor with higher funding costs to pass on such costs to the borrower.  For example, the weakened credit standing of the Japanese banks has engendered a risk premium that these entities have paid--and today would have to pay--to fund their U.S. affiliates; this has required them to sharply reduce their business loan volume in the United States.  Japanese bank branches and agencies in the United States have reduced their share of business loans from over 16 percent of the market in 1995 to less than 11 percent today.
+
+[SECTION]
+
+In short, the subsidy is a critical competitive issue in competitive markets.  Allowing the bank to inject federal subsidies into the proposed new activities could distort capital markets and the efficient allocation of both financial and real resources.  New affiliations, if allowed through banks, would accord them an unfair competitive advantage over comparable nonbank firms.  The holding company structure, on the other hand, fosters a level playing field within the financial services industry, contributing to a more competitive environment.
+
+[SECTION]
+
+Safety and Soundness.  In addition to our concern about the extension of the safety net that would accompany the widening of bank activities through operating subsidiaries, the Federal Reserve Board is also sensitive to the implications of operating subsidiaries for the safety and soundness of the parent bank.  Most of the new activities contemplated by H.R. 10 would not be accompanied by unusually high risk, but they could imply more risk.  The Board believes these activities add the potential for new profitable opportunities for banking organizations, but it is almost always the case that the more potentially profitable the activity, the riskier it is.  Although, to be sure, diversification can reduce that risk, the losses that would accompany riskier activities from time to time would fall on the insured bank's capital if the new activities were authorized in bank subsidiaries.  Such losses at holding company affiliates would, of course, fall on the uninsured holding company.  This is an important distinction for the deposit insurance funds and potentially the taxpayer.  This potential for loss and bank capital depletion is another reason for urging that the new activities be conducted in a holding company affiliate rather than in a banking subsidiary.
+
+[SECTION]
+
+H.R. 10 is supposed to virtually eliminate this concern.  As I earlier noted, the bank's equity investment in the bank subsidiary under H.R. 10 would be deducted from the bank's regulatory capital, with the requirement that the remaining regulatory capital still meet the well-capitalized standard.  At the same time, the OCC has asserted that it would order an operating sub immediately to be sold or declared bankrupt and closed before its cumulative losses exceeded the bank's equity investment in the failing sub.  Combined with the provision of  H.R. 10 adjusting regulatory capital for investment in subs, this provision is intended to cap the effect on the bank of subsidiary losses to the amount of the bank's original investment.  Since that amount would have already been deducted from the bank's regulatory capital, the failure of the subsidiary, it is maintained, could not affect the regulatory capital of the bank.
+
+[SECTION]
+
+The Board is concerned that this regulatory accounting approach, that does not address the actual capital of a bank, could provide a false sense of security.  We had extensive experience with attempts to redefine reality by redefining regulatory capital in the thrift industry in the 1980's.  This approach was widely viewed as a major mistake whose echoes we are still dealing with today.  Regulatory capital at the time soon began to mean nothing to the market, and, as a consequence, Congress in FDICIA ordered the banking agencies to follow Generally Accepted Accounting Principles (GAAP) whenever possible.  In the current context, there is--as in the 1980's--no reason to believe the new regulatory definitions will change the reality of the market place.  Economic, as opposed to regulatory, capital of the bank would not, as I have noted, be changed by this special regulatory capital accounting and such deductions from equity capital would not be reflected under GAAP.  It is the economically more relevant GAAP statements to which uninsured creditors of banks look when deciding to deal with a bank, and they will continue to do so after financial modernization.  Bank creditors will, in any event, continue to view the investment in the bank subsidiary as part of the capital protecting their position--for the simple reason that it does.  If they see the economic and GAAP capital at the bank declining as operating sub losses occur, they will react as any prudential creditor should--regardless of artificial regulatory accounting adjustments or regulatory measures of capital adequacy.
+
+[SECTION]
+
+Perhaps more to the point, it seems to me particularly relevant to underline that losses in financial markets--large losses--can occur so quickly that regulators would be unable to close the failing operating sub as contemplated by H.R. 10 before the subsidiaries capital ran out.  Indeed, losses might even continue to build, producing negative net worth in the subsidiary.  At the time of closure of a subsidiary, there is nothing to prevent the total charges for losses against the parent bank's regulatory capital from exceeding the prior deduction required by H.R. 10.1  Our experience following the stock market crash of 1987--when a subsidiary of a major bank not only lost more than the bank's investment in its sub, but the bank was unable to dispose of the subsidiary for several years--underscores the seriousness of such concerns.
+
+[SECTION]
+
+H.R. 10 would exclude from permissible bank subsidiaries only insurance underwriting and real estate development.  One of the permissible activities is merchant banking, which does not have a long or significant 20th century history in this country.  Merchant banking currently means the negotiated private purchase of equity investments by financial institutions, with the objective of selling these positions at the end of some interval, usually measured in years Merchant banking has become so important an element of full service investment banking in this country, so much so that to prohibit bank-related investment banks from participating in these activities would put them at a competitive disadvantage.  The Board has consequently supported merchant banking as an activity of a holding company subsidiary, but believes it is potentially the most risky activity that would be authorized by H.R. 10, and would be especially risky if permitted to be conducted in bank subsidiaries.
+
+[SECTION]
+
+Existing law permits some limited exceptions to the otherwise prohibited outright ownership of equity by banks and their subsidiaries, but these are quite limited both in the aggregate and in the kinds of businesses in which equity can be purchased, as well as in the scale of each investment.  True merchant banking, as envisioned by H.R. 10, would place no such limits--either per firm or in total.  The potential rewards for such equity investments are substantial, but such potential gains are the mirror image of the potential for substantial loss.  In addition, poor equity performance generally occurs during periods of weak nationwide economic performance, the same intervals over which bank loan portfolios are usually under pressure, raising concerns about the compounding of bank problems during such periods.
+
+[SECTION]
+
+Functional Regulation
+The holding company structure--especially for the new activities--also has the significant benefit of promoting effective supervision and the functional regulation of different activities.  The holding company structure, along with the so-called "Fed-lite" provisions in H.R. 10, focuses on and enhances the functional regulation of securities firms, insurance companies, insured depository institutions and their affiliates by relying on the expertise and supervisory strengths of different functional regulators, reducing the potential burdensome overlap of regulation, and providing for increased coordination and reduced potential for conflict among functional regulators.
+
+[SECTION]
+
+Executive Branch Prerogatives  
+There is a final point I want to make since it appears to have driven Treasury's recent opposition to financial modernization legislation that has not adopted the universal bank model.  It is not necessary to adopt the universal bank model in order to preserve the executive branch's supervisory authority for national banks or federal savings associations; nor is it necessary in order to preserve the share of this nation's banking assets controlled by national banks and federal savings associations.  In fact, the share of assets controlled by national banks is predominant and growing, in part the result of the enactment of interstate branching authorities, an initiative the Federal Reserve fully supported.  As shown in the tables in the appendix to my statement, national bank assets have increased in each of the last three years while state bank assets have declined over the past two years.  As of year-end 1998, 58.5 percent of all banking assets were under the supervision of the Comptroller of the Currency, up from a little over 55 percent at the end of 1996.  As the second table clearly suggests, the largest banks, especially those with large branching systems, tend to be national banks, providing a distinct advantage to national banks in an environment of interstate branching.
+
+[SECTION]
+
+Furthermore, Congress for sound public policy reasons has purposefully apportioned responsibility for this nation's financial institutions among the elected executive branch and independent regulatory agencies.  Action to alter these responsibilities would be contrary to the deliberate steps that Congress has taken to ensure a proper balance in the regulation of this nation's dual banking system.
+
+[SECTION]
+
+Summing Up
+The Board is a strong advocate of financial modernization in order both to eliminate the inefficiencies of the current Great Depression regulatory structure and to create a system more in keeping with the technology and markets of the 21st century.   We strongly support the thrust of H.R. 10 to accomplish these objectives.  Equally as strongly, however, we also believe that the new activities should not be authorized for banks through operating subsidiaries.  We believe that the holding company structure is the most appropriate and effective one for limiting transfer of the Federal subsidy to new activities and fostering a level playing field both for financial firms affiliated with banks and independent firms.  It will also, in our judgement, foster the protection of the safety and soundness of our insured banking system and the taxpayers, enhance functional regulation, and achieve all of the benefits of financial modernization for the consumer and the financial services industry.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+

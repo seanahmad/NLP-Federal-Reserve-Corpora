@@ -1,0 +1,124 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I appreciate the opportunity to appear before this subcommittee to offer staff comments on H.R. 1701, the Consumer Rental Purchase Agreement Act, which would amend the Consumer Credit Protection Act.  I am the director of the Federal Reserve Boards Division of Consumer and Community Affairs, which carries out the Boards responsibilities for administering a number of the consumer protection laws that make up the Consumer Credit Protection Act, including the Truth in Lending Act and the Consumer Leasing Act.
+
+[SECTION]
+
+H.R. 1701 would require cost disclosures for rental-purchase agreements, which are also known as rent-to-own transactions.  The bill has substantive provisions.  For example, it establishes consumers right to reinstate an agreement after failing to make a timely payment.  The bill also would prohibit certain provisions in rental-purchase contracts, such as confession-of-judgment clauses that prevent consumers from defending any legal action brought under the contract.  H.R. 1701 treats rent-to-own transactions differently from both credit sales and traditional leases and would, therefore, cover them under a separate regulatory scheme altogether.
+
+[SECTION]
+
+The Federal Reserve Board has not taken a position on H.R. 1701.  However, I am glad to share the Board staffs observationsabout the bill and some of the issues raisedin response to your request.
+
+[SECTION]
+
+Rental-purchase transactions involve short-term, renewable rentals of personal property, typically on a week-to-week or month-to-month basis.  For example, a consumer may rent a television set, major household appliances such as a washing machine or refrigerator, or home furnishings such as living room furniture.  By renewing the rental from one period to the next, a consumer can ultimately purchase the item after making a specified number of payments, but the consumer is not obligated to do so.
+
+[SECTION]
+
+Rental-purchase transactions typically are for less than four months initiallyalthough they often extend for longer periods.  These agreements are not covered by the disclosure requirements of the federal Consumer Leasing Act, which applies to leases that initially exceed four months.  Nor are these transactions generally credit sales for purposes of Truth in Lending Act disclosures.  Contracts in the form of a lease are treated as credit under Truth in Lending only if the consumer is obligated to purchase the property and pay an amount equal to or exceeding the total value of the property; such an obligation does not typically exist in rent-to-own transactions.
+
+[SECTION]
+
+Under the Consumer Leasing Act, consumers receive federally mandated disclosures concerning the cost of the transaction prior to entering into the lease.  These disclosures include a description of the leased property, an itemization of any up-front payments, a payment schedule showing the amount of each periodic (typically monthly) payment, a listing of any other charges the consumer will have to pay, and the total of payments that the consumer will have paid by the end of the lease.  There are also disclosures regarding early termination charges, late payment fees, property maintenance responsibilities, and the consumers options for purchasing the property.
+
+[SECTION]
+
+Under the Truth in Lending Act, consumers must receive disclosure of the key costs and terms of credit transactions before they become obligated for the extension of credit.  Consumers receive disclosures that include the amount of credit extended (known as the amount financed), the cost of credit expressed as a dollar amount (the finance charge) and as an annual percentage rate (APR), the total amount the consumer will pay, and a payment schedule showing the timing and amount of each payment.
+
+[SECTION]
+
+Assessing the Need for Legislation 
+While, currently, there is no federal regulation of rental-purchase transactions, laws governing these transactions have been adopted in forty-seven states.  These laws were enacted largely with the support of the industry.  All of the state laws have been enacted since 1984 (twenty-four of them since 1990).
+
+[SECTION]
+
+In the early 1980s, before any action was taken at the state level, representatives of the rental-purchase industry supported federal legislation to cover these transactions. For firms operating in multiple states, a uniform regulatory framework eases the compliance costs.  At the time, federal legislation was also advocated by the industry to clarify that rental-purchase transactions are leases under the tax laws, and to preclude states from applying their credit laws and usury limits to these transactions.  The subsequent enactment of state laws and other legal developments may have settled these issues to some extent.
+
+[SECTION]
+
+In the early 1980s, some consumer advocates also favored federal legislation covering rental-purchase transactions, because of the lack of state law consumer protections.  Since the mid-to-late 1980s, however, consumer advocates have generally objected to legislation proposed at the federal level for several reasonsbecause they believe the federal proposals provided insufficient consumer protections; because federal legislation might have preempted state laws that they viewed as more protective; and, in the case of some consumer advocates, because they continued to view rent-to-own transactions as credit sales under the Truth in Lending Act.
+
+[SECTION]
+
+Given the existing body of state law, the subcommittee is to be commended for holding these hearings to explorewith industry representatives and consumer advocatesthe need for federal legislation.  The views of the state agencies charged with administering and enforcing the applicable state laws should also be helpful in this process.  Much can be learned, for example, about the effectiveness and adequacy of the existing state laws and the states experience in enforcing them.  I expect you will find the Federal Trade Commissions survey on the rent-to-own industry particularly useful in identifying and discussing relevant issues.  The FTC report on its survey of rent-to-own customers has been a primaryand importantsource of information for the Board staffs consideration of these issues.
+
+[SECTION]
+
+Effective Disclosures
+Several provisions of H.R. 1701 focus on consumer disclosures in advertising, on price tags, in catalogues, and in contracts.  Disclosures are most effective when consumers receive them early enough in the process to use them as a shopping tool, and when the disclosures are presented in a way that enables consumers to focus on the key costs and terms.  We also offer the general observation that, while disclosure is important, too much information can sometimes obscure the basic, key information consumers may need to make an informed choice.
+
+[SECTION]
+
+The fact that rent-to-own transactions have characteristics of both sales and leases is important to consider in determining what disclosures consumers need.  Although there may be some disagreement about the purchase rate for rent-to-own merchandise, the percentage of purchases by customers who enter into these transactions appears to be substantial.  The FTCs survey found that about seventy percent of rent-to-own merchandise was purchased by consumers.  But as the FTC report also notes, industry sources have consistently maintained that the purchase rate is considerably lower, about twenty-five to thirty percent.
+
+[SECTION]
+
+Under H.R. 1701, key cost disclosures must be provided on merchandise tags or labels for property that is displayed or offered in a dealers place of business.  As the bill recognizes, such disclosures could be a useful shopping tool for consumers.  Only eighteen states currently require merchandise disclosures, so this is one aspect in which federal law could directly enhance state-law protections, although some firms may voluntarily be providing these disclosures.
+
+[SECTION]
+
+As to the content of merchandise tags, we concur with the FTC reports assessment about disclosure of total cost for purposes of comparison shopping.  Because many customers may end up purchasing the property, merchandise tags and labels should show the total cost to purchase the item, as provided in H.R. 1701, and not just the rental fee.  Of the states that require merchandise tags, all but a few require inclusion of the total purchase price.  Consumers could use the total purchase cost disclosure while shopping, to compare the dealers purchase price with the prices offered by other rent-to-own dealers.
+
+[SECTION]
+
+In addition to the total rental-purchase cost, H.R. 1701 would require merchants also to disclose a cash price for the property covered by the rental-purchase agreement. This disclosure would enable consumers to compare the cash price from a rent-to-own dealer with the sale prices at traditional retail stores.  In making this comparison, a consumer could judge whether the rent-to-own dealers cash price is reasonable for the goods and services being provided, and they can look at the difference between the dealers cash price and the total purchase price under the rental-purchase agreement.
+
+[SECTION]
+
+H.R. 1701 also requires that more detailed disclosures be made in connection with the rental-purchase agreement, at or before the date of consummation.  Most of the cost disclosures would have to be grouped together and segregated from other information.  Disclosures about other terms and conditions must be clearly and conspicuously included in the rental-purchase agreement.  This segregation is consistent with the approach used in the Consumer Leasing Act and Truth in Lending Act, and is an approach that we believe is effective in calling the consumers attention to the most important terms.
+
+[SECTION]
+
+The Standard for Preemption of State Laws
+You asked us to comment on the impact of H.R. 1701 on state law.  A bill establishing federal minimum standards for consumer disclosures in rental-purchase transactions may offer some benefits to consumers and to the industry.  The effect of any federal legislation on the ability of states to retain more protective statutory provisions, or adopt new consumer protections, should also be taken into account.
+
+[SECTION]
+
+H.R. 1701 would amend the Consumer Credit Protection Act.  But as drafted, the bill applies a standard for preemption that differs from the standard used under other titles of the Act.  Under the existing federal statutes, a specific provision in state law is generally preempted only to the extent that the state provision is inconsistent with the federal statute.  H.R. 1701 contains this language but omits other language used in the Consumer Credit Protection Act statutes.  The omitted language provides that a state law is not inconsistent with the federal statute if it is found to give greater protection to the consumer.
+
+[SECTION]
+
+The preemption provisions in H.R. 1701 would expressly preclude states from requiring an APR disclosure or subjecting rental-purchase transactions to state credit laws, including usury limits.  It is not clear whether the preemption provisions in H.R. 1701 are intended to limit the states ability to retain (or adopt) more protective rules on other aspects of rent-to-own transactions.  For example, some states mandate longer reinstatement periods than the periods specified in H.R. 1701.  The effect on these laws should be clarified.
+
+[SECTION]
+
+Rulewriting Authority    
+You also have asked us to comment on whether the FTC or the Federal Reserve should write the regulations implementing H.R. 1701, and who should be responsible for enforcing these regulations.  As drafted, the bill currently gives rulewriting authority to the Federal Reserve Board.  We strongly urge that further thought be given to whether the Federal Reserve is the appropriate agency to regulate these transactions.
+
+[SECTION]
+
+The Federal Reserve has no supervisory relationship with rent-to-own dealers, which are firms that are not generally subject to Board regulations governing financial services.  These transactions are not covered by the existing credit or leasing regulations, and hence the Boards staff has no direct experience with industry practices and how rental-purchase transactions are conducted.
+
+[SECTION]
+
+We believe the Federal Trade Commissions experience in regulating the trade practices of commercial firms makes that agency the more logical choice for writing regulations.  As H.R. 1701 recognizes, the FTC is the most appropriate agency for purposes of enforcement because it is the principal agency charged with enforcing the Consumer Credit Protection Act with respect to companies that are not depository institutions.  The Federal Reserve and other federal banking agencies have enforcement authority under that act only with respect to the depository institutions they supervise.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2001 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: July 12, 2001, 10:00 AM

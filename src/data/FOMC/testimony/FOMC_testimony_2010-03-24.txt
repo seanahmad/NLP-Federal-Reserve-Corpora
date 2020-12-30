@@ -1,0 +1,475 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 24, 2010
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Committee on Financial Services, Subcommittee on Financial Institutions and Consumer Credit, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Gutierrez, Ranking Member Hensarling, and members of the Subcommittee, thank you for this opportunity to address credit scoring and the role of the Federal Reserve Board (FRB) in ensuring that lenders use credit scoring systems appropriately to evaluate consumers' credit risk. In my testimony, I will (1) discuss our examination processes for credit scoring systems, both for fair lending and safety and soundness; (2) outline the findings of the Board's 2007 report on credit scoring and its effects on the availability and affordability of credit, particularly for protected and historically underserved populations; and (3) describe the new rules for creditors that engage in risk-based pricing based on credit report information, which will likely result in many more consumers receiving their credit scores and related information without charge.
+
+[SECTION]
+
+The Board has three roles in connection with credit scoring systems. First, as a rule writer, the Board has issued Regulation B, which implements the Equal Credit Opportunity Act (ECOA). Regulation B prohibits discrimination against credit applicants on any prohibited basis, such as race, national origin, age, or sex. Regulation B also addresses the use of prohibited bases in credit scoring systems.
+
+[SECTION]
+
+In addition, the Board has shared rulemaking authority with other regulatory agencies under the Fair and Accurate Credit Transactions Act of 2003 (FACT Act), which amended the Fair Credit Reporting Act (FCRA). The Board, acting jointly with the Federal Trade Commission (FTC), issued new rules under the FCRA regarding risk-based pricing in January 2010. Greater disclosure of credit scores to consumers is a likely outgrowth of those rules.
+
+[SECTION]
+
+Second, as a supervisor of financial institutions, the Board conducts fair lending examinations to ensure that financial institutions are using credit scoring models that comply with ECOA and other applicable fair lending laws, and takes enforcement action if it finds violations. The Board also conducts safety and soundness examinations to ensure that financial institutions use credit scoring models in a safe and sound manner.
+
+[SECTION]
+
+Third, as research institutions, the Board and Reserve Banks study significant trends in credit markets, such as the use of credit scores and credit scoring models; publish their research; and encourage research by other parties as well.
+
+[SECTION]
+
+Background on Credit Scoring Systems and the Equal Credit Opportunity Act
+
+Credit Scoring Systems
+Credit scoring is a statistical methodology that quantifies the credit risk--the likelihood of nonpayment or default--posed by a prospective or current borrower. The prevalence of credit scoring systems has increased significantly over the past two decades. Today, credit scoring is widely used to underwrite and price many types of consumer credit, including mortgage loans, auto loans, and credit cards. When used appropriately, credit scoring can increase the objectivity and consistency of the credit evaluation process. Credit scoring also has increased access to credit for consumers, enhanced competition, and improved market efficiency.
+
+[SECTION]
+
+At the same time, the growing use of credit scoring has been accompanied by concerns about its potential negative effect on fair access to credit, especially for women and minorities. Therefore, the Congress directed the Board to study how credit scoring has affected the availability and affordability of credit to determine the relationship between credit scores and subsequent loan repayment performance and to determine how these relationships vary for the population groups protected under ECOA. The Congress also directed the Board to study the extent to which consideration of certain factors in credit scoring systems could have a negative effect on protected populations, as well as the extent to which alternative factors could achieve comparable results with less negative effect on protected populations.1
+
+[SECTION]
+
+Equal Credit Opportunity Act
+ECOA generally prohibits creditors from discriminating against a credit applicant on a prohibited basis (such as race, national origin, age, or sex) in a credit transaction. ECOA is implemented by the Board's Regulation B.
+
+[SECTION]
+
+Under ECOA and Regulation B, lenders are prohibited from using credit scoring systems that take into account any prohibited basis, except for age. Lenders are not permitted to use a credit scoring system that considers race, color, religion, national origin, or sex to evaluate an applicant's creditworthiness. ECOA and Regulation B allow lenders to consider age as a predictive factor in an empirically derived, demonstrably and statistically sound, credit scoring system (validated system).2
+
+[SECTION]
+
+A credit scoring system is a validated system if it is (1) based on empirical data that compares sample groups or actual populations of creditworthy and noncreditworthy applicants within a reasonable time period; (2) developed to calculate the credit risk of applicants for legitimate business purposes, such as minimizing bad debt losses; (3) developed and validated using accepted statistical methods; and (4) periodically revalidated using the same standards.
+
+[SECTION]
+
+Any system that does not qualify as a validated system is classified as a judgmental system under Regulation B. In judgmental systems, lenders are limited to considering age only for the purpose of determining a "pertinent element of creditworthiness."3 For example, age may not be considered directly, but it can be used if it relates to other information used to evaluate creditworthiness, such as to assess the significance of length of employment (for instance, in the case of a young credit applicant that recently entered the job market).
+
+[SECTION]
+
+Lenders must revalidate these systems frequently enough to continue to meet recognized professional statistical standards for statistical soundness. For example, periodic review of a system's performance could include analyzing shifts in a lender's customer base to detect deviations from the population of applicants used to validate the system. Lenders may also use validated systems that are developed by third parties. However, lenders retain responsibility for ensuring that these systems comply with Regulation B.
+
+[SECTION]
+
+Examiners and lenders look to the Regulation B standard as a useful benchmark for fair lending compliance and for safety and soundness when evaluating a credit scoring system, even when age is not used as a predictive variable. When a credit scoring system is a validated system, there is a greater degree of confidence that the system is predictive of risk and does not have a disparate impact on a protected population or otherwise pose substantial fair lending compliance risks.4
+
+[SECTION]
+
+Properly constructed credit scoring systems instill objectivity into the credit evaluation process. Well-constructed systems apply the same criteria to all credit applicants without consideration of prohibited bases, such as race, sex, and, to a limited extent, age. Credit scoring systems may help lenders facilitate consistency and limit lender discretion in the credit evaluation process, and thus promote fair lending.
+
+[SECTION]
+
+Examination of Credit Scoring Systems
+
+Fair Lending Examinations of Credit Scoring Systems
+As a supervisor of financial institutions, the Board has a long-standing commitment to ensure that every institution it supervises complies fully with the federal fair lending laws (ECOA and the Fair Housing Act). The Board has a dedicated Fair Lending Enforcement Section, which provides legal and statistical support to examiners and ensures that fair lending laws are enforced rigorously. And fair lending is an integral part of every consumer compliance examination.
+
+[SECTION]
+
+Following the Interagency Fair Lending Examination Procedures, each fair lending examination includes an assessment of the bank's fair lending risk across its business lines, such as mortgage, consumer, and auto lending. 5   Based on this risk assessment, examiners identify the specific business lines on which to focus, and in each examination they evaluate in detail at least one product or class of products. As appropriate, examiners evaluate an institution's credit scoring system, as well as how credit scores are used in the credit evaluation process.
+
+[SECTION]
+
+When evaluating an institution's proprietary credit scoring system developed for the institution's own use, examiners review all of the factors considered within the system. First, examiners ensure that prohibited bases, with the exception of age, are not used in the scoring system. If a credit scoring system considers age, examiners ensure that it meets the appropriate standards for a validated system pursuant to Regulation B. As a practical matter, we find that few lenders consider age in credit scoring systems.
+
+[SECTION]
+
+Second, examiners consider whether any factors used in the credit scoring system may serve as proxies for a prohibited basis or may have a disparate impact on a prohibited basis. If examiners have questions about the appropriateness of a factor, they engage in further review to assess its legitimacy. This additional review may include an evaluation of the factor's predictive power and whether other factors might be used instead. Finally, examiners review how the credit scoring system is used by the institution, focusing on whether the system is applied consistently to all consumers and whether it is used in a manner that may have an illegal disparate impact.
+
+[SECTION]
+
+The Board also supervises many institutions that do have their own proprietary credit scoring systems, but rely on third-party credit scoring systems. The review process for third-party systems is similar to the review of an institution's proprietary system. If examiners have questions about the factors utilized in the system, the institution is directed to obtain the appropriate information from the third-party developer.
+
+[SECTION]
+
+In the current economic environment, the Board is paying special attention to scoring systems that are used within the loss mitigation process. For example, institutions may develop credit scoring models that provide input into loss mitigation decisions, such as decisions to modify mortgages.
+
+[SECTION]
+
+Safety and Soundness Examinations of Credit Scoring Systems
+As a supervisor of financial institutions, the Board has a long-standing commitment to ensure that every institution it supervises conducts its business in a safe and sound manner. The Board recognizes the importance of ensuring that internal credit scoring models used by financial institutions produce results that assist them in assessing repayment risk and help them to meet the credit needs of creditworthy borrowers.
+
+[SECTION]
+
+For internal credit scoring models used at Board-supervised institutions, the Board's Commercial Bank Examination Manual provides guidance to examiners for reviewing key elements of validated systems.6 Examiners review the items or customer attributes that are included as factors in a financial institution's credit scoring system. Examiners also evaluate whether the model's risk measurement is based on historical data, measures the risk of default, and produces consistent results across time for a wide range of borrowers. Finally, examiners assess certain third-party vendor models for appropriateness and ensure that financial institutions understand the limitations of such models.
+
+[SECTION]
+
+Credit Scoring and Its Effects on the Availability and Affordability of Credit
+       As a research institution, the Board conducts and publishes analyses of significant trends in the credit markets. In recent decades, consumer credit markets have become national in scope, and credit has been made available to a broader spectrum of consumers. The development and use of credit scores has greatly facilitated these trends. Credit scores rank-order individuals by their credit risk; those with poorer scores are predicted to perform, on average, worse on their credit obligations than those with better scores.
+
+[SECTION]
+
+Credit scoring is widely used to evaluate applications for credit, identify prospective borrowers, and manage and price new and existing credit accounts. It is also used to facilitate decisionmaking in other areas including insurance, housing, and employment. The large savings in cost and time that have accompanied the use of credit scoring are believed to have increased access to credit, promoted competition, and improved market efficiency.
+
+[SECTION]
+
+As directed by the Congress in the FACT Act, the Board prepared a report in 2007 on a number of matters regarding credit scoring, including how it has affected the availability and affordability of credit, the relationship between credit scores and other factors, and whether the use of credit scoring systems has fair lending implications under ECOA.7
+
+[SECTION]
+
+Background on the Report
+There is a lack of data linking credit scores to relevant demographic information. With the exception of dates of birth, the credit records maintained by the consumer reporting agencies, which serve as the basis for most credit scoring systems, do not include any personal demographic information. As a result, little research has been conducted on credit scoring and its potential effects on minorities and other protected demographic segments of the population. For this reason, the findings of the Board's report, which are based on the research conducted by the Board staff specifically for this study, are significant.
+
+[SECTION]
+
+In addition to reviewing public comments, previous research, studies, and surveys, the Board staff conducted unique research specifically to develop information needed to prepare its report. The Board staff created a database that, for the first time, combines information on personal demographics collected by the Social Security Administration with a large, nationally representative sample of the credit records of individuals. The sample comprised the full credit records of more than 300,000 anonymous individuals drawn in June 2003 and updated in December 2004 by TransUnion LLC.8 Because the data set consisted of the credit records of the same individuals for both these dates, the Board staff was able to construct measures of loan repayment performance, credit availability, and credit affordability and to create its own credit scoring model (the FRB base model) and credit scores (FRB scores).9
+
+[SECTION]
+
+The design of the FRB base model followed general industry practice to the extent possible. This unique combination of credit and demographic information in the data set created for this purpose allowed the Board to address the questions posed by the Congress.
+
+[SECTION]
+
+Findings of the Report
+The report's findings focus on: (1) the effects of credit scoring on access to credit; (2) differences in credit scores, loan performance, and credit availability and affordability across different populations; and (3) the extent to which individual credit characteristics included in credit scoring systems may have a negative or differential effect on specific demographic populations.
+
+[SECTION]
+
+Access to credit. The evidence from public comments received for this study, a review of previous research, and an assessment of data from the Board's Survey of Consumer Finances indicate that credit scoring has increased the availability and affordability of credit. Credit scoring allows creditors to quickly and inexpensively evaluate credit risk and to solicit the business of their competitors' customers more readily regardless of location. Credit scoring increases the consistency and objectivity of credit evaluation and thus, has reduced some of the discretion that could lead to discrimination against certain segments of the population.
+
+Credit scores and loan performance, availability, and affordability across populations. The data assembled for the study were used to investigate the variation in credit scores across populations, as well as the relationship between credit scores and subsequent loan performance, availability, and affordability across populations.
+
+[SECTION]
+
+Credit score variation. Credit scores differ among subpopulations: Available evidence shows that blacks, Hispanics, single people, those younger than 30, and people residing in low-income or predominately minority census tracts have lower credit scores, on average, than people in other subpopulations defined by race or ethnicity, age, or location. Because individuals with identical items in their credit records receive the same credit score, population differences in scores must stem from average differences in information in their credit records, such as differences in the incidence of serious delinquencies. Groups with lower average scores tend to have had a higher incidence of payment problems on credit obligations, collection actions, and public record items such as garnishment and bankruptcy. Other factors, such as utilization of available credit and the length of credit history, also affect credit scores. The Board's study found that differences across groups in average credit scores are narrowed, but not always eliminated, when differences in other personal demographic characteristics, such as marital status, residential location, or a census-tract-based estimate of an individual's income, are taken into account.
+
+[SECTION]
+
+Loan performance. The study analyzed whether loan repayment performance differed across population groups after controlling for credit scores. For every performance measure evaluated, such as delinquencies on new loans, and for every population group considered, the study found that credit scores consistently rank-order the credit risk of individuals. In other words, the higher (better) the credit score, the lower the observed incidence of future default. This finding was true for the population as a whole and within all major demographic groups. Thus, a key finding of the Board's study is that those with worse credit scores consistently perform more poorly on loans than those with higher scores; this relationship holds for each racial or ethnic group, and regardless of age or sex.
+
+[SECTION]
+
+Credit availability and affordability. The study also analyzed the extent to which credit scoring affects the availability and affordability of credit by geography, income, race, color, national origin, age, sex, or marital status. The study found that credit scores consistently relate to estimates of loan denial and loan pricing. For all populations, interest rates and average estimated denial rates consistently decline as credit scores increase. Some differences were observed across population groups after controlling for credit score. Most notably, younger people appear to experience somewhat higher estimated denial rates than older people; blacks appear to incur somewhat higher interest rates on automobile and installment loans than do non-Hispanic whites; and Asians incur interest rates that, on average, are typically lower than, or about equal to, those paid by non-Hispanic whites for every category of loans for which interest rates could be estimated.
+
+[SECTION]
+
+Data limitations prevent a full assessment of the reasons for the remaining differences in credit outcomes. Most importantly, credit records do not include information on many factors lenders consider in underwriting and pricing credit, such as a credit applicant's income and assets, down payments, employment experiences, or wealth.
+
+[SECTION]
+
+Individual credit characteristics and their effects across populations. The study reviewed the extent to which the consideration of certain factors, or lack thereof, by credit scoring systems could result in a negative or positive differential effect for different populations. By law, credit scoring systems must exclude from consideration an individual's personal characteristics, such as race or ethnicity, national origin, sex, and, to a limited extent, age. Despite this prohibition, a factor could be impermissibly included in a credit scoring model as a substitute, or proxy, for a prohibited demographic characteristic, such as race, ethnicity, or sex.
+
+[SECTION]
+
+Analysis of the data used for the study found that few credit characteristics (for example, number of credit inquiries, rate of credit utilization, and months since recent delinquency) included in credit scoring models generally, and in the FRB base model, correlated with prohibited demographic characteristics. Therefore, the study found that such credit characteristics are unlikely to serve as proxies for demographic characteristics. An exception to this finding is that some credit characteristics correlate highly with an individual's age.
+
+[SECTION]
+
+To determine whether the credit characteristics in the FRB base model served, at least in part, as proxies for race, ethnicity, sex, or age, the FRB base model was reestimated in race-neutral, ethnicity-neutral, age-neutral, and sex-neutral environments. The models were estimated with samples limited to a single population for each model. In those models, any credit characteristics serving solely as a proxy for race, ethnicity, age, or sex should have little weight in the reestimated model. Credit characteristics that have both an independent effect on loan repayment performance and a correlation with race, ethnicity, age, or sex would be expected to have significantly different weights (either larger or smaller) in the reestimated models.
+
+[SECTION]
+
+Reestimating the FRB base model in a race-, ethnicity-, or sex-neutral environment had virtually no effect on average group credit scores. This finding suggests that the credit characteristics included in the FRB base model to predict loan performance do not serve as proxies for race, ethnicity, or sex. However, when the model is reestimated in an age-neutral environment, credit scores did change slightly. Scores for recent immigrants and younger individuals fell, and scores for older individuals rose. The study traced this result to the inclusion of a specific credit characteristic--the length of an individual's credit history. Further analysis showed that this credit characteristic served, in part, as a proxy for age. However, the length of credit history showed significant predictive power in an age-neutral environment. Thus, excluding the length of credit history would not only reduce the overall predictive power of the model, but would also have a significant age-related effect by lowering the scores of older individuals and raising the scores of younger individuals.
+
+[SECTION]
+
+The study shows that recent immigrants have slightly lower credit scores than would be implied by their loan performance. Credit history profiles of recent immigrants resemble those of younger people, whose credit performance is poor relative to the rest of the population. To address this concern, the length of credit history could be excluded from models, but that would create other problems including loss of predictive power for the credit scoring model. Another approach would be to expand the information supplied to credit reporting agencies to gain a broader picture of the credit experiences of recent immigrants, among others. Such information could include rent, utility, and other recurring bill payments.
+
+[SECTION]
+
+Risk-Based Pricing Final Rules and Access to Credit Scores
+       In January 2010, the Board and the FTC (collectively, the Agencies) jointly issued final rules to implement the risk-based pricing provisions of the FACT Act.10 Risk-based pricing is the practice of setting or adjusting the price of credit offered or extended to a consumer to reflect the risk of nonpayment by that consumer. Information from credit reports is often used in evaluating this risk. Creditors that engage in risk-based pricing generally offer more-favorable terms to consumers with good credit histories and less-favorable terms to consumers with imperfect credit histories.
+
+[SECTION]
+
+In the past, consumers with imperfect credit histories were denied credit. Under the FCRA, when a consumer is denied credit based on information in a credit report, the consumer must be given an adverse action notice and the right to obtain a free copy of his or her credit report. This enables the consumer to check the report for accuracy.
+
+[SECTION]
+
+The development of risk-based pricing made it possible for creditors to grant credit to consumers who in the past would have been denied credit, but at a higher price than the creditors would charge to consumers with better credit histories. Such consumers, however, do not receive adverse action notices. The risk-based pricing provisions were designed to give consumers who were granted credit on less-favorable terms protections similar to those afforded to consumers who are denied credit.
+
+[SECTION]
+
+Under the risk-based pricing rules, a creditor that engages in risk-based pricing generally must provide a risk-based pricing notice to a consumer when the creditor uses a credit report to extend credit to a consumer on terms that are not as favorable as the terms it has provided to other consumers. The statute requires creditors to provide a risk-based pricing notice when a consumer applies for, or is granted, credit "on material terms that are materially less favorable than the most favorable terms available to a substantial proportion of consumers" from the creditor, based on a credit report.11 Essentially, this requires a direct comparison between the material terms granted to a consumer and the material terms granted to some reference group of other consumers by the same creditor.
+
+[SECTION]
+
+Practical Challenges in Implementing the Statute
+The Agencies found significant practical problems with requiring creditors to make a direct comparison of the terms offered to different consumers. To make such comparisons, each creditor would have to identify, for each type of credit product it offers, a group of consumers who received credit on its "most favorable" material terms that can serve as the appropriate benchmark against which to compare the terms offered to other consumers.
+
+[SECTION]
+
+It could be exceptionally difficult to identify appropriate benchmarks for two reasons. First, for many types of credit, there is no single set of "most favorable" terms, because consumers can make tradeoffs between different credit terms. For example, some consumers may make a larger down payment or take a loan with a shorter duration in order to get a lower annual percentage rate, while other consumers may pay a higher annual percentage rate in order to make a smaller down payment or have a longer period of time to repay the loan. Second, the substantial numbers of product variations that are available for certain types of credit make it difficult to establish appropriate benchmarks for making comparisons. For example, mortgages include, among other variations, fixed- and adjustable-rate options; repayment periods of 10, 15, 20, and 30 years; a variety of down payment options; and options to pay points in exchange for a lower rate.
+
+[SECTION]
+
+Similarly, the number and variety of credit products make it difficult to specify when terms are "materially less favorable" than other terms. For example, an annual percentage rate that is 1/2 percentage point higher than the lowest available rate may be materially less favorable for a 30-year fixed-rate mortgage, but not for a credit card.
+
+[SECTION]
+
+In addition, a creditor must have a sufficient number of similar transactions that it can use to establish appropriate benchmarks and make comparisons. Small banks and other creditors that make a relatively small number of certain types of loans may not have a sufficient number of similar transactions to enable them to establish benchmarks and make comparisons. Finally, any comparisons would have to take into consideration changes in market conditions, underwriting standards, and product offerings that occur over time.
+
+[SECTION]
+
+Objectives for the Risk-Based Pricing Rules
+The Board and FTC staff conducted extensive outreach to interested parties in developing the risk-based pricing rules. Based on this outreach, the Agencies concluded that the best way to implement the statute was to develop a number of alternative approaches that creditors could use to comply with the rules in addition to directly comparing the material terms offered to different consumers. The Agencies concluded that no single approach would be practical for all of the types of creditors to which the rules apply or for all of the types of credit products for which risk-based pricing is used.
+
+[SECTION]
+
+In developing these alternatives, three objectives were paramount. The first objective was to provide consumers with meaningful, personalized notices, rather than generic notices that they would likely disregard. The second objective was to provide notices at a time when the information would be helpful to consumers. The third objective was to ensure that all creditors had a practical means of complying with the rules.
+
+[SECTION]
+
+To satisfy the first and second objectives, the final rules generally require risk-based pricing notices to be provided after the terms of credit have been set, but before the consumer becomes contractually obligated on the credit transaction. The third objective is addressed by providing creditors with alternative methods for complying with the rules.
+
+[SECTION]
+
+Alternatives for Complying with the Risk-Based Pricing Rule
+The final rules provide creditors with four alternative methods for complying with the risk-based pricing rules: (1) the direct comparison method, (2) the credit score proxy method, (3)the tiered pricing method, or (4) the method of providing a credit score disclosure instead of a risk-based pricing notice. Under the first three methods, some consumers will receive a risk-based pricing notice and can contact the credit bureau to obtain a free copy of their credit report. Under the fourth method regarding the credit score disclosure alternative, consumers who apply for credit receive a free credit score and information about their score in the notice. Each method is discussed briefly below.
+
+[SECTION]
+
+Direct comparison method. The direct comparison method, set forth in the statute, allows creditors to directly compare the material terms offered to different consumers to determine which consumers must receive risk-based pricing notices. In the final rules, the Agencies tried to make this method feasible, for example, by defining "material terms" as the annual percentage rate for most types of credit. Still, most creditors are not likely to use this method.
+
+[SECTION]
+
+Credit score proxy method. The credit score proxy method permits a creditor that uses credit scores to determine a "cutoff score." The cutoff score generally represents the point at which approximately 60 percent of the creditor's consumers have lower credit scores and 40percent of the creditor's consumers have higher scores. Creditors then must provide a risk-based pricing notice to each consumer who has a credit score lower than the cutoff score. This method targets the notice to consumers likely to receive less favorable terms because consumers with lower credit scores generally receive less favorable terms than those with higher credit scores. A creditor must recalculate its cutoff score every two years.
+
+[SECTION]
+
+Tiered pricing method. The tiered pricing method permits a creditor that assigns each consumer to one of a discrete number of pricing tiers, based on a credit report, to provide a risk-based pricing notice to each consumer who is not assigned to the top pricing tier or tiers. Generally, a notice must be provided to each consumer who is not assigned to the top 30 to 40percent of the pricing tiers. For example, if a creditor has three pricing tiers, the notice must be provided to those consumers placed in the bottom two tiers; if a creditor has five pricing tiers, the notice must be provided to those consumers placed in the bottom three tiers.
+
+[SECTION]
+
+Credit score disclosure method. Creditors may provide consumers with a free credit score and a credit score disclosure as an alternative to providing risk-based pricing notices. To use this alternative, creditors generally must provide a credit score disclosure to all consumers who apply for credit, unlike the risk-based pricing notice which is only provided to those consumers who likely will receive less favorable credit terms. The credit score disclosure must be provided as soon as reasonably practicable after the credit score is obtained, but before the consumer is obligated for the credit transaction.
+
+[SECTION]
+
+The credit score disclosure must include the consumer's credit score, the source of the score, the date the score was created, and the range of possible scores. In addition, the credit score disclosure must tell the consumer how his or her credit score compares to the scores of other consumers using a short narrative statement or a bar graph. The credit score disclosure also informs the consumer of the right to request a free annual credit report from each of the three nationwide credit bureaus, along with contact information.
+
+[SECTION]
+
+The credit score disclosed to the consumer generally must be a score used by the creditor. For example, if a creditor obtains three credit scores, but uses the middle score in its credit evaluation, the credit must disclose the middle score. Creditors that use their own proprietary scores, however, are not required to disclose those scores because those scores often take into consideration information not contained in a credit report and disclosing those scores could be confusing for consumers.
+
+[SECTION]
+
+The credit score disclosure alternative was created using the Agencies' authority to create exceptions to the risk-based pricing notice requirement in circumstances where they determined that notice would not significantly benefit consumers. The Agencies determined that the information in a credit score disclosure would be of equal or greater value to consumers than the more generic information contained in the risk-based pricing notice. Today, consumers must pay to obtain a credit score, unless they are applying for a mortgage loan. Under this alternative, the consumer will obtain this important, personalized credit score information automatically, for free, and without having to request a credit report or credit score from a consumer reporting agency.
+
+[SECTION]
+
+I expect that many creditors will rely on the credit score disclosure exceptions to satisfy the requirements of the risk-based pricing rules. If that happens, consumers will gain greater access to their credit scores and more information about them.
+
+[SECTION]
+
+Conclusion
+       This concludes my testimony regarding the Board's multifaceted role with regard to credit scoring as a rule writer, bank supervisor, and research institution.
+
+[SECTION]
+
+
+
+[SECTION]
+
+In section 215 of the FACT Act, the Congress directed both the Board and the FTC to study the effect of credit scoring on the availability and affordability of financial products and then report on their findings. The Board focused on studying the effects of credit scoring on credit markets, reporting its findings in August 2007 (see Board of Governors of the Federal Reserve System (2007), Report to the Congress on Credit Scoring and Its Effects on the Availability and Affordability of Credit (Washington: Board of Governors, August). The FTC focused on the effects of credit scoring in the area of insurance and issued a separate report on automobile insurance in July 2007 (see Federal Trade Commission (2007), Credit-Based Insurance Scores: Impacts on Consumers of Automobile Insurance (Washington: FTC, July), www.ftc.gov/os/2007/07/P044804FACTA_Report_Credit-Based_Insurance_Scores.pdf. The FTC is preparing a separate report on homeowner's insurance. Return to text
+
+[SECTION]
+
+Under ECOA and Regulation B, a lender can consider age to ensure the applicant has the capacity to enter into a contract or when age is used to favor a credit applicant who is age 62 or older. For example, if a lender assigns "points" to applicants in its credit scoring system, a credit applicant who is age 62 or older must receive the same or a greater number of points than a younger applicant when calculating the credit score. Return to text
+
+[SECTION]
+
+See Regulation B § 202.6(b)(2)(iii). Return to text
+
+[SECTION]
+
+Generally, federal fair lending laws recognize two types of lending discrimination: disparate treatment and disparate impact. Disparate treatment occurs when there is overt discrimination or when a lender treats similarly situated applicants differently based on one of the prohibited factors under ECOA or the Fair Housing Act, even if unintentionally. Disparate impact occurs when a practice is neutral on its face because it applies equally to all applicants, but has a disproportionately negative impact on a protected group, unless the practice meets a legitimate business need that cannot be met as well by other means with lesser effect. Return to text
+
+[SECTION]
+
+The Interagency Fair Lending Examination Procedures are included in the Consumer Compliance Handbook (195 KB PDF). Return to text
+
+[SECTION]
+
+The Commercial Bank Examination Manual is available at www.federalreserve.gov/boarddocs/supmanual/cbem/200910/0910cbem.pdf (6.4 MB PDF).Return to text
+
+[SECTION]
+
+See Board of Governors, Report to the Congress on Credit Scoring, in note 1. Return to text
+
+[SECTION]
+
+Personally identifiable information of the individuals in the sample, such as names and Social Security numbers, was not made available to the Board. Return to text
+
+[SECTION]
+
+The study focused on credit history scores--that is, scores calculated exclusively on the basis of individuals' credit records as assembled by the three national consumer reporting agencies. Other kinds of credit scores were not studied. For details about the FRB model, see Board of Governors, Report to the Congress on Credit Scoring, in note 1. Return to text
+
+[SECTION]
+
+The mandatory compliance date for the risk-based pricing rules is January 1, 2011. Return to text
+
+[SECTION]
+
+See 15 U.S.C. § 1681m(h)(1). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

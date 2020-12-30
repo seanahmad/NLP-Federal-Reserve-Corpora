@@ -1,0 +1,257 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 09, 2008
+
+[SECTION]
+
+Patrick M. Parkinson, Deputy Director, Division of Research and Statistics
+
+[SECTION]
+
+Before the Subcommittee on Securities, Insurance, and Investment, Committee on Banking, Housing, and Urban Affairs, U.S. Senate
+
+[SECTION]
+
+Chairman Reed, Ranking Member Allard, and members of the Subcommittee, I am pleased to appear today to discuss the over-the-counter (OTC) credit derivatives market.  First, I will provide some information on credit derivatives, the markets in which those instruments are traded, the risks that their use entails, and some key practices for managing those risks.  Then I will discuss the oversight of the credit derivatives markets by the prudential supervisors of the firms that act as dealers in credit derivatives, including joint efforts by supervisors and market participants to strengthen the infrastructure of those markets.  Finally, I will discuss the potential benefits of central counterparty (CCP) clearing as well as those of exchange trading of credit derivatives.  Although the focus of this hearing is on credit derivatives, most of my remarks are applicable to OTC derivatives generally.
+
+[SECTION]
+
+The OTC Credit Derivatives Market
+
+[SECTION]
+
+Background InformationA credit derivative is a financial contract whose value is derived from the value of debt obligations issued by one or more reference entities.  The predominant type of credit derivative is a credit default swap (CDS).  In a CDS, a "protection buyer" pays premiums to a "protection seller."  In return, in the event of a default or other specified credit event, the protection seller is obligated to pay the protection buyer the notional or par value for the debt, thereby transferring the risk of default from the buyer to the seller.  Most reference entities are corporations, including corporations rated investment-grade and those with lower ratings.  Over the last few years, CDS referencing mortgage-backed securities and other asset-backed securities (CDS on ABS) also have been traded.  A single-name CDS references a single corporation or ABS, while a multiname CDS references a basket of reference entities or, more commonly, an index composed of many single-name CDS.
+
+[SECTION]
+
+Markets in Which Credit Derivatives Are TradedAlthough credit derivatives have been listed on exchanges, to date the vast majority of credit derivatives have been executed bilaterally with derivatives dealers in OTC markets.  The dealers include 15 to 20 large, globally active commercial and investment banks.  The principal centers for trading are London and New York.  Trades typically are executed over the telephone or through voice brokers.  Use of various electronic trading platforms to facilitate bilateral execution of CDS has been growing, especially in Europe, but remains fairly limited.  More than half of trading in CDS is trading between dealers.  Other than dealers, the most active participants in CDS markets are asset managers, including both hedge fund managers and managers of regulated investment companies.
+
+[SECTION]
+
+Estimates of the size of the global market for CDS indicate that the market has been growing very rapidly.  Global market estimates published by the Bank for International Settlements show that the notional amount outstanding at year-end 2007 was $58 trillion, about twice the level just a year earlier.  The gross replacement cost of those contracts, which measures the current market value of the protection against credit events affecting the $58 trillion of debt, was about $2 trillion at year-end.  Growth of index and other multiname CDS has been especially rapid in recent years and those instruments now account for more than 40 percent of both the notional amount and the current market value of all CDS.
+
+[SECTION]
+
+The very rapid growth of the credit derivatives market reflects their perceived value for managing credit risks.  The single-name CDS markets typically are far more liquid than the underlying bond or loan markets, in large measure because the cost of taking short positions is far lower.  Fixed-income asset managers use credit derivatives to obtain or adjust their credit exposures.  Portfolio managers at banks use single-name CDS to manage concentrations of risk to their largest borrowers.  Furthermore, the very liquid markets for CDS indexes allow asset managers to adjust the risk profile of their entire debt portfolios much more quickly and at much lower cost than was possible before these instruments were available.  The availability of CDS also facilitates underwriting and making markets in the underlying debt markets, and thereby benefits issuers and investors that do not directly use credit derivatives.
+
+[SECTION]
+
+Risks of Using Credit DerivativesThe use of credit derivatives entails risks as well as benefits.  The types of risk are essentially the same as those associated with financial activity generally--market risk, credit risk, operational risk, legal risk, and reputational risk.  Of particular importance is counterparty credit risk--that is, the risk that a counterparty to a credit derivatives contract could fail to perform its contractual obligations, resulting in losses to the nondefaulting counterparty.  For example, in the case of a CDS, if the protection seller itself becomes insolvent, the protection buyer would lose the value of that protection and would need to replace it by purchasing protection from another seller.  If the premiums required by the market for protection against default by the reference entity had risen since the protection had been purchased from the insolvent seller, the protection buyer would be exposed to a loss equal to the present value of the difference between the premiums paid on the new contract and the premiums paid on the original contract.
+
+[SECTION]
+
+Key Practices for Managing RisksParticipants in the credit derivatives market and other OTC derivatives markets manage their counterparty credit risks by carefully selecting and monitoring their counterparties, by documenting their transactions under standard legal agreements that permit them to net gains and losses across contracts with a defaulting counterparty, and by entering into agreements that require counterparty exposures to be collateralized.  Market participants effectively preclude firms from acting as dealers if they are not rated A or higher.  Dealers evaluate the credit worthiness of their counterparties and assign them internal credit ratings.  Those whose internal ratings are equivalent to below investment grade usually are required to enter into collateral agreements that include initial margin requirements as well as variation margin requirements.  Transactions with hedge funds typically are supported by collateral agreements, as are transactions between dealers.  Laws in the United States and many other jurisdictions have been amended in recent years to clarify that netting and collateral agreements are legally enforceable.  Still, the measurement and management of counterparty credit risks on credit derivatives are challenging.  Furthermore, as I will focus on today, weaknesses in the infrastructure for the credit derivatives markets and other OTC derivatives markets have created operational risks that could undermine the effectiveness of counterparty risk-management practices.
+
+[SECTION]
+
+Oversight of the OTC Credit Derivatives MarketAlthough the credit derivatives market often is described as unregulated, by its nature it is subject to significant regulatory oversight.  All transactions in the market are intermediated by dealers and all major dealers are commercial or investment banks that are subject to prudential regulation by U.S. or foreign banking regulators or by the Securities and Exchange Commission (SEC).  The prudential supervisors devote considerable attention to the dealers' management of the risks associated with activities in the credit derivatives market and other OTC derivatives markets.  In particular, they have been issuing guidance on counterparty credit risk management since the mid-1990s and have updated it several times, notably after the near failure in 1998 of Long-Term Capital Management, which was a major participant in the interest rate derivatives market.  With the rapid growth of the credit derivatives market and other derivatives markets and the increasing participation of hedge funds in those markets, the management of counterparty exposures to hedge funds has been given careful attention, including a thorough review of relevant risk-management practices by the President's Working Group on Financial Markets (PWG) in 2006.  That review fed into the Principles and Guidelines Regarding Private Pools of Capital that the PWG issued in July 2007, which provided updated guidance on the management of such counterparty exposures.
+
+[SECTION]
+
+The volatility and illiquidity in financial markets over the past year have provided a severe test of major dealers' counterparty risk-management practices.  Thus far, the results with respect to hedge fund exposures have been remarkably good.  Although quite a few hedge funds have performed very poorly, counterparty credit losses to their dealer counterparties have been negligible.  By contrast, the financial difficulties of some monoline financial guarantors have forced some of the firms that act as dealers to write down substantially the value of credit protection that the dealers had purchased from the guarantors on collateralized debt obligations and other structured credit products.  Because the guarantors had been considered highly creditworthy and because the exposures against which they sold protection were considered to pose very little credit risk, their CDS counterparties had generally not required the guarantors to enter into collateral agreements.  In light of this experience, the Financial Stability Forum's (FSF) April 2008 report to the G-7 Ministers and Central Bank Governors called on prudential supervisors to extend guidance on management of counterparty exposures to hedge funds to other large, highly leveraged counterparties, including other dealers and financial guarantors.
+
+[SECTION]
+
+Supervisory Efforts to Strengthen the Infrastructure of the OTC Credit Derivatives MarketIn addition to their efforts to ensure that individual derivatives dealers manage the risks associated with credit derivatives and other OTC derivatives effectively, prudential supervisors, under the leadership of the Federal Reserve Bank of New York (FRBNY), have been working with dealers and other market participants since September 2005 to strengthen arrangements for clearing and settling OTC derivatives transactions.  For too many years, post-trade processing of OTC derivatives transactions remained decentralized and paper-based despite enormous growth in transactions volumes.  Among other problems, dealers reported large backlogs of unconfirmed trades, a significant portion of which had been outstanding for 30 days or more.  The failure to confirm trades promptly can exacerbate counterparty credit risks by allowing errors in counterparties' records of their transactions to go undetected, which could lead them to underestimate exposures or to fail to collect margin when due.  Such backlogs also could significantly complicate and delay the close-out and replacement of trades with a defaulting counterparty.
+
+[SECTION]
+
+By 2005, backlogs of unconfirmed trades were especially large in the credit derivatives market, in part because market participants, including hedge funds, frequently closed out their positions in CDS through a transaction known as a novation.  In a novation, one party steps out of the contract and is replaced by another party.  The master agreements that govern OTC derivatives trading require the party seeking to step out to obtain the prior written consent of its counterparty, but dealers were frequently accepting novations from market participants without any evidence that they had obtained such prior consent.  These sloppy practices not only contributed to backlogs of unconfirmed CDS, but also created confusion about the identities of trade counterparties and thereby undermined the effectiveness of counterparty credit risk management.
+
+[SECTION]
+
+With encouragement and close monitoring by their prudential supervisors, the dealers worked with market participants to address these weaknesses.  By making greater use of available platforms for electronic confirmation of CDS trades, they quickly reduced the backlogs.  By September 2006, the dealers reported that, in the aggregate, they had reduced confirmations outstanding more than 30 days by 85 percent.  In 2006, the dealers agreed to expand their efforts to tackle backlogs in the equity derivatives market, again by making greater use of electronic confirmation services.  Dealers also quickly announced their support for a novation protocol for credit and interest rate derivatives that had been developed by the International Swaps and Derivatives Association.  The protocol provides that if the party initiating the novation has not received written confirmation from the original counterparty by the close of business on the date the novation is struck, it is deemed to have two contracts, one with the original counterparty and another with the counterparty that agreed to accept the novation.  The protocol thereby provides the party initiating the novation a strong incentive to obtain the original counterparty's consent promptly.
+
+[SECTION]
+
+Although these achievements were impressive, the financial turmoil during the summer of 2007 convinced prudential supervisors and other policymakers that further improvements in the market infrastructure were needed.  Specifically, CDS backlogs grew almost fivefold from June to August 2007, reversing much of the previous improvement.  Although the backlogs subsequently receded, this episode demonstrated that backlog reductions were not sustainable during volume spikes.  Moreover, it underscored that, in many respects, the post-trade processing performance of the OTC derivatives markets still lags significantly the performance of more mature markets and still has the potential to compromise market participants' management of counterparty credit risks and other risks.
+
+[SECTION]
+
+In their reports on the financial market turmoil, both the PWG and the FSF asked prudential supervisors, under the leadership of the FRBNY, to take further actions to strengthen the OTC derivatives market infrastructure.  Specifically, they asked the supervisors to insist that the industry set ambitious standards for trade data submission and resolution of trade-matching errors.  More timely and accurate submission of trade data is critical to avoiding the buildup of backlogs following volume spikes.  They also asked supervisors to ensure that the industry promptly incorporates into standard CDS documentation a protocol that would permit cash settlement of obligations following a default or other credit event involving a reference entity, based on the results of an auction.  Adoption of the cash settlement protocol is intended to address concerns that a physical settlement process for CDS could be disorderly in the event of large-scale or multiple contemporaneous defaults.  Finally, the PWG and FSF also recommended that the supervisors ask the industry to develop a longer-term plan for an integrated operational infrastructure for OTC derivatives that covers all major asset classes and product types and addresses the needs of other market participants as well as dealers.
+
+[SECTION]
+
+The FRBNY convened a meeting of supervisors and market participants on June 9 to discuss how to address the PWG and FSF recommendations.  They agreed on an agenda for bringing about further improvements in the OTC derivatives market infrastructure.  With respect to credit derivatives, this agenda includes: (1) further increasing standardization and automation, with the ultimate objective of matching trades on the date of execution; (2) incorporating an auction-based cash settlement mechanism into standard documentation; (3) reducing the volume of outstanding CDS contracts via greater use of services that orchestrate multilateral terminations; and (4) developing well-designed central counterparty services to reduce systemic risks.  They also agreed to extend the infrastructure improvements in the credit derivatives market over time to encompass the OTC equity, interest rate, foreign exchange, and commodity derivatives markets.
+
+[SECTION]
+
+Potential Benefits of Greater Centralization of Market InfrastructureCentral Counterparty Clearing of Credit DerivativesA central counterparty is an entity that offers to interpose itself between counterparties to financial contracts, becoming the buyer to the seller and the seller to the buyer.  Trades on derivatives exchanges routinely are cleared through a CCP, in part so that market participants can accept the best bids or offers without considering the creditworthiness of the party making the bid or offer.  Indeed, in electronic exchanges, the use of a CCP permits anonymous trading.  CCP services also have been offered to counterparties in OTC derivatives markets.  For example, since September 1999, LCH.Clearnet Limited has operated SwapClear, a London-based CCP for interest rate swaps between dealers.  SwapClear clears almost 50 percent of global single-currency swaps between dealers.  Several plans are now under development to provide CCP services to the credit derivatives market.
+
+[SECTION]
+
+A CCP has the potential to reduce counterparty risks to OTC derivatives market participants and risks to the financial system by achieving multilateral netting of trades and by imposing more-robust risk controls on market participants.  However, a CCP concentrates risks and responsibility for risk management in the CCP.  Consequently, the effectiveness of a CCP's risk controls and the adequacy of its financial resources are critical.  If its controls are weak or it lacks adequate financial resources, introduction of its services to the credit derivatives market could actually increase systemic risk.
+
+[SECTION]
+
+A CCP that seeks to offer its services in the United States would need to obtain regulatory approval.  The Commodity Futures Modernization Act of 2000 included provisions that permit CCP clearing of OTC derivatives and require that a CCP be supervised by an appropriate authority, such as a federal banking agency, the Commodity Futures Trading Commission, the SEC, or a foreign financial regulator that one of the U.S. authorities has determined to satisfy appropriate standards.  A CCP for credit derivatives with standardized terms that was not regulated by the SEC might need an exemption from securities clearing agency registration requirements.
+
+[SECTION]
+
+If a CCP for credit derivatives sought to organize as a bank subject to regulation by the Federal Reserve or if we were consulted by any other regulator of a proposed CCP, we would evaluate the proposal against the Recommendations for Central Counterparties, a set of international standards that were agreed to in November 2004 by the Committee on Payment and Settlement Systems (CPSS) of the central banks of the Group of Ten countries and the Technical Committee of the International Organization of Securities Commissions (IOSCO).  If one or more CCPs for credit derivatives that meet the CPSS-IOSCO standards are introduced, the Federal Reserve will encourage market participants to use those services to the fullest extent possible.  We would also encourage such CCPs to clear trades for a broad range of market participants, either directly or through intermediaries.  Market participants should be excluded from participating only if doing so would entail risks to the CCP that it cannot mitigate effectively.
+
+[SECTION]
+
+Exchange Trading of Credit DerivativesAn exchange is a mechanism for executing trades that allows multiple parties to accept bids or offers from other participants.  As I have already stated, trades on an exchange usually are intermediated by a CCP.  Exchange trading requires a significant degree of standardization of contracts.  In many cases, counterparties to OTC derivatives trades seek to customize the terms of trades to meet very specific risk-management needs, so many OTC trades are not amenable to exchange trading.  However, many OTC derivatives, including many credit derivatives have become sufficiently standardized that exchange trading is feasible and the scope for exchange trading probably could be expanded by further standardization of contracts while still meeting risk-management needs.
+
+[SECTION]
+
+Where exchange trading of OTC credit derivatives is feasible, it can produce several benefits.  First, trades executed on an exchange usually are intermediated by a CCP and, as I have discussed, a well-designed CCP can reduce risks to counterparties and the financial system.  Second, an electronic exchange can be designed so that trades are locked in at execution, essentially achieving trade matching in real time and eliminating confirmation backlogs.  Third, exchange trading has the potential to increase market liquidity by allowing participants to directly trade against bids and offers posted by a broader range of parties, including asset managers as well as derivatives dealers.  Fourth, exchange trading has the potential to significantly increase transparency with respect to bids and offers and the depth of markets at those bids and offers.  For these reasons, policymakers should encourage greater standardization of contracts, which would facilitate more trading on exchanges.  However, they should not lose sight of the fact that one of the main reasons the credit derivatives market and other OTC markets have grown so rapidly is that market participants have seen substantial benefit to customizing contract terms to meet their individual risk-management needs.  They must continue to be allowed to bilaterally negotiate customized contracts where they see benefits to doing so.
+
+[SECTION]
+
+ConclusionsThe credit derivatives market is an important innovation that provides significant benefits to the banks and asset managers that use these instruments and to the financial system generally.  However, their use entails risks, including counterparty credit risks, that market participants need to manage effectively.  Supervisors need to continue to pay close attention to individual dealers' management of the risks associated with intermediating the credit derivatives market and other derivatives markets.  They also need to continue to foster collective actions by dealers and other market participants to move rapidly toward the goal of implementing a clearing and settlement infrastructure for the credit derivatives market and other OTC derivatives markets that is as efficient as the infrastructure for more mature markets.  Supervisors and other policymakers should encourage the introduction and use of well-designed CCP clearing services for credit derivatives and should encourage greater standardization of contracts, which would facilitate more trading on exchanges.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,268 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+February 01, 2012
+
+[SECTION]
+
+Kevin M. Bertsch, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairwoman Capito, Ranking Member Maloney, and members of the Subcommittee, I appreciate the opportunity to appear before you today to discuss the Federal Reserve's perspective on H.R. 3461, the "Financial Institutions Examination Fairness and Reform Act."  The Federal Reserve supervises more than 5,000 bank holding companies and 825 state-chartered banks that are members of the Federal Reserve System (state member banks).  As of July last year, it also assumed responsibility for the supervision of more than 430 savings and loan holding companies.  The Federal Reserve shares the subcommittee's interest in ensuring a fair examination process and providing banks with a robust and transparent process for appealing material supervisory determinations with which they disagree.
+
+[SECTION]
+
+Accordingly, the Federal Reserve has instituted a number of steps to ensure that examination findings are well grounded in supervisory policy, fully supported, and give due consideration to all relevant information provided by bankers.  First, all examination findings are subject to a thorough review by the management of each Reserve Bank before being finalized.  These reviews encompass an evaluation of all significant findings of the examination.  They also focus particular attention on ensuring that examiner conclusions with which bank management has raised concerns or expressed disagreement are accurate and give appropriate consideration to relevant information presented by banking organizations.
+
+[SECTION]
+
+In addition, Board staff analysts assigned to monitor bank supervision activities sample recently completed examination reports to assess compliance with policies and support for examiner conclusions.  These analysts also conduct periodic reviews of specific examination activities to assess their compliance with supervisory policy and standards.  As we become aware of particular concerns being raised by bankers, we focus our reviews of examination activities on ensuring that examiners are appropriately addressing the areas of concern.  For example, because bankers have been raising significant concerns about the treatment of commercial real estate workout loans by examiners, we have focused particularly on evaluating examiners' treatment of these loans in recent years.  To reinforce sound examination approaches and respond to issues raised by bankers, we have also offered significant, targeted training to examiners on many supervisory issues.  These include a number of issues that are addressed by the bill under discussion today, including proper determinations of accrual treatment, the circumstances under which new appraisals may be required, and the proper classification of commercial loans.
+
+[SECTION]
+
+The Federal Reserve also encourages bankers to discuss with Reserve Bank supervision management any concerns they may have.  We find that many differences of perspective can be resolved through open, constructive dialogue.  If bankers still have concerns after talking with Federal Reserve supervisory staff, they are encouraged to contact the Federal Reserve Board's Ombudsman, who operates independently of the supervisory process and can address concerns on a confidential basis and provide information to the banker on how to file a formal appeal of material supervisory determinations.
+
+[SECTION]
+
+Indeed, the Federal Reserve has already taken steps to respond to many of the particular concerns addressed by the proposed legislation and is committed to taking additional steps as needed to assure a balanced and fair examination process.  In the remainder of my remarks today, I will begin with comments and observations on the proposed legislation's requirements for examinations.  I will then discuss the Federal Reserve's examination appeals process and Ombudsman function.  Finally, I will briefly describe some of the steps the Federal Reserve has taken in recent years to enhance its communication with community and regional banks as well as some actions it is initiating to respond to feedback from these institutions.
+
+[SECTION]
+
+Comments on Provisions Addressing Examination Practices
+       A number of the steps that would be required under the proposed legislation have already been adopted by the Federal Reserve.  For example, Federal Reserve examiners discuss and share with bank management and directors the information relied upon to support material supervisory determinations during the course of examinations and in exit meetings.  In addition, the banking agencies already use common definitions and reporting guidelines for nonaccrual loans as detailed in the instructions for the financial reports of condition and income (Call Reports) that banks must file each quarter.
+
+[SECTION]
+
+Several other provisions of the bill that prescribe specific supervisory or accounting treatments appear to limit the ability of examiners to use judgment in certain circumstances.  As drafted, these provisions may impede, rather than further, the ability of examiners to ensure the safe and sound operation of banking firms.  For example, the proposed bill could be interpreted to prevent an examiner from requiring a new appraisal on a performing commercial loan unless new funds are being advanced.  The appraisal regulations of the federal banking agencies allow examiners to require a bank to obtain a new appraisal on an existing loan when there is sufficient reason to believe a bank's collateral position has deteriorated materially and could expose the bank to current or future losses.  This could occur, for example, when a property collateralizing a loan loses a major tenant or when a borrower's cash flow is under pressure and a loan is becoming more dependent on the value of collateral for repayment.  In these situations, an updated appraisal is often essential to determining the steps a bank should take to assure repayment of all principal and interest due.  Often, banks order new appraisals in these situations without prompting by examiners to assess the likelihood of loss and determine whether other steps should be taken to obtain more collateral from the borrower or restructure a loan to protect the bank's financial interests.
+
+[SECTION]
+
+Similarly, the proposed bill specifies that a commercial loan cannot be placed on nonaccrual status solely because the collateral has deteriorated in value.  Federal Reserve examiners do not currently require commercial loans to be placed on nonaccrual status solely because collateral has deteriorated in value.  We want to make sure it is clear, however, that a loan with collateral that has deteriorated in value may be placed on nonaccrual status if there is other material information that suggests that the bank may not receive all principal and interest due under the terms of the loan.  Placing a loan on nonaccrual status would be appropriate, for example, in cases in which a borrower's reported cash flows had fallen below the amount required to service the loan and the value of the collateral supporting the loan had fallen to a value below the amount due to the bank.  By not placing such a loan on nonaccrual status, a bank would be overstating its income and understating the volume of its problem assets.
+
+[SECTION]
+
+The proposed bill would also require that restructured commercial loans be returned to accrual status when borrowers have demonstrated the ability to perform for six months.  Current supervisory guidance similarly allows a loan to be returned to accrual status when the borrower has shown a sustained ability to perform for a reasonable period of time, typically six months.  However, there are circumstances when this treatment is not appropriate.  For example, a bank may restructure a loan with a periodic debt service payment that can be serviced by cash flow provided by the underlying collateral, but without sufficient cash flow to repay the loan over a reasonable amortization period.  In this situation, the ultimate collection of the entire principal and interest remains in doubt and the loan would not be considered performing.  This type of strategy is inconsistent with generally accepted accounting principles, and past supervisory experience suggests it is often unsuccessful and can increase the costs of resolution in the event a bank fails.  In 2009, the Federal Reserve and the other agencies affirmed these supervisory expectations in the Prudent Commercial Real Estate Workout Guidance.1
+
+[SECTION]
+
+The proposed bill also appears to prohibit examiners from requiring a bank that meets the regulatory threshold for being "well capitalized" under the prompt corrective action provisions of federal law to raise additional capital.  These provisions conflict with the provisions recently enacted in the Dodd-Frank Wall Street Reform and Consumer Protection Act, which require the federal agencies to consider the risk that banking firmsâincluding those that are well capitalized under current regulatory definitionsâpose to the financial system and impose enhanced supervisory requirements on those firms.  These provisions also fail to recognize that the regulatory definitions for the various capital thresholds were designed to apply generically to banking firms and do not take into account the idiosyncratic risks at individual firms or the potential effects on a bank's capital position of risk-management deficiencies or concentrations in problem assets.  Therefore, meeting these predefined thresholds does not imply that a bank has no need of further capital.  Indeed, during the recent downturn, many communities experienced such sharp drops in real estate prices that local banks that entered the crisis at or above the "well-capitalized" thresholds found existing capital levels inadequate to cover emerging loan losses.  Prohibiting examiners from encouraging additions to capital at such banks during the recent crisis could, we think, have resulted in significantly higher losses to the deposit insurance fund.
+
+[SECTION]
+
+Perspective on Provisions Regarding Appeals and the Ombudsman Function
+       A key purpose of the proposed legislation appears to be to ensure a strong appeals process and independent Ombudsman function for the resolution of bankers' concerns about the fairness of the supervisory process.  The Federal Reserve has in place a robust appeals process and an independent Ombudsman function designed to provide institutions with a fair and fulsome review of complaints.  Currently, the Federal Reserve's rules provide any party affected by our supervisory process with three successive levels of appeal.  First, the management team of a banking firm may appeal any material supervisory determination to a review panel composed of Reserve Bank staff that were not in any way responsible for the original supervisory determination.  This panel typically is made up of experienced supervisory staff from Reserve Banks that were not involved in the supervisory determination and that were selected after consultation with Federal Reserve Board staff.  The banking firm may submit to this panel any information that the firm believes is relevant to the determination and may appear before the panel to provide information orally.
+
+[SECTION]
+
+If the bank's management team feels its concerns are not satisfied by this panel's decision, the banking organization may make a second appeal to the president of the relevant Reserve Bank.  This review focuses on ensuring that the deliberations of the initial review panel were objective, complete, and followed specified procedures.  Again, the banking organization may submit any additional information it believes is relevant to the decision.  If needed, a third review can be requested.  This third review is undertaken by the member of the Board of Governors with oversight responsibility for the Federal Reserve's Banking Supervision function.
+
+[SECTION]
+
+As noted previously, the Federal Reserve also has an Ombudsman to provide banks with a means of raising issues regarding the examination process that are maintained in confidence.  The Ombudsman also will provide information regarding the appeals process.2   The Ombudsman provides a neutral, independent, objective facilitator and mediator for the resolution of issues and complaints related to the System's regulatory and supervisory activities.  The Ombudsman actively works with banking firms that have concerns about examinations and other supervisory matters, and works independently from the supervisory chain of command.  The Ombudsman has broad authority to mediate complaints, including the authority to refer matters to the appropriate Federal Reserve Board committee.
+
+[SECTION]
+
+The Federal Reserve maintains a strong anti-retaliation policy to protect any person who uses the appeals process or who contacts the Ombudsman with concerns.  The Ombudsman reaches out to every institution that has filed an appeal within six months after the appeal has been decided to inquire whether retaliation has taken place.  The Ombudsman also has broad authority to investigate claims of retaliation.  Where appropriate, and when corrective action has not been taken, the Ombudsman reports retaliation complaints to the appropriate Federal Reserve Board committee.
+
+[SECTION]
+
+The Federal Reserve continues to evaluate methods for improving its appeals process.  At the same time, it has been our experience that most disagreements regarding supervisory matters are resolved promptly and informally through direct discussion between the Reserve Banks and the affected institutions, and we would not want to discourage this means of resolution.
+
+[SECTION]
+
+Efforts to Address Regulatory Burdens 
+       We recognize the concerns expressed by bankers about the supervisory process and are taking steps to respond to them.  The nation has just experienced an extraordinarily difficult financial crisis and continues to recover.  As you would expect in these conditions, examiners have identified many supervisory concerns and are working with banking firms to address these concerns.
+
+[SECTION]
+
+In recent years, the Board has taken a number of steps to enhance its communication with community banks to ensure that their views on the supervisory process are considered.  In 2009, the Board established a subcommittee to focus on supervisory approaches to community and regional banks.  This subcommittee is led by Board Governors Elizabeth Duke and Sarah Bloom Raskin.  A primary goal of the subcommittee is to ensure that the development of supervisory guidance is informed by an understanding of the unique characteristics of community and regional banks and consideration of the potential for excessive burden and adverse effects on lending.  In addition, in 2010, the Board established the Community Depository Institutions Advisory Council (CDIAC) to provide input on the economy, lending conditions, and other issues of interest to community banks.  Members include representatives of banks, thrift institutions, and credit unions serving on local advisory councils at the 12 Federal Reserve Banks.  One member of each of the Reserve Bank councils is selected to serve on the CDIAC, which meets twice a year with the Board in Washington, D.C.3
+
+[SECTION]
+
+Feedback from community bankers has persistently pointed to increasing regulatory burden as a concern and threat to the viability of the community bank model.  Last year, the Board's subcommittee on community and regional banks asked that a series of initiatives be developed to clarify regulatory expectations, alleviate regulatory burdens where possible, and reduce the potential that regulatory actions could curtail lending.  In response, Federal Reserve staff initiated a number of projects to enhance supervision practices for community banks and alleviate some of the burdens that have been of the most immediate concern.
+
+[SECTION]
+
+Several of these projects aim to revise or clarify guidance.  These include initiatives to reiterate when supervisory rating upgrades may be considered for community banks recovering from the effects of the recent crisis, to enhance the transparency and consistency of assessments of the adequacy of banks' allowances for loan and lease losses, and to clarify capital planning expectations for community banks.  Others projects aim to improve our examination processes by reviewing exam preparation procedures to ensure that report findings are clearly communicated and fully consistent with information provided to bankers during exit meetings, developing and adopting common technology tools across the System to improve efficiency and potentially reduce burden on supervised companies, and evaluating applications-processing procedures to enhance transparency and identify opportunities for streamlining.  And more projects are under consideration.  Overall, these efforts are intended to ensure a rigorous, but balanced, approach to safety and soundness supervision that fosters a stable, sound, and vigorous community bank population.
+
+[SECTION]
+
+In summary, the Federal Reserve supports efforts to ensure that the examination process is fair, balanced, and consistent and strives to continuously improve its examination processes.  Indeed, we have already initiated a number of changes to improve and clarify our supervisory policies and practices and, where possible, constrain burden while still ensuring a safe and sound banking industry.  It is important that the agencies not be impeded in taking steps to ensure the safe and sound operation of banking firms.
+
+[SECTION]
+
+We appreciate the subcommittee's invitation to share our views, hope that our comments have been helpful, and would be happy to continue a dialogue on these very important issues.
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2009), "Federal Reserve Adopts Policy Statement Supporting Prudent Commercial Real Estate Loan Workouts," press release, October 30. Return to text
+
+[SECTION]
+
+For more information, see the "Ombudsman for the Federal Reserve System" webpage. Return to text
+
+[SECTION]
+
+See the Board's "Community Depository Institutions Advisory Council" webpage. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

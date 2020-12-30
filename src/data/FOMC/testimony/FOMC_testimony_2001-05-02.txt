@@ -1,0 +1,124 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman and members of the Subcommittee, thank you for the opportunity to testify on behalf of the Federal Reserve Board with respect to the joint proposal by the Board and the Secretary of the Treasury relating to real estate brokerage and management.  The proposal is an invitation for public comment on whether the Board and Treasury should find that real estate brokerage and real estate management are activities that are financial in nature or incidental to a financial activity, and hence permissible for financial holding companies and financial subsidiaries of national banks.  The agencies published the request for comment on January 3, 2001.  Because of the significant public interest in the proposal, we extended the public comment period through May 1, 2001.
+
+[SECTION]
+
+To help understand why the agencies requested comment on this proposal, I think it would be helpful to outline the legal framework established by the recently enacted Gramm-Leach-Bliley Act ("GLB Act"), and the basis for the proposal.  The GLB Act amended the Bank Holding Company Act to allow a bank holding company or foreign bank that qualifies as a financial holding company to engage in, and affiliate with companies engaged in, a broad range of financial activities.  The activities specifically authorized by statute include lending; insurance underwriting and agency; providing financial advice; securities brokerage, underwriting, and dealing; and merchant banking activities.
+
+[SECTION]
+
+In addition, the GLB Act permits financial holding companies to engage in other activities that the Board determines, in consultation with the Secretary of the Treasury, to be "financial in nature or incidental to a financial activity."  The GLB Act includes this flexibility because Congress recognized the practical difficulties of comprehensively defining in legislation a complex concept like financial activities for a financial marketplace that is continually evolving.  Further, the act allows financial holding companies to engage in other activities that the Board determines are "complementary" to a financial activity and would not pose a substantial risk to the safety and soundness of depository institutions or the financial system generally.  Complementary activities are non-financial activities that are related to or complement financial activities.  Congress considered, but did not enact, a provision that would have allowed the more general mixing of banking and commerce.
+
+[SECTION]
+
+The real estate brokerage and management proposal is one of several initial proposals by the Board and Treasury relating to the definition of activities that are financial in nature or incidental or complementary to financial activities under the GLB Act.  The first of these proposals (which the Board recently finalized) related to acting as a so-called "finder."  Finder activities, which generally are permissible for banks to conduct directly, involve putting buyers and sellers together in transactions negotiated by the buyers and sellers themselves.  The second of these proposals involved defining three types of activities that Congress determined as a general matter to be financial, but required the Board to define more specifically -- including safeguarding and transferring financial assets and facilitating financial transactions for third parties.  The third proposal requested comment on whether the Board should determine that certain types of expanded data processing activities are complementary to financial activities.
+
+[SECTION]
+
+With each of these proposals, the Board and, for the financial activity determinations, the Secretary of the Treasury, are exploring a new standard for defining permissible activities.  The GLB Act establishes certain factors that the Board and Treasury must consider, but it otherwise leaves the agencies with significant discretion and very little guidance regarding what is and what is not a financial activity.
+
+[SECTION]
+
+The factors that the agencies must consider are very broad.  For example, in determining whether an activity is financial in nature or incidental to a financial activity, the agencies must consider whether the proposed activity is necessary or appropriate to allow a financial holding company to compete effectively with any company seeking to provide financial services in the United States, efficiently deliver financial information and services through the use of technological means, or offer customers any available or emerging technological means for using financial services.  In addition, the agencies must consider changes or reasonably expected changes in the marketplace in which financial holding companies compete, as well as changes or reasonably expected changes in the technology for delivering financial services.  Finally, the statute requires that the Board consider the unspecified but wide-ranging purposes of the Bank Holding Company Act and the GLB Act, which opens up consideration of other matters beyond those on the statutory list.  These statutory factors do not provide the Board with a facile decisionmaking formula for determining whether an activity is financial in nature or incidental to a financial activity.
+
+[SECTION]
+
+One thing that is clear is that Congress intended the "financial in nature" test to be broader than the previous test for authorizing new activities for bank holding companies under the Bank Holding Company Act.  Before passage of the GLB Act, bank holding companies were permitted to engage only in activities that the Board determined were "closely related to banking."  The closely related to banking test was tied to the activities of banks.  In considering whether an activity was closely related to banking, the courts focused on three factors: (i) whether banks conduct the proposed activity, (ii) whether banks provide services that are operationally or functionally similar to the proposed services, and (iii) whether banks provide services that are so integrally related to the proposed services as to require their provision in a specialized form.  The text and legislative history of the GLB Act indicate that Congress intended the new "financial or incidental" standard to represent a significant expansion of the old "closely related to banking" standard.
+
+[SECTION]
+
+The GLB Act neither specifically authorizes nor specifically forbids financial holding companies or financial subsidiaries of national banks to engage in real estate brokerage and management activities.  While the GLB Act and its legislative history do not contain any direct evidence of congressional intent with respect to real estate brokerage and management activities, the statute's prohibition on financial subsidiaries engaging in real estate investment and development is indirect evidence of legislative intent.  The existence of this limited real estate provision in the GLB Act suggests that Congress thought about real estate activities in connection with the act and determined to leave unresolved the question of whether financial holding companies or financial subsidiaries should be permitted to act as real estate brokers or managers.
+
+[SECTION]
+
+Soon after passage of the GLB Act, three trade associations -- the American Bankers Association, the Financial Services Roundtable, and the New York Clearing House Association -- asked the Board and Treasury to determine that real estate brokerage activities are financial in nature.  The American Bankers Association also asked the agencies to define real estate management activities as financial in nature.
+
+[SECTION]
+
+The Board and Treasury responded to these requests by seeking public comment on the proposal.  We have found the public comment process to be a useful means of gathering information from experts, practitioners, and analysts with an understanding of the relevant issues and activities.  We recognize that, hard as we regulators try to foresee and address potential issues raised by our regulatory actions, we can benefit from the information and thinking of others.  Our final rules often include significant modifications as a result of the comments we received on the proposed rules.
+
+[SECTION]
+
+In this spirit, we sought public comment on the real estate proposal.  During the comment period, the public had an opportunity to present views on the merits of determining whether real estate brokerage and management activities should be deemed to be financial in nature or incidental to a financial activity.
+
+[SECTION]
+
+As I indicated earlier, the comment period on the proposal closed only yesterday.  I can, nevertheless, give you a flavor of the arguments made by commenters.
+
+[SECTION]
+
+Commenters in favor of the proposal, most notably bank and financial services trade associations at this point, have presented a variety of arguments in support of finding that real estate brokerage is a financial activity.  First, these commenters argue that real estate brokerage activities are financial in nature because some depository institutions, including thrifts (through service corporations) and some state banks, already engage in real estate brokerage.  Second, these commenters argue that banks have expertise in these activities because national and state banks have long been involved in brokering real estate assets that are acquired through the foreclosure process or that are part of trust estates.  Third, commenters in support of the proposal argue that bank holding companies and their subsidiaries engage in virtually every other aspect of real estate transactions, including mortgage lending, holding bank premises, making community development real estate investments, performing real estate appraisals, providing real estate settlement and escrow services, providing real estate investment advice, and providing title insurance, private mortgage insurance, and homeowner's insurance.  This indicates, in the view of these commenters, that real estate transactions are financial transactions and, consequently, that brokerage of real estate is a financial activity.  Moreover, these commenters contend that real estate brokerage is simply a specialized form of another permissible financial activity -- acting as a finder -- and a more general form of a permissible banking activity -- assisting third parties in obtaining commercial real estate equity financing.
+
+[SECTION]
+
+As I noted earlier, in determining whether an activity is financial in nature or incidental to a financial activity, the GLB Act specifically instructs the Board to consider whether the activity is necessary or appropriate to allow a financial holding company to compete effectively with any other financial services provider operating in the United States.  In this regard, commenters have provided evidence that a number of diversified financial firms provide real estate brokerage services in addition to more traditional banking, securities, and insurance services.  These commenters also asserted that buyers and sellers of real estate are increasingly looking to a single company to provide all of their real estate-related needs.
+
+[SECTION]
+
+Some commenters also argue that real estate is a financial asset and that, therefore, brokering real estate is a financial transaction.  These commenters assert that real estate brokerage is permissible as part of the statutorily listed financial activities permissible for financial holding companies.  The GLB Act authorizes financial holding companies to engage in exchanging, transferring, or safeguarding financial assets and arranging, effecting, or facilitating financial transactions for others.
+
+[SECTION]
+
+Some of the same considerations that support a finding that real estate brokerage activities are financial in nature also were presented by commenters as support for a similar determination on real estate management.  Thrift service corporations are authorized to engage in general real estate management, and banks have acquired some experience in managing real estate in their trust departments and with respect to assets acquired through foreclosure.  In addition, many aspects of real estate management are similar in nature to existing banking activities.  For example, collecting rental payments; maintaining security deposits; making principal, interest, tax, and insurance payments; and providing periodic accountings are functionally similar to collecting loan or lease payments, disbursing escrow payments, and performing related accountings.
+
+[SECTION]
+
+Although some of the comments favor the proposal, the vast majority of the comments have been submitted by individual real estate agents opposed to the proposal.
+
+[SECTION]
+
+Commenters have raised the following principal objections to the proposal.  First, some commenters claim that real estate brokerage and management are commercial activities and that authorizing real estate brokerage activities would inevitably lead to authorizing financial holding companies to negotiate and broker the sale of any type of asset.  These commenters contend that authorizing financial holding companies to engage in the activities would violate the spirit of the GLB Act, which maintained a separation between banking and commerce.  These commenters also argue that real estate brokerage activities are different from the finder activities permitted for banking organizations because an integral part of real estate brokerage activities is the negotiation of a contract between the buyer and seller -- a level of involvement in the transaction that has not been permitted to banking organizations acting as a finder.
+
+[SECTION]
+
+In addition, some commenters draw attention to various forms of conflicts of interest that may result from allowing banking organizations to engage in real estate brokerage or management.  In particular, these commenters express concern that financial holding companies acting as buyers' brokers may pressure or require buyers to use the financial holding company's mortgage product (to the exclusion of loans from other lenders) or may fail to refer buyers to other lenders who might have more competitive mortgage products.  A financial holding company acting as a seller's broker also may favor the buyer over the seller because the company also is providing a mortgage loan to the buyer or is attempting to sell another financial product to the buyer.
+
+[SECTION]
+
+Other commenters question the ability of banking organizations to broker real estate with the same level of competence, alacrity, and personal service as independent real estate agents.  Many commenters warn that allowing banking organizations to act as real estate brokers would lead to bank domination of the field, in part because banking organizations providing real estate brokerage services would have an unfair competitive advantage over independent real estate agents due to the ability of banks to raise low-cost FDIC-insured deposits.  Under this line of argument, the proposal would result in an increased concentration of power in the financial services industry, a decrease in the competitiveness of the market for real estate brokerage services, and job losses for a large number of independent real estate agents.  Finally, commenters argue that allowing banking organizations to enter into the real estate brokerage and management businesses would pose risks to the safety and soundness of the nation's depository institutions.
+
+[SECTION]
+
+Many of the commenters opposed to the proposal focus on whether real estate brokerage is a financial activity.  If one accepts their contention that brokering real estate is really a commercial activity, the question can then be raised whether real estate brokerage should be permitted as an activity that is "complementary to a financial activity."  As I noted earlier, this complementary category was included in the GLB Act to allow financial holding companies to engage in activities that are themselves commercial activities but that also are related to or complement financial activities.
+
+[SECTION]
+
+Many of the points raised by commenters opposed to the proposal certainly would be relevant to an analysis under this "complementary" standard, which requires the Board to find both a connection to a financial activity and that the complementary activity would not pose a substantial risk to depository institutions or the financial system and would result in net public benefits.  Because the agencies received requests to define real estate brokerage and management activities as "financial in nature," that is the proposal on which the agencies have sought public comment.
+
+[SECTION]
+
+These are difficult issues, and both sides feel very strongly about their position.  While we do not relish being in the middle, we believe that a debate on these matters is the best way to identify and sort through the issues and to reach an informed decision, and is precisely the type of debate envisioned in the GLB Act.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2001 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: May 2, 2001, 9:30 AM

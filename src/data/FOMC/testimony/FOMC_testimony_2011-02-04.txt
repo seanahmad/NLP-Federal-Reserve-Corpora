@@ -1,0 +1,315 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+February 04, 2011
+
+[SECTION]
+
+Patrick M. Parkinson, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Congressional Oversight Panel, Washington, D.C.
+
+[SECTION]
+
+Chairman Kaufman, members of the Congressional Oversight Panel, thank you for your invitation to discuss the current state of commercial real estate (CRE) finance and its relationship to the overall stability of the financial system. Since the panel published its report, Commercial Real Estate Losses and the Risk to Financial Stability, one year ago, the rate of deterioration in market and credit conditions has leveled off, and there are some early signs of price stabilization in a number of key markets. Nonetheless, CRE delinquencies and losses are expected to remain elevated for some time.
+
+[SECTION]
+
+Weakness in real estate markets, both commercial and residential, continues to be a drag on overall growth in the economy. Construction of nonresidential structures continues to lag because of weak fundamentals in the sector, including high vacancy rates and low property values, factors that are unlikely to change in the near term. Similarly, new home construction is likely to be constrained by the continuing overhang of distressed and vacant homes.
+
+[SECTION]
+
+CRE-related issues also present ongoing problems for the banking industry, particularly for community and regional banking organizations. Losses associated with CRE, particularly residential construction and land development lending, were the dominant reason for the high number of bank failures since the beginning of 2008, and further CRE-related bank failures are expected over the next few years.
+
+[SECTION]
+
+Credit losses for bank CRE loans typically continue well past the trough of recessions, and we expect this pattern to continue in this cycle. Working through the large volume of troubled CRE loans will take time as banks go through the difficult process of loan workouts and loan restructurings. If done prudently and effectively, including allocating appropriate levels of reserves and capital, loan restructuring can reduce the ultimate losses to the banking system. In addition, proper restructuring can reduce the damage done to businesses and the economy by limiting the forced liquidation of commercial properties that would further depress prices.
+
+[SECTION]
+
+While we expect significant ongoing CRE-related problems, it appears that worst-case scenarios are becoming increasingly unlikely. CRE portfolio loan concentrations are not a significant risk factor for systemically important financial institutions. Some systemically important financial institutions have substantial exposures to commercial mortgage-backed securities (CMBS) and to derivatives securities such as CRE collateralized debt obligations. However, risks in these areas have been reduced, as significant mark downs have already been taken on these securities. In addition, conditions in the CMBS market have been improving, with spreads tightening and some new deals coming to market. However, we see losses in CRE to be an ongoing negative factor in bank portfolios that will need to be worked through over the next several years.
+
+[SECTION]
+
+Current Conditions in the Commercial Real Estate Market
+       As housing market conditions deteriorated sharply throughout 2007, CRE markets began to experience weakness. Broad CRE market conditions remained relatively healthy until the second half of 2008, when CRE performance metrics turned down rapidly as a result of severe financial market disruptions and accelerating job losses. Vacancy rates increased sharply, rental rates plummeted, and property sales and values declined substantially. The higher vacancy rates and declines in the values of existing properties placed particularly heavy pressure on construction and development projects, which depend on market conditions at the time of completion for absorption and thus repayment.
+
+[SECTION]
+
+Underlying market fundamentals of CRE remain a significant concern, but they have shown some signs of stabilizing. For instance, vacancy rates on office, industrial, and retail properties have stopped increasing, although they remained at elevated levels at the end of 2010, ranging between 13 percent and more than 16 percent, depending upon the property type and location. These levels are, on average, 5 to 6 percentage points above levels experienced in 2007. The rate of decline in rental rates has also slowed. At the beginning of 2010, office and industrial rental rates were between 10 and 12 percent lower than a year earlier, on average, but declines had slowed to between 5 and 7 percent at an annual rate at the end of the year. Sales volume of CRE properties improved each quarter during 2010, accumulating to almost $135 billion for the year as a whole. 1 This total is double the CRE property sales volume for all of 2009.
+
+[SECTION]
+
+Recent readings from CRE price indexes indicate that the rate of price declines has slowed substantially. The NCREIF Transactions Based Index fell more than 36 percent from its peak in the second quarter of 2007 to the first quarter of 2010. In contrast, the index indicated that prices as of the third quarter of 2010 were only 0.2 percent lower than they were at the beginning of the year. However, the degree of price stabilization across different types of properties and locations is uneven. In particular, demand has been rebounding for well-occupied properties in top-tier markets, while less desirable properties in less favorable markets are still struggling from a lack of demand.
+
+[SECTION]
+
+Concentrations of CRE Exposure on Bank Balance Sheets
+       At the end of the third quarter of 2010, approximately $3.2 trillion of outstanding debt was associated with CRE, including loans for multifamily properties. Of this amount, about one-half, or $1.6 trillion, was held on the balance sheets of commercial banks and thrifts. An additional $700 billion represented collateral for CMBS, and the remaining balance of $900 billion was held by a variety of investors, including pension funds, mutual funds, and life insurance companies. Outstanding CRE debt has contracted 6 percent from its peak in 2008, while outstanding CRE loans at banks have contracted by almost 12 percent. The majority of the decrease in bank loans was associated with reductions in construction and development loan balances, which were largely the result of foreclosures and charge-offs.
+
+[SECTION]
+
+Despite the decline in aggregate CRE loans at commercial banks, many banks still have CRE loan concentrations, as defined in the 2007 "Interagency Guidance on Concentrations in Commercial Real Estate."2 Banks are considered to have a CRE concentration when loans for construction, land development, and other land exceed 100 percent of risk-based capital or total CRE is greater than 300 percent of risk-based capital.3 By this definition, almost 1,200 commercial banks, or 18 percent of all banks, had CRE concentrations at the end of the third quarter of 2010. CRE concentrations have been the dominant factor in bank failures. Of the more than 300 commercial banks and thrifts that have failed since the beginning of 2008, more than three-fourths had CRE concentrations at year-end 2007.
+
+[SECTION]
+
+Notably, CRE concentrations are not a significant issue at the largest banks. Among banks with total assets of $10 billion or more, 10 percent had CRE concentrations. In contrast, one-third of all banks with assets between $1 billion and $10 billion had CRE concentrations. For banks with less than $1 billion in assets, approximately 17 percent had CRE concentrations.
+
+[SECTION]
+
+Credit Quality of Commercial Real Estate in Bank Portfolios
+       At the end of the third quarter of 2010, almost 10 percent of CRE loans in bank portfolios were considered delinquent, a three-fold increase since the end of 2007. 4 Not surprisingly, loan performance problems have been most striking for construction and development loans, especially for those that finance residential development. Almost 19 percent of all construction and development loans were considered delinquent at the end of the third quarter of last year.
+
+[SECTION]
+
+During 2010, delinquency rates on construction and development loans began to improve slightly, falling 1 percent in the first three quarters of 2010. Additionally, delinquency rates on loans backed by existing nonfarm, nonresidential properties leveled off in 2010. Still, even if CRE delinquency metrics continue improving, there remains a sufficiently large overhang of distressed CRE at commercial banks such that loss rates for this portfolio will likely stay high for some time and many banks with CRE concentrations will remain under stress.
+
+[SECTION]
+
+Approximately one-third of all CRE loans (both bank and non-bank), totaling more than $1 trillion, are scheduled to mature over the next two years. This circumstance represents substantial refinancing risk as CRE loans typically have large balloon payments due at maturity. Banks have been dealing with maturing loans in a variety of ways, including providing extensions of performing assets, troubled debt restructurings, equity injections, collateral sales, and, in some cases, pursuing foreclosures. Since the issuance of the October 2009 supervisory guidance on prudent loan workouts, banks have significantly increased the level of restructuring of CRE loans.5 Economic incentives to restructure or refinance existing loans are aided by the current low interest rate environment. Some banks with properties in healthier markets are also beginning to see a pick-up in investor demand for high-quality properties with strong tenants.
+
+[SECTION]
+
+Since the beginning of 2008 through the third quarter of 2010, commercial banks have incurred almost $80 billion of losses related to CRE exposure, equating to a little over 5 percent of the average exposure outstanding during this time. In past cycles, CRE credit and market fundamentals generally lagged the larger economy by a year or more. Given this historical experience and the recent improvement witnessed in the broader economy, it is estimated that banks have taken roughly 40 to 50 percent of the CRE losses that they will realize over this cycle. Using past cycles as a guide, we expect that the remaining losses will likely be incurred over the next few years.
+
+[SECTION]
+
+While we can project potential losses facing banks, losses ultimately realized through this cycle will depend on the pace of improvement in the labor market, overall credit availability, and other macroeconomic and financial factors, especially unemployment rates and interest rates. Those factors are why we continue to emphasize the importance of stress testing as a critical element of managing risks associated with CRE concentrations.
+
+[SECTION]
+
+Federal Reserve Supervisory Approach to Commercial Real Estate Concentrations
+ As noted in our previous statement to the panel on CRE conditions, the Federal Reserve led an interagency effort to develop supervisory guidance on CRE concentrations that was finalized in 2006 and published in the Federal Register in early 2007. 6 In that guidance, we outlined our expectations that institutions with concentrations in CRE lending need to perform ongoing assessments to identify and manage concentrations through stress testing and similar exercises to identify the impact of adverse market conditions on earnings and capital.
+
+[SECTION]
+
+Since the quality of CRE loans at supervised banking organizations began to weaken, the Federal Reserve has devoted significant additional resources to assessing the quality of CRE portfolios. These efforts include monitoring the impact of changing cash flows and collateral values, as well as assessing the extent to which banks have been complying with our CRE guidance. Examiners have taken a balanced approach to ensuring that banks are recognizing losses in a timely manner, maintaining sufficient loan loss reserves, and monitoring collateral values while being mindful not to discourage healthy banks from making loans available to creditworthy borrowers.
+
+[SECTION]
+
+Additionally, in an effort to encourage prudent CRE loan workouts, especially among maturing loans, the Federal Reserve led the development of interagency guidance issued in October 2009 regarding CRE loan restructurings and workouts.7 To better understand the effectiveness of this guidance, the agencies conducted a survey of financial institutions during their examinations. The survey was completed in the third quarter of 2010.
+
+[SECTION]
+
+The survey was designed to gain an understanding of the current trends in the institution's CRE portfolios and an estimation of the volume of loan restructurings that are likely to occur within the next year. The majority of respondents described the quality of their CRE portfolios as relatively stable but expressed concern regarding borrowers' deteriorating repayment abilities and declining collateral values, which were of particular concern where maturing loans no longer met the institution's underwriting standards. Approximately two-thirds of the respondents were engaged in workout activity. Of note, respondents reported that almost three-fourths of loan modifications were performing according to their modified terms. The survey also noted that the volume of future CRE workouts was estimated to increase by approximately 60 percent during 2011. In contrast, banks have only restructured approximately 5 percent of all outstanding CRE portfolios to date.
+
+[SECTION]
+
+Given the level of restructured loans to date and the estimated volume of future restructurings, the Federal Reserve will continue to review institutions' restructuring policies to ensure that modifications are pursued in a prudent manner. Moreover, examiners will also monitor banks' internal reporting systems to determine if restructured loans are performing in accordance with modified terms.
+
+[SECTION]
+
+Regulated institutions continue to face significant challenges in determining the value of real estate in the current environment. For this reason, the Federal Reserve and the other federal banking agencies issued revisions to the Interagency Appraisal and Evaluation Guidelines in December 2010.8 The Federal Reserve expects institutions to have policies and procedures for obtaining new or updated appraisals as part of their ongoing credit reviews. An institution should have appraisals or other market information that provide appropriate analysis of the market value of the real estate collateral and reflect relevant market conditions, the property's current "asis" condition, and reasonable assumptions and conclusions.
+
+[SECTION]
+
+Changes to Supervision at the Federal Reserve
+       To improve both the Federal Reserve's consolidated supervision and our ability to identify potential risks to the financial system, we have made substantial changes to our supervisory framework. We have augmented our traditional supervisory approach, which focuses on examinations of individual firms, with greater use of horizontal reviews, which simultaneously examine portfolios across a group of firms, to identify common sources of risks and best practices for managing those risks. To supplement information from examiners in the field, we have enhanced our quantitative surveillance program to use data analysis and formal modeling to help identify vulnerabilities at both the firm level and for the financial sector as a whole. This analysis is supported by the collection of more timely, detailed, and consistent data from regulated firms. Many of these changes draw on the 2009 Supervisory Capital Assessment Program, or SCAP.
+
+[SECTION]
+
+Regarding CRE exposures specifically, we are working with the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation on the collection of loan-level CRE data from a number of national and regional banks. The data collected will provide critical information on the credit quality and performance of these loan portfolios. These data will aid in the development of more forward-looking loan loss projections that will provide a useful benchmark for the broader CRE market that can be used for all institutions. They will also be used to develop more accurate stress test parameters for CRE portfolios of banks that the Federal Reserve supervises. In addition, the agencies have made adjustments to the Consolidated Reports of Condition and Income, or the Call Report, filed quarterly by banks, to obtain more detailed information with respect to their CRE restructurings.
+
+[SECTION]
+
+Conclusion
+       Over the past year, CRE market and credit conditions have shown signs of stabilization and, in some areas, modest signs of improvement. We are also seeing signs of price stabilization in a number of CRE markets. Nevertheless, while some directional metrics are improving, the CRE market is still distressed and the strength and pace of improvements remains uneven.
+
+[SECTION]
+
+We expect that banks will continue to incur substantial additional CRE losses over the next two years and that many banks with CRE concentrations will continue to be under stress. While problems in the CRE market will be an ongoing concern for a number of banking organizations and a negative factor for economic growth and lending, we do not see CRE losses as a threat to systemically important financial institutions.
+
+[SECTION]
+
+Progress on working through the overhang of distressed CRE will take time and will depend on banks taking strong steps to ensure that losses are recognized in a timely manner, that loan loss reserves and capital appropriately reflect risk, that loans are modified in a safe and sound manner, and that loans continue to be made available to creditworthy borrowers. To this end, the Federal Reserve will continue to work with lenders to ensure that bank management and supervisors take a balanced approach to ensuring safety and soundness and serving the credit needs of the community.
+
+[SECTION]
+
+Real Capital Analytics Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2007), "Interagency Guidance on Concentrations in Commercial Real Estate," Supervision and Regulation Letter SR 07-1 (January 4). Return to text
+
+[SECTION]
+
+Owner-occupied CRE loans are not included in the CRE concentration definition. Return to text
+
+[SECTION]
+
+Delinquent CRE loans are defined as those that are 30 days or more past due. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System (2009), "Federal Reserve Adopts Policy Statement Supporting Prudent Commercial Real Estate (CRE) Loan Workouts," press release, October 30. Return to text
+
+[SECTION]
+
+See Jon D. Greenlee (2010), "Commercial Real Estate," statement before the Congressional Oversight Panel Field Hearing, Atlanta, Ga., January 27; also see Board of Governors, "Interagency Guidance," in note 2. Return to text
+
+[SECTION]
+
+See Board of Governors, "Federal Reserve Adopts Policy Statement," in note 5. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Office of the Comptroller of the Currency, Federal Deposit Insurance Corporation, Office of Thrift Supervision, and National Credit Union Administration (2010), "Agencies Issue Final Appraisal and Evaluation Guidelines," joint press release, December 2. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

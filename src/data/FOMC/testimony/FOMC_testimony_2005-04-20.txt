@@ -1,0 +1,569 @@
+
+
+[SECTION]
+
+Mr. Chairman, Ranking
+Minority Member, and Members of the Subcommittee, I appreciate the opportunity
+to discuss with you the initial implementation of the Check Clearing for the 21st
+Century Act (Check 21) and, more broadly, implications of the greater use of
+electronics in the nation's payments system. The backdrop for this discussion
+is the declining use of checks in the United States. I will focus my remarks
+on the implementation of Check 21 and how it relates to the maximum permissible
+hold periods banks may place on check deposits before making those funds
+available for withdrawal. Then I will discuss electronic check conversion and related
+consumer protection and education efforts that the Federal Reserve has undertaken.
+Finally, I will look at the responses of the Federal Reserve Banks and the
+industry to declining check volumes.
+
+[SECTION]
+
+The U.S. Payments System is Becoming Increasingly Electronic
+The United States
+is in the midst of a significant shift away from the use of paper checks and toward
+the much greater use of electronic payments. This change is clearly evident in
+the Federal Reserve's recent payments research, which shows that in 2003, for
+the first time ever, businesses and consumers made more payments electronically
+than by check. By contrast, only twenty-five years ago the vast majority of consumer
+and business noncash payments were made by check.
+
+[SECTION]
+
+We estimate that the
+number of checks used in the United States peaked during the mid-1990s at
+around 50 billion per year. By 2003, the number of checks had fallen by one-quarter,
+to around 37 billion. This decline is continuing. In contrast, electronic
+payments, such as payments made by credit and debit cards or through the
+automated clearinghouse (ACH), have tripled, from 15 billion in the mid-1990s
+to 45 billion in 2003 (see chart).
+
+[SECTION]
+
+As technology
+improves and scale economies are realized, the cost of electronic payment processing
+decreases relative to the cost of paper processing. For example, the Federal
+Reserve Banks realized significant operational-cost savings as a result of
+centralizing their electronic payment services. Today, the Reserve Banks' cost
+to process an ACH transaction is less than one-fifth that of processing a check.
+
+[SECTION]
+
+Because the number
+of noncash payment transactions in the U.S. economy exceeds 80 billion per
+year and is growing, even small savings in processing costs per payment may
+have large effects on overall payments system efficiency. Over the past
+decade, the reductions in the processing costs for ACH have allowed the Reserve
+Banks to cut approximately in half the fees they charge depository institutions
+for providing ACH services. Over the same period, the Reserve Banks have increased
+the price of their more labor-intensive paper check service approximately 50
+percent. So we can expect that this shift to the use of electronic technology
+for making payments and away from the physical handling, processing, and
+transportation of paper checks will translate, over time, into a reduction in
+the overall costs of making payments.
+
+[SECTION]
+
+Check 21 will Eventually Change the Way Checks are Collected
+The declining use
+of checks is only a part of the ongoing change within the payments system. How
+checks are collected also will evolve as a result of Check 21. This is very
+important legislation, which will ultimately foster fundamental changes to the
+check collection system that will improve the efficiency of the nation's
+payments system.
+
+[SECTION]
+
+You will recall
+that one of the purposes of the law was to reduce legal barriers to the use of electronic
+imaging and networking technologies to collect checks and to return those that
+are not paid. Specifically, state laws governing check collection allow banks
+to demand that the original checks be physically presented for payment.
+Although state laws typically allow banks to agree to alternative presentment
+arrangements, the large number of banks in the United States has made the
+widespread adoption of electronic check collection through industry agreements
+extremely difficult.
+
+[SECTION]
+
+While Check 21
+does not mandate that checks be presented electronically or change a bank's
+right to demand paper, it does facilitate the adoption of check truncation and
+electronic collection of checks through the action of market forces.1
+When the paying bank does not agree to receive checks electronically and
+demands that presentment be made by paper checks, Check 21 allows the
+other banks to create and present paper substitute checks that are legally
+equivalent to the original checks. As banks increasingly send and receive
+checks electronically, this new authority will reduce the handling of paper
+checks and enable banks to reduce their paper-check infrastructure more
+easily. It also will reduce the number of checks that must be flown or driven
+around the country to be collected or returned, which reduces transportation
+and other operating expenses. Of course, each bank will determine for itself which
+makes good business sense: adopting new technologies for sending and receiving
+checks electronically or continuing to demand paper.
+
+[SECTION]
+
+In addition, we will be monitoring the banking industry's
+experience with the Board's regulations implementing Check 21. We believe it
+is important to ensure that these fairly detailed regulations are producing the
+desired improvements in our national check-collection system. As we gain
+greater experience with substitute checks and other elements of the law, we
+will revisit these rules over the next few years and determine whether any
+refinements are necessary.
+
+[SECTION]
+
+Adoption of Check 21 is an Evolutionary, not a Revolutionary, Process
+Like any significant
+operational and technological change, the adoption of electronics within the
+check-collection system will be gradual. This is an evolutionary, not a revolutionary,
+process. The check-collection system did not change materially last October
+28, when Check 21 took effect. To date, relatively few banks have taken
+advantage of the opportunities provided by Check 21. The rate of adoption of
+Check 21 is not at all surprising; we did not anticipate that there would be an
+immediate, large shift in the way checks are collected. Still, there have been
+some important first steps that help enable banks to leverage the new Check 21
+authority, such as agreement on technical standards for creating substitute checks.
+It is important to recognize, however, that while a critical impetus for
+change, banks will no longer need substitute checks for processing once they both
+collect and receive checks electronically.
+
+[SECTION]
+
+For the banking
+industry to realize the vision for the nation's check-collection system laid
+out in Check 21, additional steps must be taken. For example, software vendors
+and third-party check processors need to adapt their systems to support the
+creation of substitute checks and the exchange of digital check images. As
+these systems become more prevalent, additional banks will invest in them.
+Once banks make these investments, however, they will have to adjust their
+operations to make the best use of the new technologies. They also will need
+to verify that their updated systems are compatible with those of other banks
+and will permit them to exchange checks electronically.
+
+[SECTION]
+
+As banks improve
+their technological capabilities, they can reduce their reliance on air and
+ground transportation, especially shared transportation arrangements. The
+banks that remain tied to paper checks will continue to bear the costs of those
+arrangements. As a result, I believe pressures to reduce check transportation
+costs will be an important determinant of the pace at which banks make the
+transition to electronic check collection.
+
+[SECTION]
+
+The Federal
+Reserve Banks have long been at the forefront of encouraging the electronic
+collection of checks. As a result, even before Check 21 became law, one out of
+every five checks collected through the Federal Reserve Banks was being
+presented electronically. The Reserve Banks also have been leaders within the
+payments industry in making use of the authority granted by Check 21. They
+began offering Check 21 services as soon as the law became effective. These
+services allow for the acceptance of digital check images for deposit and the
+truncation of some large-dollar paper-check deposits, which are then
+transmitted to the Reserve Bank closest to the paying bank, thereby eliminating
+the need to transport physically paper checks between the Reserve Banks. The receiving
+Reserve Bank then prints substitute checks from the check images to present them
+to the paying bank, or provides electronic check information to paying banks
+that already accept the presentment of checks electronically.
+
+[SECTION]
+
+Although all types
+of depository institutions are among the initial Reserve Bank customers for
+these services, the volumes are still relatively small. The operational and
+technical preparations and testing requirements necessary to use these new
+payments services naturally limit the pace at which banks can take advantage of
+them. Out of the approximately 50 million checks that the Reserve Banks
+collect each business day, only 400,000, or less than 1 percent, involve the
+deposit of digital check images with the Reserve Banks or the printing of
+substitute checks to present to the paying bank.
+
+[SECTION]
+
+Looking across the
+entire banking industry, some banks, both large and small, have begun to take
+advantage of the opportunities created by Check 21. For the most part, they have
+done so within the context of cooperative agreements, through third-party processors,
+or, as I just mentioned, by sending check images to the Federal Reserve Banks.
+The banking industry's efforts are generally less extensive, at this time, than
+those of the Federal Reserve Banks.
+
+[SECTION]
+
+So six months
+after Check 21 went into effect, it is clear that much remains to be done
+before electronic check collection becomes widespread. I do believe, however,
+that we are laying the groundwork for widespread changes in the check-collection
+system. While the pace of change is not clear, I believe that a decade from
+now our check-collection system will look much different. Though we may still
+be writing checks, I would expect that their number will be substantially lower
+and that most will be collected electronically.
+
+[SECTION]
+
+The Federal Reserve is Monitoring the Need to Reduce Hold Periods
+In light of the
+potential for improvements that could speed check collection and return times, the
+Federal Reserve has been monitoring whether changes to the funds availability
+policies set out in Regulation CC may be warranted.
+
+[SECTION]
+
+As you know,
+Congress established the current funds availability rules for check deposits in
+1987 through the Expedited Funds Availability Act, or EFAA, which the Federal
+Reserve Board implements through Regulation CC. EFAA sets the maximum permissible
+hold periods on funds deposited by check at levels that are intended to balance
+the desirability of providing consumers with timely access to their funds with
+banks' need to manage the risk of check fraud.
+
+[SECTION]
+
+Congress also
+recognized that when it comes to checks they accept for deposit, banks operate
+under the dictum of "no news is good news." A bank of first deposit
+does not receive any affirmative notice that another bank has paid a check. It
+only learns that a check will be returned unpaid when it receives the returned
+check or a notice that the check is being returned. Thus, under EFAA, the time
+needed to not only present a check to the paying bank but also return the
+unpaid check to the bank of first deposit is the statutory standard for determining
+whether reductions in the maximum permissible hold periods are warranted.
+
+[SECTION]
+
+Under the current
+funds availability schedule, next-business-day availability is required for checks
+considered low risk, such as Treasury checks, postal money orders, and cashier's
+checks. For local checks (that is, checks for which the paying bank and the bank
+of first deposit are located in the same Federal Reserve check-processing region),
+funds must be available for withdrawal no later than the second business day
+following deposit. For nonlocal checks (checks for which the paying bank and the
+bank of first deposit are located in different Federal Reserve check-processing
+regions), funds must be available for withdrawal no later than the fifth
+business day following deposit. Congress also provided safeguard exceptions to
+these maximum hold periods for certain types of accounts or deposits, such as
+new accounts or large-dollar check deposits, which may carry a greater risk of
+check fraud.
+
+[SECTION]
+
+The Federal Reserve's Responsibilities under EFAA
+Congress expected that
+as the check-collection system became more efficient, the amount of time it would
+take to return an unpaid check to the bank of first deposit would decrease.
+With that in mind, Congress specifically required the Federal Reserve Board to
+reduce, by regulation, the maximum hold periods to levels that are "equal
+to the period of time achievable under the improved check-clearing system for a
+receiving depository institution to reasonably expect to learn of the
+nonpayment of most items for each category of checks" (12 USC 4002(d)(1)).
+The EFAA's legislative history indicates that the term "most items"
+should be interpreted as at least two-thirds of unpaid checks in a given
+category, such as nonlocal checks.2
+
+[SECTION]
+
+The Federal Reserve
+Board takes its responsibilities under EFAA very seriously. We monitor
+developments in the check-collection system on an ongoing basis to determine if
+the maximum permissible hold periods should be shortened.3
+If we find sufficient improvement in check-collection and return times, we will
+reduce the Regulation CC availability schedule accordingly.
+
+[SECTION]
+
+Although
+developments have yet to show that changes to the Regulation CC availability
+schedules are warranted, that does not mean that banks routinely impose the
+maximum allowable hold periods before making funds available to their
+customers. Many banks regularly provide faster availability of funds to their
+customers. Some consumers also have been gaining faster access to funds from
+some of their deposited checks as a result of the Federal Reserve Banks' initiative
+to reduce their check-processing infrastructure in the face of declining check
+volumes. When Reserve Bank check-processing regions are combined--for example,
+the Pittsburgh and Cleveland check-processing regions--checks that were
+considered nonlocal in Cleveland because they were drawn on banks located in the
+Pittsburgh region became local and subject to the two-day rather than five-day
+maximum hold period. This means that consumers in Cleveland are receiving
+faster funds availability on deposited checks drawn on Pittsburgh banks.
+
+[SECTION]
+
+With the passage
+of Check 21, the Federal Reserve also is paying particularly close attention to
+how rapidly the banking industry embraces the use of electronics in collecting
+and returning checks. We monitor these developments in a number of ways. Because
+the Reserve Banks collect more than half of all checks that are drawn on a
+different bank than the one into which they are deposited (interbank checks),
+we closely monitor how quickly depository institutions are adopting the Reserve
+Banks' Check 21 services. We also monitor broader industry trends in the use
+of electronics to collect checks. As I noted earlier, change to date has been
+limited.
+
+[SECTION]
+
+Although we have
+yet to see material improvements in the speed with which banks learn that
+checks they had accepted for deposit have been returned unpaid as a direct
+result of Check 21, next year we will be studying the effects of Check 21's
+adoption on the banking industry. In particular, we will study how this law is
+affecting the check-collection system and the appropriateness of the current
+maximum permissible hold periods. We will report our findings to Congress no
+later than April 2007. If we discern significant improvements in the times
+needed to collect and return checks, we will accelerate the study.
+
+[SECTION]
+
+Given how little
+time will have elapsed since Check 21 came into force, this upcoming study may
+indicate that there has not been sufficient improvement to check-collection and
+return times to trigger reductions in the maximum permissible hold periods. But,
+as required by EFAA, the Board will continue to monitor check-return times and
+reduce the funds availability schedules in Regulation CC as changes in banking
+industry practices warrant.
+
+[SECTION]
+
+Check Conversion is not Check 21, but is a Means to Collect Funds Electronically
+Another important catalyst
+for change in the payments system is electronic check conversion--a rapidly
+growing means of collecting funds electronically from consumers' bank accounts
+using information that appears on their checks. Electronic check conversion
+does not involve the collection of checks or the use of the authority granted
+by Check 21. In 2004, approximately 1.5 billion checks were replaced by electronic
+check conversion. We expect these types of payments will continue to increase.
+
+[SECTION]
+
+Because electronic
+check conversion is sometimes mistakenly associated with Check 21, I think it
+may be helpful to explain what electronic check conversion is and how it works.
+Electronic check conversion involves using the routing, account, and serial numbers
+printed in magnetic ink on the bottom of a consumer's check as the source of information
+to create an electronic payment that is made using the ACH or a debit card
+network. Sometimes the conversion occurs at the cash register. More commonly,
+it occurs at so-called lock-box processing centers to which consumers mail checks
+to pay, for example, their credit card, mortgage, or utility bills.
+
+[SECTION]
+
+Check conversion
+and Check 21 are complementary and provide businesses and banks with choices
+regarding how to collect their customers' payments most efficiently. Check
+conversion allows merchants and so-called lock-box processing centers to
+collect funds electronically without ever using the check-collection system.
+The National Automated Clearing House Association's (NACHA) rules limit the use
+of check conversion, however, to checks written by consumers; checks drawn on
+business accounts are not now eligible to be converted, in part because many
+businesses arrange with their banks to block any ACH debits to their account.
+By contrast, Check 21 allows banks to collect any check electronically once it
+has entered the check-collection system.
+
+[SECTION]
+
+Whether the checks
+are converted in stores at the time of purchase or remotely at processing
+centers, the notice that is provided should enable consumers to understand that
+proceeding with payment authorizes the merchant or biller to electronically
+debit their accounts. For in-store transactions, consumers receive notice that
+a check will be converted to an electronic payment and authorize that
+conversion by signing an authorization slip and proceeding with the transaction.
+In the case of payments that are mailed, consumers receive notice with their
+bill that a check will be converted to an electronic payment and authorize the
+conversion by sending a check to the biller. NACHA rules permit consumers to
+opt out of electronic check conversion by their billers, that is, choose not to
+have their billers convert their checks to electronic payments.
+
+[SECTION]
+
+The Federal Reserve is Protecting Consumers and Educating the Public about Check Conversion and Check 21
+The conversion of
+checks to electronic fund transfers initially raised questions about whether those
+transactions were covered by check law or electronic fund transfer law for the
+purposes of consumer rights and protections. In 2001, the Federal Reserve
+Board clarified that the Electronic Fund Transfer Act, as implemented by Regulation
+E, protects consumers for electronic payments made via check conversion (66 FR
+15187, March 16, 2001).
+
+[SECTION]
+
+I would note,
+however, that the substantive rights of consumers are very similar whether they
+are derived from check or electronic fund transfer law. For example, as a
+general matter, in either case consumers have recourse for unauthorized
+transactions. The particular procedures for asserting a consumer's rights vary
+slightly depending on how the payment was made.
+
+[SECTION]
+
+The Board is now
+considering how to address concerns that have been raised about the notices
+consumers receive when their checks are converted to electronic payments. We have
+found that the quality of these notices varies widely and that consumers may be
+confused about what they are authorizing. The Board has requested comment on
+revisions to the Regulation E commentary to include specific language to be
+used in these consumer notices. The Board expects to take action on this
+proposal later this year. We are also considering whether to require by
+regulation, along the lines of current NACHA rules, a written, signed authorization
+by the consumer when a check is converted at a merchant location.
+
+[SECTION]
+
+The Federal
+Reserve also is actively working with consumer groups (particularly through the
+Board's Consumer Advisory Council), the banking industry, and the media to help
+inform the public about check conversion and Check 21. We are educating consumers
+about their rights in the event of an unauthorized transaction involving check
+conversion or a substitute check. Among our initiatives in this area was the
+publication of several brochures that help explain what check conversion, Check
+21, and substitute checks are all about. These brochures are available on our
+web site (http://www.federalreserve.gov/consumers.htm).
+We also have made available on our web site (http://www.federalreserve.gov/check21) answers
+to frequently asked questions and other important information about Check 21.
+
+[SECTION]
+
+Transition to a More-Electronic Payments System Affects the Federal Reserve Banks and the Banking Industry
+Since 1999, the
+number of checks collected through the Reserve Banks has fallen nearly 20
+percent, to less than 14 billion in 2004. We expect Reserve Bank check volumes
+to continue to fall as the total number of checks being written declines and as
+check conversion further reduces the number of checks collected.
+
+[SECTION]
+
+The Monetary Control
+Act of 1980 requires the Federal Reserve to set fees for providing certain
+payment services to depository institutions that, over the long run, recover
+all the direct and indirect costs of providing the services, as well as the
+imputed costs such as the income taxes that would have been paid and the profit
+that would have been earned had the services been provided by a private firm. As
+a result of the accelerating decline in the number of checks they collect, the
+Reserve Banks have not achieved their targeted level of profitability since
+2001; but they have recovered, in aggregate, all their direct, indirect, and
+imputed costs of providing payment services.4
+
+[SECTION]
+
+In response, the
+Reserve Banks have undertaken major initiatives to reduce check costs by standardizing
+their check systems and operations and by reducing the resources devoted to
+this service. The Reserve Banks have announced a reduction in the number of
+offices at which checks are processed, from the forty-five that existed at the
+beginning of 2003 to twenty-three by early 2006. I emphasize, however, that
+the reduction in the number of check-processing sites has not changed the
+Reserve Banks' commitment to making their check collection and other payment services
+available to depository institutions nationwide.
+
+[SECTION]
+
+As a result of the
+restructuring and other cost-reduction initiatives, the Reserve Banks expect that
+in 2005 they will recover fully all of their costs of providing check
+collection and other payments services, including the targeted return on equity
+or profit. As check volumes continue to decline, however, the Reserve Banks
+will need to take additional steps to reduce costs, including further
+restructuring of their processing operations.
+
+[SECTION]
+
+The challenges of
+a changing payments system are not unique to the Federal Reserve Banks. The
+entire banking industry faces similar cost and revenue pressures as check volumes
+decline. This is a particularly challenging environment for large banks that
+have made significant investments in physical check infrastructure. Over the
+coming years, many banks will need to decide how much longer to continue their
+paper-check-processing operations. At the same time, they must decide what investments
+to make in the technologies underlying Check 21 and check conversion and
+in technologies for making fully electronic payments.
+
+[SECTION]
+
+Conclusion
+In summary, the payments
+system in the United States is continuing to change and become increasingly
+efficient. However, the shift away from the use of paper checks does create
+challenges for the banking industry and the Federal Reserve Banks. To address
+these challenges, over the coming years the industry will be making important
+decisions about how best to incorporate the greater use of electronics into
+their payments operations while reducing their paper check-processing infrastructures.
+
+[SECTION]
+
+Although the
+implementation of Check 21 is expected to lead to a much more electronic and
+efficient check-collection system over the longer term, change will be
+evolutionary, not revolutionary. Banks will embrace the use of digital check
+images to present and return checks as the business case to make the necessary
+investments and improvements to their operations and systems becomes more
+compelling. This market-based approach to change was a fundamental principle
+underlying Check 21.
+
+[SECTION]
+
+Ongoing improvements
+in the check-collection system have not yet been extensive enough to warrant a
+reduction in the maximum permissible check-hold periods, but we will continue to
+monitor developments closely. Many banks, however, routinely provide customers
+with faster availability than required by Regulation CC; moreover, as the
+Reserve Banks adjust their check-processing regions, the maximum hold periods
+for some checks are effectively being reduced. But again, I want to emphasize
+the Board's commitment to reducing check-hold periods as developments warrant.
+
+[SECTION]
+
+I would be pleased to answer any questions that you may have.
+
+[SECTION]
+
+Annual Number of Noncash Payments in the United States
+
+
+
+Return to text
+
+[SECTION]
+
+Check truncation is the removal of an original check from the
+forward-collection or return process by the bank of first deposit or an
+intermediary, such as a Federal Reserve Bank. In lieu of the original check, a
+substitute check or, by agreement, information relating to the original check,
+such as an electronic image of the original check, is then sent on for
+collection or return.  Return to text
+
+[SECTION]
+
+Conference Report on H.R. 27 (H. Rept. 100-261), 100th Congress, 1st
+session, 179 (1987), pp. H6906-7. Return to text
+
+[SECTION]
+
+In the mid-1990s, we surveyed depository institutions
+to estimate the level of check fraud prevalent at that time and to quantify the
+average time it would take a bank of first deposit to receive or be provided
+notice of a returned check (see Report to Congress) (531 KB PDF).
+We found that a reduction in the maximum permissible check-hold periods was not
+warranted at that time. Return to text
+
+[SECTION]
+
+Because the check service represents more than 80 percent of all priced
+services costs, its performance is the primary determinant of the Reserve
+Banks' overall profitability for payment services. The Reserve Banks have
+recovered fully the total costs, including imputed costs, and profits of each
+payment service other than check during this four-year period. Return to text
+
+[SECTION]
+
+Return 
+              to top
+
+[SECTION]
+
+2005 Testimony
+
+ Home | News and 
+      events 
+Accessibility | Contact 
+      Us
+Last update: April 20, 2005, 2:00 PM

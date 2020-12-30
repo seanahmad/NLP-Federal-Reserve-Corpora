@@ -1,0 +1,317 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 05, 2008
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology, and the Subcommittee on Capital Markets, Insurance, and Government Sponsored Enterprises, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairmen Gutierrez and Kanjorski, Ranking Members Paul and Pryce, and members of the Subcommittees, I am pleased to appear today to provide the Subcommittees with information on the standards for review by the Board of Governors of the Federal Reserve System of investments by sovereign wealth funds in banks and bank holding companies in the United States.  The Board commends the Subcommittees for holding this hearing and for considering the important public policy implications raised by the recent investments of sovereign wealth funds in U.S. financial services companies.
+
+[SECTION]
+
+As requested by your staff, I intend to focus my testimony on a narrow issue, the thresholds for review of sovereign wealth fund investments by the federal banking agencies and the current levels of investments by these funds in U.S. banking organizations and in foreign banking organizations with U.S. banking operations.  I will begin with some general information about sovereign wealth funds and a summary of currently known investments by sovereign wealth funds in U.S. banks and bank holding companies.  Then I will describe the relevant U.S. banking laws applicable to investments by sovereign wealth funds in banks and bank holding companies and the treatment under those laws of these funds by the Federal Reserve.
+
+[SECTION]
+
+Sovereign Wealth FundsBroadly speaking, a sovereign wealth fund is an investment fund that is owned by a national or state government.  Globally, there are about thirty to forty sovereign wealth funds at this time.  Many sovereign wealth funds were originally set up to help stabilize revenues from the sale of a commodity, such as oil, natural gas or other commodities.  They also provide a way to preserve and grow wealth for future generations.  Chile, Botswana and Kiribati have established sovereign wealth funds based on their revenues from the sales of copper, diamonds, and phosphate.  Examples of governments that have established funds using oil revenues include those of Norway, Kuwait, Qatar, and the state of Alaska.
+
+[SECTION]
+
+Some developed nations have established sovereign wealth funds using social security or government pension fund surpluses and contributions from taxes and other government revenues.  Such funds invest in a wide range of domestic and foreign assets with the aim of supplementing the future means of financing social security or government pension programs.  Countries with this type of fund include France, Australia, and New Zealand.  Other sovereign wealth funds have been established to make profitable use of foreign exchange accumulated as the result of trade imbalances or foreign exchange intervention.  Countries with this type of fund include Singapore, Korea, and China.
+
+[SECTION]
+
+To achieve their objective of preserving and growing wealth for future generations or of profiting from often temporary surpluses of foreign exchange, sovereign wealth funds--like any investment fund--seek to earn an appropriate risk-adjusted return on the funds that they invest.  Sovereign wealth funds apply many of the same kinds of strategies that other investment funds apply.  Some funds, such as Norway's, engage solely in making small portfolio investments--i.e., their equity investments are typically below 10 percent of the voting shares of a firm.  Others, such as Singapore's Temasek Holdings (Temasek), take substantial stakes in firms in selected domestic and foreign industries.
+
+[SECTION]
+
+One of the reasons that sovereign wealth funds have attracted more attention in the past year is their size.  The largest funds are very large.  For example, Norway's sovereign wealth fund reports total assets of over $350 billion; China's fund and Singapore's two funds each manage assets of at least $100 billion.  This places sovereign wealth funds among the largest investment funds worldwide.  However, while the estimated two to three trillion dollars sovereign wealth funds manage exceeds the $1.4 trillion managed by hedge funds, it is far less than the over $50 trillion managed by insurance companies, pension funds, and other investment funds combined.  Further, it is an even smaller fraction of global debt and equity securities, which exceed $100 trillion.
+
+[SECTION]
+
+Another factor that has made sovereign wealth funds stand out in recent years has been their rapid growth.  Estimates suggest that sovereign wealth funds have been growing at a remarkable pace in recent years, possibly quadrupling in size between 2003 and 2007.  This rapid growth arises from the growth in revenues from the sale of oil and other commodities, following significant increases in commodities prices.  It also arises from the rapid accumulation of foreign exchange reserves and persistent current account imbalances.
+
+[SECTION]
+
+A third reason that sovereign wealth funds have attracted attention in the United States recently has been their investments in U.S. financial institutions, which is what I will talk about today.
+
+[SECTION]
+
+Investments of Sovereign Wealth Funds in U.S. Financial Services CompaniesOver the past several months, sovereign wealth funds have made direct investments totaling more than $24 billion in U.S. financial firms.  These investments account for a significant portion of the total additional capital raised by these financial companies in this period.  Sovereign wealth funds have been a beneficial source of capital for U.S. financial institutions.
+
+[SECTION]
+
+The recent wave of sovereign wealth fund investments in U.S. financial institutions consists of noncontrolling investments below 10 percent (and often below 5 percent) of voting equity.  For example, Citigroup recently received a capital infusion from the Kuwait Investment Authority (KIA), the Abu Dhabi Investment Authority (ADIA), and the Government of Singapore Investment Corporation (GIC), one of Singapore's two sovereign investment funds.  None of these funds acquired more than 10 percent of Citigroup's total equity.  Three sovereign wealth funds, the Korea Investment Corporation (KIC), Temasek, and KIA, each made similar noncontrolling investments in convertible preferred stock in Merrill Lynch and Co.  These are all passive investments that have not triggered formal review under U.S. banking law, as I will explain in a moment.  The press releases from the financial institutions announcing each of these recent investments have generally emphasized that these sovereign investors will not seek to exercise control over the target company and will not have representation on the target company's board of directors or take part in its management.
+
+[SECTION]
+
+Thresholds for Federal Reserve ReviewAs a general matter, the same statutory and regulatory thresholds for review by the federal banking agencies apply to investments by sovereign wealth funds as apply to investments by other domestic and foreign investors in U.S. banks and bank holding companies.  These requirements are established in two federal statutes, the Bank Holding Company Act (BHC Act) and the Change in Bank Control Act (CIBC Act).1  The BHC Act requires any company to obtain approval from the Federal Reserve before making a direct or indirect investment in a U.S. bank or bank holding company if the investment meets certain thresholds.  In particular, the BHC Act requires Board review when a company acquires: (1) ownership or control of 25 percent or more of any class of voting securities of the bank or bank holding company, (2) control of the election of a majority of the board of directors of the bank or bank holding company, or (3) the ability to exercise a controlling influence over the management or policies of the bank or bank holding company.
+
+[SECTION]
+
+In determining whether an investor may exercise a controlling influence over the management or policies of a U.S. bank or bank holding company for purposes of the BHC Act, the Board considers the size of the investment, the involvement of the investor in the management of the bank or bank holding company, any business relationships between the investor and the bank or bank holding company, and other relevant factors indicating an intent or ability to significantly influence the management or operations of the bank or bank holding company.  The BHC Act presumes that an investor that controls less than 5 percent of the voting shares of a U.S. bank or bank holding company does not have a controlling influence over that bank or bank holding company, and the Board generally has not found that a controlling influence exists if the investment represents less than 10 percent of the bank or bank holding company's voting shares.
+
+[SECTION]
+
+A company that meets any of these thresholds is called a "bank holding company" and, in addition to the prior approval process, is subject by statute to supervision by the Federal Reserve, including examination, reporting, and capital requirements, as well as to the Act's restrictions on the mixing of banking and commerce.  Moreover, a company that makes an investment that causes it to be a bank holding company is subject to a prior review requirement at a lower threshold for any investments in additional banks or bank holding companies.  If a company already controls one U.S. bank, the company is required by statute to obtain approval from the Federal Reserve prior to acquiring more than 5 percent of the voting shares of another U.S. bank or bank holding company.
+
+[SECTION]
+
+There is one additional requirement governing the applicability of the BHC Act that is noteworthy.  The BHC Act applies only to investments in banks and bank holding companies that are made by "companies."  The Act specifically excludes investments made by the U.S. Government or by any state government.  On this basis, the Board has long held that the provisions of the BHC Act do not apply to direct investments made by foreign governments.
+
+[SECTION]
+
+The BHC Act also specifically excludes from its coverage any corporation controlled by the United States or by a state government.  Thus, investment funds of the states of Alaska and New Jersey, for example, are specifically excluded from the requirements of the Act.  As I will discuss in more detail below, the Board has not extended this exclusion to companies controlled by foreign governments that make investments in U.S. banks and bank holding companies.  Foreign governments to date have primarily invested through sovereign wealth funds that are companies controlled by the foreign government.  The effect of the Board's long-standing interpretation is that a sovereign wealth fund that seeks to make an investment in a U.S. bank or bank holding company that exceeds the thresholds in the BHC Act would be required to obtain Board approval prior to making the investment and would become subject to the other provisions of the BHC Act, but its parent foreign government would not.
+
+[SECTION]
+
+Investments by sovereign wealth funds that do not trigger the requirements of the BHC Act may nevertheless require approval from a federal banking agency under the Change in Bank Control Act (CIBC Act).  Prior approval from the Federal Reserve under the CIBC Act generally is required for any acquisition of 10 percent or more of any class of voting securities of a state member bank or bank holding company.  Unlike the BHC Act, which imposes ongoing restrictions on the nonbanking activities of corporate owners of banks as well as ongoing reporting, examination, capital, and other requirements, the CIBC Act does not impose any activity limitations or any ongoing supervisory requirements on owners of banks.
+
+[SECTION]
+
+When an investor applies for the prior approval of the Federal Reserve to make an investment in a bank or bank holding company that triggers the review thresholds under the BHC Act or the CIBC Act, the Federal Reserve evaluates the application under the statutory requirements of those Acts.  The BHC Act mandates that the Federal Reserve consider a number of factors when acting on BHC Act applications, including competitive, supervisory, and financial and managerial factors (the last including consideration of the competence, experience, and integrity of the officers, directors, and principal shareholders of the company or bank).  The CIBC Act also requires the federal banking agency to consider specific factors, including competitive and informational standards as well as whether the transaction would jeopardize the financial stability of the bank, prejudice the interests of the depositors of the bank, or result in an adverse effect on the Deposit Insurance Fund.
+
+[SECTION]
+
+Most sovereign wealth funds, like many other investors including U.S. investment banking firms, hedge funds, and private equity pools, have structured their investments so as not to trigger the thresholds for review and approval under either the BHC Act or the CIBC Act.  Instead, sovereign wealth funds have limited their investments to amounts that represent less than 10 percent of the voting shares of the banking organization and have designed their investments to be passive and without the connections or relationships that might allow the sovereign wealth funds to control the U.S. banking organization.
+
+[SECTION]
+
+Investments of Sovereign Wealth Funds in Foreign Banking OrganizationsSeveral sovereign wealth funds, including some that have attracted attention with their recent investments in U.S. financial institutions, also have interests in foreign banks with U.S. operations.  The levels of ownership range from well below 10 percent to, in some cases, interests that indicate control of the foreign bank.  These foreign banks generally conduct their U.S. banking operations through direct offices--branches and agencies; none controlled by a sovereign wealth fund currently controls a U.S. bank subsidiary.  U.S. branches and agencies of foreign banks do not have all of the powers of U.S. bank branches.  Specifically, U.S. branches of foreign banks are not permitted to accept retail deposits (deposits less than $100,000), except for a small number of grandfathered cases.  Foreign bank agencies cannot accept deposits from citizens or residents of the United States.  Funds with interests in foreign banks that operate U.S. branches and agencies include Temasek, GIC, China Investment Corporation (CIC), Central Huijin Investment Company (Huijin),2 KIA, and ADIA.
+
+[SECTION]
+
+After 1991, the International Banking Act (IBA) provided that any foreign bank seeking to establish a U.S. branch or agency must apply to the Federal Reserve for prior approval.  All foreign banks controlled by sovereign wealth funds that have U.S. branches or agencies established those branches or agencies before the IBA was amended in 1991 to require Federal Reserve approval of the establishment by foreign banks of new U.S. branches and agencies.3  Any future applications by foreign banks controlled by sovereign wealth funds to establish U.S. branches and agencies would be evaluated by the Federal Reserve pursuant to the standards in the IBA.  An important factor the Federal Reserve is required to consider under the IBA is whether the foreign bank is supervised on a comprehensive consolidated basis by its home country supervisor.  The Federal Reserve also examines how the supervisor monitors relationships and transactions between the foreign bank and any related party, including controlling sovereign wealth funds and other controlling shareholders.  A number of additional factors are also considered, including the anti-money laundering regime of the foreign bank and its supervisor, the consent of the appropriate home country authorities, the financial and managerial resources of the foreign bank, and whether the foreign bank and any controlling company (including any controlling sovereign wealth fund) have made adequate assurances concerning provision of information to the Federal Reserve about its operations and activities.
+
+[SECTION]
+
+The Federal Reserve's Approach to Foreign Government OwnershipAs I noted above, the Federal Reserve has drawn a distinction between foreign governments themselves, which are not treated as "companies" subject to the BHC Act, and government-owned entities such as sovereign wealth funds, which are treated as companies and are subject to the BHC Act.
+
+[SECTION]
+
+The position that the BHC Act does not apply to foreign governments themselves is long held by the Board.4  It noted this view and revisited the reasons for this position in 1982 in connection with an application by an Italian government-owned bank to acquire a controlling interest in a U.S. bank.5  At that time, the Board reiterated its view that the BHC Act should not be applied to the Italian Government.  At the same time, the Board noted that significant policy issues were raised by foreign government ownership of a U.S. bank, including in particular issues related to the mixing of banking and commerce and to interstate banking in the United States (which was largely prohibited at the time).  The Board invited Congress to address the issue and noted that the concept of national treatment could justify applying the BHC Act to foreign government-owned entities.6
+
+[SECTION]
+
+In 1988, an Italian bank controlled by the Italian Government again applied to the Federal Reserve to acquire a U.S. bank.  The Board carefully considered the applicability of the BHC Act to foreign governments and foreign government-owned entities and reiterated its earlier conclusion that, as a legal matter, foreign governments were not themselves "companies" for purposes of the BHC Act and were therefore not covered by the Act.  The Board found, however, that the investment fund controlled by the Italian Government, the Istituto per la Ricostruzione Industriale (IRI), was structured as a corporate vehicle and was therefore a company under the Act and subject to the Act.7
+
+[SECTION]
+
+At the same time, the Board indicated its willingness to grant exemptions from the nonbanking restrictions in the BHC Act to IRI for its commercial investments, citing IRI's status as a nonoperating instrumentality for holding government interests.  The Board also expressed its willingness to exempt from the BHC Act the nonbanking investments of other foreign government-owned companies of a character similar to that of IRI, as long as their foreign bank subsidiaries conducted banking in the United States only through branches and agencies and not through U.S. subsidiary banks.  This approach limited the extraterritorial effects of U.S. economic regulation on foreign companies, in recognition of the fact that foreign countries may choose to organize their economies differently from the United States.  It also kept the United States open to a significant number of foreign banking organizations whose U.S. banking activities might otherwise have been severely curtailed.  Notwithstanding the availability of this exemption for government-owned companies (including sovereign wealth funds) that control foreign banks with U.S. banking operations, the foreign banks themselves are subject to the same degree of U.S. regulation and supervision as other foreign banks.
+
+[SECTION]
+
+Regulation of Bank Holding CompaniesSince a sovereign wealth fund is a company for purposes of the BHC Act, if a fund were to acquire control of a U.S. bank or bank holding company, it would be treated as a bank holding company and would be subject to the U.S. regulatory regime applicable to such companies.  This regime is designed in significant part to help ensure the safety and soundness of U.S. bank subsidiaries of bank holding companies.  Among the most important tools that U.S. bank regulators have to protect the safety and soundness of U.S. banks are the legal restrictions that limit the ability of a bank to lend to affiliates.  Section 23A of the Federal Reserve Act provides that a bank may not lend more than 10 percent of its capital to any one affiliate or more than 20 percent of its capital to all affiliates combined.  Of equal importance, any loan to an affiliate must be either fully collateralized by cash or U.S. Treasury securities or overcollateralized by 10 to 30 percent, depending on the type of asset or instrument used to secure the loan.  Section 23A also prohibits the purchase of low-quality assets by a U.S. bank from its affiliates.  Section 23B of the Federal Reserve Act requires that all transactions between a bank and its affiliates be conducted only on an arms-length basis.  These restrictions are designed to limit the ability of an owner of a bank to exploit the bank for the benefit of the rest of the organization.
+
+[SECTION]
+
+With respect to a U.S. bank or bank holding company that might be owned by a sovereign wealth fund, these same restrictions would apply to transactions by the bank with the sovereign wealth fund itself and other companies controlled by the fund.  Moreover, the restrictions would apply to companies controlled by the same government through other sovereign wealth funds of that government.  Thus, a U.S. bank controlled by a sovereign wealth fund would not be permitted to fund substantially the operations of other companies controlled by the same sovereign wealth fund or its government owner, could not provide any uncollateralized loans to such companies, and could not purchase low-quality assets from those companies.  In this regard, it would be important for any U.S. bank that might come to be controlled by a sovereign wealth fund to have information on which companies are controlled by the fund and by the government that owns the fund.  This type of transparency would be necessary to allow the bank to comply with the affiliate transaction restrictions of sections 23A and 23B.
+
+[SECTION]
+
+ConclusionRecent sovereign wealth fund investments in U.S. banking and financial services organizations have attracted much attention and there is no doubt that sovereign wealth funds are growing in size and number and are making increasingly significant investments in financial services organizations worldwide.  But foreign government-owned entities, including sovereign wealth funds, have owned foreign banks with U.S. operations for many years.  The Board has long taken the position that while foreign governments themselves are not companies subject to the BHC Act, foreign government-owned corporations such as sovereign wealth funds are companies.  Thus any proposed controlling investment in a U.S. bank or bank holding company by a sovereign wealth fund would be subject to Federal Reserve approval.
+
+[SECTION]
+
+Sovereign wealth funds, like private investment funds, U.S. state investment vehicles, hedge funds, and many other investors, have generally made investments at levels that are not large enough to trigger the thresholds for review and approval by the federal banking agencies under the federal banking laws.  If a sovereign wealth fund were to make an investment in a U.S. banking organization that triggers one of these thresholds, the application would be evaluated by the Federal Reserve or other appropriate federal banking agency under the relevant statutes with no preference or handicap relative to other investors.  Any sovereign wealth fund controlling a U.S. bank or bank holding company would be required to operate subject to the limitations on affiliate transactions in sections 23A and 23B of the Federal Reserve Act.
+
+[SECTION]
+
+I appreciate the opportunity to explain these issues to the Subcommittees.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+A third federal statute, the Savings and Loan Holding Company Act, governs investments in companies that control savings associations.  The thresholds and standards for review of investments in savings associations established in that act are administered by the Office of Thrift Supervision and are nearly identical to those established by the BHC Act. Return to text
+
+[SECTION]
+
+Huijin, a Chinese company with a mandate to improve corporate governance and initiate reforms in the state-owned financial sector, was created to act as a government holding company for Chinese state-owned banks acquired as a result of capital injections by the Chinese government.  Huijin is expected to be acquired by CIC in the near future. Return to text
+
+[SECTION]
+
+Huijin acquired its controlling interest in one foreign bank, Bank of China, after the IBA was amended, but also after the establishment of Bank of Chinaâs U.S. branches.  When a company makes a controlling investment in a foreign bank that already has U.S. branches or agencies, under Federal Reserve regulations the foreign bank is required to notify the Federal Reserve within ten days of the investment and report the shareholding in annual filings with the Federal Reserve.   Return to text
+
+[SECTION]
+
+Governor John P. LaWare discussed this position and other issues related to foreign government ownership of foreign banks operating in the United States in testimony before the House Committee on Banking, Finance and Urban Affairs in 1992.  78 Federal Reserve Bulletin 495 (1992). Return to text
+
+[SECTION]
+
+Banca Commerciale Italiana, 68 Federal Reserve Bulletin 423 (1982). Return to text
+
+[SECTION]
+
+Later in 1982, a subcommittee of the House Committee on Government Operations held hearings on foreign government and foreign investor control of U.S. banks.  Hearing on Foreign Government and Foreign Investor Control of U.S. Banks, before the Commerce, Consumer, and Monetary Affairs Subcommittee of the House Committee on Government Operations, 97 Cong. 2 Sess. (Government Printing Office, 1982).  No legislation, however, was proposed. Return to text
+
+[SECTION]
+
+Letter from William W. Wiles, Secretary of the Board, to Patricia S. Skigen (August 19, 1988). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

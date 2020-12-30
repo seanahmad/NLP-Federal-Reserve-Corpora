@@ -1,0 +1,241 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 11, 2013
+
+[SECTION]
+
+Richard M. Ashton, Deputy General Counsel
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Protection, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Brown, Ranking Member Toomey, and members of the subcommittee, thank you for the opportunity to testify regarding the required use of third-party consulting firms (consultants) in Federal Reserve enforcement actions.
+
+[SECTION]
+
+Use of Consultants by Regulated Banking Organizations
+       At the outset, it might be helpful to point out that regulated banking organizations routinely choose to retain consultants for a variety of purposes apart from any supervisory directive by regulators to do so. Banking organizations decide to retain consultants because these firms can provide specialized expertise, familiarity with industry best practices, a more objective perspective, and staffing resources that the regulated organizations do not have internally. In this respect, reliance on consultants can significantly contribute to the overall efficient governance and management of these organizations as well as to their safe and sound operation and their compliance with supervisory expectations and legal requirements.
+
+[SECTION]
+
+Use of Consultants in Federal Reserve Enforcement Actions
+       In the vast majority of Federal Reserve enforcement actions, the organization itself, using its own personnel and resources, is directed to take the necessary corrective and remedial action. In appropriate circumstances, the Federal Reserve has found that it can be an effective enforcement tool to require regulated organizations to retain a consultant to perform specific tasks on behalf of that organization. However, the mandatory use of a consultant has typically not been a frequent requirement in Federal Reserve enforcement actions. And, importantly, consultants are used to conduct work that ordinarily the organization itself would be required to conduct. At all times, the Federal Reserve retains authority to, and does, review and supervise the consultant's work in the same manner as if the institution conducted the work directly. In all cases, the regulated organization is itself ultimately responsible for its own safe and sound operations and compliance with legal requirements.
+
+[SECTION]
+
+As a general rule, our enforcement actions require the use of consultants to perform specific functions that the organization involved should do but has shown that it cannot perform itself. This may be because a particular organization lacks the necessary specialized knowledge or experience. Similarly, the organization may not have sufficient staffing resources internally. In addition, it may be necessary to have a third party undertake a particular project because a more objective viewpoint is required than would be provided by the organization's management.Over the last 10 years, for instance, there were consultant requirements in an average of less than 15 percent of all formal enforcement actions taken by the agency. In addition to formal enforcement actions, Federal Reserve examiners may informally direct organizations to retain consultants to undertake designated engagements on behalf of the organization where circumstances warrant.
+
+[SECTION]
+
+In our enforcement actions, we required the use of consulting firms to perform several limited, specialized types of work. In many of these enforcement actions, an expert third party must be retained to review and submit a report on a specific area of the organization's operations. These mandated reviews by consultants have often involved an evaluation of an organization's compliance program, its accounting practices, or its staffing needs and the qualifications and performance of senior management. These enforcement directives usually require the organization to incorporate the findings of the report into a plan to improve that particular area of operations. Federal Reserve regulators may also use the product of a consultant's work as a guide in developing the ongoing supervision of the organization.
+
+[SECTION]
+
+Another type of enforcement action where use of consultants has been required involves situations where examiners have found serious past deficiencies in an organization's systems for monitoring compliance with Bank Secrecy Act and anti-money laundering (BSA/AML) requirements. In these cases, our actions have required a consultant retained by the organization to review certain kinds of transactions that occurred at the organization over a specific past period of time and determine whether BSA/AML reports were filed as required with regard to those transactions. These reviews require the consultant to identify situations where a suspicious activity report or a currency transaction report should have been filed, rather than to perform an assessment of the organization's compliance program. After receiving the results of the consultant's review, the organization would then file all the required reports with the appropriate government agencies.
+
+[SECTION]
+
+Finally, in several recent enforcement actions that required organizations to identify and then compensate or otherwise remediate injured consumers, the organizations have been required to retain consultants to administer that process. In these actions, the consultants were required to make recommendations about the appropriate remediation to individual consumers or to make remediation decisions about individual consumers or review the organization's remediation decisions.
+
+[SECTION]
+
+Federal Reserve Oversight of Consultant Performance
+       When enforcement actions require a regulated banking organization to use a consultant to carry out a particular function, the Federal Reserve oversees the organization's implementation of this directive. Our standard practice is to require the organization's retention of a consulting firm to be first approved by the Federal Reserve. We typically look at the particular expertise and experience of the selected consultant. The resources and capacity of the firm to carry out the particular engagement are also examined. Whether the consultant has the appropriate objectivity and separation from management is also a key factor in assessing the acceptability of the firm. To assess objectivity, we examine the extent and type of work that the consultant has done for the organization in the past. One guiding principle is that a consulting firm should not be allowed to review or evaluate work that it has previously done for the organization. How these factors are evaluated is necessarily determined on a case-by-case basis, depending on the specific type of task the consultant is being required to perform. However, the approval of particular consultants is not perfunctory; where warranted we have disapproved a consultant that has been selected by an organization under an enforcement order requirement.
+
+[SECTION]
+
+Additionally, our general practice is to explicitly require that the letter between the organization and the consulting firm or other documentation that describes the scope, terms, and conditions of the particular engagement be approved by the Federal Reserve. Thus, we are able to assess whether the consultant's planned work will be consistent with what was intended in the enforcement action and whether effective safeguards of objectivity will be maintained.
+
+[SECTION]
+
+We also oversee the consultant's performance during the course of the engagement. This oversight can involve obtaining and reviewing interim progress reports from the consultant. We also can call for periodic meetings with consultant personnel, which can be as frequently as every week. If a consultant is not meeting the required standards of performance, we will inform the organization of the needed improvements, applying the same criteria as if the organization was performing the work with its own personnel.
+
+[SECTION]
+
+In sum, it is important to note that consultants retained under Federal Reserve enforcement actions work for the organization that retained them, and the organization, not the consultant, is responsible for correcting the deficiencies that triggered issuance of the enforcement action and for preventing their reoccurrence. Requiring the use of consultants to assist in implementing corrective and remedial measures is just one tool available to Federal Reserve regulators in fashioning formal enforcement actions. Our experience has shown that consultants can be expected to provide the expertise, experience, and third-party perspective needed by the regulated banking organization to better meet supervisory objectives, including assisting the regulated organizations with correcting particular governance or operational deficiencies identified through the supervisory process. However, in deciding to use this tool in appropriate cases, the Federal Reserve does not cede its regulatory responsibilities or judgment to those consultants. We require that regulated organizations comply with the same basic standards of prudent practices and compliance with applicable laws and regulations, irrespective of whether an organization has relied on the assistance of a consultant or not.
+
+[SECTION]
+
+Use of Independent Consultants in the Independent Foreclosure Review
+       Although it is not the specific subject of this hearing, it might be helpful to note briefly the independent foreclosure reviews required by the consent orders issued by the Office of the Comptroller of the Currency and the Federal Reserve against major mortgage servicing firms, and the role of the independent consultants required under those orders.1 In those mortgage servicing orders, the servicers were required to retain independent consultants to review foreclosure files of borrowers within a two-year period to identify financial injury caused by servicer error. Recently, the regulators and 13 of the servicers subject to the foreclosure orders entered into agreements under which these servicers must make cash payments to borrowers and provide other borrower assistance. These payments and other assistance replace the independent foreclosure review by independent consultants that had been required of these servicers under the initial orders.
+
+[SECTION]
+
+As we have explained, the regulators accepted these agreements with the 13 servicers because the agreements provided the greatest benefit to borrowers potentially subjected to unsafe and unsound mortgage-servicing and foreclosure practices in a more timely manner than would have occurred under the review process. In practice, for these servicers, the scope of the inquiry required of the consultants to conduct the independent foreclosure review proved over time to be more expansive, time-consuming, and labor-intensive than what is typically required of consultants in Federal Reserve enforcement actions. The result was significant delays in providing funds to consumers. Accordingly, the decision to replace the review of individual foreclosure files by the consultants with agreements to pay cash and provide other assistance to borrowers was based on the specialized and unprecedented nature of the particular reviews the consultants were required to undertake.
+
+[SECTION]
+
+Thank you again for the invitation to appear before the subcommittee today. I would be pleased to answer any questions you might have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Of the 16 servicing organizations subject to enforcement actions requiring independent foreclosure reviews, 10 are regulated by the Office of the Comptroller of the Currency, four are regulated by the Federal Reserve, and two organizations are regulated by both agencies. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

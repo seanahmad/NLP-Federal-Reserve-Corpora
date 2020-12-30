@@ -1,0 +1,344 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 14, 2011
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Subcommittee on Capital Markets and Government Sponsored Enterprises, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Garrett, Ranking Member Waters, and members of the Subcommittee, thank you for the opportunity to discuss the implementation of the risk retention requirements of section 941 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the DoddâFrank Act). This provision seeks to promote sustainable availability of credit by requiring that securitizers generally retain some of the credit risk of the assets they securitize (sometimes referred to as "skin in the game"). Retaining credit risk creates incentives for securitizers to better monitor the credit quality of assets they securitize and ultimately discourages unsafe and unsound underwriting practices by originators.
+
+[SECTION]
+
+In my testimony, I will discuss problems associated with the securitization process that became prominent during the crisis and how the risk retention requirements of the Dodd-Frank Act may help both to alleviate these problems and to provide positive incentives to market participants. I will also describe elements of the rules proposed by the Federal Reserve and other agencies and discuss how these rules can achieve the goals of risk retention without causing undue market disruption or negative effects on the availability of credit to consumers and businesses.
+
+[SECTION]
+
+As explained in the Board's October 2010 report to the Congress on the Dodd-Frank Act's risk retention requirements, securitization provides economic benefits that can lower the cost of credit to households and businesses.1 Securitization can reduce the costs of lending because it creates investment products with different maturity and credit risk profiles from a single pool of assets that can appeal to a broad range of investors. In addition, securitization allows for more efficient management of maturity mismatches. Investors with a long-term investment horizon and stable funding sources can more efficiently hold longer-duration credit assets because they avoid the asset-liability duration mismatch that often arises with depository institutions (for example, when residential mortgage loans are funded with short-term bank deposits). The ability to match asset and liability duration fosters financial stability. Securitization can also promote financial stability by allowing depository institutions and other lenders a means to reduce concentrations in credit risk to certain types of loans and borrowers on their balance sheets.
+
+[SECTION]
+
+However, despite the benefits to the economy, the securitization process is vulnerable to significant informational and incentive problems.2 Incentives between lenders and investors become misaligned when lenders originate riskier loans in ways that are not readily apparent to investors and quickly sell loans without retaining meaningful exposure to their credit risk. These problems, if unchecked, can lead to inappropriate pricing of risk by market participants and imprudent relaxing of lending standards, which in turn can have severe repercussions and even lead to disruptions in market function. As demonstrated by the recent crisis, the resulting effects can cause serious harm to investors, consumers, financial institutions, and the financial system.
+
+[SECTION]
+
+The risk retention requirements of section 941 of the Dodd-Frank Act, in conjunction with other parts of the statute, are intended to help address these problems in the securitization markets. Retaining an economic interest in the credit risk of securitized assets should encourage securitizers to more closely screen and control the credit risk of these assets before securitizing them, and, therefore, should more closely align the interests of securitizers with the interests of investors. Further, this incentive for securitizers to more closely monitor the assets they securitize should act as a check on broad tendencies by lenders to loosen underwriting standards on loans they sell. Importantly, section 941's risk retention requirement applies to all securitizers (regardless of regulatory status) and most types of securitization transactions. Establishing the risk retention requirement on a broad basis builds upon the various incentive-alignment mechanisms that have long been a part of the market practice for most types of securitization transactions.
+
+[SECTION]
+
+In the months since the Dodd-Frank Act became law, the Board has worked closely with the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Securities and Exchange Commission (SEC), the Federal Housing Finance Agency (FHFA), and the Department of Housing and Urban Development (collectively, the agencies)3 to develop proposed rules to implement the risk retention requirements in accordance with the purpose of section 941. We have endeavored to take into account the diversity of assets that are securitized, the variety of structures and practices present in the securitization markets, and the mechanisms for risk retention that have been used effectively in the market, as well as the important goal of fostering the availability of credit to creditworthy borrowers.4
+
+[SECTION]
+
+The Board welcomes public comment on these proposed rules. This is an important and complex area that directly affects the manner in which liquidity is found to support the availability of credit to consumers, homeowners, small business, and others. The Board looks forward to the information and ideas that will be provided during the public comment period and will consider those comments carefully.
+
+[SECTION]
+
+Proposed Risk Retention Requirement
+       In accordance with the Dodd-Frank Act, the proposed rules generally would require that a sponsor of a securitization transaction retain credit risk in the securitized assets either by retaining 5 percent of the par value of asset-backed securities (ABS) issued in the securitization transaction or 5 percent of the assets securitized in the transaction. The proposal would apply the risk retention requirement to sponsors of securitization transactions, who typically have the most active and direct role in arranging a securitization transaction and selecting the assets to be securitized.
+
+[SECTION]
+
+The statute gives the agencies the authority to determine the permissible forms of required risk retention, and its legislative history indicates that the Congress intended that the agencies "recognize the differences in securitization practices for various asset classes."5 In selecting the permissible options for sponsors to retain risk under the proposed rules, the agencies considered the best practices in risk retention for various classes of assets and their performance during the financial crisis. The options under the proposed rules include:
+
+[SECTION]
+
+As permitted by section 941 of the Dodd-Frank Act, the proposed rules recognize the standard market practice for commercial mortgage-backed securities (CMBS) transactions, for which risk frequently has been retained by a third-party purchaser (or "B-piece buyer") who negotiates for, and retains, the most subordinated class of interest issued in the securitization. Under the proposed rules, a sponsor of CMBS may meet its risk retention requirements if a B-piece buyer acquires a 5 percent or greater first-loss position that complies with the requirements in the proposed rules for horizontal interests.
+
+[SECTION]
+
+Disclosure Requirements under the Proposed Rules
+       As discussed above, some of the problems arising out of the securitization process were due to informational asymmetry among participants in the markets: for example, the sponsor typically understands the risks in the pool better than the investors in the securitization. The proposed rules attempt to remedy some of these asymmetries through disclosure requirements. A sponsor utilizing any of the options to meet its risk retention requirements would be required to provide certain tailored disclosures to investors and, upon request, to the SEC and the sponsor's appropriate supervisor (if any). This should provide investors and regulators with useful information on the sponsor's retained interest in the securitization transaction and the basis on which the sponsor valued its interest.
+
+[SECTION]
+
+For example, if a sponsor meets its risk retention requirement by retaining a horizontal interest in a securitization transaction, it must disclose both the amount it was required to retain under the proposed rules and the amount it actually retained, in each case, expressed as a percentage and dollar amount. The sponsor must also disclose the material terms related to the interest it retained and the material assumptions and methodology used to determine the aggregate dollar amount of ABS interests issued in the securitization transaction, including those related to the discount rate and estimated cash flows. The other risk retention options generally incorporate these disclosure requirements, and also, in some cases, require additional disclosure related to the specific type of risk retention. Thus, sponsors retaining risk through a representative sample must provide disclosures similar to those required for horizontal retention, and must provide comprehensive disclosures related to the methodologies used to choose the representative sample to ensure that the sample portfolio of assets retained by the sponsor is truly representative of the entire pool of securitized assets.
+
+[SECTION]
+
+Hedging and Transfer Restrictions
+       Consistent with section 941 of the Dodd-Frank Act, the proposed rules would prohibit a sponsor from transferring (or pledging as collateral without recourse) any interest or assets that the sponsor is required to retain under the rule to any person other than a consolidated affiliate. The proposal also would prohibit a sponsor or any of its consolidated affiliates from hedging the credit risk the sponsor is required to retain through a financial instrument or agreement that involves payments materially related to that credit risk and that would reduce the sponsor's exposure to that credit risk. This provision ensures that the sponsor remains exposed to the credit risk of the securitized assets, and, therefore, incentivizes the sponsor to select and manage the securitized assets appropriately, based on quality of underwriting.
+
+[SECTION]
+
+Under the proposal, the sponsor and its affiliates would retain the ability to manage risks that are not specific to the credit risk it is required to retain under the proposed rules. Thus, the sponsor may enter into hedges related to market movements, currency exchange rates, home prices, or the overall value of a particular broad category of ABS. These provisions are intended to allow sponsors to continue to appropriately manage their risks on an enterprise-wide basis, while preventing them from evading the risk retention requirements through hedging or transfer of risk.
+
+[SECTION]
+
+Government-Sponsored Enterprises
+       The Dodd-Frank Act did not exempt the Federal National Mortgage Association (Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac) from their risk retention requirements. Because Fannie Mae and Freddie Mac (the GSEs) fully guarantee the timely payment of principal and interest on the mortgage-backed securities (MBS) they issue and sponsor, they are exposed to all of the credit risk of the mortgages that they securitize. In effect, the GSEs retain 100 percent of the risk of the mortgages they securitize. However, unlike the various other types of risk retention discussed earlier, which all involve the acquisition of an asset by the sponsor, the GSEs' risk exposure is generally in the form of an unfunded guarantee, which would not satisfy the risk retention requirements of the proposed rules.
+
+[SECTION]
+
+Nevertheless, there are special circumstances that currently distinguish the GSEs from other securitization sponsors. Both Fannie Mae and Freddie Mac have been operating in conservatorship under FHFA since September 6, 2008. Each of them also benefits from U.S. government financial support through capital support agreements with the United States Department of the Treasury. These capital support agreements extend to the guarantees made by the GSEs. With the consent of the Treasury, these support agreements may be assigned or transferred to a "bridge GSE" established by FHFA, acting as receiver, with respect to the enterprise (referred to as a "limited-life regulated entity").
+
+[SECTION]
+
+In light of these special circumstances, the proposed rules would allow the MBS guarantees of the GSEs to satisfy their risk retention requirements for so long as they (or a successor limited-life regulated entity) operate under the conservatorship or receivership of FHFA with credit support from the United States. The alternative of requiring the GSEs to hold back and fund 5percent of the MBS they issue would simply expand their portfolios. This would not reduce the burden on the government capital support agreements, and would require the GSEs to issue more corporate debt without having any material effect on the economics of their securitizations or their incentives as sponsors. For the same reasons, both Fannie Mae and Freddie Mac (or a successor limited-life regulated entity) would be exempt from the premium capture cash reserve account requirements and the hedging and transfer restrictions of the proposal.
+
+[SECTION]
+
+In recent months, the Administration and the Congress have been considering a variety of proposals to reform the housing finance system, including the operations of the GSEs. The agencies are committed to revisiting and, if appropriate, modifying the risk retention requirements for Fannie Mae and Freddie Mac after the statutory and regulatory framework applicable to them is further developed.
+
+[SECTION]
+
+Allocation to Originator
+       Section 941 expressly authorizes the agencies to allow a sponsor to allocate a portion of the credit risk it is required to retain to the originator(s) of the securitized assets, subject to a number of considerations. The proposed rules would permit (but not require) a sponsor of a securitization that is retaining risk through the vertical or horizontal options to allocate 20percent or more of its risk retention obligation to any originator that contributed at least 20percent of the underlying assets in the pool, up to the percentage of the securitized assets in the pool that the originator contributed. The originator would be required to hold the risk retention in the same form and manner as the sponsor and would be required to abide by all restrictions of the proposed rules as if it were the sponsor. This provision is designed to allow sponsors to allocate their risk retention requirements only to originators with sufficient financial resources to appropriately monitor the credit risk of all the securitized assets in the transaction and to negotiate the allocation with the sponsor.
+
+[SECTION]
+
+Premium Capture Cash Reserve Account
+       In addition to incorporating some of the risk retention practices that were most effective prior to and during the crisis, the proposed rules also attempt to address several practices that tend to undermine the incentives of effective risk retention.
+
+[SECTION]
+
+One such practice involves monetization of so-called "excess spread," or "premium capture." In broad terms, the difference between the rate lenders charge borrowers and their total costs is "excess spread." Prior to the financial crisis, securitization sponsors commonly sold off part of this excess spread to realize an immediate profit on the securitization of the assets. While securitization sponsors benefited from this practice, it meant that the excess spread was unavailable to support the ABS tranches bought by investors. More importantly, this practice encouraged aggressive underwriting, allowed the securitizer to offset immediately its retained risk, and provided incentives for sponsors to maximize securitization scale and complexity in securitization structures.
+
+[SECTION]
+
+The proposed rules seek to address this problem by requiring the sponsor to place any amounts it receives from monetizing excess spread into a cash reserve account that would be used to cover losses on a first-loss basis. This amount would be in addition to the sponsor's base risk retention requirement. This regulatory mechanism essentially puts sponsors in a position closer to that of a lender that keeps loans it originates on its balance sheet for the life of the loan. The goal is to promote simpler securitization structures, as sponsors would receive excess spread over time, and to better align the interests of sponsors and investors by promoting more robust monitoring of the credit risk of the securitized assets.
+
+[SECTION]
+
+Exemptions from Risk Retention Requirements
+       In circumstances where securitized assets pose low credit risk because they meet high underwriting and other standards set by the agencies, section 941 of the Dodd-Frank Act provides or permits an exemption to the risk retention requirements. The agencies have incorporated these exemptions into the proposed rules, along with other exemptions and adjustments to the risk retention requirements proposed in accordance with the authority granted under the statute.
+
+[SECTION]
+
+Qualified Residential Mortgages
+       Section 941 of the Dodd-Frank Act provides that securitizations backed by mortgages that meet the definition of a "qualified residential mortgage" (QRM) are not subject to the risk retention requirements. Under the statute, the agencies must develop a definition for QRM that takes into consideration underwriting and product features that historical loan performance data indicate result in a lower risk of default. In addition, section 941 requires that the definition of a QRM be no broader than the definition of a "qualified mortgage" under the Truth in Lending Act (TILA), as amended by the Dodd-Frank Act.7 The complete statutory exemption from the risk retention requirements for QRMs based on their low risk of default underscores that these assets must be of high credit quality.
+
+[SECTION]
+
+In developing the QRM definition, the agencies examined data from market sources, Fannie Mae and Freddie Mac, the Board's Survey of Consumer Finances, and other data linking mortgage loan characteristics to default rates. The agencies used the data available to them to develop minimum QRM standards that have low credit risk even in stressful economic environments. To be eligible as a QRM under the proposed rules, a mortgage loan must be a closed-end first-lien mortgage to purchase or refinance a one-to-four family property. It cannot have product features that have been associated with a high incidence of delinquencies and foreclosures, such as negative amortization, interest-only payments, and the potential for large interest rate increases. In addition, it must meet standards the agencies have identified as being closely associated with a lower probability of default. These standards include conservative debt-to-income ratios and strict limits on the number of derogatory factors in the borrower's recent credit history. To enhance predictability for participants in the mortgage securitization market, under the proposed rules, QRM eligibility is determined at or prior to origination of the mortgage loan.8
+
+[SECTION]
+
+QRM eligibility also requires a 20 percent down payment and a maximum loan-to-value (LTV) ratio of 80 percent for purchase mortgages (with no junior lien known to exist at closing) and a maximum LTV ratio of 75percent on rate and term refinance loans and 70percent for cash-out refinance loans. These LTV requirements are supported by the data reviewed by the agencies, which demonstrate that default rates increase noticeably among purchase loans with an LTV ratio greater than 80percent and are also higher for refinance mortgages.
+
+[SECTION]
+
+The Board recognizes that loans with LTV ratios above 80 percent and with other features that do not meet the proposed QRM definition can be safely underwritten. Indeed, the Board anticipates that a somewhat narrow definition of QRM will help ensure that a deep and liquid market for non-QRMs can and will exist. Risk retention in these cases should, in principle, add only modestly to the cost of a non-QRM mortgage. On the other hand, a broad definition of QRM that encompassed a much wider swath of residential mortgages, as some have proposed, could keep the small segment of the market left outside such a QRM definition from being able to attract sufficient funding to thrive. This result could diminish access to credit for creditworthy borrowers and stifle innovation in residential mortgage products that do not meet the definition of QRM. This disincentive is removed if the markets recognize that a great many creditworthy loans may be made and securitized with the retention of a modest amount of credit risk.
+
+[SECTION]
+
+In a related matter, some expressed concern that the proposed rules do not expressly incorporate private mortgage insurance (PMI) into the QRM definition. While PMI and similar credit enhancements protect lenders and investors from losses when borrowers default, the agencies have not identified studies or historical loan performance data that adequately demonstrate that PMI lowers the probability that a borrower will default. Moreover, PMI is used overwhelmingly in connection with loans guaranteed by Fannie Mae and Freddie Mac. In fact, these GSEs guarantee approximately 90percent of loans covered by PMI. As I discussed earlier, the guarantee provided by the GSEs would satisfy the risk retention requirements under the proposed rules. In the notice of proposed rulemaking, the agencies requested comment on this point and will consider any new data or evidence presented.
+
+[SECTION]
+
+A final noteworthy feature of the proposed QRM definition is that it requires the originator of a QRM to incorporate into the mortgage-transaction documents certain features related to servicing policies and practices that would be employed by the loan servicer in the event of a serious delinquency or default on the mortgage. These features include reliance on the net present value calculations in comparing the costs of loan modifications to loan foreclosure, policies for addressing second liens held by the servicer on properties backing a first mortgage held by the securitization vehicle, and certain incentive compensation limitations.
+
+[SECTION]
+
+While the proposed rules would apply these standards to the limited group of residential mortgages that meet the QRM definition, the Board is currently engaged in an interagency effort to develop national mortgage servicing standards that would apply more broadly to residential mortgages regardless of whether the mortgages are QRMs or are securitized. These more comprehensive standards would address many of the issues arising out of servicing practices that have affected the residential mortgage market in the past.
+
+[SECTION]
+
+Exemption for Certain Commercial, Commercial Real Estate, and Automobile Loans
+       The Dodd-Frank Act directs the agencies to lower risk retention requirements below 5percent for securitizations of commercial loans, commercial real estate (CRE) loans, and automobile loans, if the loans meet underwriting standards that indicate low credit risk. The agencies developed and are seeking public comment on underwriting standards for these loans categories. Sponsors of securitizations collateralized by loans meeting these underwriting standards would have a zeropercent risk retention requirement.
+
+[SECTION]
+
+Other Exemptions
+       Section 941 directs the agencies to provide exemptions from the risk retention requirements for certain assets insured or guaranteed by the United States or a U.S. agency. This exemption includes loans insured by the Federal Housing Administration or the Department of Veterans Affairs. The statute also provides exemptions for ABS guaranteed by the United States or a U.S. agency and ABS issued or guaranteed by U.S. state and local governments. The proposed rules implement these exemptions. The proposed rules also provide a safe harbor for certain foreign transactions, based on the limited nature of the transactions' connections with the United States and U.S. investors.
+
+[SECTION]
+
+Conclusion
+       The Board, in cooperation with the other agencies, has put significant effort into developing proposed rules that would implement the risk retention requirements of the Dodd-Frank Act. We have attempted to do this in a flexible fashion with the goal of better aligning interests among participants in the securitization markets while preserving the public benefits of securitization, including lower funding costs and increased credit availability for businesses and consumers. The Board welcomes input from the public and from members of the Committee in this effort. I appreciate the opportunity to describe the proposed rules and am happy to answer any questions.
+
+[SECTION]
+
+See "Report to the Congress on Risk Retention (572 KB PDF)," Board of Governors of the Federal Reserve System, at 8 (October 2010). Return to text
+
+[SECTION]
+
+See Board Report at 14-15. Return to text
+
+[SECTION]
+
+In accordance with the Dodd-Frank Act, the chairperson of the Financial Stability Oversight Council coordinated this rulemaking effort. Return to text
+
+[SECTION]
+
+The risk retention requirement established by the proposed rules would be a regulatory minimum. The sponsor, originator, or other party to a securitization may, either on its own initiative or in response to the demands of private market participants, retain additional exposure to the credit risk of assets that the sponsor, originator, or other party helps securitize beyond that required by the proposed rules. Return to text
+
+[SECTION]
+
+See 15 U.S.C. § 78o-11(c)(1)(C)(i); see also S. Rep. No. 111-176, at 130 (2010) ("The Committee [on Banking, Housing, and Urban Affairs] believes that implementation of risk retention obligations should recognize the differences in securitization practices for various asset classes."). Return to text
+
+[SECTION]
+
+The proposed rules include a variety of policies and procedures, testing, and disclosure requirements designed to ensure the random and representative nature of the sample and limit to the greatest extent possible "cherry picking" of assets by the sponsor. Return to text
+
+[SECTION]
+
+The rulewriting effort to implement Dodd-Frank Act changes to the definition of "qualified mortgage" under TILA is ongoing. The agencies will review the "qualified mortgage" rules, when issued, to determine whether changes to the definition of a QRM are necessary or appropriate to ensure that the definition of a QRM is no broader than the definition of a "qualified mortgage." Return to text
+
+[SECTION]
+
+The rule provides for certification requirements to ensure processes are in place to credibly check QRM eligibility at closing. However, if due to an oversight a mortgage loan is later determined to not have met the QRM eligibility requirements, the sponsor would be required to repurchase the loan from the securitization vehicle at a price at least equal to the remaining principal balance and accrued interest. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

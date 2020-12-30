@@ -1,0 +1,289 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 11, 2009
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Ms. Braunstein presented identical remarks before the Committee on Financial Services, U.S. House of Representatives, on April 23, 2009
+
+[SECTION]
+
+Chairman Gutierrez, Ranking Member Hensarling, and members of the Subcommittee, I appreciate the opportunity to appear here today to discuss recent problems in the subprime mortgage market, regulatory actions taken by the Federal Reserve to address these problems, and potential legislative responses.
+
+[SECTION]
+
+The Federal Reserve is committed to promoting sustainable homeownership through responsible mortgage lending.  While the expansion of the subprime mortgage market over the past decade increased consumers' access to credit, too many homeowners and communities are suffering today because of lax underwriting standards and other unfair or deceptive practices that resulted in unsustainable loans.  In addition to obvious consumer benefits, protecting borrowers with responsible underwriting standards can provide a broader benefit of enhancing the integrity, consistency, and proper functioning of the mortgage market by increasing investor confidence.  The Federal Reserve's goal has been to craft clear rules that deter abuses while preserving responsible lenders' ability to meet the needs of traditionally underserved borrowers and communities.
+
+[SECTION]
+
+In my testimony today, I will first outline the final rules for mortgage loans that the Federal Reserve issued in July 2008, under the Truth in Lending Act (TILA) and the Home Ownership and Equity Protection Act (HOEPA).  I will then briefly discuss the Board's pending efforts to improve the usefulness of consumer disclosures in mortgage transactions, because well-informed consumers are in a better position to make decisions that are consistent with their own needs and financial goals.  And finally, I will offer some thoughts about possible legislative reforms.
+
+[SECTION]
+
+The Board's Rules under TILA and HOEPA The Federal Reserve has primary rulewriting responsibility for many consumer protection laws, including the Truth in Lending Act and the Home Ownership and Equity Protection Act, which amended TILA.  TILA and HOEPA are implemented by the Board's Regulation Z. Following a series of hearings in 2006 and 2007, the Board last July used its authority under TILA and HOEPA to revise Regulation Z by issuing final rules to establish sweeping new regulatory protections for consumers in the residential mortgage market.  Importantly, the Board's new rules apply to all mortgage lenders, not just depository institutions supervised by the federal banking and thrift agencies.
+
+[SECTION]
+
+In response to specific problems we saw in the subprime market, some restrictions in the final rules apply only to higher-priced mortgage loans.  Other provisions, however, apply to all mortgage loans secured by a consumer's principal dwelling.  In addition to rules that protect consumers from unfair or abusive lending and mortgage servicing practices, the Board also adopted rules governing mortgage advertisements to ensure they provide accurate and balanced information and do not contain misleading or deceptive representations.  A third component of the final rules ensures that for all types of mortgage loans, consumers receive transaction-specific cost disclosures early enough to use while shopping for credit.
+
+[SECTION]
+
+It is important to note that the Board's final rules resulted from an interactive process that involved extensive research and outreach to consumer groups, industry representatives, and other government agencies at the state and federal levels.  The Board held a series of public hearings on consumer protection in the mortgage market in four cities across the country during the summer of 2006.  In light of the information received at the 2006 hearings and the rise in defaults that began soon after, the Board held an additional hearing in June 2007, to explore how it could use its authority under HOEPA to prevent abusive lending practices without unduly constricting credit.  At the 2007 hearing, and in hearing-related public comments, the Board received input from individual consumers, lenders, mortgage brokers, state government officials, and academicians.  The Board's rulemaking was also informed by the comments received in connection with the development of interagency supervisory guidance on nontraditional mortgage products issued in September 2006 and interagency guidance on subprime lending that was issued in June 2007.
+
+[SECTION]
+
+In response to the proposed rules that were issued under HOEPA in December 2007, the Board received and considered approximately 4,700 comment letters that represented a broad spectrum of views.  The Board also used consumer testing by conducting several dozen one-on-one interviews with a diverse group of consumers to test the effectiveness of proposed disclosures related to mortgage broker compensation.  The testing results were the basis for making significant changes to the final rule.  In sum, listening carefully to the commenters, collecting and analyzing data, and undertaking consumer testing, led to more effective and improved final rules.
+
+[SECTION]
+
+Rules for Higher-Priced LoansThe Board's HOEPA rules add four key protections for a newly defined category of "higher-priced mortgage loans."  These are defined as consumer-purpose loans secured by a consumer's principal dwelling and having an annual percentage rate (APR) that exceeds the average prime offer rate for comparable transactions published by the Board by at least 1.5 percentage points for first-lien loans, or 3.5 percentage points for subordinate lien loans.  For the foreseeable future, the Board will obtain or derive average prime offer rates from Freddie Mac's Primary Mortgage Market Survey, and will publish these rates on at least a weekly basis.  Based on the available data, the thresholds adopted by the Board would cover all, or virtually all, of the subprime market and a portion of the alt-A market.
+
+[SECTION]
+
+Concerning the four key protections for higher-priced mortgage loans:
+
+[SECTION]
+
+First, lenders are prohibited from making any higher-priced mortgage loan without regard to the borrower's ability to repay the obligation from income and assets other than the home.  The rule requires the lender to take into account future, predictable changes in payments in determining repayment ability.  Lenders comply, in part, by assessing repayment ability using the highest scheduled payment in the first seven years of the loan, rather than the consumer's initial monthly payment.  For example, for an adjustable rate mortgage (ARM) with a discounted initial interest rate that is fixed for five years, the lender determines repayment ability using the scheduled payment in the sixth and seventh years, which is based on the fully indexed rate.
+
+[SECTION]
+
+Second, lenders are prohibited from making "stated income" loans and are required in each case to verify the income and assets they rely upon to determine borrowers' repayment ability.  Lenders must also verify and consider the borrower's other debt obligations, such as by using a credit report.  The rule is intended to ensure that creditors do not assess repayment ability using overstated incomes or understated payment obligations.  The rule is sufficiently flexible to allow lenders to adapt their underwriting process to accommodate a borrower's particular circumstances, such as when the borrower is self-employed.
+
+[SECTION]
+
+Third, the final rules restrict the use of prepayment penalties.  Prepayment penalties can prevent borrowers from refinancing their loans to avoid monthly payment increases or if there are other reasons that their loan becomes unaffordable.  Under the Board's rule, prepayment penalties are prohibited when the monthly payment can change during the initial four years after consummation.  For other higher-priced loans, a prepayment penalty cannot last for more than two years.
+
+[SECTION]
+
+Fourth, creditors are required to establish an escrow account for property taxes and homeowner's insurance for all first-lien mortgage loans.  This addresses the concern that the lack of escrows in the subprime market increases the risk that consumers' borrowing decisions will be based on misleading low payment quotes that do not reflect the true cost of their homeownership obligations.  The rule preserves some consumer choice by permitting creditors to allow consumers to opt-out of the escrow account after 12 months.
+
+[SECTION]
+
+Protections for All Loans Secured by Consumers' Principal Dwelling In addition to the rules for higher-cost loans, the Board adopted other protections that apply to all mortgage loans secured by a consumer's principal dwelling, regardless of cost.  The rules prohibit lenders or brokers from coercing, influencing, or otherwise encouraging an appraiser to misstate or misrepresent the value of the property.  The Board also prohibited loan servicers from engaging in certain unfair billing practices.  Servicers are prohibited from failing to credit a payment to a consumer's account as of the date received.  Second, the rule prohibits the "pyramiding" of late fees by prohibiting servicers from imposing a late fee on a consumer when the consumer's payment was timely and made in full but for any previously assessed late fee.  In addition, the rules prohibit loan servicers from failing to provide a loan payoff statement on a timely basis after receiving a request from the consumer or any person acting on the consumer's behalf.
+
+[SECTION]
+
+Based on the results of consumer testing, the Board did not adopt a proposed rule that would have prohibited a creditor from paying a mortgage broker more in compensation than the consumer agreed in advance the broker would receive.  Under the proposal, brokers would have to disclose to consumers their total compensation, including any portion paid directly by a creditor as a "yield spread premium" before obtaining the consumer's written agreement.  Brokers would also have to disclose that a creditor payment to the broker could influence the broker to offer the consumer loan terms that would not be in the consumer's interest or the most favorable terms the consumer could obtain.
+
+[SECTION]
+
+The proposed rule was intended to limit the potential for unfairness, deception, and abuse while preserving the ability of consumers to cover their payments to brokers through rate increases. The Board also anticipated that the proposal would increase transparency and increase competition in the market for brokerage services.  The withdrawal of this portion of the proposal was based on the results of the Board's one-on-one interviews with several dozen consumers which demonstrated that the proposed agreement and disclosures would confuse consumers and undermine their decisionmaking rather than improve it.  The Board is continuing to explore options for addressing potential unfairness associated with originator compensation arrangements such as yield spread premiums.
+
+[SECTION]
+
+Advertising Rules Another goal of the Board's final rules is to ensure that mortgage loan advertisements do not contain misleading or deceptive representations.  Thus, the Board's rules require that advertisements for both closed-end loans and home-equity lines of credit (HELOCs) provide accurate and balanced information about rates, monthly payments, and other features in a clear and conspicuous manner.  In addition, the Board used its authority under HOEPA to prohibit seven deceptive or misleading advertising practices.  For example, an advertisement for a variable rate loan may not use the word "fixed" in referring to the interest rate or payment unless there is an equally prominent statement of the time period for which the rate or payment is fixed.  The rules also prohibit misrepresentations about government endorsement of the loan program and misleading claims of "debt elimination."
+
+[SECTION]
+
+Requiring Earlier Cost Disclosures With the increased complexity of today's mortgage products, consumers need to be well-informed shoppers.  To assist consumers further, the Board amended Regulation Z to require that lenders provide consumers transaction-specific cost disclosures earlier in the application process, so that they can be used by consumers while shopping for a mortgage loan.  Under the revised rules, creditors must provide a good faith estimate of the loan costs, including a payment schedule, within three days after the creditor receives the consumer's application.  To ensure that consumers are able to use the information to shop, consumers cannot be charged any fee until after they receive the early disclosures, except a reasonable fee for obtaining the consumer's credit history.  The rule applies to any home-secured loan, including home refinance loans and home-equity loans.  Currently, early cost estimates are only required for home-purchase loans.
+
+[SECTION]
+
+Last July, the Congress enacted the Housing and Economic Recovery Act of 2008, which codified the Board's new requirements for providing earlier TILA disclosures and also added some additional requirements, including a requirement that the estimated cost disclosures be provided at least seven days before the loan closing.  This will enable consumers to review the transaction-specific disclosures when they have more time and are not confronted by a large number of other loan documents.  In December 2008, the Board issued proposed rules to implement these additional changes and, with the recent close of the comment period, we expect the final rules to be issued in early spring.
+
+[SECTION]
+
+The Board's Current Efforts to Improve Mortgage DisclosuresThe Board recognizes the need to update TILA's cost disclosures for mortgage loans, to better reflect today's more complex products.  Last year, we began using one-on-one interviews with consumers to test the current disclosures and potential revisions.  We are well aware that consumers receive an overwhelming amount of information at the time they close a mortgage loan.  The Truth in Lending disclosure, however, is a single-page form, and we are hopeful that the new requirements for providing this form earlier in the application process will distinguish the TILA disclosure from the many legal documents presented at loan closing as part of the credit contract or to satisfy state or local laws.  However, the effectiveness of a disclosure is best judged through the results of consumer testing and not by the length of the disclosures alone.
+
+[SECTION]
+
+Our goal is to improve the content and format of disclosures for both closed-end loans and home equity lines of credit in order to make mortgage disclosures more useful.  The challenge is to strike a proper balance between providing information that is accurate and complete but not so complex as to create information overload.  Testing model disclosures with real consumers is critical to the success of this effort.
+
+[SECTION]
+
+In addition to our consumer testing, we are engaged in extensive outreach to obtain the views and suggestions of consumer advocates, industry representatives, and others.  One concern that has been expressed over many years is the fact that consumers must receive separate disclosures under TILA and the Real Estate Settlement Procedures Act (RESPA), which is implemented by the Department of Housing and Urban Development (HUD).  This issue is not unfamiliar to us.  In 1998, the Board and HUD submitted a joint report to the Congress containing recommendations for legislative reforms, including a requirement that a single model form be developed that creditors could use to comply with both TILA and RESPA.  The joint report included a sample model form showing one approach to combining the disclosures.
+
+[SECTION]
+
+Several years ago, HUD initiated efforts to revise the RESPA disclosures and the forms creditors use to provide a Good Faith Estimate (GFE) of settlement charges.  Creditors must provide the GFE within three days after receiving a mortgage loan application, which is also the timing requirement for providing loan cost disclosures under TILA.  HUD's efforts over the past several years have included testing its proposed disclosure forms with consumers and consulting with the Board's staff.  We support the goals of HUD's efforts to make RESPA disclosures more accurate and more useful, and we commend HUD for using consumer testing to develop the new RESPA forms.  However, we continue to believe that efforts should be made to develop a single form that creditors could use to satisfy the requirements of both TILA and RESPA.
+
+[SECTION]
+
+In November 2008, HUD finalized its revised RESPA rules and mandated the use of a new three-page GFE form developed by HUD.  As the Board moves forward in revising TILA's mortgage disclosures, we will continue to coordinate with HUD to avoid potential inconsistencies in the two disclosure schemes.  We also remain ready to work with HUD in developing a combined disclosure form if HUD is willing to pursue this approach.
+
+[SECTION]
+
+Legislative ResponsesOn November 15, 2007, the House of Representatives passed H.R. 3915, the Mortgage Reform and Anti-Predatory Lending Act of 2007, which takes a comprehensive approach to addressing mortgage lending problems while appropriately focusing on the practices that took place in the subprime mortgage market.  We commend Congress' work on H.R. 3915, which informed the Board's rulemaking and represents a significant contribution to the public debate about these issues.  The Board shares Congress' concerns with these practices, many of which are also addressed in the Board's recently adopted rules under HOEPA.  As with regulations, it is important that any new laws carefully target abuses without unduly restraining responsible credit.  Maintaining this balance is particularly important as many borrowers may need to refinance subprime loans into more affordable loans.
+
+[SECTION]
+
+At this time, I will share briefly some observations about the bill.  It should be noted that members of the Board's staff have previously discussed technical issues concerning the bill with congressional staff.  We would be pleased to continue these discussions going forward if the Congress considers additional amendments to the bill.
+
+[SECTION]
+
+As I stated earlier, H.R. 3915 would address many of the same concerns addressed in the Board's HOEPA rules.  Although some of the details regarding implementation differ, H.R. 3915 and the Board's HOEPA rules both set minimum underwriting standards that are designed to ensure creditors verify and document borrowers' ability to repay higher-priced loans.  H.R. 3915 would also provide consumer remedies for violations of the bill's minimum standards and consumers would be able to seek these remedies against creditors, assignees, and securitizers.  As a general matter, the issue of appropriate remedies is one that is best left to the Congress.  We note, however, that in order for assignee liability to create more market discipline, the laws must be clear about what acts or practices are prohibited so that assignees can perform due diligence and detect violations before purchasing the loans.  Assignees may have difficulty in determining a creditor's compliance with a broad prohibition against making loans that do not provide a "net tangible benefit" unless that term is capable of being clearly defined in law or regulation.
+
+[SECTION]
+
+H.R. 3915 also seeks to establish a federal duty of care that would apply to all mortgage originators, although the bill would not create a fiduciary relationship between the originator and the consumer.  Loan originators would be required to present a range of loan products for which the consumer is likely to qualify, and which are appropriate for the consumer's current circumstances.  The mortgage products presented to a consumer must be consistent with the consumer's ability to pay and provide a net tangible benefit.  Because these standards are broad and originators would be liable for violations, we believe that the establishment of clearly defined safe harbors may be appropriate in implementing the law and that the statute should clarify that the rulewriting agency has sufficient flexibility for this purpose.
+
+[SECTION]
+
+I would also like to say a few words about the bill's delegation of rulewriting responsibility.  Since enactment of the Truth in Lending Act in 1968, the Federal Reserve has been the sole agency responsible for issuing rules to implement that Act.  Several provisions of H.R. 3915 would amend TILA and would be implemented by regulations that are promulgated jointly by the federal banking agencies.  On the one hand, interagency rulemakings ensure that different perspectives are considered in developing a rule and that all agencies have a say in the outcome.  On the other hand, the interagency rulemaking process generally is a less efficient way to develop new regulations.  Frequently, it can be challenging to achieve a consensus among the different agencies involved in an interagency rulemaking.  As a result, interagency rulemakings can take considerably longer to complete than rulemakings that are assigned to a single agency.
+
+[SECTION]
+
+ConclusionThe Federal Reserve is continuing its efforts to enhance consumer protection in the residential mortgage market.  As we develop more useful consumer disclosures for both closed-end loans and home-equity lines, we are mindful that improved disclosure may not always be sufficient to address abuses.  Accordingly, we will carefully consider whether additional substantive protections are needed to prevent unfair or deceptive practices.  We look forward to working with the Congress to enhance consumer protections while promoting sustainable homeownership and access to responsible credit.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

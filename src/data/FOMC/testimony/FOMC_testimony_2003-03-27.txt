@@ -1,0 +1,100 @@
+Mr. Chairman and members of the subcommittee, thank you for the opportunity to testify on the Financial Services Regulatory Relief Act of 2003.  The Federal Reserve supports the efforts of the committee to periodically review the federal banking laws to determine whether they may be streamlined without sacrificing the safety and soundness of this nation's insured depository institutions.  I know from personal experience that developing regulatory relief legislation that appropriately balances burden reduction and sound public policy is no easy task, and I commend the committee for again addressing the issue of regulatory relief.
+
+[SECTION]
+
+Earlier this year, Chairman Oxley asked the Federal Reserve and the other federal banking agencies for suggestions on how to improve the banking laws and relieve unnecessary burden.  I am pleased to note that some of our suggestions--including those authorizing depository institutions to pay interest on demand deposits, permitting the Federal Reserve to pay interest on balances held at Reserve Banks, and enhancing the Board's flexibility to set reserve requirements--recently were passed by the full committee as part of H.R. 758, the Business Checking Freedom Act of 2003.  Many of our other suggestions have been incorporated into this bill.  Before I review the most important of these provisions, let me note that we would be happy to continue to work with the subcommittee and the full committee and their staffs as the bill moves forward.  The bill includes provisions that should enhance the efficiency of the banking industry and benefit consumers.
+
+[SECTION]
+
+De novo interstate branching
+Both the Federal Reserve and the Office of the Comptroller of the Currency recommend that Congress remove outdated barriers to de novo interstate branching.  Since enactment of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, all fifty states have permitted banks to expand on an interstate basis through the acquisition of another bank.  As a result, interstate branching is a reality.  And it is a reality with good results: commercial banks currently operate more than 67,000 branches in the United States, an amount that far exceeds the 51,000 branches operated by banks in 1990.  More than 1,700 branches were opened by banks in 2002 alone.  The creation of new branches helps maintain the competitiveness and dynamism of the American banking industry and improve access to banking services in otherwise under-served markets.  Branch entry into new markets leads to less concentration in local banking markets, which, in turn, results in better banking services for households and small businesses, lower interest rates on loans and higher interest rates on deposits.  As customers become more mobile and live, work and operate across state borders, they also benefit from allowing banks to operate branches across state lines.
+
+[SECTION]
+
+However, the Riegle-Neal Act permitted banks to open a branch in a new state without acquiring another bank only if the host state enacted legislation that expressly permits entry by de novo branching (an "opt in" requirement).  To date, seventeen states have enacted some form of opt-in legislation, and thirty-three states and the District of Columbia continue to require interstate entry through the acquisition of an existing bank.
+
+[SECTION]
+
+This limitation on de novo branching is an obstacle to interstate entry for all banks and also creates special problems for small banks seeking to operate across state lines.  Moreover, it creates an unlevel playing field between banks and federal savings associations, which have long been allowed to establish de novo branches on an interstate basis.
+
+[SECTION]
+
+The Financial Services Regulatory Relief Act of 2003 would remove this last obstacle to interstate branching for all banks and level the playing field between banks and thrifts by allowing banks to establish interstate branches on a de novo basis.  The bill also would remove the parallel provision that allows states to impose a minimum requirement on the age of banks that are acquired by an out-of-state banking organization.  These changes would allow banks, including in particular small banks near state borders, to better serve their customers by establishing new interstate branches and acquiring newly chartered banks across state lines.  It also would increase competition by providing banks a less costly method for offering their services at new locations.  The establishment and operation of any new interstate branches would continue to be subject to the other regulatory provisions and conditions established by Congress for de novo interstate branches, including the financial, managerial, and Community Reinvestment Act requirements set forth in the Riegle-Neal Act.
+
+[SECTION]
+
+While we support the bill's provisions expanding the de novo branching authority of banks, we continue to believe that Congress should not grant this new branching authority to industrial loan companies (ILCs) unless the owners of these institutions are subject to the same type of consolidated supervision and activities restrictions as the owners of other insured banks.   ILCs are FDIC-insured banks that operate under a special exemption from the Bank Holding Company Act (BHC Act).  This exemption allows a commercial company to own an ILC without being subject to the supervisory requirements and activities limitations generally applicable to the corporate owners of other insured banks.  The bill as currently drafted would allow large retail companies to establish an ILC and then open a branch of the bank in each of the company's retail stores nationwide.  Allowing a commercial firm to operate a nationwide bank outside the supervisory framework established by Congress for the owners of insured banks raises significant safety and soundness concerns and creates an unlevel competitive playing field.  In addition, permitting commercial firms to control a nationwide bank would undermine this nation's policy of maintaining the separation of banking and commerce--a policy recently reaffirmed by the Congress in the Gramm-Leach-Bliley Act (GLB Act).
+
+[SECTION]
+
+Reduction of cross-marketing restrictions
+Another important provision of the bill amends the cross-marketing restrictions imposed by the GLB Act on the merchant banking investments of financial holding companies.  Currently, a depository institution controlled by a financial holding company may not engage in cross-marketing activities with a nonfinancial company owned by the same financial holding company under the GLB Act's merchant banking authority.  This restriction was intended to help preserve the separation between the financial holding company's depository institutions on the one hand, and the nonfinancial portfolio company on the other hand.
+
+[SECTION]
+
+The GLB Act, however, already permits a depository institution subsidiary of a financial holding company to engage in cross-marketing activities through statement stuffers and Internet websites with nonfinancial companies held by an insurance underwriting affiliate under the parallel insurance company investment authority granted by the GLB Act.  These cross-marketing activities are permitted only if they are conducted in accordance with the anti-tying restrictions of the Bank Holding Company Act Amendments of 1970 and the Board determines that the proposed arrangement is in the public interest, does not undermine the separation of banking and commerce, and is consistent with the safety and soundness of depository institutions.
+
+[SECTION]
+
+The bill would allow depository institutions controlled by a financial holding company to engage in cross-marketing activities with companies held under the merchant banking authority to the same extent, and subject to the same restrictions, as companies held under the insurance company investment authority.  We believe that this parity of treatment is appropriate, and see no reason to treat the merchant banking and insurance investments of financial holding companies differently for purposes of the cross-marketing restrictions of the GLB Act.
+
+[SECTION]
+
+The bill also would permit a depository institution subsidiary of a financial holding company to engage in cross-marketing activities with a nonfinancial company held under the merchant banking authority if the nonfinancial company is not controlled by the financial holding company.  When a financial holding company does not control a portfolio company, cross-marketing activities are unlikely to materially undermine the separation between the nonfinancial portfolio company and the financial holding company's depository institution subsidiaries.  In these noncontrol situations, we believe the separation of banking and commerce is maintained adequately by the other restrictions contained in the GLB Act that limit the holding period of the investment as well as the authority of the financial holding company to routinely manage and operate the portfolio company.
+
+[SECTION]
+
+Shortening the post-approval waiting period for bank acquisitions and mergers
+Currently, banks and bank holding companies are required by statute to delay consummation of a proposal to merge with or acquire another bank or bank holding company for thirty days after the date the transaction is approved by the appropriate federal banking agency.  This statutory delay is designed to allow the U.S. Attorney General an opportunity to initiate legal action if the Attorney General believes the transaction will have a significantly adverse effect on competition.
+
+[SECTION]
+
+The Bank Holding Company Act and the Bank Merger Act allow this post-approval waiting period to be shortened to fifteen days if the relevant federal banking agency and the U.S. Attorney General concur.  However, those acts do not permit the agencies to shorten the period to less than fifteen days, even in cases in which the relevant federal banking agency and the Attorney General agree that the transaction will not have an adverse effect on competition.
+
+[SECTION]
+
+The bill would allow the appropriate federal banking agency and the Attorney General to jointly reduce this waiting period to five days if both agencies determine that the proposal would not result in significantly adverse effects on competition in any relevant market.  This revision would allow the parties to an approved bank merger or acquisition to more quickly consummate their transaction and seek to achieve any resulting economies of scale or efficiencies.  Importantly, the amendment would not shorten the time period that private parties have to challenge the appropriate banking agency's approval of the transaction under the Community Reinvestment Act.  In addition, a mandatory thirty-day waiting period would continue to be required for any transaction unless the Attorney General agreed to a shorter period (other than in cases involving a bank failure or an emergency, for which the statutes already set different periods).
+
+[SECTION]
+
+Eliminate certain unnecessary reports
+Another provision in the bill would eliminate certain reporting requirements that currently are imposed by statute on banks and their executive officers and principal shareholders.  In particular, the bill repeals three reporting provisions.  The first requires any executive officer of a bank to file a report with the bank's board of directors whenever the executive officer obtains a loan from another bank in an amount that exceeds the amount the executive officer could obtain from his or her own bank.  The second provision requires a bank to file a separate report with its quarterly call report regarding any loans the bank has made to its executive officers during the current quarter.  The third reporting provision requires the executive officers and principal shareholders of a bank to file an annual report with the bank's board of directors if the officer or shareholder has any loan outstanding from a correspondent bank of the bank.  This provision also authorizes the federal banking agencies to issue rules requiring a bank to publicly disclose information received from an executive officer or principal shareholder concerning his or her loans from a correspondent bank.
+
+[SECTION]
+
+These three reporting requirements are of limited usefulness and the Board has not found that they contribute significantly to the effective monitoring of insider lending or the prevention of insider abuse.  Based on our supervisory experience, we believe the costs of preparing and collecting these reports outweigh their benefits.  Accordingly, we view them as precisely the type of requirements that should be eliminated in a regulatory relief bill.
+
+[SECTION]
+
+Moreover, elimination of these reporting requirements would not alter the statutory restrictions on loans by banks to their executive officers and principal shareholders, or limit the authority of the federal banking agencies to take enforcement action against a bank or its insiders for violation of these statutory lending limits.  In addition, the Board's Regulation O already requires that depository institutions and their insiders maintain sufficient information to enable examiners to monitor the institution's compliance with the federal banking laws regulating insider lending, and each federal banking agency also would retain authority under other provisions of law to collect information regarding insider lending.
+
+[SECTION]
+
+Update exception allowing interlocks with small depository institutions
+The bill also would update an exception already granted by statute under the Depository Institutions Management Interlocks Act.  That act generally prohibits depository organizations that are not affiliated with each other from having management officials in common if the organizations are located or have a depository institution affiliate located in the same metropolitan statistical area (MSA), primary metropolitan statistical area, or consolidated metropolitan statistical area.  The Act provides some modest leeway for interlocks with a depository institution that has less than $20 million in assets.
+
+[SECTION]
+
+This exception for small institutions was established in 1978 in recognition of the special hardships that small institutions face in attracting and retaining qualified management.  The asset limit embodied in the exception, however, has not been increased since 1978 despite inflation and the growth in the average size of depository institutions.  Accordingly, the bill would amend the exception to cover organizations with less than $100 million in assets that are located in an MSA.  This change would conform the asset limit for small institution director interlocks with the exception already provided by statute for advisory and honorary director interlocks.
+
+[SECTION]
+
+Permit the Board to grant exceptions to attribution rule
+The bill also contains a provision that we believe will help banking organizations maintain attractive benefits programs for their employees.  The BHC Act generally prohibits a bank holding company from owning, in the aggregate, more than 5 percent of the voting shares of any company without the Board's approval.  The BHC Act also provides that any shares held by a trust for the benefit of a bank holding company or its shareholders, members or employees are deemed to be controlled by the holding company.  This attribution rule was intended to prevent a bank holding company from using a trust established for the benefit of its management, shareholders or employees to evade the BHC Act's restrictions on the acquisition of shares of banks and nonbanking companies.
+
+[SECTION]
+
+While this attribution rule generally is a useful tool in preventing evasions of the BHC Act, it does not always provide an appropriate result.  For example, it may not be appropriate to apply the attribution rule when shares are acquired by a retirement trust, 401(k) plan or profit-sharing plan that operates for the benefit of employees of the bank holding company.  In these situations, the bank holding company may not have the ability to influence the purchase or sale decisions of the employees or otherwise control shares that are held in trust for its employees.  The bill would allow the Board to address these situations by authorizing the Board to grant exceptions from the attribution rule where appropriate.
+
+[SECTION]
+
+Conclusion
+The bill includes certain other provisions suggested by the Federal Reserve, including useful clarifications of the ability of insured banks to acquire savings associations in interstate merger transactions and of the authority of the federal banking agencies to maintain the confidentiality of supervisory information obtained from foreign supervisory authorities.  My colleagues at the other federal banking agencies also have made numerous suggestions that you will hear about this morning.  I appreciate the opportunity to speak about the Board's legislative suggestions, and I look forward to working with both the subcommittee and the full committee on this legislation.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2003 Testimony

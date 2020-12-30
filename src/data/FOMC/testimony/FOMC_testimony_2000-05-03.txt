@@ -1,0 +1,156 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Board of Governors appreciates this opportunity to comment on issues related to H.R. 4209, the Bank Reserves Modernization Act of 2000.  The Board strongly supports the proposal in the bill to allow the payment of interest on the balances that depository institutions maintain in their accounts at Federal Reserve Banks.  We have commented favorably on such proposals on a number of previous occasions over the years, and the reasons for that position still hold today.
+
+[SECTION]
+
+Historically, the issue of permitting interest to be paid on reserve balances has been linked to the repeal of the prohibition against paying interest on demand deposits.  The Board is pleased that the House of Representatives has passed legislation that would ultimately permit the payment by financial institutions of interest on their customers' demand deposits.  Assuming it becomes law, that legislation eventually will contribute considerably to the improved efficiency of our financial sector.  Authorizing the Federal Reserve to pay interest on reserve balances held by depository institutions at Reserve Banks would also be important for increasing the economic efficiency of our banking sector.
+
+[SECTION]
+
+To help clarify this point, let me first give you some background information on reserve requirements.  The Federal Reserve currently requires that depository institutions maintain required reserves equal to 10 percent of their transactions deposits above certain minimum levels.  Reserve requirements may be satisfied either with vault cash or with balances held in accounts at Federal Reserve Banks.  Excess reserves are reserve balances that depositories hold in Reserve Banks in excess of the balances needed to meet reserve requirements.  Depository institutions may also arrange with their Reserve Banks to hold additional balances, called required clearing balances, that I will explain later.	 Depository institutions earn no interest on their vault cash, required reserve balances, or excess reserve balances.
+
+[SECTION]
+
+Paying interest on vault cash is not authorized in the proposed legislation and it is not advisable, because banks hold vault cash mainly for other business purposes, not to meet reserve requirements.  Also, questions of equity would arise, because it would be administratively impossible for the Federal Reserve to pay interest on the currency holdings of the general public.
+
+[SECTION]
+
+However, paying interest on required reserve balances could eliminate some expenditures by the banking sector that are wasteful from the point of view of the overall economy.  Depository institutions currently expend considerable resources to minimize their required reserve balances by developing and operating various programs, such as business and retail sweep programs, in order to minimize the balances recorded in their transaction accounts.  From society's point of view, these expenditures produce no net benefits, and paying interest on required reserve balances would reduce the incentives for depository institutions to engage in these practices.
+
+[SECTION]
+
+Depository institutions have always attempted to reduce to a minimum the non-interest-bearing balances held at Federal Reserve Banks to meet reserve requirements.  For more than two decades, some commercial banks have done so in part by sweeping the reservable transaction deposits of businesses into nonreservable instruments.  These business sweeps not only have avoided reserve requirements, but also have allowed businesses to earn interest on instruments that are effectively equivalent to demand deposits.  In recent years, developments in information systems have allowed depository institutions to begin sweeping consumer transaction deposits into nonreservable accounts.  These retail sweep programs use computerized systems to transfer consumer transaction deposits, which are subject to reserve requirements, into personal savings accounts, which are not.  Largely because of such programs, required reserve balances have dropped from about $28 billion in late 1993 to around $6 billion today, and the spread of such programs has not yet fully run its course.
+
+[SECTION]
+
+The payment of interest on required reserve balances would remove the incentives to engage in such reserve avoidance practices.  If the bill becomes law, the Federal Reserve would likely pay an interest rate on required reserve balances close to the rate on other risk-free money market instruments, such as repurchase agreements.  This rate is usually a little less than the interest rate on federal funds transactions, which are uncollateralized overnight loans of reserves in the interbank market.
+
+[SECTION]
+
+In light of the resources used by depository institutions to try to circumvent reserve requirements, some might question the reason for having such requirements.  Indeed, reserve requirements have been eliminated in some other industrialized countries.  Let me review the historical and current purposes served by reserve requirements.
+
+[SECTION]
+
+Although the word "reserves" might imply an emergency store of liquidity, required reserves cannot actually be used for this purpose, since they represent a small and fixed fraction of a bank's transaction deposits.  I should also note that reserve requirements are quite different from capital requirements.  Capital is a buffer against losses, and capital requirements are an important aspect of the prudential supervision and regulation of banks.  Reserve requirements, by contrast, have no role in banking supervision and prudential regulation.
+
+[SECTION]
+
+Reserve requirements are a monetary policy tool.  In the past, they have been employed to assist in controlling the growth of the money stock.  In the early 1980s, for example, the Federal Reserve used a reserve quantity procedure to control the growth of the monetary aggregate M1.  Indeed, the current structure of reserve requirements, with relatively high required reserve ratios on transaction deposits, which are included in M1, and zero or relatively low ratios on nontransaction deposits, which are not, was originally designed to aid the control of M1.  For the most part, however, the Federal Reserve has looked to the price of reserves--the federal funds rate--rather than the quantity of reserves, as its key focus in implementing monetary policy.
+
+[SECTION]
+
+While reserve requirements no longer serve the purpose of monetary control, required reserves continue to play a valuable role in the implementation of monetary policy in the United States.  They do so because reserve requirements induce a predictable demand for balances at Reserve Banks on a two-week average basis.  As you know, depository institutions trade reserve balances among themselves every day at the interest rate called the federal funds rate.  The Federal Open Market Committee sets a target for the federal funds rate that the Open Market Desk attempts to maintain.  The predictability of the overall demand for reserves is important in helping the Desk determine the amount of reserves to supply through open market operations in order to achieve a given federal funds rate target.  Because required reserve balances must be maintained only on an average basis over a two-week period, depositories have some scope to adjust the daily balances they hold for this purpose and this process helps stabilize the federal funds rate.  For instance, if the funds rate were higher than usual on a particular day, some depository institutions could choose to hold lower reserve balances that day, and their reduced demand would help to damp the upward pressure on the funds rate.  Later in the two-week period, when the funds rate might be lower, those institutions could choose to hold more reserves and make up the shortfall in their average holdings of reserve balances.  This action would also help smooth out the funds rate over the two-week period.
+
+[SECTION]
+
+The Federal Reserve permits depository institutions to hold additional deposits in the form of required clearing balances, which are not included in total reserves.  Under the Federal Reserve's required clearing balance program, depository institutions may hold credit-earning balances, not for meeting reserve requirements, but for assisting with clearing needs.  The credits offset charges for Federal Reserve services, like check-clearing, used by the depository.  This program helps to restrain volatility in the federal funds rate in a manner similar to reserve requirements because the clearing balance requirement is on a two-week average basis and because it is identified ahead of time.  The volume of required clearing balances is limited, however, because the credits accumulate only to the level of charges that a depository institution incurs for Federal Reserve services.  Under H.R. 4209, explicit interest could be paid on such balances.  Thus, this constraint on the level of required clearing balances would be eliminated, a result that would potentially boost their benefit for the implementation of monetary policy.
+
+[SECTION]
+
+In addition to required reserve and required clearing balances, depository institutions also hold excess reserve balances in their accounts at Federal Reserve Banks.  Their motive in holding excess reserves is mainly as a precaution against the chance that unpredictable payments out of their accounts late in the day might cause shortages of reserves to satisfy reserve requirements or might cause overnight overdrafts on their accounts.  The Federal Reserve strongly discourages overnight overdrafts.
+
+[SECTION]
+
+If required reserve and required clearing balances dropped to very low levels, there would be increased risks of overnight overdrafts on the accounts of depositories in Reserve Banks.  The remaining balances of depositories at Reserve Banks would be largely excess reserves held as a precaution against such overdrafts.  It would be especially difficult to predict the level of balances depositories would need for this purpose from one day to the next.  For example, on days when payment flows were particularly heavy and uncertain, or when the distribution of reserves around the banking system were substantially different than normal, depositories would need a higher than usual level of precautionary balances to avoid the risk of overdrafts.  The uncertainties would make it harder for the Federal Reserve to determine the appropriate daily quantity of reserves to supply to the market.  Thus, in such a scenario, the federal funds rate could become more volatile and often diverge markedly from its intended level.
+
+[SECTION]
+
+Moderate levels of volatility are not a concern for monetary policy, in part because the Federal Reserve now announces the target federal funds rate, eliminating the possibility that fluctuations in the actual funds rate in the market would give misleading signals about monetary policy.  A significant increase in volatility in the federal funds rate, however, would be of concern because it would affect other overnight interest rates, raising funding risks for most large banks, securities dealers, and other money market participants.  Suppliers of funds to the overnight markets, including many small banks and thrifts, would face greater uncertainty about the returns they would earn and market participants would incur additional costs in managing their funding to limit their exposure to the heightened risks.
+
+[SECTION]
+
+An example of significantly heightened volatility occurred in early 1991, just after the Federal Reserve reduced reserve requirements in order to ease funding costs to banks during the credit crunch period.  Because of the cut in reserve requirements, many depository institutions found that their required reserve balances fell below the level of balances they needed to hold as a precaution against overdrafts owing to unpredictable payment flows; as a consequence, the federal funds rate became quite volatile for a while, with daily trading ranges averaging around 8 percentage points compared with about 1-1/2 percentage points in normal times.
+
+[SECTION]
+
+Since then, depository institutions have become much more adept at managing their reserve positions, in part by making greater use of required clearing balances, and as a result, their needs for day-to-day precautionary balances have declined considerably.  A number of measures taken by the Federal Reserve also have helped to foster stability in the funds market, including improvements in the timeliness of account information provided to depository institutions, more frequent open market operations which are increasingly geared to daily payment needs rather than two-week-average requirements, a shift to lagged reserve requirements, which gives depositories and the Federal Reserve advance information on the demand for reserves, and improved procedures for estimating reserve demand.  As a result of these steps taken by depository institutions and the Federal Reserve, the average level of volatility in the federal funds rate has not moved up, despite much lower levels of required reserve balances than in the 1991 episode.  However, the limited effects on volatility of the spread of retail sweep programs to date may not preclude a more outsized reaction if reserve balances fall even lower.  We expect required reserve balances to fall from their current level of around $6 billion to perhaps $4 billion, thereby increasing the risk of heightened volatility in the funds rate.
+
+[SECTION]
+
+As I previously mentioned, some industrial countries have managed to implement monetary policy successfully without reserve requirements.  Those countries have avoided substantial volatility in overnight interest rates by using alternative procedures for the implementation of monetary policy.  One approach, for instance, establishes a ceiling and a floor to contain movements of the overnight interest rate.  The ceiling is set by the central bank's lending rate in what is called a Lombard facility; loans are provided freely to qualified banks but at an interest rate above the expected level of overnight market interest rates.  Adopting a Lombard facility in the United States would involve changes in our discount window operations.  For such a facility to function effectively as a ceiling for overnight interest rates, depository institutions would need to exhibit a greater willingness to make use of discount window loans than they have in the past.  In some countries, a floor for overnight interest rates is established by the rate of interest a central bank pays on excess reserve balances; banks would not generally lend to other banks at an interest rate below the rate they could earn on a risk-free deposit at the central bank.  For the Federal Reserve to be able to set a similar interest rate floor, it would need expanded legislative authority, for example, to pay interest on excess reserves.  Under H.R. 4209, interest on excess reserves would be allowed.
+
+[SECTION]
+
+If interest were permitted to be paid on required reserve balances, adjustments in the procedures for implementing monetary policy and in the behavior of depository institutions might not be needed.  Interest on required reserves would reduce banks' costs of offering transaction deposits and thus could boost their levels substantially, as some sweep programs were unwound.  The unwinding would be larger if interest could also be paid on demand deposits, as eventually would be permitted by the legislation already passed by the House.  The increased transaction deposits likely would bring required reserve balances above the level of daily precautionary needs for many institutions, thus helping to stabilize the federal funds rate, while also improving economic efficiency as previously noted.
+
+[SECTION]
+
+The magnitude of the responses to these measures, however, is uncertain.  Some corporations may not find the interest paid on demand deposits high enough to induce them to shift a substantial volume of funds out of other liquid instruments.  Also, some banks may retain consumer sweep programs in order to seek higher investment returns than the Federal Reserve would pay on riskless reserve balances.
+
+[SECTION]
+
+Because of the uncertainties involved, it is best for the Federal Reserve to be able to pay interest on any balances that depositories hold at Reserve Banks, not just on required reserve balances, and at differential rates to be set by the Federal Reserve, as the bill would allow.  The ability to pay explicit interest on balances other than required reserve balances would provide additional tools that could be helpful for monetary policy implementation, if interest on required reserve balances resulted in an insufficient boost to the level of those balances.  In any case, it is important that the Federal Reserve have a full monetary toolkit, given the inventiveness of financial market participants and the need for the Federal Reserve to be prepared for potential developments that may not be immediately visible.
+
+[SECTION]
+
+H.R. 4209 also includes a technical provision related to pass-through reserves.  This provision would extend to banks that are members of the Federal Reserve System a privilege that was granted to nonmember institutions at the time of the Depository Institutions Deregulation and Monetary Control Act of 1980.  It would allow member banks to count as reserves their deposits in affiliated or correspondent banks that are in turn "passed through" by those banks to Federal Reserve Banks as required reserve balances.  The provision would remove a constraint on some banks' reserve management and would cause no difficulties for the Federal Reserve in implementing monetary policy.  The Board supports it.
+
+[SECTION]
+
+The payment of interest on required reserve balances would reduce the revenues received by the Treasury from the Federal Reserve.  The extent of the revenue loss, however, has fallen considerably on balance over the past ten to twenty years because of reductions in the level of such balances as banks have increasingly implemented reserve avoidance techniques and because of the generally lower level of interest rates as inflation has declined.  Paying interest on required clearing balances would merely involve a switch to explicit interest from the implicit interest of earnings credits.  It might, if anything, have a slight positive effect on the Treasury budget to the extent that the level of such balances increased with explicit interest, and the Federal Reserve was able to earn a higher return on investing the additional funds than it paid out in interest.  Regarding interest on excess reserve balances, the Federal Reserve does not see an immediate need to use this additional tool for monetary policy.  If it were used, Treasury revenues could be reduced, but probably only slightly, owing to the small amount of excess reserve balances, which have averaged a little over $1 billion in recent years, and the likelihood that the Federal Reserve would pay a rate well below the federal funds rate on them.  Also, if the demand for excess reserves increased, any "spread" that the Federal Reserve earned on the higher excess reserves would be returned to the Treasury, further limiting the budgetary cost.
+
+[SECTION]
+
+The Committee has requested the Board's view on the possibility of transferring some of the capital surplus of the Federal Reserve Banks to the Treasury in order to cover the budgetary costs of paying interest on required reserve balances.  Let me take a moment to explain the role of the surplus account of the Reserve Banks.
+
+[SECTION]
+
+The Federal Reserve System derives the bulk of its revenues from interest earnings on Treasury securities that it has obtained through open market operations.  The System returns a very high proportion of its earnings every year to the Treasury.  In 1999, it turned over $25 billion, or about 97 percent of its earnings.  In most years, the System retains a small percentage of those earnings in its surplus account.  The surplus account is a capital account on the Federal Reserve Banks' balance sheets.  Since 1964, the Federal Reserve has followed the practice of allowing the surplus to rise to match increases in the paid-in capital of member banks.  Each member bank is required by law to subscribe to the capital stock of its Reserve Bank in an amount equal to 6 percent of its own capital and surplus.  The Board requires that half of that subscribed capital be paid in.
+
+[SECTION]
+
+The Federal Reserve's surplus account is currently about $6-1/2 billion, while its total capital amounts to $14 billion.  As required by the omnibus appropriations legislation that passed at the end of the last Congressional session, the Federal Reserve will transfer $3.752 billion from its surplus account to the Treasury; that transfer is scheduled for May 10.  After the transfer, the surplus will be $2.7 billion and total capital will be about $10.3 billion.  Total assets of the Federal Reserve are around $600 billion.
+
+[SECTION]
+
+The surplus account has helped to provide extra backing for the issue of Federal Reserve notes.  The Federal Reserve is required by law to hold certain specified assets, including Treasury securities, as collateral against the issuance of currency.  The Federal Reserve buys Treasury securities, its main asset, in the open market as the counterpart to the surplus on its books.  The extra margin of collateral for currency made possible because of the surplus was important in the past, because certain types of discount window loans could not be used as collateral.  However, legislation signed into law last year expanded the assets of the Federal Reserve that could be used to back the issuance of currency to include all discount window loans.  As a result, the importance of the surplus in providing a margin of excess currency collateral has greatly diminished.
+
+[SECTION]
+
+Traditionally, the Federal Reserve and virtually all other central banks have maintained an appreciable level of capital.  For the Federal Reserve, some of that capital has been contributed by member commercial banks and some from earnings retained in the surplus account.  Maintaining a surplus account may help support the perception of the central bank as a stable and independent institution by ensuring that its assets remain comfortably in excess of its liabilities.  However, the need for capital in this case is limited by the modest variability of the Federal Reserve's profits, the safety of its primary asset, Treasury securities, and the substantial regular flow of earnings from its portfolio of securities.
+
+[SECTION]
+
+Indeed, in the abstract, a central bank with the nation's currency franchise does not need to hold capital.  In the private sector, a firm's capital helps to protect creditors from credit losses.  Creditors of central banks, however, are at no risk of a loss because the central bank can always create additional currency to meet any obligation denominated in that currency.
+
+[SECTION]
+
+Whatever the benefits of the surplus account, it should be emphasized that its maintenance is costless to the Treasury and to taxpayers.  The Treasury has to issue more debt because of the surplus, but an exactly equivalent amount of Treasury debt is held by the Federal Reserve.  The amount of Treasury debt held by the private sector is not affected by the existence or the level of the surplus.  The Treasury pays interest on the portion of its debt held by the Federal Reserve, but those interest payments are then returned to the Treasury by the Federal Reserve on a weekly basis.
+
+[SECTION]
+
+For similar reasons, transfers of Federal Reserve surplus to the Treasury provide no true budgetary savings.  Let me give you an example that illustrates this principle.  First, imagine that the Congress wished to enact some new spending program that would cost $500 million.  In the absence of any new revenues or reductions in outlays on other programs, the Treasury would need to issue $500 million of debt to the public to fund the expenditure.  The annual interest cost on that debt, at a 6 percent interest rate, would be $30 million a year.  Now suppose that, instead, the Congress decided to "finance" the spending program by transferring $500 million from Federal Reserve surplus to the Treasury.  To obtain the funds to transfer to Treasury while maintaining the stance of monetary policy, the Federal Reserve would need to sell $500 million of Treasury securities from its portfolio to the public.  The public would wind up holding $500 million of additional Treasury debt, and the government would increase its net interest cost by $30 million a year--exactly the same outcome as if the Treasury just sold the debt directly to the public.  Thus, financing an additional $500 million outlay through a surplus transfer is exactly equivalent to borrowing from the public.  For reasons illustrated by this example, the Federal Reserve has consistently stated that transfers of Federal Reserve surplus do not provide true budgetary revenues and indeed that mandating such transfers undermines the integrity of the federal budgetary process.  The fact that budgetary rules count transfers of Federal Reserve surplus as revenues for the purpose of calculating the budget deficit is an anomaly of federal budget accounting.
+
+[SECTION]
+
+Over the years, Congress generally has concurred with this view, with a few exceptions.  Congressional budget resolutions in 1996, 1997, and again this year noted that transfers of surplus have no real budgetary or economic effects.  The 1996 and 1997 resolutions directed the Congressional Budget Office not to score any savings from legislation requiring transfers from the surplus account to the Treasury.  The most recent budget resolution contains a provision to ensure that transfers of Federal Reserve surplus "shall not be used to offset increased on-budget spending when such transfers produce no real budgetary or economic effects."   The Manager's statement explaining this provision states: "It has long been the view of the Committee on the Budget that transfers of Federal Reserve surpluses to the Treasury are not valid offsets for increased spending."
+
+[SECTION]
+
+In summary, the Federal Reserve strongly supports legislation to authorize the payment of interest on reserves.  Such authorization, however, would have a budgetary cost.  The transfer of Federal Reserve surplus would technically increase reported budget receipts, owing to a unified budget convention, but would not represent a true source of revenue to offset this cost.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: May 3, 2000, 10:00 AM

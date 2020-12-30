@@ -1,0 +1,221 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 20, 2008
+
+[SECTION]
+
+Patrick M. Parkinson, Deputy Director, Division of Research and Statistics
+
+[SECTION]
+
+Before the Committee on Agriculture, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Peterson, Ranking Member Goodlatte, and members of the Committee, I appreciate this opportunity to provide an update on recent initiatives by policymakers to enhance the markets in which credit default swaps (CDS) and other over-the-counter (OTC) derivatives trade and are settled.  On October 15, I provided the Committee with a more extensive statement about the nature of OTC credit derivatives markets, prudential oversight of those markets, potential changes in market infrastructure, and the policy issues that should be considered in evaluating regulatory changes.  Today, I will briefly review the key conclusions of that statement and then discuss the Federal Reserve's recent actions to strengthen market infrastructure, enhance risk management, and increase transparency for these products.  I would like to emphasize at the outset that the Federal Reserve has taken these actions in coordination with the President's Working Group on Financial Markets (PWG) and other domestic and international supervisors of key market participants.
+
+[SECTION]
+
+Summary of October 15 StatementAs noted in my earlier statement, supervisors have worked with market participants since 2005 to strengthen the infrastructure of credit derivatives markets through such steps as greater use of electronic confirmation platforms, adoption of a protocol that requires participants to request counterparty consent before assigning trades to a third party, and creation of a contract repository, which maintains an electronic record of CDS trades.  Looking forward, the most important potential change in the infrastructure for credit derivatives is the creation of one or more central counterparties (CCPs) for CDS.  The Federal Reserve supports CCP clearing of CDS because, if properly designed and managed, CCPs can reduce risks to market participants and to the financial system.  In addition to clearing of CDS through CCPs, the Federal Reserve believes that exchange trading of sufficiently standardized contracts by banks and other market participants can increase market liquidity and transparency and thus should be encouraged.
+
+[SECTION]
+
+Policy discussions of potential regulatory changes for CDS have focused on preventing market manipulation, improving transparency, and mitigating systemic risk.  Manipulation concerns can be addressed by clarifying the Securities and Exchange Commission's (SEC) authority with respect to CDS.  Data from a contract repository provide a means for enhancing transparency, a topic I will discuss in greater depth later.  To better contain systemic risk, prudential supervisors already have begun to address the weaknesses of major market participants in measuring and managing their counterparty credit risks.  This step is fundamental to containing systemic risk because it helps limit the potential for any single large market participant to be the catalyst for transmission of such risk.
+
+[SECTION]
+
+Strengthening Infrastructure, Enhancing Risk Management, and Increasing TransparencyPWGâs Policy Objectives for OTC DerivativesIn March, the PWG made recommendations to enhance the market infrastructure for CDS and other OTC derivatives.  In light of recent developments, last week the PWG announced a broader set of policy objectives to guide efforts to address the full range of challenges associated with OTC derivatives, including risk management of OTC derivatives and the transparency and integrity of CDS markets, as well as further measures to strengthen market infrastructure.1
+
+[SECTION]
+
+Central Counterparties for CDS and Other Infrastructure IssuesThe PWG's top near-term priority is to oversee the implementation of CCP clearing for CDS.  In the past month, authorities in the United States and abroad have sought to speed the development of CCPs for CDS.  Four organizations plan to offer clearing for CDS.  The primary federal regulators for two of these organizations would be U.S. authorities--in one case, the Commodity Futures Trading Commission (CFTC), and in the other case, the Federal Reserve Board (and its supervisory delegee, the Federal Reserve Bank of New York).  The primary regulators for the two others would be authorities in the United Kingdom and Germany.  In addition, the two U.S. CCPs for credit derivatives plan to obtain an exemption from the SEC from securities clearing agency registration requirements.  The CFTC, SEC, and Federal Reserve recognize their mutual interests in ensuring that all CCPs for credit derivatives are organized and managed prudently.  We have been jointly examining the risk management and financial resources of the two organizations that will be supervised by U.S. authorities against the "Recommendations for Central Counterparties," a set of international standards that were agreed to in 2004 by the Committee on Payment and Settlement Systems (CPSS) of the central banks of the Group of 10 countries and the Technical Committee of the International Organization of Securities Commissions.2
+
+[SECTION]
+
+Last week, the CFTC, SEC, and Federal Reserve signed a memorandum of understanding (MOU) that established a framework for ongoing consultation and information sharing related to CCPs for CDS.  The MOU is particularly important because it created a mechanism to ensure that we all will have the information necessary for carrying out our respective responsibilities related to these markets regardless of the form in which a CCP is organized and regardless of which agency is the primary regulator.
+
+[SECTION]
+
+As outlined in my October statement, numerous other efforts are under way to build a more resilient infrastructure for OTC derivatives in addition to the development of a CCP for CDS.  Major dealers recently committed to broader improvements in back-office processes for equity, interest rate, commodity, and foreign exchange products as well as credit products.  These commitments include greater use of electronic processing of trades, speedier confirmation of trades, and expanded use of central trade repositories, in part to enhance market transparency.  Dealers as well as other large market participants also have redoubled their efforts to terminate economically redundant trades that contribute to operational risk.  To date in 2008, more than $24 trillion of the notional amount of CDS trades has been terminated.
+
+[SECTION]
+
+Risk ManagementAlthough the creation of CCPs for CDS will provide an important new tool for managing counterparty credit risk, enhancements to the risk-management policies and procedures for market participants will continue to be a high priority for supervisors.  Many transactions that transfer credit risk between market participants will continue to be executed and managed on a bilateral, decentralized basis because they are not sufficiently standardized to be cleared through a CCP.  Such OTC transactions are integral to the functioning of today's financial markets.  Supervisors recognize, however, that financial institutions need to make changes in their risk-management practices for OTC derivatives by improving internal incentives and controls and by ensuring that traditional credit risk-management disciplines are in place for complex products, regardless of whether they take the form of CDS or of securities.  Efforts to implement these changes continue through the Senior Supervisors Group, in which supervisors from the jurisdictions with major OTC derivatives dealers are represented.3  Such cooperative groups offer an important tool for ensuring that supervisors set consistent standards for all participants in these global markets.
+
+[SECTION]
+
+TransparencyMany market observers have expressed concern about the opaqueness of OTC derivatives markets generally.  The Depository Trust Clearing Corporation's (DTCC) Trade Information Warehouse, a contract repository, contains an electronic record of a large and growing share of CDS trades.  DTCC recently began publishing aggregate market data based upon these records each week.  Information is provided, for example, on index, versus single-name, contracts; reference entities on which the contracts are written; and maturities of contracts.  However, these data currently are not comprehensive.  The PWG has called for a record of all CDS that are not cleared through a CCP to be retained in the DTCC warehouse or a similar repository and for regulators to have access to the data on CDS housed at CCPs and repositories.  Furthermore, the PWG has called for public reporting of prices, trading volumes, and aggregate open interest.
+
+[SECTION]
+
+ConclusionCredit derivatives and other OTC derivatives are integral to the smooth functioning of today's financial markets.  With appropriate oversight and prudent risk management by users of these products, derivatives can provide significant benefits to financial market participants and to the financial system generally.  The Federal Reserve is working cooperatively with other domestic and international authorities to strengthen the infrastructure through which CDS trades are cleared and settled and to address weaknesses that have been identified in the risk-management practices of major market participants.  Efforts to strengthen the infrastructure also will help support significant improvements in transparency, which in turn can enhance efficiency and market integrity.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+President's Working Group on Financial Markets (2008), "Policy Statement on Financial Market Developments (1.36 MB PDF)," March; President's Working Group on Financial Markets (2008), "PWG Policy Objectives (19 KB PDF)," November 14. Return to text
+
+[SECTION]
+
+Committee on Payment and Settlement Systems and Technical Committee of the International Organization of Securities Commissions, Bank for International Settlements (2004), "Recommendations for Central Counterparties (690 KB PDF),"  November. Return to text
+
+[SECTION]
+
+Senior Supervisors Group (2008), "Observations on Risk Management Practices during the Recent Market Turbulence (373 KB PDF)," March 6. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,98 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairman Levitt and Commissioners, thank you for the opportunity to speak at today's hearing on the rules governing auditor independence that have been proposed by the Securities and Exchange Commission (SEC).
+
+[SECTION]
+
+A principal concern of the Federal Reserve is the efficiency and stability of financial markets.  By extension, we take a keen interest in issues that underpin the functioning of these markets, such as the reliability of the information that supports them.  The auditor's opinion distinguishes financial reporting from other, potentially self-serving, information circulating in the marketplace.  The willingness of investors, creditors, and other stakeholders to trust the public accountant's opinion is an important facet of market efficiency.
+
+[SECTION]
+
+The Board has long believed that high-quality accounting standards and disclosure requirements are essential for the efficient, rational allocation of capital.  We also recognize that independence enhances both the setting of accounting standards and enforcing conformance with those standards.  The SEC and the accounting profession have important roles in maintaining and promoting independence.  Steps they have taken over the years to foster independence and objectivity in the formulation of accounting standards have improved financial reporting.  We note, however, that high-quality accounting standards potentially can be nullified by a perception that auditors lack independence and objectivity in their enforcement role.
+
+[SECTION]
+
+Accountants have recognized this possibility since the earliest years of their profession.  The ethics rules of their professional societies regulate commercial dealings between external auditors and clients to protect the integrity of financial reporting and to promote investor confidence in the auditor's opinion.  Achieving and maintaining independence is difficult because independence is an intangible quality, an attitude, a state of mind.  An outsider can infer auditors' attitudes only by their outward dealings with clients.  Judgment by inference is particularly characteristic of our era of global markets and widely dispersed ownership.
+
+[SECTION]
+
+As a result, the auditing profession has focused intently on appearance as a means of demonstrating independence.  That is, the profession's own rules emphasize the tangible, measurable aspects of the auditor-client relationship to assure the public of its independence.  Some indicia of independent appearance are clear-cut.  For example, long-standing rules prohibit direct ownership in a client by an audit partner.  These rules are obvious and require little explanation or interpretation.  Other aspects of the auditor-client relationship are more difficult to regulate, but no less important.  For example, the auditing profession prohibits its members from acting in a management capacity for a client.  The line between what may appear to be unacceptable "managerial" actions and what may be acceptable "advisory" actions can be a fine one, subject to a great deal of interpretation.
+
+[SECTION]
+
+For nearly as long as there have been public accountants, state and federal legislators have also grappled with laws to protect auditor independence.  It must be difficult to balance the public interest in maintaining independent, objective external audits with legitimate commercial aspirations of accounting professionals.  Nonetheless, all recognize that significant erosion of the public's confidence regarding auditor independence could have severe consequences to investors, creditors, and those seeking capital.
+
+[SECTION]
+
+External Audits
+As the regulator of state-member banks, bank holding companies, and (recently) financial holding companies, the Federal Reserve is very interested in the external audits of institutions it supervises.  Banks with total assets of $500 million or more are required by statute to have an external audit.  Recognizing the value of external audits, the federal banking agencies also encourage smaller institutions to engage public accountants.  External audits can give supervisors greater assurance of the integrity of the financial information we receive.  In addition, we believe that banking organizations benefit from an outside opinion on the quality of their financial reports and internal controls.
+
+[SECTION]
+
+The benefit derived from an external audit, however, is contingent upon the auditor's competence and independence.  For institutions that we supervise, our examiners assess these two qualities.  Of course, banking supervisors have broad powers that allow us to remove an audit firm if there is evidence of nonfeasance, misfeasance, or malfeasance.  As I said earlier, however, independence is intangible.  Therefore, it is difficult for outsiders, including examiners, to judge the objectivity of external auditors toward their clients.  Despite that difficulty, we must be watchful because a lack of objectivity can compromise the external audit as a useful tool for enhancing banking safety and soundness.
+
+[SECTION]
+
+Large financial institutions we supervise are required to furnish us not only with audited financial statements but also with an external auditor's opinion of management's report on the effectiveness of internal controls over financial reporting.  These reports are an important source of information about these institutions.  The auditor's attestation is key to our reliance on these reports.  When auditors lack objectivity this process for informing supervisors about the condition of banks' internal controls can break down.
+
+[SECTION]
+
+Our ability to supervise institutions is improved by competent and objective external audits.  If our examiners are comfortable with a particular audit, they may focus on how management is dealing with problems found by the external auditor.  This situation is far more efficient than replicating the work and second-guessing the conclusions drawn from the evidence.  According to their assessment of the external audit, our examiners can reallocate supervisory resources to other areas of risk in the banking organization.  The Federal Reserve benefits by gaining a better picture of an institution's risk profile for a given level of supervisory resources.  Financial institutions also gain from a reduction in overall examination burden.  We hope that accounting professionals also benefit from the interaction between the external auditor and the examiner.
+
+[SECTION]
+
+The Federal Reserve hopes to expand the private sector's role in regulating the risk and solvency of banking organizations.  The effectiveness of market discipline is highly dependent upon the quality of information available to market participants.  Biased, unreliable information would distort the allocation of capital to banks and thereby frustrate the discipline we seek to promote.
+
+[SECTION]
+
+Outsourcing of Internal Audit
+Now I would like to focus on the SEC's proposal to limit internal audit outsourcing by external auditors.  The Federal Reserve has a long-standing supervisory interest in banks' risk management, including internal controls and their effect on safety and soundness.  We have been wary of the outsourcing of internal audit functions since the trend began.  Our concerns are two-fold: the potential for blurring the accountability of bank directors and managers for internal controls and the diminished effectiveness of the internal auditor's ability to monitor controls.
+
+[SECTION]
+
+In 1997, the federal banking agencies issued an interagency policy statement that serves as a framework for banking organizations to structure and maintain the internal audit function and manage outsourcing arrangements.  With respect to outsourcing, the policy seeks foremost to warn managers and directors that outsourcing the review function of an internal auditor does not in any way transfer responsibility for maintaining adequate internal controls.  Institutions may delegate the technical work, but not the management oversight or accountability.  The policy also makes the important recommendation that banks promote and maintain independence in the design of their own management structures over the internal audit function.  The most effective internal audit function has the impartiality and standing within an organization to report its findings and views candidly to directors and the highest levels of management.
+
+[SECTION]
+
+The policy does not prohibit all outsourcing because we appreciate that efficiencies can be gained and specialized talent brought to bear.  Care needs to be exercised, however, in structuring the arrangements so as not to weaken overall the processes for identifying and fixing internal control deficiencies.  The banking agencies considered prohibiting banks' external auditors from acting as outsourcing vendors because of a concern about the effect of such arrangements on external-auditor independence.
+
+[SECTION]
+
+As we finalized our guidance, we decided we could work for the time being within the existing auditor independence rules and that a prohibition by the banking agencies was inappropriate for several reasons.  First, the banking agencies were reluctant to set a standard different from that of other industries, which, of course, are exempt from our safety and soundness policies.  Second, we believed the issue was more properly regulated by the SEC, which has broader jurisdiction over the auditor-client relationship.  Lastly, given the early stage of the outsourcing trend, we decided to take a flexible approach to outsourcing; the policy could be amended to address safety and soundness concerns if they became apparent.  With regard to the last issue, the agencies decided it was sufficient for examiners to monitor arrangements among supervised institutions and evaluate auditor independence case by case.  Nevertheless, our examiners have been encouraging individual organizations to consider using firms other than their external auditor.
+
+[SECTION]
+
+We have been vigilant in monitoring these outsourcing arrangements because we view the internal audit function as an integral part of bank management.  In arrangements where much of internal audit is outsourced to the external auditor, the public accountant can be disturbingly close to being a part of the management team.  Questions, therefore, arise about his or her independence.  One of the corollary benefits we see to an external audit is that the auditor can give an independent assessment of the quality of a bank's own processes for identifying and rectifying internal control deficiencies.  We feel this "check and balance" is diminished when the external auditor acts largely as the bank's internal auditor.
+
+[SECTION]
+
+The SEC is looking at internal audit outsourcing through the lens of external auditor independence.  We share the SEC's concern.  However, we also have a broader issue about the safety and soundness aspects of outsourcing risk management activities, regardless of who is engaged to perform the task.  Contracting a large part of the internal audit work to a third party can be cumbersome, and banks operate in a rapidly changing environment.  Furthermore, we see the internal audit function as a core part of banks' risk management processes.  As is true of other aspects of risk management, the internal audit function is an inextricable part of the senior management team's responsibilities.
+
+[SECTION]
+
+The SEC's proposal would not eliminate outsourcing or prohibit public accountants from selling internal audit services.  Instead, it would generally exclude an auditor from performing both external and internal audits for the same client.  Combining the internal and external audits may have some efficiencies because the work can serve a dual purpose of inspecting the system of internal control and expressing an opinion about the financial statements.  These efficiencies, however, may come at the cost of the external auditor's appearance of independence.  Our view is that auditor independence is more valuable than these asserted efficiencies.  We're pleased to see the SEC address this issue on a cross-industry basis.  From the perspective of a banking supervisor, we support the SEC's proposal to limit the external auditor's role in the internal audit function of its clients.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: September 13, 2000

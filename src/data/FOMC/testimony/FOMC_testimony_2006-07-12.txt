@@ -1,0 +1,301 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 12, 2006
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Bachus, Representative Sanders and members of the subcommittee, I am pleased to testify today on behalf of the Board of Governors of the Federal Reserve System on the topic of industrial loan companies (ILCs). ILCs are state-chartered banks that have direct access to the federal safety net--deposit insurance and the Federal Reserveâs discount window and payments system--and have virtually all of the deposit-taking, lending, and other powers of a full-service commercial bank. Despite their access to the federal safety net and broad powers, these banks operate under a special exception to the federal Bank Holding Company Act (BHC Act). This special exception allows any type of firm, including a commercial firm or foreign bank, to acquire and operate an ILC chartered in one of a handful of states outside the framework of federal supervision of the parent holding company and without the restrictions on the scope of activities conducted by the ILCâs affiliates that govern the ownership of insured banks by bank holding companies.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The special exception for ILCs has important public-policy implications, which are becoming more acute in light of the remarkable recent growth and potential future expansion of banks operating under the exception. This growth threatens to undermine the decisions that Congress has made concerning the separation of banking and commerce in the American economy and the proper supervisory framework for companies that own a federally insured bank. It also creates an unlevel competitive playing field, allowing some firms to own an insured ILC and avoid the prudential limitations, supervisory framework and restrictions on affiliations that apply to corporate owners of competing insured banks.
+
+[SECTION]
+
+If Congress does not address the ILC exception, the nationâs policies on banking and commerce and the supervisory framework for corporate owners of insured banks are in danger of being decided for Congress through the expansion of this loophole by individual firms acting in their own self-interest. The Board believes that the decisions on these important policies, which influence the structure and resiliency of our financial system and economy, should be made by Congress, acting in the public interest, and then applied to all organizations in a competitively equitable manner.
+
+[SECTION]
+
+Prudential Framework Established for Bank Holding CompaniesTo understand the issues surrounding ILCs, it may be useful first to review the supervisory and prudential framework that has been established for the parent firms of insured banks generally and the origins of the ILC exception in current law. The federal BHC Act, originally enacted in 1956, created a federal framework for the supervision and regulation of companies that own or control a bank and their affiliates. This framework is intended to help protect the safety and soundness of corporately controlled banks that have access to the federal safety net, ultimately backed by the taxpayer, and to maintain the general separation of banking and commerce in the United States.
+
+[SECTION]
+
+Financial trouble in one part of a business organization can spread, and spread rapidly, to other parts of the organization. That is why Congress for many years has required consolidated federal supervision of all bank holding companies, including financial holding companies formed under the Gramm-Leach-Bliley Act of 1999 (GLB Act). It is also why in 1991, following the collapse of the Bank of Credit and Commerce International (BCCI)--a foreign bank that lacked a single supervisor capable of monitoring its global activities--Congress amended the BHC Act to require that foreign banks demonstrate that they are subject to comprehensive supervision on a consolidated basis in their home country before acquiring a bank in the United States. The merits of supervision of the consolidated financial organization--not just the depository institution itself--also have led many developed countries, including those of the European Union, to adopt this supervisory framework.
+
+[SECTION]
+
+Consolidated federal supervision of bank holding companies by the Federal Reserve complements, and is in addition to, the authority that the primary federal or state bank supervisor has over the companyâs subsidiary depository institutions. It allows a federal supervisor to understand the financial and managerial strength and risks within the consolidated organization as a whole and gives the federal supervisor the ability to address significant management, operational, capital or other deficiencies within the overall organization before they pose a danger to the organizationâs subsidiary insured banks and the federal safety net.
+
+[SECTION]
+
+The hallmarks of this consolidated supervisory framework are broad grants of authority to examine and obtain reports from bank holding companies and each of their subsidiaries, establish consolidated capital requirements for bank holding companies, and take supervisory or enforcement actions against bank holding companies and their nonbank subsidiaries to address unsafe or unsound practices or violations of law. Consolidated capital requirements help ensure that bank holding companies have real capital to support their group-wide activities, do not become excessively leveraged, and are able to serve as a source of strength for their subsidiary banks.
+
+[SECTION]
+
+Besides requiring consolidated supervision of bank holding companies, the BHC Act also places limits on the types of activities that a bank holding company may conduct, either directly or through a nonbank subsidiary. These activity restrictions, which are designed to maintain the general separation of banking and commerce in the United States, generally allow a bank holding company and its nonbank subsidiaries to engage in only those activities that the Board has determined to be "closely related to banking." Since passage of the GLB Act, a bank holding company that qualifies and elects to become a financial holding company also may engage in other activities determined by Congress or the Board (in consultation with the Treasury Department) to be financial in nature or incidental to a financial activity, including full-scope securities underwriting and dealing, insurance underwriting and sales, and merchant banking. The GLB Act also permits a financial holding company, to a limited extent, to engage in or affiliate with a company engaged in a nonfinancial activity if the Board determines that the activity is "complementary" to the companyâs financial activities and does not pose a substantial risk to the safety and soundness of depository institutions or the financial system generally. Importantly, the GLB Act allows a financial holding company to engage in this wider array of financial or complementary activities only if all of the companyâs depository institution subsidiaries are--and remain--well capitalized and well managed, and all of its insured depository institution subsidiaries maintain at least a "satisfactory" record of performance under the Community Reinvestment Act (CRA).
+
+[SECTION]
+
+The ILC Exception and its OriginsAs I noted earlier, a special exception in current law exempts the corporate owners of ILCs that are chartered in one of a handful of states--principally Utah and California--from the supervisory framework established by the BHC Act. Ironically, this exception for ILCs was enacted in 1987 as part of a broader legislative package designed to close an earlier loophole that allowed firms to evade the nonbanking restrictions and consolidated supervisory requirements of the BHC Act. In particular, prior to 1987, the BHC Act defined the term "bank" narrowly to mean an institution that both accepted demand deposits and was engaged in the business of making commercial loans. A number of firms--including Sears, Roebuck & Co., Gulf & Western, ITT Transamerica, and Prudential Insurance--took advantage of this narrow definition to establish so-called nonbank banks, which were FDIC-insured banks that either accepted demand deposits or made commercial loans, but did not engage in both activities.
+
+[SECTION]
+
+In 1987, Congress enacted the Competitive Equality Banking Act (CEBA) to close the nonbank bank loophole and prevent further evasions of the BHC Act. To do so, CEBA expanded the definition of "bank" in the BHC Act to include any FDIC-insured bank (regardless of the activities it conducts) and any banking institution that both offers transaction accounts and makes commercial loans (regardless of whether it is FDIC-insured). Congress enacted this change because of concern that commercial firms were establishing nonbank banks outside of the supervisory framework established by Congress for the corporate owners of insured banks and without regard for the activity restrictions in the BHC Act that were designed to limit the mixing of banking and commerce.
+
+[SECTION]
+
+In CEBA, Congress also adopted an exception from this new and expanded definition of "bank" for ILCs chartered in those states that, as of March 5, 1987, had in effect or under legislative consideration a law requiring ILCs to have FDIC insurance. The legislative history of CEBA offers little explanation of why this exception was adopted. This may well be because the size, nature and powers of ILCs were quite limited both historically and in 1987. ILCs were first established in the early 1900s to make small loans to industrial workers. For many years, they were not generally permitted to accept deposits or obtain FDIC insurance. In fact, at the time CEBA was enacted, most ILCs were small, locally owned institutions that had only limited deposit-taking and lending powers under state law. In 1987, the largest ILC had assets of less than $400 million and the vast majority of ILCs had assets of less than $50 million. The relevant states also were not actively chartering new ILCs. At the time CEBA was enacted, for example, Utah had only eleven state-chartered ILCs and had a moratorium on the chartering of new ILCs. Moreover, interstate banking restrictions and technological limitations made it difficult for institutions chartered in a grandfathered state to operate a retail banking business regionally or nationally.
+
+[SECTION]
+
+Changing Character and Nature of ILCsWhat was once an exception with limited and local reach, however, has now become the means through which large national and international commercial, retail, and industrial firms may acquire a federally insured bank and gain access to the federal safety net. Indeed, the changes that have occurred with ILCs in recent years have been dramatic and have made ILCs virtually indistinguishable from other commercial banks. For example, in 1997, Utah lifted its moratorium on the chartering of new ILCs, allowed ILCs to call themselves banks, and authorized ILCs to exercise virtually all of the powers of state-chartered commercial banks. In addition, Utah and certain other grandfathered states recently began to charter new ILCs and to promote them as a method for companies to acquire a federally insured bank while avoiding the requirements of the BHC Act.
+
+[SECTION]
+
+As a result of these and other changes, the aggregate amount of assets and deposits held by all ILCs operating under this exception increased substantially between 1997 and 2005, with assets increasing nearly 500 percent (from $25.1 billion to $150.1 billion) and deposits increasing by more than 800 percent (from $11.7 billion to $107.9 billion). The number of Utah-chartered ILCs also has tripled since 1997.
+
+[SECTION]
+
+The nature and size of individual ILCs and their parent companies also has changed dramatically in recent years. While the largest ILC in 1987 had assets of less than $400 million, the largest ILC today has more than $62 billion in assets and more than $54 billion in deposits, making it the twelfth largest insured bank in the United States in terms of deposits. An additional ten ILCs each control more than $1 billion in deposits and thus rank within the top 200 insured banks in the United States in terms of deposits. And, far from being locally owned, a number of ILCs today are controlled by large, internationally active commercial companies and are used to support various aspects of these organizationsâ operations.
+
+[SECTION]
+
+While the growth of ILCs in recent years is impressive by itself, it also is important to keep in mind that the exception is open-ended and subject to very few statutory restrictions. Only a handful of states have the ability to charter exempt ILCs. However, there is no limit on the number of exempt ILCs that these states may charter going forward. In fact, several large commercial firms currently have applications pending to establish new ILCs or to acquire existing ones.
+
+[SECTION]
+
+Moreover, the BHC Act places only limited restrictions on the types of activities that an ILC operating under the exception may conduct. For example, ILCs may operate under the exception so long as they do not accept demand deposits that the depositor may withdraw by check or similar means for payment to third parties. As a substitute, some ILCs offer retail customers negotiable order of withdrawal (NOW) accounts--transaction accounts that are functionally indistinguishable from demand deposit accounts. Small ILCs--those that have assets of less than $100 million--and ILCs that were chartered before August 10, 1987, and have not experienced a change in control since that date, are not subject to even this limited restriction on their powers. Federal law places no restrictions on the ability of ILCs to collect FDIC-insured savings or time deposits from institutional or retail customers.
+
+[SECTION]
+
+Thus, federal law allows a new or existing ILC of any size to offer a wide range of federally insured retail deposit accounts; commercial, mortgage, credit card, and consumer loans; cash management services; trust services; payment-related services, including Fedwire, automated clearinghouse (ACH) and check-clearing services; and other banking services. Moreover, federal law permits ILCs to branch across state lines to the same extent as other types of insured banks. Importantly, because of advances in telecommunications and information technology, ILCs chartered in one state also now have the ability to conduct their activities throughout the United States, with or without physical branches, through the Internet or through arrangements with affiliated or unaffiliated entities.
+
+[SECTION]
+
+Bank Affiliations with Commercial and Financial FirmsThe Board is concerned that the recent and potential future growth of ILCs threatens to undermine the decisions that Congress has made in two important areas. First, the exception is eroding Congressâ established policies concerning the mixing of banking and commerce in the United States and diminishing the role of Congress in determining whether or how banking and commerce should be allowed to mix in this country. For many years, Congress has sought to maintain the general separation of banking and commerce and has acted affirmatively to close loopholes that create large breaches in the wall between banking and commerce. For example, one of the primary reasons for enactment of the BHC Act in 1956, and its expansion in 1970 to cover companies that control only a single bank, was to help prevent and restrain combinations of banking and commercial firms under the auspices of a single holding company. And, as noted earlier, when the nonbank bank loophole threatened to undermine the separation of banking and commerce, Congress acted in 1987 to close that loophole.
+
+[SECTION]
+
+More recently, Congress reaffirmed its desire to maintain the general separation of banking and commerce in 1999 when it passed the GLB Act. That act closed the unitary-thrift loophole, which previously allowed commercial firms to acquire a federally insured savings association. In addition, after lengthy debate, Congress decided to allow financial holding companies to engage in only those activities determined to be financial in nature or incidental or complementary to financial activities. In taking this action, Congress rejected proposals that would have allowed financial holding companies to engage generally in a "basket" of commercial activities or that would have allowed commercial firms to acquire a small bank without becoming subject to the BHC Act.
+
+[SECTION]
+
+Congress also placed qualifications on the ability of banks to affiliate even with financial firms such as securities firms and insurance companies. The GLB Act allows a financial holding company to affiliate with a full-service securities or insurance firm only if the financial holding company keeps all of its subsidiary depository institutions well capitalized and well managed and all of the companyâs subsidiary insured depository institutions maintain at least a satisfactory CRA record.
+
+[SECTION]
+
+The ILC exception undermines each of these decisions by allowing commercial and financial firms to operate FDIC-insured ILCs while avoiding the restrictions on commercial affiliations applicable to the corporate owners of other insured banks and avoiding the capital, managerial, and CRA requirements applicable to financial holding companies.
+
+[SECTION]
+
+The question of whether to allow broader mixings of banking and commerce has broad-reaching implications for the structure and soundness of the American economy and financial system particularly because, if permitted, any general mixing of banking and commerce is likely to be difficult to disentangle. Consequently, the nationâs policy on this important issue should be set by Congress only after deliberate and careful consideration; it should not be allowed to occur unintentionally through the exploitation of an exception by individual commercial firms.
+
+[SECTION]
+
+Importance of Consolidated Supervision Second, the ILC exception undermines the supervisory framework that Congress has established for the corporate owners of insured banks. On this point, let me be clear that the Board has no concerns about the adequacy of the existing supervisory framework for ILCs themselves. ILCs are regulated and supervised by the FDIC and their chartering state in the same manner as other types of state-chartered, nonmember insured banks.
+
+[SECTION]
+
+However, due to the special exception in current law, the parent company of an ILC is not considered a bank holding company and is not subject to federal supervision on a consolidated basis under the BHC Act. This creates a supervisory blind spot because the Federal Reserveâs supervisory authority over bank holding companies and their nonbank subsidiaries under the BHC Act is significantly broader than the supervisory authority that the primary federal supervisor of an ILC has over the holding company and nonbank affiliates of the bank. It was precisely to avoid the risks of this blind spot that Congress established a supervisory framework for bank holding companies and savings and loan holding companies that includes a federal supervisor of the parent holding company and its nonbank subsidiaries as well as a federal supervisor for the insured depository institution itself.
+
+[SECTION]
+
+For example, the BHC Act provides broad authority to examine a bank holding company and its nonbank subsidiaries, whether or not the company or nonbank subsidiary engages in transactions, or has relationships, with a depository institution subsidiary.1 This authority supplements and complements the authority of the primary bank supervisor. Pursuant to this authority, the Federal Reserve routinely conducts examinations of all large, complex bank holding companies and maintains inspection teams on-site at the largest bank holding companies on an on-going basis. These examinations allow the Federal Reserve to review the organization's systems for identifying and managing risk across the organization and its various legal entities and to evaluate the overall financial strength of the organization. By contrast, the primary federal supervisor of a bank, including an ILC, is authorized to examine the parent company and affiliates (other than subsidiaries) of the bank only to the extent necessary to disclose the relationship between the bank and the parent or affiliate and the effect of the relationship on the bank.
+
+[SECTION]
+
+Federal law also grants the Federal Reserve the authority to require that bank holding companies maintain adequate capital on a consolidated basis to help ensure that the parent company is able to serve as a source of strength, not weakness, for its subsidiary insured banks. The parent companies of exempt ILCs, however, are not subject to the consolidated capital requirements established for bank holding companies. Indeed, among the factors contributing to the failure of a federally insured ILC in 1999 were the unregulated borrowing and weakened capital position of the corporate owner of the ILC and the inability of any federal supervisor to ensure that the parent holding company remained financially strong.
+
+[SECTION]
+
+In addition, federal law gives the Federal Reserve broad enforcement authority over bank holding companies and their nonbank subsidiaries. This authority includes the ability to stop or prevent a bank holding company or nonbank subsidiary from engaging in an unsafe or unsound practice in connection with its own business operations, even if those operations are not directly connected with the companyâs subsidiary banks. On the other hand, the primary federal bank supervisor for an ILC may take enforcement action against the parent company or a nonbank affiliate of an ILC to address an unsafe or unsound practice only if the practice occurs in the conduct of the ILCâs business. Thus, unsafe and unsound practices that weaken the parent firm of an ILC, such as significant reductions in its capital, increases in its debt or its conduct of risky nonbanking activities, are generally beyond the scope of the enforcement authority of the ILCâs primary federal bank supervisor.
+
+[SECTION]
+
+Consolidated supervisory authority is especially helpful in understanding and, if appropriate, controlling the risks to the federal safety net when a subsidiary bank is closely integrated with, or heavily reliant on, its parent organization. In these situations, the subsidiary bank may have no business independent of the bankâs affiliates, and the bankâs loans and deposits may be derived or solicited largely through or from affiliates. In addition, the subsidiary bank may be substantially or entirely dependent on the parent or its affiliates for critical services, such as computer support, treasury operations, accounting, personnel, management, and even premises. This appears to be the case at some of the largest ILCs. In fact, seven of the ten largest ILCs each have more than $3 billion in assets but fewer than 75 full-time employees.
+
+[SECTION]
+
+In addition to constructing this supervisory framework domestically, Congress has made this type of consolidated supervisory framework a prerequisite for foreign banks seeking to acquire a bank in the United States. In 1991, Congress amended the BHC Act to require a foreign bank to demonstrate that the consolidated organization is subject to comprehensive supervision in its home country before acquiring a U.S. bank or establishing a branch, agency or commercial lending company subsidiary in the United States. Adoption of a framework of consolidated supervision of banking organizations is, in fact, becoming the preferred approach to supervision worldwide. The ILC exception, however, allows a foreign bank that is not subject to consolidated supervision in its home country to evade this requirement and acquire an FDIC-insured bank with broad deposit-taking and lending powers in the United States.
+
+[SECTION]
+
+Fair Competition and Other IssuesIn considering these issues, it is important that Congress establish a fair and level competitive playing field for firms that seek to own a bank with full access to the federal safety net and carefully consider the potential interplay of its decisions on the multitude of issues associated with ILCs. For example, if Congress determines that broader mixings of banking and commerce should be permitted, that new policy should apply to all banking organizations in a competitively equitable matter. In addition, Congress should carefully consider the type of supervisory framework that best suits the needs and structure of our financial system and protects insured banks and the taxpayer.
+
+[SECTION]
+
+ConclusionThe issues I have discussed today involve important public-policy matters and the Board applauds the subcommittee for holding this hearing to obtain testimony on these issues. In particular, I appreciate the opportunity to discuss the Boardâs views on ILCs. The Board and its staff would be pleased to work with the subcommittee, the full committee, and their staffs in addressing the important issues raised by the ILC exception in current law.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+In the case of certain functionally regulated subsidiaries of bank holding companies, the BHC Act directs the Board to rely to the fullest extent possible on examinations of the subsidiary conducted by the functional regulator for the subsidiary, and requires the Board to make certain findings before conducting an independent examination of the functionally regulated subsidiary. 12 U.S.C. §1844(c)(2)(B). These limitations also apply to the FDIC and other federal banking agencies in the exercise of their more limited examination authority over the nonbank affiliates of an insured bank, such as an ILC. See 12 U.S.C. § 1831v. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,320 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+January 27, 2010
+
+[SECTION]
+
+Jon D. Greenlee, Associate Director, Division of Banking
+
+[SECTION]
+
+Before the Congressional Oversight Panel Field Hearing, Atlanta, Georgia
+
+[SECTION]
+
+Chair Warren, and members Neiman, Silvers, Atkins and McWatters, I appreciate the opportunity to appear before you today to discuss trends in the commercial real estate (CRE) sector and other issues related to the condition of the banking system. First, I will discuss overall credit conditions and bank underwriting standards, and I will briefly address conditions in Georgia. I will then describe current conditions in commercial real estate markets and outline Federal Reserve activities to enhance liquidity and improve conditions in financial markets to support the flow of credit to households and businesses, including certain activities that have a direct impact on CRE markets. Finally, I will discuss the ongoing efforts of the Federal Reserve to ensure the overall safety and soundness of the banking system, as well as actions taken to promote credit availability.
+
+[SECTION]
+
+Background
+       The Federal Reserve has supervisory and regulatory authority for bank holding companies (BHCs), state-chartered banks that are members of the Federal Reserve System (state member banks), and certain other financial institutions and activities. We work with other federal and state supervisory authorities to ensure the safety and soundness of the banking industry, foster stability of the financial system, and provide for the fair and equitable treatment of consumers in financial transactions. While the Federal Reserve is not the primary federal supervisor for the majority of commercial banks, it is the consolidated supervisor of BHCs, including financial holding companies, and conducts inspections of those institutions.
+
+[SECTION]
+
+Under existing law, the primary purpose of inspections is to ensure that the holding company and its nonbank subsidiaries do not pose a threat to the BHC's depository subsidiaries. In fulfilling this role, the Federal Reserve is required to rely to the fullest extent possible on information and analysis provided by the appropriate supervisory authority of the BHC's depository, securities, or insurance subsidiaries. The Federal Reserve is also the primary federal supervisor of state member banks, sharing supervisory responsibilities with state agencies. In this role, Federal Reserve supervisory staff regularly conduct on-site examinations and off-site monitoring to ensure the safety and soundness of supervised state member banks.
+
+[SECTION]
+
+The Federal Reserve is involved in both regulation, establishing the rules within which banking organizations must operate, and supervision, ensuring that banking organizations abide by those rules and remain safe and sound. Because rules and regulations in many cases cannot reasonably prescribe the exact practices each individual bank should use for risk management, supervisors set out policies and guidance that expand upon requirements set in rules and regulations and establish expectations for the range of acceptable practices. Supervisors rely extensively on these policies and guidance as they conduct examinations and assign supervisory ratings.
+
+[SECTION]
+
+Beginning in the summer of 2007, the U.S. and global economies entered a period of intense financial turmoil that has presented significant challenges for the financial services industry. These challenges intensified in the latter part of 2008 as the global economic environment weakened further. As a result, parts of the U.S. banking system have come under severe strain, with some banking institutions suffering sizable losses. The number of bank failures continues to rise, with some 140 banks having failed in 2009.
+
+[SECTION]
+
+Conditions in Financial Markets and the Economy
+       Although the nationwide unemployment rate remains very high and real estate markets remain weak, conditions in financial markets have improved in recent months. In particular, the functioning of interbank and other short-term funding markets has improved considerably, interest rate spreads on corporate bonds have narrowed significantly, prices of syndicated loans have increased, and some securitization markets have resumed operation. In addition, equity prices have increased sharply, on net, since their low in early 2009.
+
+[SECTION]
+
+Borrowing by households and businesses, however, has remained weak. Residential mortgage and consumer debt outstanding fell sharply in the first three quarters of last year, and the available data suggest that the decline continued in the fourth quarter. Nonfinancial business debt likely decreased again in the fourth quarter as decreases in commercial paper, commercial mortgages, and bank loans more than offset a solid pace of corporate bond issuance.
+
+[SECTION]
+
+Some of this reduction in debt represents reduced demand for credit from borrowers who would like to deleverage. However, access to credit also remains difficult, especially for households and small businesses that depend significantly on banks for financing. Indeed, the most recent results from the Federal Reserve's Senior Loan Officer Opinion Survey on Bank Lending Practices indicate that both the availability and demand for bank loans are well below pre-crisis levels. In October, more banks reported tightening their lending standards on consumer and business loans than reported easing, although the degree of net tightening continues to decline from peaks reached in the latter part of 2008. The survey also suggests that demand for consumer and business loans remains weak. Of note, decreased loan demand from creditworthy borrowers was the most common explanation given by respondents for the contraction of business loans this past year.
+
+[SECTION]
+
+Loan quality continued to deteriorate for both large and small banking institutions during the third quarter of 2009, the most recent period for which data are available. At the largest 50 bank holding companies, nonperforming assets continued to climb, raising the ratio of nonperforming assets to 4.8 percent of loans and other real estate owned on bank balance sheets. Most of the deterioration was concentrated in residential mortgages and CRE, but commercial loans also experienced rising delinquencies. Results of the banking agencies' Shared National Credits review, released in September, also document significant deterioration in the performance of large syndicated loans.1 Similar trends are apparent at community and small regional banks: nonperforming assets increased to 4.6 percent of loans at the end of the third quarter of 2009, more than seven times the level for this ratio at year-end 2006, before the financial crisis began. Home mortgages and CRE loans accounted for most of the increase, but commercial loans have also shown marked deterioration during recent quarters.
+
+[SECTION]
+
+Credit losses at banking organizations continue to rise, and banks face risks of sizable additional credit losses given the likelihood that employment will take some time to recover. In addition, while housing prices appear to have stabilized in recent months, foreclosures and mortgage loss severities are likely to remain elevated. Moreover, the value of both existing commercial properties and land has continued to decline sharply, suggesting that banks face significant further deterioration in their CRE loans. In sum, banking organizations continue to face significant challenges, and credit conditions remain tight.
+
+[SECTION]
+
+Performance of the Banking System
+       Despite these challenges, the stability of the banking system has improved over the past year. Importantly, the rigorous Supervisory Capital Assessment Program (SCAP) stress test, a program that was led by the Federal Reserve helped to increase public confidence in the banking system during a period of high stress. In the months since, and with the strong encouragement of the federal banking supervisors, many of these largest institutions have raised billions of dollars in new capital, improving their ability to withstand possible future losses and to extend loans as demand for credit recovers. Depositors' concerns about the safety of their funds during the immediate crisis in the fall of 2008 have also largely abated. As a result, financial institutions have seen their access to core deposit funding improve.
+
+[SECTION]
+
+However, two years into a substantial economic downturn, loan quality continues to deteriorate across a number of asset classes, and, as noted earlier, has declined further as weakness in housing markets affects performance of residential mortgages and construction loans. Demand for commercial property, which is sensitive to trends in the labor market, has declined significantly and vacancy rates have increased. Hit hard by the loss of businesses and employment, an increasing amount of retail, office, and industrial space is standing vacant. In addition, many businesses have cut expenses by renegotiating existing leases. The combination of reduced cash flows and higher rates of return required by investors has lowered valuations, and many existing buildings are selling at a loss. As a result, credit conditions in CRE markets are particularly strained and commercial mortgage delinquency rates have increased rapidly. It is expected that all property types will continue to experience declining values and weak demand through the remainder of this year.
+
+[SECTION]
+
+In Georgia, the performance of banking organizations has deteriorated significantly over the past several quarters as the region's real estate expansion reversed course. Like their counterparts nationally, Georgia banks have seen a steady rise in non-current loans and provisions for loan losses, which have weighed on bank earnings and capital. Since the turmoil in financial markets emerged more than two years ago, 26 banks in Georgia have failed. Notably, almost all of the banks that have failed in Georgia thus far were located in the metro-Atlanta market and had a high percentage of total loans in land acquisition, development, and construction. Most of the lending activity at these failed banks was related to the region's housing boom in the first half of this decade. Also of note, many of the failed banks relied heavily on brokered deposit funding, rather than core deposits, to support what had been very strong asset growth. By the end of 2007, the average ratio of brokered deposit funds was 13 percent at banks in Georgia, compared to just 7 percent at the national level.
+
+[SECTION]
+
+In Atlanta, CRE conditions are largely dependent on employment trends and job losses have continued to rise as unemployment has risen above 10 percent in the region. Job losses are resulting in negative absorption rates for office, retail and warehouse space, with rents continuing to decline for all CRE property types. Business bankruptcies, a leading indicator for retail CRE performance, have risen 35 percent from a year ago. In addition, the rate of Home Price Appreciation (HPA) continues to erode in Atlanta while it appears to have stabilized in a number of major metropolitan areas.
+
+[SECTION]
+
+Current Conditions in Commercial Real Estate Markets
+       All across the country, and in this region in particular, it is clear that significant financial challenges remain. Indeed, some large regional and community banking firms that have built up unprecedented concentrations in CRE loans will be particularly affected by conditions in real estate markets.
+
+[SECTION]
+
+The Federal Reserve has been focused on CRE exposures at supervised institutions for some time. In response to rising CRE concentrations, especially in some large regional and community banking firms in the early part of this decade, and the central role of CRE loans in the banking problems of the late 1980s and early 1990s, we led an interagency effort to develop supervisory guidance on CRE concentrations. The guidance was finalized in 2006 and published in the Federal Register in early 2007.2 In that guidance, we emphasized our concern that some institutions' strategic- and capital-planning processes did not adequately recognize the risks arising from their CRE concentrations. We also outlined our expectations that institutions with concentrations in CRE lending needed to perform ongoing assessments to identify and manage concentrations through stress testing and similar exercises to identify the impact of adverse market conditions on earnings and capital.
+
+[SECTION]
+
+As weaker housing markets and deteriorating economic conditions have impaired the quality of CRE loans at supervised banking organizations, the Federal Reserve has devoted increasing resources to assessing the quality of CRE portfolios at regulated institutions. These efforts include monitoring the impact of declining cash flows and collateral values on CRE portfolios. Federal Reserve Banks that are located in more adversely affected geographic areas have been particularly focused on evaluating exposures arising from CRE lending.
+
+[SECTION]
+
+As job losses continue, demand for commercial property has declined, vacancy rates increased, and property values fallen. The higher vacancy levels and significant decline in the value of existing properties have placed particularly heavy pressure on construction and development projects that do not generate income until after completion. As a result, developers, which typically depend on the sales of completed projects to repay their outstanding loans, are finding their ability to service existing construction loans strained.
+
+[SECTION]
+
+Federal Reserve examiners are reporting a sharp deterioration in the credit performance of loans in banks' portfolios and loans in commercial mortgage-backed securities (CMBS). Of the approximately $3.5 trillion of outstanding debt associated with CRE, including loans for multifamily housing developments, about $1.7 trillion was held on the books of banks and thrifts, and an additional $900 billion represented collateral for CMBS, with other investors holding the remaining balance of $900 billion. Of note, more than $500 billion of CRE loans will mature each year over the next few years. In addition to losses caused by declining property cash flows and deteriorating conditions for construction loans, losses will also be boosted by the depreciating collateral value underlying those maturing loans. These losses will place continued pressure on banks' earnings, especially those of smaller regional and community banks that have high concentrations of CRE loans.
+
+[SECTION]
+
+Federal Reserve Activities to Help Revitalize Credit Markets
+       The Federal Reserve has taken a number of actions to strengthen the financial sector and to promote the availability of credit to businesses and households. In addition to aggressively lowering short-term interest rates, the Federal Reserve has established a number of facilities to improve liquidity in financial markets. One such program is the Term Asset-Backed Securities Loan Facility (TALF), a joint Federal Reserve â Treasury program that was begun in November 2008 to facilitate the extension of credit to households and small businesses.
+
+[SECTION]
+
+Before the crisis, securitization markets were an important conduit of credit to the household and business sectors. Securitization markets (other than those for mortgages guaranteed by the government) essentially shut down in mid-2008, and the TALF was developed to promote renewed issuance. Under the TALF, eligible investors may borrow to finance purchases of the AAA-rated tranches of various classes of asset-backed securities. The program originally focused on credit for households and small businesses, including auto loans, credit card loans, student loans, and loans guaranteed by the Small Business Administration. The program was broadened to allow investors to use the TALF to purchase both existing and newly issued CMBS, which were included to help mitigate the refinancing problem in that sector.
+
+[SECTION]
+
+The TALF has been successful in helping restart securitization markets. Issuance has resumed and rate spreads for asset-backed securities have declined substantially, an indication that risk premiums are compressing. The TALF program has helped finance 2.6 million auto loans, 876,000 student loans, more than 100 million credit card accounts, 480,000 loans to small businesses, and 100,000 loans to larger businesses. Included among those business loans are 4,900 loans to auto dealers to help finance their inventories. Perhaps even more encouraging, a substantial fraction of Asset Backed Securities (ABS) is now being purchased by investors that do not seek TALF financing, and ABS-issuers have begun to bring non-TALF-eligible deals to market. By improving credit market functioning and adding liquidity to the system, the TALF and other Fed programs have provided critical support to the financial system and the economy.
+
+[SECTION]
+
+The current fundamental weakness in CRE markets is exacerbated by the fact that the CMBS market, which previously had financed about 30 percent of originations and completed construction projects, completely shut down for more than a year. Until mid-November 2009, when the first CMBS issuance came to market with financing provided by the Federal Reserve's TALF, essentially no CMBS had been issued since mid-2008. Investor demand for the new issuance was high, in part because of the improved investor protections put in place so that securities would be eligible collateral for TALF loans. In the end, non-TALF investors purchased almost 80 percent of the TALF-eligible securities. Shortly after this deal, two additional CMBS deals without TALF support came to market and were positively received by investors. Irrespective of these positive developments, market participants anticipate that CMBS delinquency rates will climb higher in the near term, driven not only by negative fundamentals but also by borrowers' difficulty in rolling over maturing debt.
+
+[SECTION]
+
+Availability of Credit
+       In an effort to encourage prudent CRE loan workouts, the Federal Reserve led the development of interagency guidance issued in October 2009 regarding CRE loan restructurings and workouts. 3 This policy statement provides guidance for examiners and for financial institutions that are working with CRE borrowers who are experiencing diminished operating cash flows, depreciated collateral values, or prolonged delays in selling or renting commercial properties, particularly as the loans on those properties mature and need to be refinanced. The statement is especially relevant to small businesses because owner-occupied CRE often serves as collateral for many small business loans.
+
+[SECTION]
+
+The Federal Reserve recognizes that prudent loan workouts are often in the best interest of both financial institutions and borrowers, particularly during difficult economic conditions. Accordingly, the policy statement details risk-management practices for loan workouts that support prudent and pragmatic credit and business decision-making within the framework of financial accuracy, transparency, and timely loss recognition.
+
+[SECTION]
+
+Immediately after the release of this guidance, the Federal Reserve conducted a System-wide teleconference with examiners to underscore the importance of this new guidance. In addition, on November 20 of 2009, we participated in an industry outreach teleconference to discuss the guidance. Examiner training and industry outreach will be ongoing. This month, a comprehensive, System-wide training initiative was launched to further underscore our expectations.
+
+[SECTION]
+
+Prudent real estate lending depends upon reliable and timely information on the market value of the real estate collateral. This has been a cornerstone of the regulatory requirements for real estate lending and is reflected in the agencies' appraisal regulations. In that regard, the Federal Reserve requires a regulated institution to have real estate appraisals that meet minimum appraisal standards, including the Uniform Standards of Professional Appraisal Practice, and contain sufficient information to support the institution's credit decision. Over the past several years, the Federal Reserve has issued several appraisal-related guidance to emphasize the importance of a bank's appraisal function and the need for independent and reliable appraisals. More recently, the Federal Reserve and the other federal agencies issued a proposal to revise the Interagency Appraisal and Evaluation Guidelines, which is expected to be finalized in the coming months. These guidelines reinforce the importance of sound appraisal practices.
+
+[SECTION]
+
+Given the lack of sales in many real estate markets and the predominant number of distressed sales in the current environment, regulated institutions face significant challenges today in assessing the value of real estate. We expect institutions to have policies and procedures for obtaining new or updated appraisals as part of their ongoing credit review. An institution should have appraisals or other market information that provide appropriate analysis of the market value of the real estate collateral and reflect relevant market conditions, the property's current "as is" condition, and reasonable assumptions and conclusions.
+
+[SECTION]
+
+The Federal Reserve has directed examiners to be mindful of the effects of excessive credit tightening in the broader economy, and we have taken steps, including additional examiner training and industry outreach, to underscore these intentions. We are aware that bankers may become overly conservative in an attempt to ameliorate past weaknesses in lending practices, and we are working to emphasize that it is in all parties' best interests to continue making loans to creditworthy borrowers.
+
+[SECTION]
+
+As part of our effort to help stimulate appropriate bank lending, the Federal Reserve and the other federal banking agencies issued regulatory guidance in November 2008 to encourage banks to meet the needs of creditworthy borrowers, including small businesses.4  The guidance was issued to encourage bank lending in a manner consistent with safety and soundness; specifically, by taking a balanced approach in assessing borrowers' abilities to repay and making realistic assessments of collateral valuations. This guidance has been reviewed and discussed with examination staff within the Federal Reserve System and ongoing training continues.
+
+[SECTION]
+
+Conclusion
+       While financial market conditions have improved in the United States, the overall environment remains under stress, and some geographic areas are experiencing more difficulty than others, as is the case in Georgia. The Federal Reserve, working with the other banking agencies, has taken strong action to ensure that the banking system remains safe and sound and is able to meet the credit needs of our economy. We also have aggressively pursued monetary policy actions and have provided liquidity to help restore stability to the financial system and support the flow of credit to households and businesses. In our supervisory efforts, we are mindful of the risk-management deficiencies at banking institutions revealed by the financial crisis and are ensuring that institutions develop appropriate corrective actions.
+
+[SECTION]
+
+It will take some time for the banking industry to work through this current set of challenges and for the financial markets to fully recover. In order to promote credit availability, the Federal Reserve is encouraging banks to deploy capital and liquidity in a responsible way that avoids past mistakes and does not create new ones. The Federal Reserve is committed to working with other banking agencies and the Congress to promote the concurrent goals of fostering credit availability and a safe and sound banking system.
+
+[SECTION]
+
+Thank you again for your invitation to discuss these important issues at today's hearing. I would be happy to answer any questions that you may have.
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, and Office of Thrift Supervision (2009), "Credit Quality Declines in Annual Shared National Credits Review," joint press release, September 24. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2007), "Interagency Guidance on Concentrations in Commercial Real Estate," Supervision and Regulation Letter SR 07â1 (January 4). Return to text
+
+[SECTION]
+
+Interagency Policy Statement on CRE loan Restructurings and Workouts (November 2009). Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, FDIC, Office of the Comptroller of the Currency, and Office of Thrift Supervision (2008), "Interagency Statement on Meeting the Needs of Creditworthy Borrowers," joint press release, November 12. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

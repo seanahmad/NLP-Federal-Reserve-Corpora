@@ -1,0 +1,297 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+January 15, 2014
+
+[SECTION]
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Protection, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Brown, Ranking Member Toomey, and other members of the subcommittee, thank you for the opportunity to testify at today's hearing. First, I will discuss the history of bank and bank holding company engagement in physical commodity activities. I will then address the Federal Reserve's approach to supervising financial institutions engaged in physical commodities activities. I will close my remarks by discussing the Federal Reserve's ongoing review of the physical commodities activities of the institutions we supervise.
+
+[SECTION]
+
+History of Physical Commodities Authority
+Before the enactment of the Gramm-Leach-Bliley Act in 1999 (GLB Act), bank holding companies were authorized to engage in a limited set of commodities activities that were considered to be "so closely related to banking as to be a proper incident thereto."1  These activities included the authority to buy, sell, and store certain precious metals (for example, gold, silver, platinum, and palladium) and copper, which are activities that national banks were generally permitted to conduct at the time. Bank holding companies were also authorized to engage as principals in cash-settled derivative contracts based on commodities. In addition, bank holding companies were permitted to engage in commodity derivatives that allowed for physical settlement if the bank holding company made reasonable efforts to avoid delivery of the commodity.
+
+[SECTION]
+
+Additionally, under the National Bank Act, the Office of the Comptroller of the Currency (OCC) has authority to approve national banks to engage in commodity-related activities under national banks' authority to "exercise...all such incidental powers as shall be necessary to carry on the business of banking."2  The OCC has approved some national banks to engage in customer-driven, perfectly matched, cash-settled derivative transactions referencing commodities; certain types of commodity derivatives transactions settled by transitory title transfer; the purchase and sale of coin and bullion, precious metals, and copper; and the holding of physical commodities to hedge customer-driven, bank-permissible derivative transactions.
+
+[SECTION]
+
+Under the GLB Act, Congress created the financial holding company framework, which allowed bank holding companies with bank subsidiaries that are well capitalized and well managed3  that elect such status to engage in expanded financial activities.4  There are three provisions in the GLB Act that have enabled a limited number of financial holding companies to engage in commodities activities. The first provision--section 4(k)(1)(B) of the Bank Holding Company Act--authorizes a financial holding company to engage in any activity that the Board finds to be "complementary to a financial activity." This provision in the GLB Act enables financial holding companies to engage in commercial activities that complement their financial activities, so long as the activities do not pose a substantial risk to the safety and soundness of depository institutions or the financial system generally.5  In reviewing requests for complementary authority, the Board is required to consider whether performance of the activity can reasonably be expected to produce benefits to the public--such as greater convenience, increased competition, or gains in efficiency--that outweigh possible adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices.6
+
+[SECTION]
+
+Beginning in 2003, the Board issued a series of orders permitting individual financial holding companies to engage in specified commodities-related activities as 4(k) complementary activities. These activities included physical settlement of commodities derivative contracts and spot trading of certain approved commodities.7  A dozen financial holding companies currently have this 4(k) authority.8
+
+[SECTION]
+
+In addition, a subset of these companies has been granted additional authority to engage in energy tolling and energy-management activities. Energy tolling involves making fixed, periodic payments to power plant owners that compensate the owners for their fixed costs in exchange for the right to all or part of their plants' power output. Energy-management activities are transactional and advisory services provided to power plant owners.
+
+[SECTION]
+
+The Board's orders placed prudential limits on financial holding companies that engage in commodities activities under complementary authority. The Board limited the total market value of all commodities held under this authority, including periodic payments under tolling agreements, to 5 percent of the financial holding company's tier 1 capital. In addition, the Board prohibited financial holding companies from owning commodity transportation, storage, extraction, or refining facilities under complementary authority. Moreover, firms are required to demonstrate risk-management processes sufficient to support their activities and to put in place additional risk mitigants, such as insurance.
+
+[SECTION]
+
+A second provision that Congress included in the GLB Act permits financial holding companies to make merchant banking investments, without prior Board approval, in companies engaged in activities not otherwise permitted for financial holding companies.9  There are a number of conditions imposed by statute on merchant banking investments. These include restrictions on the ability of a financial holding company to routinely manage or operate a merchant banking portfolio company and requirements that merchant banking investments be held for a limited period. The Board's regulations require merchant banking investments to be disposed of within 10 years after purchase (or within 15 years for investments made through a qualifying private equity fund). As a result, merchant banking investments must be limited in duration and generally must be passively managed.
+
+[SECTION]
+
+Congress included a third provision in the GLB Act that is relevant to the commodities trading activities of financial holding companies. Under section 4(o) of the Bank Holding Company Act, a company that is not a bank holding company and becomes a financial holding company after November 12, 1999, may continue to engage in activities related to the trading, sale, or investment in commodities that were not permissible activities for bank holding companies if the company was engaged in the United States in such activities as of September 30, 1997.10  This grandfather provision allows these activities up to 5 percent of the company's total consolidated assets. In contrast to section 4(k) complementary authority, this authority is automatic--meaning no approval by or notice to the Board is required for a company to rely on this authority for its commodities activities. Also, unlike the firms subject to 4(k), the 4(o) grandfathered firms are able to engage in the transportation, storage, extraction, and refining of commodities. And, the cap on activities under section 4(o) is 5 percent of the firm's total assets, while the cap on complementary activities is much lower at 5 percent of tier 1 capital. Only two financial holding companies currently qualify for these grandfather rights--Goldman Sachs and Morgan Stanley.
+
+[SECTION]
+
+The commodities activities of financial holding companies expanded considerably as the composition of the banking sector shifted in the wake of the financial crisis. During 2008, several firms with significant commodities operations either became financial holding companies or were acquired by financial holding companies. Goldman Sachs and Morgan Stanley became bank holding companies and elected financial holding company status. Both companies claim the right to conduct commodities activities under the grandfather provision found in section 4(o). In addition, during this same period, J.P. Morgan Chase & Co. acquired Bear Stearns and Bank of America Corporation acquired Merrill Lynch; both Bear Stearns and Merrill Lynch engaged in a substantial amount of commodity trading activities. However, the range of permissible physical commodities activities of these companies is limited because they are not grandfathered under section 4(o).
+
+[SECTION]
+
+Federal Reserve Supervision of Commodities Activities
+The Federal Reserve has supervisory authority for state member banks, bank holding companies (including financial holding companies), and savings and loan holding companies, as well as foreign banks that operate branches or agencies in the United States. The Federal Reserve's basic supervisory responsibility is to oversee the financial soundness of these institutions and their adherence to applicable banking laws. To this end, we monitor the largest of these institutions on a continuous basis and routinely conduct inspections and examinations of all of these firms to encourage their safe and sound operation.
+
+[SECTION]
+
+The Federal Reserve has no direct role in the supervision of the commodities markets generally. The Commodity Futures Trading Commission (CFTC) was created by Congress in 1974 as an independent agency with the mandate to regulate commodity futures and option markets. Congress significantly expanded the authority of the CFTC to regulate the over-the-counter commodity derivative markets in the Dodd-Frank Wall Street Reform and Consumer Protection Act. Additionally, the Securities and Exchange Commission (SEC) oversees our nation's securities exchanges and markets and disclosures by public companies, among other things. Other independent agencies, such as the Federal Energy Regulatory Commission (FERC), also regulate segments of the physical commodity market.
+
+[SECTION]
+
+The prudential supervision of the largest, most complex banking firms is a cooperative effort in which the Federal Reserve acts as the prudential regulator and supervisor of the consolidated holding companies, but with some of the principal business activities of such firms supervised by other functional regulators. The Federal Reserve's supervisory program focuses on the enterprise-wide risk profile and risk management of those firms, with particular focus on financial strength, corporate governance, and risk-management practices and competencies of the firm as a whole.
+
+[SECTION]
+
+As a result of lessons learned from the financial crisis, the Federal Reserve has taken a number of steps to strengthen its ongoing supervision of the largest, most complex banking firms. Most importantly, we established the Large Institution Supervision Coordinating Committee (LISCC) to ensure that oversight and supervision of the largest firms incorporates a broader range of internal perspectives and expertise; involves regular, simultaneous, horizontal (cross-firm) supervisory exercises; and is overseen in a centralized process to facilitate consistent supervision and the resolution of challenges that may be present in more than one firm. The committee includes senior bank supervisors from the Board and relevant Reserve Banks as well as senior Federal Reserve staff from the research, legal, and other divisions at the Board and from the markets and payment systems groups at the Federal Reserve Bank of New York. To date, the LISCC has developed and administered several horizontal supervisory exercises, notably the capital stress tests and related comprehensive capital reviews of the nation's largest bank holding companies. The LISCC has also been actively engaged in the supervision of physical commodities activities.
+
+[SECTION]
+
+Bank holding companies that conduct commodities activities pursuant to either section 4(k) complementary, merchant banking, or section 4(o) grandfather authority are typically subject to continuous supervision by the Federal Reserve. That supervisory oversight, for example, includes review of internal management reports, periodic meetings with the personnel responsible for managing and controlling the risks of the firm's commodities activities, and targeted examinations of those activities. The primary goals of our supervision of commodities activities are to monitor the management of risks of those activities to the financial holding company and assess the adequacy of the firms' control environments relating to commodities.
+
+[SECTION]
+
+As the scale and complexity of commodities activities of financial holding companies accelerated in 2008 in the wake of the financial crisis, the Federal Reserve expanded the scope of its examination and review of the firms engaged in physical commodities activities. Additional targeted reviews were completed by examination staff specializing in commodities risk-management practices. During these reviews, the teams have examined exposures, valuations, and risk-management practices across all relevant firms, and conducted deeper reviews of the firms' operational risk quantification methodologies. On an ongoing basis, supervisory experts have monitored the firms' exposures and assessed the strength of the corresponding risk-management and control processes.
+
+[SECTION]
+
+The Board requires financial holding companies that engage in commodities activities to hold regulatory capital to absorb potential losses from those activities. Financial holding companies have long been required to hold capital against the counterparty credit risk from commodity derivatives (and other types of over-the-counter derivatives) and against the market risk of all commodity positions. Moreover, following the financial crisis, the Board has strengthened its capital requirements for the credit risk and market risk of these transactions. Further, under the Basel III advanced approaches capital rules, financial holding companies would be required to hold capital against the operational risk of their activities, including their commodities activities.
+
+[SECTION]
+
+Federal Reserve Review of Physical Commodities Activities
+Firms engaged in physical commodities activities rely on a variety of legal structures that attempt to limit liability for catastrophic and environmental events, as well as on the purchase of insurance and the allocation of capital aimed at mitigating operational risk. However, physical commodities activities can pose unique risks to financial holding companies. Indeed, estimating probabilities and costs related to environmental or catastrophic incidents is an imperfect science at best.
+
+[SECTION]
+
+The Federal Reserve has been conducting a detailed policy review of the commodities activities and investments of financial holding companies. We are performing this review for a number of reasons. As I noted above, there has been a substantial increase since 2008 in the amount and types of commodities activities conducted by the firms we supervise. Moreover, recent catastrophic events involving physical commodities have increased concerns regarding the ability of companies to mitigate potentially extraordinary tail and other risks. Finally, the financial crisis demonstrated the effects of market contagion and highlighted the danger of underappreciated tail risks associated with certain activities.
+
+[SECTION]
+
+The scope of our ongoing review covers commodities activities and investments under section 4(k) complementary authority, merchant banking authority, and section 4(o) grandfather authority. The Federal Reserve recently sought public comment through an advance notice of proposed rulemaking on a range of issues related to the commodities activities of financial holding companies, and we expect to engage in additional rulemaking in this area. As the notice explains, we are exploring what further prudential restrictions or limitations on the ability of financial holding companies to engage in commodities-related activities as a complementary activity are warranted to mitigate the risks associated with these activities. Such additional restrictions on complementary commodities activities could include reductions in the maximum amount of assets or revenue attributable to such activities, increased capital or insurance requirements on such activities, and prohibitions on holding specific types of physical commodities that pose undue risk to the company. We also are exploring what restrictions or limitations on investments made through the merchant banking authority in companies engaged in physical commodities activities would appropriately address those or similar risks.
+
+[SECTION]
+
+The Federal Reserve is also considering whether additional restrictions on physical commodities activities grandfathered under section 4(o) could help ensure that such activities do not pose undue risks to the safety and soundness of financial holding companies and their subsidiary depository institutions, or to financial stability. However, our ability to address the broad scope of activities specifically permitted by statute under the grandfather provision in section 4(o) is more limited than it is for complementary and merchant banking activities. Further, the amount of exposure to commodities activities authorized by Congress under section 4(o)--which is up to 5 percent of the organization's total assets--is much greater than the level of activity permitted by the Board under the section 4(k) complementary authority--which is up to 5 percent of tier 1 capital.
+
+[SECTION]
+
+Conclusion
+Our review of the commodity-related activities of our supervised firms is ongoing. We intend to do a careful and thorough assessment of the costs and benefits of financial holding company engagement in these activities. We are committed to using our supervisory and regulatory authorities to the maximum extent possible to protect financial holding companies and the financial system from the safety and soundness risks or other potential adverse effects of combining banking and physical commodities activities in a single corporate enterprise.
+
+[SECTION]
+
+1. Section 4(c)(8) of the Bank Holding Company Act, 12 USC 1843(c)(8). Return to text
+
+[SECTION]
+
+2. 12 USC 24 (seventh). Return to text
+
+[SECTION]
+
+3. In addition to the capital and management requirements, the GLB Act also requires the subsidiary depository institutions of financial holding companies to have at least a "Satisfactory" rating under the Community Reinvestment Act. The Dodd-Frank Wall Street Reform and Consumer Protection Act added a requirement that the financial holding companies themselves must be well capitalized and well managed. Return to text
+
+[SECTION]
+
+4. Many bank holding companies of various sizes are financial holding companies. The Board maintains a list of financial holding companies on its website at www.federalreserve.gov/bankinforeg/fhc.htm. Return to text
+
+[SECTION]
+
+5. Section 4(k)(1)(B) of the Bank Holding Company Act, 12 USC 1843(k)(1)(B). Return to text
+
+[SECTION]
+
+6. 12 USC 1843(j)(2). Return to text
+
+[SECTION]
+
+7. This authority is generally limited to commodities for which derivatives contracts have been approved by the Commodity Futures Trading Commission for trading on a U.S. exchange. In a few cases, other commodities with comparable fungibility, liquidity, and other relevant characteristics have been approved. Return to text
+
+[SECTION]
+
+8. The financial holdings companies currently authorized by the Board to engage in complementary physical commodities activities are Bank of America Corporation, Barclays Bank PLC, BNP Paribas, Citigroup Inc., Credit Suisse Group, Deutsche Bank AG, JPMorgan Chase & Co., Scotiabank, Société Générale, The Royal Bank of Scotland Group plc, UBS AG, and Wells Fargo & Company. The Board's approvals regarding section 4(k) are publicly available. Return to text
+
+[SECTION]
+
+9. 12 USC 1843(k)(4)(H). The merchant banking authority permits a financial holding company to acquire or control any amount of shares, assets, or ownership interests of any company or other entity that is engaged in an activity not otherwise authorized for the financial holding company under section 4 of the BHC Act. Return to text
+
+[SECTION]
+
+10. 12 USC 1843(o). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

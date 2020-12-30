@@ -1,0 +1,138 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman, I am pleased to appear on behalf of the Federal Reserve Board to discuss issues regarding recent bank failures as well as steps being taken to minimize unnecessary costs to the bank insurance fund and disruption to the financial system or the public that failures could pose.  Recent experience has shown that despite vibrant economic conditions and a banking industry in exceptionally strong financial condition, small pockets of lax standards, excesses or fraud, even within smaller organizations, can cause noticeable losses to the insurance fund.  Today, I will discuss current strategies to minimize the frequency and costs of these unusual cases, recognizing that no supervisory program can prevent all failures.  To do so, even if achievable, would require a degree of intrusiveness that would impose unusually high costs and impede market discipline.
+
+[SECTION]
+
+I would like to underscore before I begin that a fundamental economic function of banking organizations is to assume and manage risk.  A highly risk-averse banking industry -- either self imposed or required by the banking agencies -- would inhibit financial capital from flowing to its highest and best use and prevent the economy from functioning optimally.  To achieve the level of prosperity that we are experiencing now, the banking industry must accept and manage a level of risk that does not totally eliminate the potential for failure.  That said, failures as the result of fraud obviously should be avoided, taking into account, of course, the limits of what examinations can accomplish as well as supervisory costs.
+
+[SECTION]
+
+Trends in Bank Failures
+
+	When banking conditions were troubled in the late 1980s and early 1990s, hundreds of banks failed due to troubled real estate markets, regional economic recessions, and lax lending standards.  Those failures and their attendant costs placed a great deal of pressure on the Bank Insurance Fund.  In 1991 the number of commercial banks on the FDIC's problem bank list exceeded 1,000 institutions with over half a trillion dollars in assets.  As banking conditions and the economy improved during the 1990s, the industry worked to return to sound lending principles, and the number of failing and problem banks fell to levels more in line with other quiescent periods in banking.  For example, since the beginning of 1993, only six state member banks have failed -- a failure rate lower than any similar period in the last two decades.  The six banks ranged in asset size from $15 million to $280 million.  As of year-end 1999, there were 1,010 state member banks with combined assets of $1.3 trillion.
+
+[SECTION]
+
+This past year, one state member bank with $17 million in assets failed, with an estimated cost to the FDIC of  approximately $1.6 million.  While the number of recent bank failures is minimal, the number of "3", "4", or "5" rated state member banks has increased for two consecutive years to 43, the highest level since 1995.  Nonetheless, the current level of state member banks in less than fully satisfactory condition remains less than 5 percent of total state member banks supervised by the Federal Reserve, both in terms of number and assets.  Although still modest by historical standards -- the comparable number of problem state member banks in 1991 was 248 -- the current trend in the number of problem banks suggests that bank failures during 2000 may rise somewhat, while remaining at fairly modest levels.  This assumes, of course, continuation of current, strong economic conditions.
+
+[SECTION]
+
+Despite the moderate rise in institutions with less than satisfactory ratings, the banking industry appears to be better prepared today to weather an economic downturn than it was during previous recessions.  Today, most banking organizations are highly profitable.  In addition, they hold greater amounts of capital, are more geographically diversified, and are engaged in a greater variety of activities that diversify their risks.  While some relaxation in lending standards has caused us to issue warnings to the industry, such relaxation does not appear to be on par with the excesses prevalent in the 1980s.  Also, banks appear to be more attentive to their lending standards, are employing formal internal risk grades to a greater degree, and are more mindful of concentrations of credit risk and other issues than they were in the past.
+
+[SECTION]
+
+On the other hand, banks today face new challenges.  For one, banks have been gradually losing their lower cost and more stable retail deposit base and have become more dependent on wholesale sources to fund their balance sheet growth.  At the same time, banks are still learning to manage the risk of newer and more complex activities.  Some smaller institutions, in particular, face a challenge in managing this risk as they take on growth in higher risk portfolios such as subprime loans, and as they employ more sophisticated portfolio management techniques such as securitizations.  Challenges in managing risk are likely to increase for both large and small banking organizations, as well as for bank supervisors, as bank affiliations expand, encompassing securities, insurance, and other new financial activities.
+
+[SECTION]
+
+The Risk-Focused Process
+
+To meet the challenge of more complex financing techniques, products and delivery systems and to avoid the excesses and mistakes of the past, banks -- in particular, large banks -- have been implementing more formal and complex risk management systems.  Smaller banks may rely more on less formal or less sophisticated systems to manage risk in small portfolios.
+
+[SECTION]
+
+Similarly, supervisors have refined their approach to supervision of banks of all sizes by adopting a risk-focused approach to meet new challenges.  The risk-focused approach emphasizes the need to assess the adequacy of internal systems and controls and to recognize weaknesses in "process" before such weaknesses have permeated the bank's balance sheet and adversely impacted financial performance.  At the same time, however, sufficient testing of the loan portfolio and other transactions to ensure that the "process" is, in fact, being used, and that safe and sound risk-taking is occurring, remains as important today as it was in the late 1980s and early 1990s in identifying traditional credit and control problems.
+
+[SECTION]
+
+The Balance Between Risk Analysis and Transaction Testing
+
+	In carrying out risk-focused supervision, a balance must be struck between evaluating the soundness of both an institution's risk management process and overall risk profile, on the one hand, and testing transactions to verify that the bank's controls are functioning properly, on the other.  For our part, we have calibrated that balance based on the supervisor's level of comfort in the bank's management team and the level of problems, weaknesses or exceptions uncovered in our review.  As an examiner's level of discomfort increases, the level of transaction testing and verification procedures increases.  I should emphasize that Federal Reserve examinations of banks continue to involve an in-depth review of the loan portfolio, though with newly-improved sampling techniques, where appropriate, to ensure that our coverage of the portfolios is more likely to detect any embedded problems.
+
+[SECTION]
+
+At the same time, however, it is important to note that these reviews have become less frequent for most small banks (with assets of $250 million or less) in recent years.  Statutory changes have extended the maximum time between examinations from one year to 18 months for well capitalized and well managed banks in order to minimize regulatory burden to those organizations.  Absent indications of deterioration, material change, or unusual circumstances in those organizations, we have tried to adhere to the extended cycles and thereby limit supervisory burden on these banks.  To limit the regulatory burden of dual examinations, Federal Reserve examinations of well capitalized and well managed state member banks are frequently conducted on an alternating basis with the states.  More infrequent examinations by either the Federal Reserve or the state, of course, increase the risk of an unpleasant surprise at the next examination, or even between examinations.  As set forth in legislation, that risk has been judged to be acceptable given the tradeoff between the benefits of more constant supervision and the attendant regulatory burden to community banks.
+
+[SECTION]
+
+Moreover, we have implemented a number of measures to minimize the risk presented by less frequent on-site presence in smaller, well capitalized and well managed institutions.  For example, we conduct off-site monitoring of these institutions based on quarterly financial and other reports.  Additionally, we contact bank management between examinations to identify changes in such areas as lending and key management that could affect the bank's financial condition.  This monitoring and interim contact provides value in that it may trigger acceleration of a regularly scheduled examination or result in an unscheduled visitation if deteriorating or unusual financial performance or other material changes are noted.  Notwithstanding these efforts, off-site monitoring cannot detect the valuation deficiencies that may be revealed in the on-site testing of individual loans or transactions.
+
+[SECTION]
+
+A further challenge to the supervisory program is, ironically, the infrequency of substantive problems in banking organizations.  As many of the more seasoned examiners of the 1980s and early 1990s are retiring, the examiners hired over the past several years have little experience to fall back on when encountering questionable portfolios or valuations, or unusual transactions.  While we have beefed up training to deal with this gap, there is obviously nothing like actual experience in dealing with difficult supervisory situations.
+
+[SECTION]
+
+Identifying Problems in Early Stages
+
+A key objective of risk-focused examinations is to identify problems at an early stage.  Toward that objective, we have tracked changes in bank lending standards through such measures as an in-depth and virtually simultaneous review of lending standards at selected banks and periodic surveys of senior lenders and examiners on banks' lending standards and conditions.  As a result of these and other measures, we have identified a level of relaxation of lending standards for some credits that raises supervisory concerns.  In response, we have issued guidance to the industry regarding undue reliance on overly optimistic assumptions, as well as improvements that could be made in stress testing and other analysis.  Another aspect of our monitoring involves institutions that specialize in potentially higher risk activities.  In particular, the Federal Reserve is monitoring the activities of state member banks engaged in subprime lending activities, as well as those retaining recourse in securitized assets.  In addition, our surveillance program uses bank Report of Condition and Income ("Call Report") data and econometric relationships to flag for review institutions that are statistically at higher risk of failure.
+
+[SECTION]
+
+Other Preventative Initiatives
+
+In addition to the steps in our supervisory program I have just discussed, we are also engaged in other preventative initiatives.  For example, we have worked with the other agencies in issuing guidance regarding the risk associated with subprime lending.  Currently, we are discussing with the other banking agencies the issuance of further guidance or regulation on subprime lending, including whether formal, explicit capital requirements should be introduced, and, if so, what those requirements should be. 
+Similarly, we also participated in interagency guidance regarding the valuation of residual loan assets associated with securitization programs.  Improper valuation of residual assets, of course, caused a portion of losses borne by the insurance fund in 1999.  We have been working with the other banking agencies on an initiative to better incorporate the risks associated with securitizations into the minimum capital standards.  Moreover, we are working with supervisors here and in other countries to modernize the international capital standards, enhance supervision and heighten the positive effect of market discipline on banking organizations.
+
+[SECTION]
+
+Combating Fraud
+
+Our risk-focused approach coupled with industry sound practice guidance and other supervisory responses are effective tools for meeting our objectives of maintaining a sound banking system.  More recently, however, the incidence of fraud at banking organizations has raised different challenges.  The examination process is not designed to ferret out fraud; indeed, examinations rely to a significant degree on internal and external auditors to validate the accuracy of the financial data that are the raw material of the examination process.  Nonetheless, the examination process often tends to be the pressure point under which fraud is ultimately detected and revealed.  That said, it is extremely difficult to detect fraud perpetrated by individuals intent upon covering up outright theft or severe problems through forging, hiding or destroying documents and other techniques.
+
+[SECTION]
+
+To address the risk that fraud places on the banking organizations that we supervise, the Federal Reserve has undertaken numerous initiatives to combat fraud within those institutions.  Training for examiners on detecting various types of fraud and abuse is provided in numerous programs offered by the Federal Reserve and the FFIEC.  Examiners receive specialized training in areas such as potential abuse and conflicts of interest by management.  Moreover, in conjunction with the FFIEC, all of the federal bank supervisory agencies recently began developing a CD-ROM training and reference tool that identifies and describes various types of improper activity relating to insider abuse, loan fraud, money laundering, and fraudulent monetary instruments.  This        CD-ROM tool will be accessible to examiners while in the field.  Also, several years ago in response to major fraud such as occurred in the case of BCCI, the Federal Reserve Board created a special investigations unit comprised of senior investigators and examiners.  This unit investigates potential fraud that is identified during the course of an examination, and forwards useful and relevant information to law enforcement for potential criminal prosecution, as appropriate.
+
+[SECTION]
+
+In addition, we also are re-evaluating our reliance on internal and external audit evaluations.  The appropriate degree of reliance on internal and external auditors is much easier to determine when there are indications that bank management may not be fully trustworthy or is less than forthcoming in providing requested information.  In such cases, direct asset verification or more in-depth investigation would clearly be warranted.  Absent such indications of wrongdoing or "red flags", however, a reduction in reliance on internal and external audit evaluations could result in increased burden to the many banking organizations that are not engaged in fraud.
+
+[SECTION]
+
+Coordination with other Agencies
+
+Another key part of our supervisory strategy has been to coordinate closely and share information with other regulators and authorities involved with institutions we supervise.  As we take on our responsibilities as umbrella supervisor of financial holding companies, our efforts at coordination and information sharing will only increase.
+
+[SECTION]
+
+As the federal supervisor for state chartered banks that are members of the Federal Reserve System, we work closely with state banking authorities.  As the supervisor for bank holding companies, we coordinate supervision and share information with the OCC, FDIC, and OTS when institutions they supervise are within bank holding companies.  In addition, in supervising U.S. subsidiaries of foreign banking organizations, we cooperate and share information with foreign bank supervisors.
+
+[SECTION]
+
+With regard to failing and problem state member banks, we coordinate closely with the FDIC early in the process, when material problems are first identified.  In addition, we also work with the FDIC to improve the process of resolving insured depository institutions so as to minimize disruption to payments system transactions.  Clearly, as insurer, the FDIC has an important interest in understanding risk to the fund and working as a partner in developing resolution strategies that minimize costs to the insurance fund and disruptions to the financial system.  When the FDIC has requested to exercise its special examination authority for state member banks, we have benefited from its expertise and assistance in resolving problem institutions, and believe that, historically, both agencies have benefited from information sharing.
+
+[SECTION]
+
+The proposed H.R. 3374, the "Federal Deposit Insurance Corporation Examination Enhancement and Insurance Fund Protection Act," shifts to the Chairperson of the FDIC authority that currently resides in the Board of Directors of the FDIC to authorize a special examination of any insured depository institution.  The bill also would require the FDIC to make all reasonable efforts to coordinate any special examination with the primary federal banking supervisor for the insured depository institution and to give notice to certain agencies not represented on the Board of the FDIC whenever a special examination is scheduled of an institution supervised by the unrepresented agency.  In addition, the bill requires the banking agencies to provide the FDIC, as promptly as practicable, any examination report prepared by the agency, and to establish procedures for providing the FDIC access to any additional information needed by the FDIC for insurance purposes.  Recent events have certainly highlighted the importance of interagency coordination and sharing of information.  While we do not necessarily view the legislation as essential -- because it mandates cooperation and coordination that should already be taking place -- we see no harm in formalizing those processes.
+
+[SECTION]
+
+With regard to enhancing cooperation, I would note that we not only collaborate with the FDIC on problem institutions, but also assist its efforts to understand risks to the insurance fund more broadly.  For example, the FDIC has asked to participate in examinations of a few state member banks that are engaged in subprime lending or other specialized activities and we have welcomed its assistance in assessing the financial condition and risks of these institutions.  In addition, we are discussing with the FDIC whether it may benefit from participation in examinations of larger state member banks since, at present, institutions supervised by the FDIC tend to be smaller banking organizations.  In working to expand cooperative efforts, of course, we must all be mindful of the potential burden on banks and establish arrangements that minimize unnecessary disruptions, especially where an organization is not believed to pose significant risks.
+
+[SECTION]
+
+Conclusion
+
+In closing, I would like to underscore that supervisors face a growing challenge of identifying weaknesses in banking organizations in the midst of strong economic conditions that may mask embedded problems. I would be remiss if I did not note that when the economy weakens -- as it ultimately will -- we can expect bank losses from both previous risk taking and bad luck.  We can also expect an increase in bank failures.  As Chairman Greenspan has said, the optimal failure rate is not zero, and when the macro economy suffers, we will see an increase in failures.  Fraud and bad judgment will come to light that we and our fellow supervisors missed.  As noted earlier, only a very intrusive process would reduce further those kinds of failures.
+Finding the right balance between analysis of an institution's risk management process and risk profile and performing in-depth transaction testing of its assets and systems is the art of the supervisory process that determines whether or not we are effective supervisors.  Training and experience improve those judgments over time, and we are working on strengthening the Federal Reserve's ability to attract, develop and retain supervisors that can meet that challenge and make those judgments.
+
+[SECTION]
+
+In going forward, the recent fraud-related bank failures have caused us to challenge our assumptions regarding the reliability of some of the information we have come to depend on during examinations.  When cracks appear in the veneer of what otherwise seems to be a well-run operation, they will be met with a greater dose of skepticism and a higher level of testing and verification.  We must, of course, be careful not to overreact and become any more aggressive or intrusive than is required.  The Federal Reserve recognizes that as a bank supervisor, we are assuming an important public trust, and we will continue to try to minimize excesses in the banking system, reduce losses to the insurance fund and maintain a stable and productive banking system.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: February 8, 2000, 10:00 AM

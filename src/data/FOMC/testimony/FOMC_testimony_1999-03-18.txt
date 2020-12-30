@@ -1,0 +1,97 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I appreciate the opportunity to appear before this subcommittee to present the views of the Board of Governors of the Federal Reserve System on Title X, Financial Contract Provisions, of H.R. 833, the proposed Bankruptcy Reform Act of 1999.  Title X includes a number of proposed amendments to the Federal Deposit Insurance Act and the Bankruptcy Code as well as other statutes related to financial transactions.  Many of these provisions incorporate, or are based on, amendments to these statutes that were endorsed by the President's Working Group on Financial Markets.
+
+[SECTION]
+
+The Board supports enactment of the provisions recommended by the Working Group.  Enactment of these provisions would reduce uncertainty for market participants as to the disposition of their financial market contracts in the event one of the parties becomes insolvent.  This reduced uncertainty should limit market disruptions in the event of the insolvency, limit risk to federally supervised financial market participants, including insured depository institutions, and limit systemic risk.
+
+[SECTION]
+
+Statutory Recognition of Financial Market Transactions
+Since its adoption in 1978, the Bankruptcy Code has been amended a number of times to recognize the nature and significance of certain financial market transactions and to provide these transactions special treatment in a bankruptcy proceeding.  For example, in 1984, the Code recognized the right of a repo market participant to liquidate a repurchase agreement without regard to the otherwise applicable automatic stay provisions of the Code.  In 1990, this recognition was extended to permit swap participants to terminate and net swap agreements.  Similar rights had previously been given to stock brokers, financial institutions and clearing agencies with respect to securities contracts and commodity brokers and forward contract merchants with respect to commodities and forward contracts.
+
+[SECTION]
+
+Similarly, in 1989, in establishing the manner of the conduct of the receivership of insured depository institutions under federal law, the Financial Institutions Reform, Recovery and Enforcement Act of 1989 provided for the termination, or close-out, and netting of qualified financial contracts, including securities, commodity and forward contracts and repurchase and swap agreements.  The Federal Deposit Insurance Corporation Improvement Act of 1991 provided further legal support for netting contracts between two or more financial institutions or members of a clearing organization.
+
+[SECTION]
+
+Importance of Close-out, Netting, and Collateral
+The importance of improving the legal regime underpinning financial markets has been recognized by the finance ministers of the G7 countries who, in 1997, agreed "to introduce, where necessary and appropriate, legislative measures to ensure the enforceability of sound netting agreements in relation to insolvency and bankruptcy rules to reduce systemic risk in international transactions."   In this regard, it is important to ensure that financial market participants have the ability to terminate or close-out and net financial market contracts, and to realize on collateral pledged in connection with these contracts.
+
+[SECTION]
+
+Close-out
+ Close-out refers to the right to terminate a contract upon an event of default and to compute a termination value due to or due from, the defaulting party, generally based on the market value of the contract at that time.  This right is critical to the management of market risk by financial market participants.  The value of most financial market contracts is volatile.  While the degree of volatility varies with the nature and duration of the contract, this volatility can create significant market risk to the contracting parties.  Many end users of these contracts have entered into them for hedging purposes.  Dealers generally enter into these contracts in order to profit from meeting the needs of end users and other dealers.  In both cases, the contracts typically either hedge or are hedged against market risk.  Termination of the contract allows the nondefaulting party to rehedge the position in order to control that market risk.  By providing for termination of contracts on default, nondefaulting parties can remove uncertainty as to whether the contract will be performed, fix the value of the contract at that point, and proceed to rehedge themselves against market risk.  If this process were stayed while the trustee or the receiver for a failed counterparty determined whether to perform the contract, the delay would expose the nondefaulting party to potentially serious market risks during the pendency of this decision process.
+
+[SECTION]
+
+Thus, the right to terminate or close-out financial market contracts is important to the stability of financial market participants in the event of an insolvency and reduces the likelihood that a single insolvency will trigger other insolvencies due to the nondefaulting counterparties' inability to control their market risk.  The right to terminate or close-out protects federally supervised financial institutions, such as insured banks, on an individual basis, and by protecting both supervised and unsupervised market participants, protects the markets from systemic problems of "domino failures."  Further, absent termination and close-out rights the inability of market participants to control their market risk is likely to lead them to reduce their market risk exposure, potentially drying up market liquidity and preventing the affected markets from serving their essential risk management, credit intermediation, and capital raising functions.
+
+[SECTION]
+
+Netting
+Netting refers to the right to set off, or net, claims between two or more parties to arrive at a single obligation between the parties.  In financial market transactions, netting can serve to reduce the credit exposure of counterparties to a failed debtor and thereby to limit "domino failures" and systemic risks.  As an incident to limiting credit exposure, the ability to net contributes to market liquidity by permitting more activity between counterparties within prudent credit limits.  This liquidity can be important in minimizing market disruptions due to the failure of a market participant.
+
+[SECTION]
+
+Collateral
+Frequently, credit exposure under financial market transactions is collateralized.  This practice is most visible in repurchase transactions where cash and securities are exchanged at the beginning of the transaction and the exchange is reversed at the end of the transaction with appropriate adjustment for intervening interest.  In addition, market participants are requiring that credit exposure under over-the-counter derivative transactions be collateralized.  The right to liquidate collateral immediately is important for preserving the liquidity of financial market participants.
+
+[SECTION]
+
+Working Group Recommendations
+ Recognizing the importance of termination or close-out, netting, and collateral in financial market transactions, the Secretary of the Treasury on behalf of the President's Working Group on Financial Markets transmitted to Congress, in March of 1998, proposed legislation that would amend the banking laws and the Bankruptcy Code.  The proposed legislation  was the result of a multi-year interagency effort to make recommendations to improve the legal regime governing certain financial market contracts in insolvency situations.  Explanatory material accompanying the proposed legislation described it as having four principal purposes:
+
+[SECTION]
+
+"To strengthen the provisions of the Bankruptcy Code and the FDIA that protect the enforceability of termination and close-out netting and related provisions of certain financial agreements and transactions.
+
+[SECTION]
+
+To harmonize the treatment of the financial agreements and transactions under the Bankruptcy Code and the FDIA.
+
+[SECTION]
+
+To amend the FDIA and FDICIA to clarify that certain rights of the FDIC acting as conservator or receiver for a failed insured depository institution (and in some situations, rights of SIPC and receivers of certain uninsured institutions) cannot be defeated by operation of the terms of FDICIA.
+
+[SECTION]
+
+To make other substantive and technical amendments to clarify the enforceability of financial agreements and transactions in bankruptcy or insolvency."
+
+[SECTION]
+
+Title X
+ The provisions of Title X, Financial Market Contracts, of H.R. 833 are largely based on the provisions that were endorsed by the Working Group.  I understand that in these hearings there have been some concerns expressed over the effects some of the provisions of Title X may have on proceedings under the Bankruptcy Code, and potentially on other creditors of an insolvent debtor.  We recognize that amendments to the Bankruptcy Code that affect any particular class of creditors are likely to impact other creditors.  At the same time, we believe that differing types of claims warrant differing treatment.  The potential for effects on other creditors and the need for each recommended provision was considered in formulating the Working Group's recommendations.  We continue to believe that the recommended statutory amendments weighed these considerations appropriately. Additional language in Title X is designed to further the same ends that the Working Group sought to further.  Other provisions, such as section 1012 on Asset-Backed Securitizations, which was not included in the Working Group's recommendations, may foster the efficiency of the financial markets by promoting certainty.  Nevertheless, I believe that the provisions endorsed by the Working Group are sufficiently important to be pursued in this Congress even if other provisions are not included.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: March 18, 1999, 11:00 AM

@@ -1,0 +1,183 @@
+Testimony of Governor Roger W. Ferguson, Jr.
+Implications of developments in electronic commerce
+Before the Subcommittee on Finance and Hazardous Materials of the Committee on Commerce,
+U.S. House of Representatives
+June 4, 1998
+
+[SECTION]
+
+It is a pleasure to be here today to discuss the Federal Reserve's perspective on the implications of developments in electronic commerce generally, and electronic payments specifically.  In my testimony, I will focus on addressing the questions posed in Chairman Bliley's letter of April 9 to Chairman Greenspan.
+
+[SECTION]
+
+In the past several years, an unprecedented variety of new electronic banking and payment services has been developed.  The Federal Reserve has been following these developments closely, meeting a number of times with industry participants to learn more about the products and technologies that may be offered to banking customers.  Of course, many of these new products and technologies are still in the very early phases of development and implementation, and they are likely to change considerably over the coming years as the market evolves.
+
+[SECTION]
+
+New Banking and Payment Products and Services
+		It is important to recognize that many of what are described as new forms of money or payment simply involve delivering or gaining access to existing retail banking products and services in new ways.  The ability to send an electronic message from a personal computer that instructs a bank to pay a bill from the consumer's checking account using traditional payment systems is one example.  A protocol for sending encrypted messages containing credit card instructions--the most common means of payment on the Internet today--is another.  Many of these services can also be viewed as similar, in concept, to communications and payment arrangements that have been available to banks and large corporations for many years.  Increasingly, this technology is becoming cost effective at the consumer level, as personal computer prices have fallen and widespread access to the Internet has opened the way for low-cost electronic data communications between individuals and their financial institutions.
+
+[SECTION]
+
+Emerging payment products that have been the subject of considerable publicity in recent years include stored-value cards and "electronic cash" for use on the Internet.  These new forms of payment have been referred to collectively as "electronic money" in a number of different studies, including those conducted over the past few years by the G-10 countries.1  Although electronic money products have some novel features, they are generally based on the prepaid payment concept familiar from travelers checks and money orders.  With many of these products, a prepaid balance of funds available to the consumer (a liability of the issuing institution) is recorded on a magnetic strip, smart card chip, or the consumer's personal computer.  A wide range of potential operational forms, product features, financial and legal structures, and intended usage and markets have been proposed for these products, however.
+
+[SECTION]
+
+Certain types of stored-value cards are marketed as alternatives to cash in making small-value payments, such as at parking meters, public transport, and fast food restaurants.  Other new payment technologies have been developed specifically for making "micropayments," or very small-value purchases of articles, games, or other electronic information, over the Internet.  Federal and state governments are testing different types of stored-value cards for making electronic payments to food stamp
+recipients, for example, and for other purposes.
+
+[SECTION]
+
+It is already becoming clear that many consumers and businesses, particularly those that are technologically sophisticated, find the new electronic delivery methods an attractive option for gaining access to familiar banking and payment services.  Growing numbers of financial institutions are offering services over the Internet, and transactions initiated over the Internet are widely reported to be on the increase.  At the same time, most would agree that the growth of wholly new payment technologies, such as electronic money, has been slower than many observers anticipated several years ago.  This should not be surprising.  It is important to keep in mind that these new payment products are designed to substitute for existing payment methods, such as cash, checks, and debit and credit cards, and so must offer consumers and businesses materially improved features in terms of cost and convenience in order to gain their acceptance.  In addition, for some of these products, new technical infrastructure must be put in place.  While these technologies are thus likely to spread only gradually, for the nation's central bank, issues of importance include the potential implications for monetary policy, for the banking and payment system, and for consumers.
+
+[SECTION]
+
+Implications for Monetary Policy and Seigniorage
+		As with financial innovations in the past, the Federal Reserve expects to be able to adjust to future changing circumstances.  We do not anticipate that the emergence of electronic money will impair our ability to pursue legislated objectives for the performance of the economy.
+
+[SECTION]
+
+New forms of money, such as those held as stored-value card balances, are expected to make up a very small portion of the money supply, and are unlikely to influence aggregate payment flows materially, particularly in the near-to-medium term.  The Federal Reserve has been monitoring these flows in the larger stored-value card pilots involving banks.  We might also need to consider establishing other monitoring channels if amounts issued by non-depository institutions were to become significant in the future.
+
+[SECTION]
+
+Moreover, it is unlikely, as some have suggested, that alternative currencies will emerge in the United States along with the introduction of new forms of electronic money.  The U.S. dollar is supported by a well-established operational, legal, and economic foundation in this country, and it is very likely that electronic payments made between U.S. residents and businesses will continue to be denominated in U.S. dollars.
+
+[SECTION]
+
+Similarly, because the usage of electronic money is likely to grow relatively slowly, its introduction is unlikely to affect materially the seigniorage revenues received by the Treasury Department in the near term.  "Seigniorage" is a term often used to describe the direct and indirect revenue the Treasury receives on U.S. currency and coin.  The most significant portion of this revenue is received indirectly via the Federal Reserve's annual earnings.  The Federal Reserve is required to hold collateral, typically government securities, in an amount at least adequate to cover its outstanding currency obligations.  In 1997, the Federal Reserve transferred approximately $21 billion in earnings to the Treasury, largely attributable to interest on these government securities holdings.  If the usage of electronic money were to reduce the outstanding amounts of currency, and the Federal Reserve's holdings of securities were correspondingly reduced, the Federal Reserve's annual earnings remitted to the Treasury would fall.  The other, much smaller, source of seigniorage revenue--the issuance of coins--could be similarly affected.  Of course, it should be recognized that the increasing use of electronic retail payment methods more generally might be expected to have an effect on the use of banknotes and coin over time.
+
+[SECTION]
+
+Implications for Payment Systems and the Federal Reserve
+		We also do not expect the development of electronic money and electronic commerce more broadly to necessitate significant changes in the nation's payments and settlement systems.  Many transactions initiated on the Internet, for example, are likely to flow through existing interbank clearing and settlement channels.  In fact, credit card payments over the Internet, as well as certain types of stored-value card transactions, are now routinely cleared and settled through the existing facilities operated by the credit card associations.  Likewise, most Internet bill-payment systems plan to utilize the existing automated clearing house (ACH) system for clearing and settlement of individual payments.  As you may know, the ACH is an electronic payment system that supports direct deposit of payroll and numerous other types of routine payments.  The Federal Reserve clears and settles the majority of these transactions.
+
+[SECTION]
+
+In addition, the Federal Reserve Banks provide interbank settlement services for a number of retail payments clearinghouses, including private check and ACH clearinghouses, as well as several bank card clearing arrangements.  We are currently upgrading these services to make them more efficient and secure.  These settlement services could become useful for a range of emerging electronic payment methods in the future.
+
+[SECTION]
+
+In the longer term, it is possible that new clearing and settlement methods will need to be developed.  Development of new interbank systems typically requires substantial initial investments, planning, and organization among a large group of financial institutions.  The financial industry has considerable experience in this regard, having developed clearing and settlement systems for credit card, ATM, and ACH transactions.  The private-sector New York Clearing House Association also operates the Clearing House Interbank Payments System (CHIPS).  CHIPS, like the Federal Reserve's Fedwire system, is used primarily for large-value funds transfers.  In fact, CHIPS is now the largest U.S. dollar payment system in terms of dollar volume, handling $1.4 trillion in payments per day.
+
+[SECTION]
+
+The Federal Reserve believes that private-sector innovation and competition that has the potential to shift retail payment users to potentially more efficient and secure electronic alternatives is beneficial, regardless of the impact on Federal Reserve payment services.  The use of electronic payment services provided by the private sector is likely to continue to lead to relatively slower growth, or even a decline, in retail payment services in which the Federal Reserve System is involved operationally, notably check clearing.  As discussed in the recent report by the System's Committee on the Federal Reserve in the Payments Mechanism, we are exploring how the Federal Reserve can play a more active role in encouraging innovation in and usage of electronic payment methods.2  These efforts may include helping to reduce regulatory or legal barriers, encouraging the development of open technical standards, promoting consumer education, and providing efficient interbank settlement services, as I noted earlier.
+
+[SECTION]
+
+To a large extent, the impetus for the development of new payment systems will originate in the private sector, where consumer and business needs can most readily be addressed.  Consistent with this view, the Federal Reserve has no plans to issue electronic money at this time.  Direct competition in this area between the government and the private sector could well stifle the current environment of experimentation and innovation.  Moreover, the public benefits and acceptance of these types of payment instruments, as well as the evolution of their underlying technologies, are highly uncertain.
+
+[SECTION]
+
+Implications for Consumers
+		I would like to turn to recent developments in the area of consumer protection issues as they relate to new electronic payment and banking technologies.   Competitive market forces should create incentives for financial institutions and other suppliers of new electronic payment products to provide protections to consumers in order to promote confidence and encourage usage and acceptance of their products.  Moreover, the existing legal framework provides considerable incentives to disclose the terms of these products and to avoid unconscionable or unfair terms.  While we cannot predict whether these incentives will address all potential problems, industry efforts in this area are likely to be more effective than premature and potentially costly new regulations at this time.  This is consistent with the approach advocated in the recently released report of an interagency task force, on which my colleague, Governor Kelley, was a member, which recommended limiting government action to monitoring of industry developments and providing consumer financial education where appropriate.3  In any case, we believe that the desirability of any potential new statutory consumer protections should be based on a demonstrated need to address specific problems or abuses, rather than on an attempt to promote the future growth of any particular form of payment or other service.
+
+[SECTION]
+
+It is evident, however, that certain existing regulations need to be updated to avoid unintended barriers to the provision of new electronic products and services to consumers.  Federal Reserve Regulation E provides a prime example in this regard.  One requirement of Regulation E is that authorizations for recurring electronic payments must be signed by the consumer.  To eliminate the delay and expense of paper-based authorization, the Federal Reserve amended Regulation E in 1996 to allow preauthorized transfers in an electronic system to be authenticated by an electronic method that provides the same assurance as a signature in a paper-based system.  Similarly, in March 1998, the Board adopted an interim rule that amended Regulation E to allow financial institutions to provide disclosures and other information required by the regulation electronically, rather than in paper form, if the consumer agrees.
+
+[SECTION]
+
+The Federal Reserve and the Congress have also been weighing the more difficult issue of how the Electronic Fund Transfer Act (EFTA), and its implementing Regulation E, should apply to stored-value products, if at all.  The EFTA includes elements of both disclosures and substantive requirements regarding product terms and conditions, such as liability for unauthorized transactions.  In April 1996, the Board issued proposed amendments to Regulation E that would apply selected provisions of the regulation, such as disclosures, to certain types of electronic stored-value cards.  In September 1996, the Congress imposed a nine-month moratorium on the issuance of final regulations affecting stored-value products and directed the Federal Reserve to conduct a study of these products.
+
+[SECTION]
+
+The Board's resulting March 1997 report to Congress evaluated whether the EFTA could be applied to stored-value products without adversely impacting their cost, development, and operation.4  At the request of Congress, the Board also considered whether alternatives to regulation--such as allowing competitive market forces to shape the development and operation of the products--could more efficiently achieve the objectives of the EFTA.  The report did not recommend any specific course of action, but did consider at length the benefits and risks of regulatory action in a rapidly changing environment.  For example, the disclosure model is often seen as the least intrusive form of government intervention.  However, given the variety of existing and planned stored-value products and the rapid evolution of this industry, it seems unlikely that one set of disclosures or other consumer protection requirements would be appropriate for all such products.
+
+[SECTION]
+
+The Federal Deposit Insurance Corporation has determined that most types of stored-value cards, even if issued by federally insured depository institutions, do not meet the definition of a deposit under the Federal Deposit Insurance Act, for purposes of inclusion within federal deposit insurance coverage.5  From the point of view of the government, this determination would have the effect of limiting the extension of the federal safety net to these new products.  The FDIC expects banks to disclose to consumers whether or not their cards are federally insured, however.
+
+[SECTION]
+
+Privacy and Security in Electronic Banking
+		One of the most sensitive issues raised during discussions of electronic money and banking is the privacy of consumers' financial information.  The issue of privacy in a world of ever-growing access to information through computer and telecommunications technology is by no means limited to financial information, but it is increasingly cited as a concern with respect to the security of retail transactions.  While we have no recommendations to make at this time, I would like to make a few observations that may be helpful for discussions on this important issue.
+
+[SECTION]
+
+Last year, in response to a Congressional directive, the Board conducted a study concerning the availability to the public of sensitive information about consumers.  This study was narrowly focused on the potential for financial fraud that could flow from the use of sensitive information and the associated risks to depository institutions.  The report concluded that the losses attributable to "identity theft" did not, at that time, pose a significant risk to the banking industry.6  Given the pace of technological change and the relatively widespread access to personal information, however, this risk appears to be a growing concern for consumers and financial institutions.  More broadly, the report highlighted the importance of balancing individuals' important privacy interests with the legitimate needs for information by law enforcement agencies, businesses, and others in both the public and private sectors.
+
+[SECTION]
+
+This study highlighted the fact that many consider the issues of privacy and security to be closely related.  Although some surveys indicate that security concerns are still a barrier to the growth of electronic commerce, there has been a considerable amount of promising private-sector activity with respect to addressing the security and reliability of payment transactions transmitted over the Internet.  Several technologies are already available for protecting transaction information against unauthorized disclosure while in transit.  Some new payment methods have specifically incorporated technologies to safeguard the privacy of consumers' transaction information.  Of course, consumers and businesses will need to select the technologies and payment arrangements that are most appropriate, given their preferences and the risks in different types of transactions.
+
+[SECTION]
+
+Security is likely to remain a primary concern of financial institutions, who most often bear the losses associated with fraudulent transactions.  The Federal Reserve and the other federal banking agencies have been actively reviewing and upgrading our supervisory policies and procedures in the area of electronic banking and information security to help ensure that risks to banks in providing services that support electronic commerce are appropriately managed.  The Federal Reserve recently participated in an international effort under the Basle Supervisors Committee to provide preliminary supervisory guidance on risk management for electronic banking activities, resulting in a study published earlier this year.  Going forward, information security risk management will continue to increase in importance as banks' reliance on information technology grows and greater attention is focused on the need to safeguard customer information.
+
+[SECTION]
+
+Global Implications for Banking
+		Finally, it is important to note that the potential impact of increasingly linked global communications on financial services offered in this country and abroad in the coming years is very difficult to predict.  However, it is possible that significant changes could occur in the way that products and services are marketed and delivered.  In general, these developments should be positive for users of financial services, offering them greater flexibility and the potential to obtain financial services at the lowest cost, regardless of location or provider.
+
+[SECTION]
+
+A significant expansion of the solicitation and provision of financial services across jurisdictional boundaries could raise cross-border legal and regulatory issues.  Of course, such activities also occur with current technology, including via telephones and paper-based communications.  The resulting jurisdictional and enforcement issues relating to legal uncertainties, compliance with different national laws and regulations, or abusive practices by offshore entities, have arisen in the past in many different contexts.  Although new technologies could spur greater activity in this regard, it would appear premature at this time to predict that wholesale changes in legal or regulatory approaches will be needed.
+
+[SECTION]
+
+Conclusions
+		In summary, the Federal Reserve anticipates minimal impact in the near term from emerging electronic payments, and from electronic commerce more broadly, on our core central banking responsibilities, including our ability to implement monetary policy, our supervisory responsibilities, and our operational role in the clearing and settlement of payments.  Nevertheless, technological change and the growth of electronic commerce could raise complex policy issues that may require careful monitoring and study over the coming years by the Federal Reserve, the Congress, and the private sector.  We look forward to working with you to assess the implications of these important developments.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+ See, for example, Group of Ten, Electronic Money: Consumer protection, law enforcement, supervisory, and cross-border issues (Bank for International Settlements, April 1997); Committee on Payment and Settlement Systems and the Group of Computer Experts, Security of Electronic Money (Bank for International Settlements, August 1996).
+
+[SECTION]
+
+2
+  Committee on the Federal Reserve in the Payments Mechanism, The Federal Reserve in the Payments Mechanism (Board of Governors of the Federal Reserve System, January 1998).
+
+[SECTION]
+
+3
+Consumer Electronic Payments Task Force, Report of the Consumer Electronic Payments Task Force (April 1998).
+
+[SECTION]
+
+4
+Board of Governors of the Federal Reserve System, Report to Congress on the Application of the Electronic Fund Transfer Act to Electronic Stored-Value Products (March 1997).
+
+[SECTION]
+
+5
+Federal Deposit Insurance Corporation, "General Counsel's Opinion No. 8; Stored Value Cards," 61 FR 40490 (August 2, 1996).
+
+[SECTION]
+
+6
+Board of Governors of the Federal Reserve System, Report to Congress Concerning the Availability of Consumer Identifying Information and Financial Fraud (March 1997).
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: June 4, 1998, 10:30 AM

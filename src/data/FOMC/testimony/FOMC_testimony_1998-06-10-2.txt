@@ -1,0 +1,110 @@
+Statement Submitted by the Board of Governors of the Federal Reserve System
+Application of the Commodity Exchange Act to transactions in over-the-counter
+      derivatives
+Before the
+Subcommittee on Risk Management and Specialty Crops of the
+Committee on Agriculture, 
+U.S. House of Representatives
+June 10, 1998
+
+[SECTION]
+
+The Board appreciates the opportunity to submit its views on issues relating to the potential application of the Commodity Exchange Act (CEA) to over-the-counter (OTC) derivatives transactions.  The Board has been participating actively in discussions of these issues for the last ten years.  As the Subcommittee is aware, the markets for OTC derivatives have grown enormously during this period and are now large and globally significant.  For this reason, the legal and regulatory framework for these markets is unquestionably important.  The Board is deeply concerned about any legal or regulatory development that calls into question the enforceability of a significant volume of such transactions.
+
+[SECTION]
+
+A particular concern for many years has been the potential application of the CEA to OTC derivatives.  Because the CEA generally requires instruments covered by the Act to be traded on an exchange, if OTC derivatives were covered, they might be illegal and unenforceable.  The Futures Trading Practices Act (FTPA) of 1992 tried to address this concern by authorizing the Commodity Futures Trading Commission (CFTC) to exempt OTC derivatives from most provisions of the CEA, to the extent that the Act might apply.  Nonetheless, concerns have persisted that the CEA could jeopardize the enforceability of certain OTC derivatives transactions.
+
+[SECTION]
+
+These concerns have been heightened by the CFTC's recent concept release on regulation of OTC derivatives.  In particular, the underlying premise of the release is that such transactions are subject to the CEA, unless clearly and explicitly excluded or exempted.  This marks an important departure from precedent.  Neither Congress nor the CFTC has to date made a determination that OTC derivatives are subject to the CEA.  Indeed, in early 1993, when the Commission used the FTPA authority to exempt many OTC transactions from most provisions of the CEA, it stated explicitly that its action should not be construed as reflecting any determination that the instruments covered by the exemption were subject to the Act.
+
+[SECTION]
+
+The reason the Board has been keenly interested in these issues is because of the potential consequences if significant volumes of OTC derivatives were determined to be illegal and unenforceable under the CEA.  In those circumstances, the potential losses to counterparties, including those large U.S. banks that are leading derivatives dealers, could be so large as to pose a threat to the financial condition of the counterparties themselves and to provide a significant shock to the financial system as a whole.  The Board is also dismayed by the prospect that legal uncertainties or unnecessary regulatory burdens could undermine the position of U.S. institutions in what are intensely competitive global markets.  We see no social benefits and clear social costs from pushing OTC derivatives activity offshore.
+
+[SECTION]
+
+Some may characterize the issues under consideration as nothing more than regulatory  turf fights.  We believe this misses the point.  The issues under consideration really are not so much issues of which government agency should regulate these transactions as they are issues of whether government regulation is necessary and, if so, what types of regulations are appropriate.  Moreover, as we have indicated, considerably more is at stake--the safety and soundness of banks, the competitiveness of U.S. markets and institutions, and possibly even the stability of the financial system--than would be the case if the issues were limited solely or even primarily to regulatory turf.
+
+[SECTION]
+
+Potential Application of the CEA to OTC Derivatives
+
+	Governor Phillips presented the Board's views on the potential application of the CEA to OTC derivatives in testimony to this Subcommittee in April 1997.  Since then the Board's views have not changed.  Indeed, subsequent developments have reinforced our earlier position.
+
+[SECTION]
+
+The Board believes that application of the CEA to institutional transactions in OTC derivatives is unnecessary to achieve public policy objectives with respect to these transactions.  The public policy objectives of the CEA are to ensure the integrity of commodity markets, especially to deter market manipulation, and to protect market participants from losses resulting from fraud or the insolvency of contract counterparties.  In the case of institutional OTC derivatives transactions, private market discipline appears to achieve these objectives quite effectively and efficiently.
+
+[SECTION]
+
+Counterparties to privately negotiated transactions have limited their activity to contracts that are very difficult to manipulate.  The vast majority of privately negotiated contracts are settled in cash rather than through delivery.  Cash settlement typically is based on a rate or price in a highly liquid market with a very large or virtually unlimited deliverable supply, for example, LIBOR or the spot dollar-yen exchange rate.  Furthermore, the costs of default or of failing to deliver typically are limited to actual damages.  Thus, attempts to corner a market, even if successful, could not induce sellers in privately negotiated transactions to pay significantly higher prices to offset their contracts or to purchase the underlying assets.  Most important, prices established in privately negotiated transactions are not used directly or indiscriminately as the basis for pricing other transactions, so any price distortions would not affect other buyers or sellers of the underlying asset.  In these respects, privately negotiated contracts have different characteristics than exchange-traded contracts generally, and agricultural futures in particular.
+
+[SECTION]
+
+Institutional counterparties to privately negotiated contracts also have demonstrated their ability to protect themselves from losses from fraud and counterparty insolvencies.  They have insisted that dealers have financial strength sufficient to warrant a credit rating of A or higher.  Consequently, dealers are established institutions with substantial assets and significant investments in their reputations.  When such dealers have engaged in deceptive practices, institutions that have been victimized have been able to obtain redress by going to court or directly negotiating a settlement with the dealer.  The threat of legal damage awards provides dealers with incentives to avoid misconduct.  A far more powerful incentive, however, is the fear of loss of the dealer's good reputation, without which it cannot compete effectively, regardless of its financial strength or financial engineering capabilities.  Institutional counterparties to privately negotiated transactions also have demonstrated their ability to manage credit risks quite effectively through careful evaluation of counterparties, the setting of internal credit limits, and the judicious use of netting agreements and collateral.
+
+[SECTION]
+
+Although an October 1997 report by the General Accounting Office suggested that there have been substantial losses to end-users of OTC derivatives, a careful inspection of the report's data reveals that the vast majority of those losses were in investments in mortgage-backed securities and structured notes, for which federal sales practices regulations either were in place or have since been implemented.  Indeed, we feel the most revealing data in the GAO's report were the results of its survey of end-users.  When asked if they were satisfied with derivatives dealers' sales practices, 85 percent of users of plain vanilla derivatives and 79 percent of users of more complex derivatives indicated satisfaction.  The great majority of the remainder responded neutrally rather than indicating that they were dissatisfied.  In the Board's view, these results call into question the need for additional government regulation of sales practices of OTC derivatives dealers.
+
+[SECTION]
+
+In the future, counterparties to OTC derivatives transactions may seek to establish new facilities for centralized clearing of such transactions.  Such facilities potentially could make management of counterparty credit risks and liquidity risks even more effective.  At the same time, however, clearing facilities often concentrate and mutualize risk.  The Board believes that if counterparties were to choose to develop such facilities, some type of government oversight generally may be appropriate to supplement the private self-regulation that the counterparties would provide.  However, it is not obvious that regulation of such clearing facilities under the CEA would be the best approach.  For example, the Board sees no reason why a clearing agency regulated by the Securities and Exchange Commission should not be allowed to clear OTC derivatives transactions, especially if it already clears the instruments underlying the derivatives.  More generally, the Board believes that in many circumstances, regulations of OTC clearing might best be conducted by the SEC, or by one of the federal banking agencies, rather than by the CFTC.  Furthermore, if a clearing facility is located abroad and regulated effectively by a home country regulator, U.S. regulators should rely primarily on the home country regulator to address U.S. public policy concerns, rather than attempting to force the clearing facility to conform to the rules of multiple jurisdictions, which may well conflict.
+
+[SECTION]
+
+In general, even in those cases in which regulation of OTC derivatives may be necessary, the Board sees serious problems with applying the CEA to such transactions.  By far the most significant problem is the uncertainty created by the Act's exchange trading requirement.	To be sure, there are some specific exclusions of OTC transactions from the Act, and CFTC policy statements and exemptions have been intended to create legal certainty for other OTC transactions.   Experience has repeatedly demonstrated, however, that these exclusions and exemptions have not provided legal certainty for OTC derivatives.  In every case, the exclusions and exemptions include terms or conditions that are ambiguous or that, even if seemingly unambiguous, have been made the sport of litigators.  The CFTC's recent issuance of a concept release on regulation of OTC derivatives has made matters worse by presuming that such transactions are covered unless specifically excluded or exempted and by underscoring that, whatever the terms of various existing policy statements and exemptions, these can be altered or reinterpreted by the Commission.
+
+[SECTION]
+
+As things stand, some interpret the language of the existing exclusions and exemptions in ways that, if accepted by the courts, could call into question the enforceability of at least some, and perhaps a significant share of, outstanding OTC transactions.  In the Board's view, the potential that such interpretations might be accepted places the financial system at risk and therefore is an unacceptable state of affairs.  The Board continues to believe that the only way to achieve legal certainty is through a broad statutory exclusion of institutional OTC derivatives transactions, perhaps using the definitions of a "swap agreement" and an "eligible swap participant" that the CFTC currently uses in its exemption.
+
+[SECTION]
+
+While the legal uncertainty associated with the potential application of the CEA for OTC derivatives is the Board's most serious concern, it is also troubled by the potential implications of a provision of the CEA that provides the CFTC with exclusive jurisdiction over instruments subject to the Act.  Recently, the CFTC has claimed that this provision may impose restrictions on the SEC's ability to impose regulations, including capital regulations on the activities of a new class of broker-dealers, on instruments or transactions that the CFTC asserts are subject to the CEA.  Banking regulators apply capital requirements to a wide variety of instruments that either are unquestionably subject to the CEA (futures traded on U.S. commodity exchanges) or that the CFTC has asserted are subject to the Act (many OTC derivatives).  The Board cannot believe that Congress intended the exclusivity provision of the CEA to preclude other federal regulators from imposing safety and soundness regulations on activities of institutions over which they have authority, even if those activities involve transactions subject to the CEA.
+
+[SECTION]
+
+Need for Legislation
+
+	The Board believes that the issues relating to government regulation of OTC derivatives, including the potential application of the CEA to those transactions, deserve further study and ultimately should be revisited by Congress.  In the interim, however, Congress should do as much as possible to remove the legal clouds hanging over the OTC derivatives markets.
+
+[SECTION]
+
+Accordingly, the Board supports the proposal for immediate but temporary legislation that was recently transmitted to Speaker Gingrich by Chairman Greenspan, Secretary Rubin, and Chairman Levitt.  The proposal calls for the President's Working Group on Financial Markets to study the markets for OTC derivatives and for hybrid debt instruments (whose potential regulation under the CEA raises broadly similar issues and concerns), to make recommendations for changes to statutes and regulations, and to submit a report to Congress containing its results and recommendations within one year.  Such a study by the Working Group undoubtedly would produce a thorough airing of the issues that would be quite useful to Congress in deciding how best to resolve the existing legal and regulatory uncertainties.
+
+[SECTION]
+
+The proposal would enhance legal certainty in two ways.  First, it includes a standstill provision that would temporarily eliminate the risk that changes in CFTC regulations, policies, or interpretations could raise new questions about the enforceability of any OTC derivatives transaction (or hybrid debt instrument) that was exempt from the CEA under the CFTC's existing exemptions as of January 1, 1998.  This standstill provision would also temporarily preclude the CFTC from unilaterally imposing a new, comprehensive regulatory regime for the OTC derivatives markets without the explicit consent of Congress and before Congress has had a chance to consider carefully the potential ramifications.  Second, the proposal would remove the legal cloud over certain securities-indexed transactions (including equity swaps and equity-indexed hybrid debt instruments).  These securities-indexed transactions are subject to additional legal uncertainty because of a provision that prohibits the CFTC from exempting such transactions from the CEA to the extent that they might be considered to be covered.  The proposal would, in effect, extend the CFTC's existing exemption for OTC derivatives to cover these securities-indexed transactions, thereby reducing legal uncertainty.
+
+[SECTION]
+
+Summary
+
+	In summary, the Board believes that application of the CEA to institutional transactions in OTC derivatives would be inappropriate.  It is unnecessary to achieve public policy objectives with respect to such transactions.  Moreover, if the CEA is applied to such transactions, as assumed by the CFTC in its recent concept release, it would call into question the legal enforceability of at least some, and perhaps many, of those transactions.  This threat undermines the competitiveness of U.S. firms and markets and could place the stability of the financial system at risk.  For these reasons, the Board supports the proposal for immediate but temporary legislation that was recently transmitted to Congress.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: June 11, 1998, 4:00 PM

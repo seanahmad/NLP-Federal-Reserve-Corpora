@@ -1,0 +1,249 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 29, 2012
+
+[SECTION]
+
+Stephanie Martin, Associate General Counsel
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, Washington, D.C.
+
+[SECTION]
+
+Chairman Capito, Ranking Member Maloney, and members of the Subcommittee, thank you for inviting me to appear before you today to talk about the regulation of mobile payments.
+
+[SECTION]
+
+The evolution of technologies that enable consumers to conduct financial transactions using mobile devices has the potential to affect their financial lives in important and new ways.  In discussing "mobile payments," I am referring to making purchases, bill payments, charitable donations, or payments to other persons using your mobile device, with the payment applied to your phone bill, charged to your credit card, or withdrawn directly from your bank account.
+
+[SECTION]
+
+Beyond payments, mobile devices have the potential to be useful tools in helping consumers track their spending, saving, investing, and borrowing, and in making financial decisions.  These technologies also hold the potential to expand access to mainstream financial services to segments of the population that are currently unbanked or underbanked.  That said, the technologies are still new, and there are important issues to consider, such as the reliability and security of these technologies.
+
+[SECTION]
+
+With any type of payment system, including mobile payment systems, regulators have two key concerns: (1) whether consumers are protected if something goes wrong, such as an unauthorized transaction; and (2) whether the system provides appropriate security and confidentiality for the transmission and storage of payment instructions and the personal financial information of consumers.
+
+[SECTION]
+
+A legal framework exists to address the payment activities of insured depository institutions--collectively, "banks."  This framework includes consumer protection statutes, such as the Electronic Fund Transfer Act (EFTA) and the Truth in Lending Act, as well as the bank supervisory process.  To the extent that nonbanks are involved, whether and the degree to which federal or state statutes and rules are applicable depends on the nonbank's role in the transaction and the specific provisions of the particular statute or rule.  Even so, many of our payments laws were initially drafted long before mobile payments (or the devices that facilitate them) were even envisioned.  Therefore, those laws may not be well-tailored to address the full range of mobile payment services in the marketplace.
+
+[SECTION]
+
+The Evolution of Payments
+The U.S. payments landscape has changed dramatically in recent decades and continues to evolve rapidly.  Electronic payments made through payment card networks and the automated clearinghouse system have become increasingly prevalent, and now represent about four out of every five noncash payments in this country.1   Virtually all check payments, which have been declining in number since the mid-1990s, are now cleared electronically rather than in paper form.  The cumulative effects of automation and innovation have driven several waves of new banking and payment services that continue to improve the efficiency and effectiveness of our payment systems.  The evolution of mobile payments encompasses a combination of continued advances in hardware, software, and payment systems.  These advances include contactless payments, online banking, mobile phones (particularly smart phones) and other remote devices, applications, and the convergence of Internet or e-commerce and mobile commerce.
+
+[SECTION]
+
+At its core, however, a mobile payment, like any other type of payment, results in money moving between bank accounts--for example, from a consumer's checking account at the consumer's bank to the merchant's checking account at the merchant's bank.  This is true even if the payment initially is charged to a consumer's bill for services or to a prepaid balance held by a nonbank.  For example, in the case of a mobile payment charged to a phone bill, ultimately, the consumer pays the bill with funds from an account at a bank.  In the "back end" bank-to-bank settlement of these payments, the funds will typically travel on existing payment "rails," such as the automated clearinghouse system or a card network.  The settlements between bank accounts over these existing systems are subject to the statutes, rules, or procedures that are already in place.
+
+[SECTION]
+
+There are, though, new and evolving aspects of mobile payments--typically related to the consumer interface and nontraditional payment or settlement arrangements--which can involve new types of intermediaries or service providers.  A new interface is not a new phenomenon.  The evolution of consumer payments has gone from paper checks to debit and credit cards to home banking through personal computers and is now moving to smart phones and other remote devices, which have some of the processing and communications characteristics of home computers.  In the case of bank-offered payment products, a new communication channel to an existing payment mechanism, such as a smart phone connection to the debit card or credit card system, generally does not result in changes to the basic rights afforded to consumers under those systems or to a bank's responsibility to ensure the security of that communication channel.
+
+[SECTION]
+
+However, consumers may make payments in new ways using the services of entities that have not traditionally been in the payments business.  For example, a consumer may settle a mobile payment transaction via a bill from a telephone company.  Making payments through nontraditional arrangements may change the legal protections related to the purchase, depending on the details of the arrangement and the applicable federal or state statutes and rules.
+
+[SECTION]
+
+Regulation of Mobile Payment Services Offered by Banks
+As I stated, a legal framework to address the activities of banks already is in place, and to the extent that existing laws and rules apply, federal bank regulators have the tools to ensure that banks offer mobile payment services in compliance with the consumer protection provisions of those laws and rules.  For example, electronic debits or credits to certain consumer asset accounts would generally be covered by the error-resolution, disclosure, and other provisions of the EFTA.  The application of this act and most other federal consumer laws to bank or nonbank mobile payment transactions, including the extent to which transactions involving prepaid balances are covered, is subject to the rulemaking and interpretive authority of the Consumer Financial Protection Bureau (CFPB).
+
+[SECTION]
+
+When reviewing new payment interfaces that banks offer to their customers, the banking agencies look at the security and confidentiality protections that the bank has instituted.  For example, the Federal Financial Institutions Examination Council Information Technology Handbooks provide guidance to examiners and financial institutions on identifying and controlling the information-security risks associated with electronic banking activities, including banking through mobile phones.  Under section 501(b) of the Gramm-Leach-Bliley Act (GLBA), banks are required to implement programs that ensure the security and confidentiality of customer information, protect against unanticipated threats or hazards to the security or integrity of that information, protect against unauthorized access to or use of information that could result in substantial harm or inconvenience to any customer, and ensure the proper disposal of customer information.  Banks are also subject to the so-called "red flags" rules that require financial institutions and creditors to implement programs designed to detect, prevent, and mitigate identity theft, as well as a variety of anti-money-laundering and other rules under the Bank Secrecy Act.
+
+[SECTION]
+
+Regulation of Mobile Payment Services Offered by Nonbanks
+Many of the questions that have arisen with respect to mobile payments, however, relate to the involvement of nonbanks as intermediaries or service providers.  The applicability of existing laws to nonbanks that are providing mobile payment services often depends on the nonbank's role in the transaction.  For example, a bank might use a payments processor to offer its customers a means to initiate payments to third parties from mobile phones.  In that case, the bank would continue to be responsible for ensuring that its agent complies with the laws and rules that are applicable to the bank.  In other cases, however, a nonbank can have a more independent role, such as a manager of a prepaid value program, a money transmitter, or a telephone company that bills customers for payment transactions.  In these cases, it is necessary to examine the specific provisions of law to determine their applicability to the nonbank's particular role in the transaction.
+
+[SECTION]
+
+As I mentioned earlier, the applicability of many federal consumer laws, such as the EFTA, to mobile payment services is subject to the rulemaking and interpretation of the CFPB.  Other laws also may apply, depending on the specific facts and circumstances of the arrangement.  For example, the security guidelines mandated by section 501(b) of the GLBA and the "red flags" rules apply to certain nonbank entities that engage in financial activities as well as to banks, and therefore could be applicable to a nonbank's mobile payment interface with consumers.  The Federal Trade Commission administers these requirements to the extent they apply to nonbanking firms.  Further, the Treasury Department's Financial Crimes Enforcement Network (commonly known as FinCEN) applies know-your-customer and anti-money-laundering rules to providers and sellers of certain types of prepaid access, including prepaid cards.2
+
+[SECTION]
+
+A nonbank service provider also may be subject to state money transmitter laws.  Although these laws are not uniform among the states, many of them include registration and bonding requirements and investment restrictions.
+
+[SECTION]
+
+For international payments, both bank and nonbank service providers may also be subject to the remittance provisions in the EFTA, as implemented by the CFPB.
+
+[SECTION]
+
+Conclusion
+In conclusion, it is difficult to make broad generalizations about the applicability of existing statutes and rules to mobile payments.  This is due to the different types of service providers (bank and nonbank), the wide variety of payment arrangements that are in place and under development, and the potential applicability of both banking and nonbanking laws to any given arrangement.  Given recent technological developments in mobile payments, further analysis of existing laws may be needed to ensure that consumers are adequately protected.  At the same time, given the fast-paced nature of changes in this area and the potential for significant improvements in consumer financial services through mobile payments, further fact-finding would aid that analysis and would be helpful to ensure that any legislative or regulatory proposals do not stifle the very innovations that would benefit consumers overall.
+
+[SECTION]
+
+Thank you again for inviting me to appear today.  I am happy to answer any of your questions.
+
+[SECTION]
+
+See the 2010 Federal Reserve Payments Study,  www.frbservices.org/files/communications/pdf/press/2010_payments_study.pdf. Return to text
+
+[SECTION]
+
+31 CFR 1010.100(ff). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

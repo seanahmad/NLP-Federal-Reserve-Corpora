@@ -1,0 +1,300 @@
+Governor Meyer presented identical testimony before the Securities and Government Sponsored Enterprises of the Committee on Banking and Financial Services, U.S. House of Representatives, on June 7, 2000
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman and other members of the Subcommittee on Capital Markets, I appreciate the opportunity to explain the rules recently proposed by the Federal Reserve Board and the Department of the Treasury to allow financial holding companies to engage in merchant banking activities under the Gramm-Leach-Bliley (GLB) Act.  I want to stress that part of what I'm about to discuss is only a proposal, and the rest is a rule that has been adopted only on an interim basis.  The Board and the Treasury have requested comment from the public on both parts, and both are subject to review and modification in light of those comments.  Our experience has been that public comments are generally very helpful, and we value the insight and information they provide from practitioners, analysts, other policy makers and informed members of the public.  The public comment period ended on May 22, and the Board and the Treasury are analyzing those comments now.
+
+[SECTION]
+
+As I'm sure you can appreciate, because we are in this evaluation phase I do not know what final rules will be adopted.  The staff is in the process of reviewing and analyzing the comments, and both Treasury officials and members of the Board are reserving judgment until we see both a summary of the full comments and the staff's analysis.  At that time, the Board will review the proposal and the interim rule in light of the comments, and both are subject to revision.  In addition, the Federal Financial Institutions Examination Council (FFIEC) will be discussing bank capital requirements on equity investments, a discussion that will, of course, be considered in the Board's final decision on holding company capital requirements on these assets.  With these caveats in mind, the Board nonetheless believes it would be useful not only to describe what the Board and the Treasury proposed, but also to summarize the information and analysis we reviewed in developing our proposals.
+
+[SECTION]
+
+Our initial proposal was based on a considerable amount of information and experience regarding the current equity investment activities of securities firms and large banking organizations.  It would allow merchant banking to continue to develop along the lines already evident in the industry and in the manner intended by the Congress.  At the same time, the rule and proposal attempt to address the boundaries between merchant banking and the mixing of banking and commerce.  And most important, the rule seeks responsibly to come to grips with the very real safety and soundness risks to an insured depository institution affiliate of both a financial holding company that engages in merchant banking and a bank holding company that invests in equities using existing authorities.
+
+[SECTION]
+
+I.  Summary of the Interim Rule and Capital Proposal
+Let me first briefly explain what the Board and the Treasury have proposed.  For the sake of brevity, I will sacrifice some detail.  The notice published by the Board and the Treasury in the Federal Register explains the proposal in great detail.1
+
+[SECTION]
+
+The GLB Act allows financial holding companies-which are bank holding companies whose depository institutions meet specified capital, management, and, for insured institutions, CRA requirements-to acquire shares, assets or ownership interests in any type of nonfinancial company.  Merchant banking authority represents a broad exception to the central prohibition in the Bank Holding Company Act against the ownership of interests in nonfinancial firms.  Moreover, this new merchant banking authority is in addition to-and does not replace--the authority that bank holding companies have under other provisions of the Bank Holding Company Act to engage in equity investment activities.
+
+[SECTION]
+
+The merchant banking authority included in the GLB Act helped ensure a so-called "two-way street" for securities firms that wish to affiliate with a bank without being required to divest traditional business lines.  Prior to the GLB Act, securities firms could not affiliate with a bank without terminating their merchant banking activities.
+
+[SECTION]
+
+The GLB Act specifically authorizes the Board and the Secretary of the Treasury to issue regulations implementing this new authority, including limitations that we jointly deem appropriate to protect depository institutions.  The interim rule and capital proposal are the result of extensive discussions between Board and Treasury officials.
+
+[SECTION]
+
+Prior to making our proposal, staff reviewed existing research and the staffs of the two agencies jointly conducted interviews at a number of major securities firms and bank holding companies in order to gather information on how the merchant banking business is conducted.  We also called on our experience in supervising the more restricted investment authorities exercised by both member banks and bank holding companies, including authority to make investments through small business investment companies, authority to make investments overseas, and holding company authority to make investments in up to 5 percent of the voting shares and up to 25 percent of the total equity of any company.  Our proposal incorporates many of the best practices employed by merchant banking professionals and banking organizations and, we believe, would allow securities firms to become financial holding companies while continuing to conduct their merchant banking activities.
+
+[SECTION]
+
+The proposal is in two parts.  The first is an interim rule that contains the framework for defining and conducting merchant banking activities.  The second is the capital proposal.
+
+[SECTION]
+
+A.  Interim Rule
+The interim rule is designed to implement the provisions of the GLB Act that were enacted in order to prevent merchant banking activities from being no different than a mixture of banking and commerce.  It also supports the important objective of encouraging the safe and sound exercise of this new merchant banking authority.  The interim rule:
+
+[SECTION]
+
+* provides guidance on the GLB Act's requirement that merchant banking investments be held only for a period long enough to enable the sale or disposition of each investment on a reasonable basis.  Generally, the rule permits a 10-year holding period for direct investments and a 15-year holding period for investments in private equity funds.  The Board may approve a longer holding period on a case-by-case basis.
+
+[SECTION]
+
+* implements the GLB Act's restrictions on the routine management or operation of a portfolio company by a financial holding company.  The interim rule contains a number of safe harbors and examples of routine management and explains the types of special circumstances in which routine management is permissible.
+
+[SECTION]
+
+* establishes recordkeeping and reporting requirements designed to enhance the ability of the financial holding company and the Board to monitor the risks and exposures of merchant banking investments and compliance by the financial holding company with the Act's limitations on holding periods and routine management.  These recordkeeping and reporting requirements are general in design and largely could be met by the types of records and reports ordinarily kept by companies engaged in merchant banking activities.
+
+[SECTION]
+
+* implements the restrictions in the GLB Act on the ability of a depository institution controlled by a financial holding company to cross-market its products or services with a portfolio company it holds under its merchant banking authority.
+
+[SECTION]
+
+* adopts the presumption established by the GLB Act for applying the limits contained in section 23A of the Federal Reserve Act on transactions between a depository institution and its affiliates to transactions between a depository institution and a portfolio company controlled by the same financial holding company.
+
+[SECTION]
+
+As a transition measure, the interim rule also establishes two caps on the amount of merchant banking investments that a financial holding company may hold.  The caps are high and apply only to investments made under the new merchant banking authority.  The first is that the total amount of a financial holding company's merchant banking investments may not exceed the lesser of 30 percent of the financial holding company's Tier 1 capital or $6 billion.  The second cap applies to merchant banking investments other than investments made by the financial holding company in private equity funds, and is the lesser of 20 percent of Tier 1 capital or $4 billion.
+
+[SECTION]
+
+These caps do not apply to or limit in any way the investments made by a financial holding company under its other authorities, such as through small business investment companies.  Moreover, these caps are really thresholds.  The rule provides that a financial holding company may exceed these amounts with approval from the Board.
+
+[SECTION]
+
+This approach allows the Board to monitor the risk management systems and exposure of financial holding companies that devote a significant amount of resources to merchant banking.  We view the caps as a safe and sound way to allow merchant banking activities to begin and fully expect to revisit the need for caps as we review the interim rule and the capital proposal.
+
+[SECTION]
+
+B.  Capital Proposal
+Perhaps the most important, but also most controversial, aspect of the proposal is the appropriate capital treatment of equity investments for regulatory purposes.  This part has been proposed for comment, but unlike the portion I just described, has not been adopted.
+
+[SECTION]
+
+Our capital proposal would require bank holding companies to maintain in equity form at least 50 cents of capital for every dollar the consolidated bank holding company invests in merchant banking-type investments.  Under existing capital rules, a bank holding company could hold only 4 cents of its own equity capital-that is borrow 96 cents-for every dollar invested in equity securities.
+
+[SECTION]
+
+The proposed capital treatment would apply at the holding company level on a consolidated basis to the carrying value of investments made using the new merchant banking authority as well as to investments made in nonfinancial companies using other merchant banking-like investment authority.
+
+[SECTION]
+
+It is to this issue of the capital charge, our reasons for proposing it and its implications that I now turn.
+
+[SECTION]
+
+II.  Safety and Soundness
+While safety and soundness sensitivities are reflected in several components of the proposed regulation, an important aspect of the proposal to address potential safety and soundness concerns is the new capital requirement.  The Board's concern about the safety and soundness of banking organizations, of course, has to be balanced against other goals of the GLB Act and we sought to do so.  Nonetheless, this aspect of the proposal elicited the most comment and criticism.  I believe, however, there can be little doubt about either the importance of safety and soundness or the Board's authority and responsibility in this area.  We note that, in its consideration of the financial modernization legislation, Congress considered the appropriateness of capital standards at the holding company level and did not limit the Board's authority to develop appropriate capital requirements for bank holding and financial holding companies.
+
+[SECTION]
+
+A. Participation in the Equity Market by Banking Organizations
+Prior to the enactment of the GLB Act, banking organizations were permitted to invest in equities to a limited extent.  For example, the Small Business Investment Act of
+1958 permits banks, and the Bank Holding Company Act permits their holding companies, to invest in certain small companies through their ownership of Small Business Investment Companies (SBICs).  Banking organizations also have been authorized to match competition abroad by investing in foreign companies through their Edge Act affiliates and subsidiaries, and, under the Bank Holding Company Act of 1956, bank holding companies can invest in up to 5 percent of the voting shares (and up to 25 percent of the total equity) of any company.  All of these authorizations, however, have involved limits in one form or another: on size or location of the individual portfolio companies, on the proportion of each portfolio company acquired, or on aggregate holdings.
+
+[SECTION]
+
+The bulk of activity using these authorities has involved private equity investments.  The private equity market is one in which transactions occur largely in unregistered shares in private and public companies.  The market has grown quite rapidly in recent years and in 1999 is estimated to have had at least $400 billion outstanding.  The venture capital component, the equity financing of new firms, had outstandings of at least $125 billion.  It focuses on seed capital for the creation of new companies or equity needed for the continuation or growth of small firms.  The non-venture private equity sector, the equity financing of middle-market firms and leveraged buyouts, is considerably larger, with outstandings of about $275 billion.  The contribution of a broad and deep private equity market to economic growth is considerable and its existence is critical to our nation's continued economic vibrancy.
+
+[SECTION]
+
+Holding of Equities by Banking Organizations.  Banking organizations play a modest but not insignificant role in the private equities market.  Most banking organizations in fact do not make use of their existing authorities and, thus, do not participate in either the public or the private equities market.  This may reflect the lack of expertise required to participate in such finance at most banking organizations, more traditional banking strategies, or the restrictions and limits placed on their participation prior to the passage of the GLB Act.
+
+[SECTION]
+
+Most of the equity participation by banking organizations is concentrated in a small number of large banking organizations, whose activities are focused on the private equity market and, in some cases, whose holdings account for a significant proportion of their capital and earnings.  In keeping with the small number of banking organization participants, their share of the market is small-about 9 percent to 10 percent of the private equities outstanding.  Despite their limited market share, the ten U.S. banking organizations with the largest commitment to equity investments have about doubled their holdings in the last five or so years with aggregate investments currently exceeding $30 billion at carrying values.  These holdings account for an estimated 90 percent of holdings by all banking organizations of private equities in nonfinancial firms.  Seven of the ten largest holders each held equities with carrying values in excess of $1 billion at the end of 1999; two held more than $8 billion.  Carrying values at the largest holders were equal to 10 percent to 35 percent of their Tier 1 capital and both realized and unrealized gains on these holdings accounted for a growing share of their earnings.  Clearly at some large banking organizations, holdings of stock-mainly private equities-already were large and rising before merchant banking was authorized by the GLB Act.  As supervisors, equity investment by banking organizations had clearly gotten our attention well before last November.
+
+[SECTION]
+
+Larger banking organizations generally employ all of the various legal authorities available to them in making equity investments.  In making investments in private equity funds and direct investments, banking organizations generally use Bank Holding Company Act authorities and several institutions have made substantial international equity investments through their Edge Act affiliates.  SBICs are also used substantially by larger banking organizations and by some regional and smaller institutions.  There are roughly 100 SBICs affiliated with about 60 banking organizations.  Although they account for only a third of all SBICs, they represent more than 60 percent of SBIC investments, about $5.25 billion out of a total of $8.75 billion.  All SBICs-bank-related and others-account for about 7 percent of the venture capital market and about 2 percent of the total private equity market.
+
+[SECTION]
+
+The large banking organizations active in private equity investments have considerable experience and diversified portfolios.  They have, by and large, been successful-with some reporting annual rates of return in excess of 25 percent to 35 percent in recent years.  For the most part, they also have been conservative in recognizing gains on their investments, discounting market valuations on traded equities to reflect liquidation realities and often recognizing increases in value on non-traded equities only by actual sales or other events.  No large aggregate losses have been reported on the equity holdings of these banking organizations in recent years.  Of course, the last several years have also seen the longest economic expansion and largest and longest bull market in our history.  Even in such an environment, however, the unusual returns have been dominated by a small number of great successes, the so-called "home runs" of the private equity business.
+
+[SECTION]
+
+The attraction of banking organizations to the high returns and growing buoyancy in stock prices-especially for IPOs (initial public offerings)-has matched the growth in the entire private equity market.  More private equity financing, especially venture capital financing, was accomplished in the past three years than in the previous thirty.  In the fourth quarter of last year and the first quarter of 2000 almost as much venture capital was invested as in total over the previous four quarters ending in September.
+
+[SECTION]
+
+Risk and Equity Holdings.  Even with rising valuations, private equity is still the most expensive form of finance available.  Investors in private equity securities demand high expected returns, ranging from 15 percent to 25 percent for mature firms seeking expansion capital to 60 percent to 80 percent for early stage ventures.  The high hurdle rates for venture capital finance reflect the fact that the loss rates on individual deals are so high.  A review of venture capital investments over the last four decades suggests that a fourth to a third of the deals resulted in absolute losses, which is why we do not see 60 percent to 80 percent returns on venture capital portfolios.  The high risks that such loss rates imply are both the cause of the high issuer cost and the flip side of high average returns on a portfolio of venture capital equities.  In both cases they represent risk compensation.
+
+[SECTION]
+
+High returns on aggregate venture capital investments rely on those "home runs" I referred to earlier to offset the "strikeouts", if I may use an analogy.  Generally, about 20 percent of investments have been "home runs" with extraordinary returns that offset the losses and mediocre returns of other investments.  Evidence from 1,000 private equity partnerships developed by the firm Venture Economics suggests that over the entire period since 1969 investors received an average return of about a 20 percent annual rate, but that these returns were boosted by the explosive IPO market in the late 1990s, facilitating exit from a record number of investments by the partnerships.  As with individual investments, "home runs" offset a substantial portion of "strikeouts".  Median returns have averaged closer to 10 percent, and roughly one-fifth of the individual venture capital partnerships have resulted in capital losses.
+
+[SECTION]
+
+Returns to such partnerships have varied widely over the years.  Investors in more than 200 venture capital partnerships formed in the early 1980s, when the market was expanding rapidly, have received only about a 5 percent to 8 percent annual return on these investments.  Nearly a quarter of these partnerships resulted in losses to investors.  In a survey, large long-term institutional private equity investors reported that they generally expect a long-run rate of return on private equities of at least 15 percent, as compared to 11 percent to 12 percent for public equities, but some report that they expect the standard deviation of returns to be about twice as high-32 versus 16 percent.  A "standard deviation" is a common statistical measure of variation, and measures of variation are used by economists as indicators of the degree of risk in an investment.
+
+[SECTION]
+
+Any return (or losses) that banking organizations capture per dollar of portfolio equities held are multiplied significantly relative to their own investment in this part of their business-both absolutely and relative to independent firms.  That is, of course, the result of the higher degree of leverage at banking organizations.  Independent venture capital operations are generally unable to leverage their holdings to any significant degree.
+
+[SECTION]
+
+Banking Organization Capital and Risk Absorption.  As in all businesses, the primary role of the capital of an organization is to absorb risk, i.e. loss.  Without equity capital, businesses would not be able to borrow funds to finance any assets, let alone risky assets, because losses would then fall on the creditors who do not participate in the successes-the profits-of the firm.  Insured depository institutions and bank holding companies, however, are required to hold as little as 4 cents of equity for every dollar of risk assets, although the average amount of equity actually held by all banks is about 9-1/2 percent of risk assets.  The largest U.S. banks and bank holding companies have an equity-to-risk-asset ratio (Tier 1 ratio) of 7 percent to 9 percent.  If assets contract in value by these amounts, the entity is insolvent; indeed, Congress requires the agencies to begin steps to close a bank when it becomes "critically under-capitalized", as defined by the Congress, which is when the tangible equity capital to total asset ratio of the bank falls to 2 percent.
+
+[SECTION]
+
+A dollar contraction in asset values produces a dollar contraction in equity capital.  Clearly, banking organizations have very little tolerance for risk-i.e. loss-because they hold such modest equity.  Small declines in asset values would eliminate large proportions of their small equity base.
+
+[SECTION]
+
+The risk of equity investments with modest equity capital backing is even greater when one considers that, under generally accepted accounting principles, a firm engaged in equity investment is permitted to count as income a substantial portion of the increase in the value of its equity investments, even if the firm has not realized this profit by selling the securities.  This increase in value-even though unrealized and subject to decline-is then permitted to count as capital for the firm and can be used to support growth of the firm.  In effect, under our current capital rules, a banking organization could leverage these paper gains 25 times.
+
+[SECTION]
+
+From an economic point of view, banks have been able to operate with a high degree of leverage because their creditors, depositors and others are comforted by the safety net-government guarantees of certain deposit liabilities and access to the discount window and payments and settlement systems-as well as by supervision and regulation, which is intended to ensure the safe and sound operation of the bank.  In the late 1980s and early 1990s a large number of banks did in fact become insolvent because of credit losses, but historically a level of leverage that would be unacceptable in most other financial businesses has proved to be viable for banking organizations with traditional banking assets.
+
+[SECTION]
+
+Risk and Capital. Commenters do not generally disagree with the observation that venture capital equity assets are riskier than the average banking organization asset.  Nor have they generally disagreed with one of the very few, apparently immutable, laws of finance that, in the long run, the higher the nominal rate of return the greater the inherent risk of the asset.  By greater risk, I mean the greater the variability of returns, and thus the larger probability of loss, for a portfolio of such assets.  The thrust of the evidence the Board reviewed in developing its capital proposal, which I have described above, suggested that private equity investments carry risks that greatly exceed those of average banking organization assets.  Moreover, the Board was concerned that the level of this higher risk has become increasingly inconsistent with the minimum requirements of the current Basel capital Accord, particularly as the amount of such investments has risen sharply in an environment of substantially rising equity valuations.  Our review of the merchant banking authority brought this general issue to the fore for equity assets purchased under all authorities, not just the new merchant banking authority.
+
+[SECTION]
+
+As part of our review, supervisors and economists from both the Federal Reserve and the Treasury, with whom we share rule-making authority on merchant banking, met with banking organizations and securities firms active in the private equity business to review best practices.  These interviews indicated that both sets of firms allocated very high levels of internal or economic capital to their private equity business-between 25 and 100 percent, with the median above 50 percent.  That is to say, the practitioners' own experience and the resultant policy they followed internally was to assume that the risks were such that they should presume they might lose all or a significant share of their investment and should prepare for that eventuality.  That practice seemed consistent with the evidence we reviewed, particularly given the current valuations placed on equities relative to historical norms.
+
+[SECTION]
+
+That practice was also consistent with the experience of those firms that provide the dominant volume of the private equity market investment.  At least 75 percent of the private equity funding is provided by independent firms that manage limited partnerships, raising funds from pension funds, endowments, foundations, corporations, and wealthy individuals.  Their equity holdings are essentially balanced dollar-for-dollar with the owner/investor's own equity investment, with virtually no debt financing.
+
+[SECTION]
+
+We also looked at the practice of other government agencies.  The Small Business Administration limits the subsidized borrowing of non-bank SBICs from it to three times equity.  In addition, the Securities and Exchange's net capital rule for securities broker-dealers generally requires the firm to deduct from its regulatory capital 100 percent of the carrying value of the firm's private equity investments, a rule that induces these firms to shift their holdings to non-regulated affiliates.
+
+[SECTION]
+
+In view of their similarity, the Board did not distinguish in its proposal the risk of a venture capital investment made under the new merchant banking authority from that made under other authorities.  By and large, the nature of most major banking organizations' existing equity investments are similar to those made by non-bank venture capitalists and are similar to those likely to be made under merchant banking powers.  The high average returns to these investments-by suggesting their riskiness (recall the iron law that high return means high risk)-also suggested we seek comment on the need for a higher commitment of equity capital for all portfolio equity assets at banking organizations.
+
+[SECTION]
+
+Consequently, we proposed a 50 percent capital requirement on portfolio equity investments held under any authority at any location in a bank holding company.  This proposal is subject to review in light of public comments.
+
+[SECTION]
+
+B.  Comments about the Capital Proposal
+Indeed, as mentioned at the outset, the Board is now reviewing and evaluating the comments on its proposals.  My colleagues and I have not seen all of the comments or heard the staff's evaluation of them.  We are not committed to any conclusion or decision at this time.  Nonetheless, the objectives of the Subcommittee, as I understand them, would not be met if I did not try to highlight the major issues as they seem to be unfolding.  Please keep in mind the caveats I just noted as I try to do so.
+
+[SECTION]
+
+Rating Agencies.  Each of the two major rating agencies-Standard & Poor's and Moody's-has issued reports discussing banking organizations' private equity activities since the Board published its capital proposal.  Standard & Poor's concluded that the proposed 50 percent equity support appeared to be about right "if the bank's portfolio is mature and diversified; less diversified portfolios could need up to 100 percent."  It also noted that the heavy regulatory claim on capital for banking organizations active in private equity markets would have "no rating implications" "because Standard & Poor's ha[s] historically allocated this level of capital" to the equity investment activities of banking organizations.
+
+[SECTION]
+
+Moody's noted that venture capital activities are "capital-intensive" and that it believed "that it is prudent for venture capital activities to be funded with a high equity componentIf the bank is taking on significant fixed income obligations to fund an equity investment, we have further concerns."  It concluded that "Moody's sees the recent Treasury and Fed proposal requiring U.S. banks to set aside capital equal to 50 percent of a bank's venture capital investmentsas being supportive of bank ratings."
+
+[SECTION]
+
+Economic vs. Regulatory Capital.  In reviewing the capital proposal, the Board will have to consider a critical comment raised regarding the distinction between regulatory and economic capital.  All parties generally agree, as I have noted, private equity is a risky asset.  There is, as I also noted, substantial evidence that, in general, both the firms engaged in private equity investing and the rating agencies internally or analytically allocate at least as much capital to such assets as the Board has proposed.  That is, the economic capital applied to these assets for internal risk and other purposes already exceeds the regulatory capital by a wide margin, a margin that is not exceeded by our proposal.
+
+[SECTION]
+
+However, commenters have argued that there would be considerably less difficulty with the proposed regulatory capital treatment for equities if the authorities permitted a regulatory capital treatment for the rest of a banking organization's assets that was consistent with the "real" or economic risk on those assets.  This argument rests on the assumption that the regulatory capital on a significant volume of banking organization assets exceeds their economic charge and that, therefore, the sum of a higher regulatory capital on equities and the existing regulatory capital on all other assets would exceed the total economic capital on all the assets.  The commenters that have raised this issue have argued the Federal Reserve has engaged in "cherry picking"-picking out the risky assets for higher capital charge without providing relief for the lower risk assets.  They have urged the Board to wait until there is broader reform in the Basel Accord that would presumably address these concerns.  The reforms underway in the Accord are, in fact, seeking to make bank regulatory capital charges more risk-sensitive and consistent with the "true" underlying economic risk at individual institutions.  The U.S.  banking agencies are aggressively promoting these efforts in discussions with other G-10 countries at Basel.
+
+[SECTION]
+
+I remind you again that the Board has not discussed this particular comment yet, although similar issues have been raised in other discussions of capital more broadly.  It may be better, as some commenters suggest, to deal with all the capital issues at one time.  However, we face a practical problem.  Private equity holdings are large and growing rapidly now, and the restraints on further growth are being relaxed.  Meanwhile, practical reform of the Basel Accord is at least three years in the future.
+
+[SECTION]
+
+As the Subcommittee knows, policy-making requires trade-offs and we are going to have to balance the facts and considerations I have just noted.  In doing so, however, we must also consider another variable in our deliberations, namely the undermining of the regulatory capital structure through so-called capital arbitrage.
+
+[SECTION]
+
+Essentially, the regulatory capital framework now groups or "buckets" all banking assets into four risk categories for determining their capital charge-with most falling in the full-weight category that gets the 4 percent minimum Tier 1 charge mentioned earlier.  Banking organizations in recent years, however, have developed methods to move off their balance sheets those assets whose economic risk-as determined by the market-implies an economic capital charge that is less than the regulatory capital requirement.  That is, they have avoided a one-size-fits-all average regulatory capital requirement whenever that charge is above the market's risk evaluation on a specific set of assets, retaining those assets whose economic capital is equal to or higher than the regulatory requirement.
+
+[SECTION]
+
+The Federal Reserve and the other banking agencies have not sought to block these transactions.  Rather we have all recognized the market reality that the current regulatory capital requirements imply that banking organizations have two choices.  The first is to simply stop extending certain low-risk credit because the regulatory capital requirement is too high.  The second choice is to extend such credits coupled with market transactions that, by equilibrating the amount of capital required with that consistent with the real economic risk, permit the credit extension to be both safe and profitable.  We have, in short, permitted capital arbitrage whenever the banking organization can meet the market test.
+
+[SECTION]
+
+Capital arbitrage means, however, that the resultant regulatory capital ratios for some banking organizations are biased upward.  That is, the average retained assets are, on average, more risky and thus the same capital ratio as before does not represent the same degree of capital strength.  Put differently, banking organizations engaging in capital arbitrage have already removed from their balance sheets a large number of those assets whose economic capital charge is less than their regulatory capital requirement.  These banking organizations, that is to say, have already engaged in a form of cherry picking to lower their capital charges and thus have fewer low-risk on-balance sheet assets subject to full capital charge.  It is difficult to estimate the capital "savings" made by these institutions from capital arbitrage and compare it to the potential "cost" of higher regulatory capital on equities.  The measured value of the latter may exceed the former.  Nonetheless, capital arbitrage is surely one of the variables we will consider in the final decision making process.
+
+[SECTION]
+
+A related issue in interpreting distinctions between economic and regulatory capital is banking organizations' desire for excess regulatory capital.  It appears clear that banking organizations want to hold a level of capital above the regulatory minimums, in part to assure they can retain the imprimatur of being classified as "well-capitalized" in the event of losses; and in part to receive higher ratings from the rating agencies and a lower cost of funds from the market.  Thus, commenters were not assuaged by the observation that even after the imposition of the proposed capital charge on equities, all the banking organizations with significant equity holdings that are now "well-capitalized" on a regulatory basis would remain so, and would have the ability to acquire additional equities and still remain "well-capitalized".  Their focus and concern is the reduction in the margin by which they would be "well-capitalized".
+
+[SECTION]
+
+Congressional Intent.  Several commenters have argued that the Board's proposals are inconsistent with several stated congressional objectives: (1) facilitating small business venture capital equity finance, especially through SBICs; (2) permitting securities firms to become financial holding companies (the "two-way street"); and (3) the desire to avoid imposing bank-like regulation on the nonbanking activities of financial holding companies ("Fed-lite").
+
+[SECTION]
+
+As noted earlier, the Small Business Investment and the Bank Holding Company acts permit banks and bank holding companies to invest in and operate SBICs with the special objective of easing access to venture capital by smaller firms.  Some commenters have argued that higher capital requirements may blunt this effort.  The Board must evaluate the potential impact of its capital proposal on the financing of small businesses through SBICs.  An important question is whether a higher regulatory capital charge would, in fact, significantly reduce the commitment of banking organizations to SBIC finance.  Banks tell us they already have an internal capital hurdle at least as high as the proposed regulatory charge, and in applying the charge we understand they make no distinction about the authority under which, or where in the organization, the shares are held.  Moreover, a reduction in their investments-if it did occur-might not be a significant factor in total venture capital finance for small businesses, since banking organization-related SBICs account for only about 6 percent of all venture capital finance.  Nonetheless, the comments require that we review the SBIC issue again.
+
+[SECTION]
+
+Any observer of the negotiations leading to enactment of the GLB Act is aware of the importance placed on both the "two-way street" and "Fed lite".  Some commenters argued that the proposed capital charge will make it difficult for securities firms to become financial holding companies by requiring that, as soon as they acquire a bank, they meet higher regulatory capital requirements on the equity investments already held by the firm.  In developing the proposal, however, we tried to carefully evaluate this issue, including whether the internal capital charges securities firms told our staff they used represent a calculation of the risks associated with equity investment activities or are just used for internal management decision-making purposes but not for risk management.  We will review this issue again in light of the comments.
+
+[SECTION]
+
+An area where commenters have suggested that we may not have been consistent with our commitment to "Fed-lite" is the quantitative limit or cap on aggregate holdings of equities by banking organizations.  Our thinking, admittedly similar to our historical stance, is to be cautious in new activities until we have become more comfortable with how banking organizations manage their positions.  We followed such an approach with section 20 affiliates.  Recall that merchant banking activities have been authorized to begin while the capital rule is simply proposed.  Thus, financial holding companies-two-thirds of which are below $1 billion in consolidated assets-could begin to acquire potentially large amounts of risky assets before being required to hold an appropriate amount of additional capital to support these investments.  Moreover, we chose a cap that we felt was unlikely to bind on any present participant any time soon and that, in any event, we could relieve on a case-by-case basis if appropriate.  Our objective in the proposal was to err on the side of caution, particularly for new participants, and to consider eliminating the cap in connection with the development of a final capital rule.
+
+[SECTION]
+
+******
+
+[SECTION]
+
+The commenters raised important questions and the Board will carefully evaluate them and modify its proposal and interim rule where necessary and in the public interest.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+	  65 Federal Register 16,460 16,480 (March 28, 2000).
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: June 13, 2000

@@ -1,0 +1,177 @@
+Testimony of Governor Laurence H. Meyer
+Comment on a draft banking regulatory relief bill
+Before the Subcommittee on Financial Institutions and Consumer Credit of the Committee on Banking and Financial Services, U.S. House of Representatives
+July 16, 1998
+
+[SECTION]
+
+The Board of Governors appreciates this opportunity to comment on the discussion draft regulatory relief bill.  The Board welcomes this legislation and supports its purpose of revising outdated banking statutes that are imposing costs without providing commensurate benefits to the safety and soundness of depository institutions, enhancing consumer protection, or expanding credit availability.  As the members of this Subcommittee are aware, unnecessary regulatory burdens hinder the ability of banking organizations to compete effectively in the broader financial services marketplace and, ultimately, adversely affect the availability and prices of banking services and credit products to consumers.
+
+[SECTION]
+
+In my testimony today, I would like to highlight those provisions of this legislation that the Board supports and believes are particularly significant in reducing burden and promoting efficient regulation.  For example, the Board strongly endorses the measures in this bill that would immediately allow banks to pay interest on demand deposits and the Federal Reserve System to pay interest on the required and excess reserve balances held by depository institutions at the Federal Reserve Banks.  The Board also strongly supports the protections embodied in Title V of this bill, the Bank Examination Report Privilege Act, which promote effective bank supervision by enhancing the cooperative exchange of information between supervised financial institutions and their regulators.  (Attached to this statement is an appendix containing an expanded discussion of the provisions governing interest on reserves and interest on demand deposits.)
+
+[SECTION]
+
+Although there is much in the draft bill that the Board favors, there are a few provisions with which the Board has concerns.  I would like to point out some of these provisions, but I do not wish these objections to detract from the central message of my testimony--that the nation's banking system needs reform of the type embodied in this legislation.
+
+[SECTION]
+
+Past Efforts to Alleviate Burden
+	By way of background, it is important to note that the legislation being considered by the Subcommittee today builds on the accomplishments of two prior reform measures that many members of this Subcommittee worked hard to enact.  The Community Development and Regulatory Improvement Act of 1994 ("1994 Act") and the Economic Growth and Paperwork Reduction Act of 1996 ("1996 Act") were useful measures that achieved meaningful reductions in regulatory burden.
+
+[SECTION]
+
+In the 1994 Act, Congress alleviated the paperwork burden for banking organizations seeking to gain federal approval to form new holding companies and to engage in certain nonbanking transactions, enhanced the efficiency of the regulatory process by eliminating unnecessary applications and filing requirements, and streamlined the examination and audit procedures of the federal banking agencies.  Two years later, Congress passed the 1996 Act, which permitted well-capitalized and well-managed institutions to commence previously approved nonbanking activities without filing an application.  In the 1996 Act, Congress also passed important reforms to consumer protection statutes that alleviated the burdens imposed by these statutory provisions on financial institutions without undercutting the goals of the consumer protection laws.
+
+[SECTION]
+
+The Board supported these prior reform efforts, which--coupled with the Board's independent initiatives to make our regulations simpler, less burdensome, and more transparent--have had a bottom-line, practical effect:  fewer applications need to be filed with the Board, and banking organizations have saved substantial regulatory, legal, compliance, and other costs.  In short, these statutory and regulatory changes have enhanced the competitiveness of banking organizations and have benefitted the customers of these financial institutions.  Nonetheless, as the authors of this bill have recognized, more can and should be done.
+
+[SECTION]
+
+The Provisions of this Bill 
+	The draft bill contains important additional reform provisions that would further eliminate obsolete and unnecessary regulations.  The Board applauds many of the measures contained in this bill, which we believe would eliminate restrictions that no longer serve a useful purpose and would thereby enhance the ability of U.S. banking institutions to operate efficiently and effectively in increasingly competitive financial markets.
+
+[SECTION]
+
+Interest on Demand Deposits and Reserve Balances  
+	The Board strongly endorses section 101 of the draft bill, which would permit the Federal Reserve to pay interest on required and excess reserve balances that depository institutions maintain at Federal Reserve Banks.  Because required reserve balances do not currently earn interest, banks and other depository institutions employ costly procedures to reduce such balances to a minimum.  The cost of designing and maintaining the systems that facilitate these reserve avoidance techniques represent a significant waste of resources for the economy.  In addition, because some small banks do not have the volume of deposits needed to justify these costs, the current system of reserve avoidance techniques tends to place smaller institutions at a competitive disadvantage.
+
+[SECTION]
+
+The reserve avoidance measures utilized by depository institutions currently also could complicate the implementation of monetary policy.  Declines in required reserve balances through avoidance schemes could lead to increased volatility in the federal funds rate.  The draft bill's authorization of interest payments on excess reserves would be a useful addition to the tools that the Federal Reserve possesses to deal with such contingencies.
+
+[SECTION]
+
+If increased volatility in the federal funds rate did become a persistent feature of the money market, it would affect other overnight interest rates, raising funding risks for large banks, securities dealers, and other money market participants.  Suppliers of funds to the overnight markets, including many small banks and thrifts, also would face greater uncertainty about the returns they would earn.  Accordingly, allowing the Board to pay interest on required reserve balances would not only eliminate economic inefficiencies, but also alleviate risks that could affect monetary policy and the smooth functioning of the money markets.
+
+[SECTION]
+
+The Board also strongly supports section 102 of the bill, which would permit payment of interest on demand deposits held by businesses.  The current prohibition of interest on the demand accounts of businesses is an anachronism that no longer serves any public policy purpose.  This prohibition was enacted in the 1930s, at a time when Congress was concerned that large money center banks might bid deposits away from country banks to make loans to stock market speculators.  Regardless of whether this rationale for the prohibition was ever valid, it is certainly not applicable today:  funds flow freely around the country and among banks of all sizes.  The absence of interest on demand deposits is no bar to the movement of money from depositories with surpluses--whatever their size or location--to the markets where funds can be profitably employed.
+
+[SECTION]
+
+Moreover, although the prohibition has no current policy purpose, it imposes a significant burden both on banks and on those holding demand deposits, especially small banks and small businesses.  Smaller banks complain that they are unable to compete for the deposits of businesses precisely because of their inability to offer interest on demand deposit accounts.  Small banks, unlike their larger counterparts, lack the systems to offer compensating balance schemes and sweep accounts that allow these banks to offer businesses credit for, or interest on, excess demand balances.  Small businesses, which often earn no interest on their demand deposits because they do not have account balances large enough to justify the fees charged for sweep programs, stand to gain the most from eliminating the prohibition of interest on demand deposits.
+
+[SECTION]
+
+For these reasons, the Board strongly supports the immediate repeal of the prohibition of interest on demand deposits, as accomplished in section 102 the bill.  Section 102 also presents an alternative that would ultimately allow payment of interest on demand deposits and, during a transition period, would authorize a fully reservable, 24-transaction money market deposit account ("MMDA").  Although some transition period in the implementation of direct payments on demand deposits would not be objectionable, a relatively short period would be appropriate, rather than the six-year delay proposed in the alternative.  The 24-transaction MMDA under the alternative would be fully reservable, and therefore would not contribute to further declines in required reserve balances and the complications that might entail for the implementation of monetary policy.  With a relatively short transition period, the alternative would be acceptable to the Board in preference to the status quo.
+
+[SECTION]
+
+The draft bill's alternative language also includes a provision granting the Federal Reserve increased flexibility in setting reserve requirements.  At present, we have no intention of either increasing or decreasing reserve requirement ratios within the limits that we are already allowed by law.  However, it is impossible to know in advance the contingencies that the Federal Reserve may have to address, and the added flexibility in setting reserve requirement ratios might be a useful tool at some
+time in the future.
+
+[SECTION]
+
+Bank Examination Report Privilege  
+	The Board endorses Title V of the bill, the Bank Examination Report Privilege Act ("BERPA").  BERPA would take three steps to promote effective supervision of banking organizations by helping to preserve candor in communications between such institutions and their examiners.  First, BERPA would clarify that a supervised institution may voluntarily disclose information that is protected by the institution's own privileges, such as the attorney-client privilege, to a federal banking agency without waiving those privileges as to third parties.  Some courts have ruled that disclosure of information to examiners waives an institution's privileges in private civil litigation and, as a result, some institutions have attempted to withhold information from their supervisors.  By ensuring that privileges are not waived when data are given to examiners, BERPA would overcome the present reluctance of many institutions to disclose information for fear of losing common-law privileges.
+
+[SECTION]
+
+Second, BERPA would establish uniform procedures that govern how a third party may seek to obtain confidential supervisory information from a banking agency.  BERPA would require third parties to request such information directly from the federal banking agencies, under regulations and procedures adopted by the agencies.  Third parties may turn to the courts only after exhausting their administrative remedies.  Finally, BERPA would define what constitutes confidential supervisory information and would strengthen the protection afforded to such information.
+
+[SECTION]
+
+By protecting disclosures by depository institutions to their examiners and by safeguarding supervisory information, BERPA would prevent unwarranted disclosures that would have a chilling effect on the examinations process.  Taken together, these measures would enhance the ability of the federal banking agencies to assess and to protect the safety and soundness of depository institutions.
+
+[SECTION]
+
+Elimination of Duplicative Approval Requirements  
+	Section 310 of the draft bill would provide an opportunity to eliminate needlessly duplicative filing and approval requirements for bank holding companies seeking to acquire a depository institution and merge it with an existing subsidiary.  Currently, a bank holding company must obtain two sets of identical approvals prior to engaging in such a transaction.  The bank holding company first must file an application and obtain prior approval under the Bank Holding Company Act to acquire the depository institution, and then the holding company must file another application and obtain a second approval under the Bank Merger Act to merge the acquired institution, which is by now already a subsidiary of the holding company, with one of its other subsidiaries.
+
+[SECTION]
+
+The dual approval requirement is needlessly redundant.  Under the Bank Holding Company Act, the Board is required to consider the financial, managerial and competitive effects of the entire merger transaction, including any part of the transaction that involves the purchase of nonbanking assets.  By contrast, under the Bank Merger Act, the appropriate federal banking agency reviews only that portion of the transaction that concerns the surviving bank. Accordingly, the Bank Merger Act review is subsumed in the larger Bank Holding Company Act review process.  In addition, the statutory factors that the appropriate federal banking agencies are required to consider under the Bank Holding Company and the Bank Merger Acts are identical and, frequently, the agencies undertake the two statutory reviews simultaneously.  For these reasons, the Bank Merger Act review rarely, if ever, raises any issues that have not been fully vetted in the Bank Holding Company Act applications process.
+
+[SECTION]
+
+Section 310 would provide the option for eliminating the duplicative review process by permitting bank holding companies that have already obtained approval to acquire an institution under the Bank Holding Company Act then to merge that institution with an existing subsidiary without obtaining a second approval under the Bank Merger Act.  To assure than any special issues that may be raised by a specific bank merger may be reviewed by the relevant bank supervisor, section 310 would, nevertheless, require that the federal banking agency responsible for supervising the bank resulting from the merger receive advance notice of the proposed merger.  Importantly, section 310 also would allow that agency to require a full application under the Bank Merger Act if that agency determines that special concerns or circumstances warrant such review of a transaction.
+
+[SECTION]
+
+Other Burden Reduction Provisions  
+	There are other parts of this draft bill, as well, that would relieve regulatory burden without giving rise to safety and soundness, supervisory, consumer protection, or other policy concerns.  For example, section 312 would eliminate the outdated and largely redundant requirement in section 11(m) of the Federal Reserve Act, which currently sets a rigid ceiling on the percentage of bank capital and surplus that may be represented by loans collateralized by securities.  Current supervisory policy, as well as national and state bank lending limits, address concerns regarding concentrations of credit more comprehensively than section 11(m), but do so without the unnecessary constraining effects of this section of the Federal Reserve Act.
+
+[SECTION]
+
+Section 313 would eliminate section 3(f) of the Bank Holding Company Act, which applies certain restrictions that govern the nonbanking activities of bank holding companies to the activities conducted directly by savings banks under state law.  Since the enactment of section 3(f), the courts have found that the insurance and other nonbanking prohibitions of the Bank Holding Company Act do not apply to the direct activities of banks.  Eliminating section 3(f) would put savings banks that are subsidiaries of bank holding companies on equal competitive footing with their state bank counterparts, allowing savings banks and their subsidiaries to engage in those activities that are permissible for state banks under state law.
+
+[SECTION]
+
+In another area, the alternative consumer credit disclosure mechanisms permitted by sections 401 and 402 will be less burdensome to creditors and just as helpful to consumers as the disclosure requirements embodied in current law.  Congress has already eliminated the requirement that creditors disclose a historical table for closed-end variable rate loans.  Taking similar action with respect to open-end variable rate home-secured loans, and permitting creditors to make alternative disclosures to meet their obligations with regard to credit advertising under the Truth in Lending Act, would reduce regulatory burdens without sacrificing consumer protections.
+
+[SECTION]
+
+Areas of Concern  
+	Although the Board supports most of the provisions in the draft bill, there are a few sections of the legislation that cause us concern as they are drafted.  These provisions, as currently drafted, may give certain entities unfair competitive advantages, may result in changes to the law that the Subcommittee did not intend, may harm the safety and soundness of depository institutions, or are unnecessary.
+
+[SECTION]
+
+Nonbank Banks  
+	Two provisions of the draft bill would eliminate limitations that have been applied to nonbank banks.  Section 221 would allow nonbank banks to offer business credit cards, even where these business loans are funded by insured demand deposits.  Section 222 would liberalize the divestiture requirements that apply when companies violate the nonbank bank operating limitations.  Eliminating these restrictions on nonbank banks, at first glance, may have intuitive appeal.  However, there are important reasons why the Board is concerned about these provisions.
+
+[SECTION]
+
+Nonbank banks--which, despite their popular name, are federally insured, national or state-chartered banks--came into existence by exploiting a loophole in the law.  By means of this loophole, industrial, commercial, and other companies were able to acquire insured banks and to mix banking and commerce in a manner that was then, and remains today, statutorily prohibited for banking organizations.  In 1987, in the Competitive Equality Banking Act ("CEBA"), Congress closed the nonbank-bank loophole.  At that time, Congress chose not to require the 57 companies operating nonbank banks to divest these institutions.  Instead, Congress permitted the companies owning these banks to retain their ownership so long as they complied with a carefully crafted set of limitations on the activities of nonbank banks and their parents.  In a unique statutory explanation of legislative purpose, Congress stated in CEBA that these limitations were necessary to prevent the owners of nonbank banks from competing unfairly with bank holding companies and independent banks.
+
+[SECTION]
+
+Fewer than 25 nonbank banks currently claim the grandfather rights accorded in CEBA.  The Board is concerned that removal of the limitations and restrictions that apply to nonbank banks would enhance advantages that this relative handful of organizations already possess over other owners of banks and would give rise to the potential adverse effects about which Congress has in the past expressed concern.  In addition, removal of limitations would permit the increased combination of banking and commerce for a select group of commercial companies, a mixture that the House recently considered and decided not to permit in the context of a broader effort to modernize our financial laws.
+
+[SECTION]
+
+Financing Corporation Payments
+	The Board also has some concerns about section 103 of the draft bill, which authorizes the use of "excess net income" of a deposit insurance fund to pay interest on Financing Corporation ("FICO") bonds and to reduce FICO interest assessments of the fund's members.  The proposal would divert resources from the "deposit insurance purposes" of the funds to other, non-insurance purposes--a diversion that would create a troubling precedent that could be difficult to resist in the future.
+
+[SECTION]
+
+More fundamentally, it is not clear if the provision would ensure that the deposit insurance funds have an adequate level of reserves.  There is no "correct" level of reserves and no level that can be deemed "excess."  There are always unforeseen problems--most recently, Asian instabilities and potential "year 2000" problems.  Nor can we simply assume the indefinite continuation of the current economic expansion.  As a result, the Board believes that it would be more prudent not to divert "excess" reserves but, instead, to allow bank insurance fund reserves to grow to provide greater protection against future unforeseen problems in the banking system.
+
+[SECTION]
+
+Extensions of Credit to Executive Officers
+	Section 311 of the draft bill would allow a member bank to extend credit to the bank's executive officers (1) in the form of a home equity credit line of up to $100,000, so long as the credit line is secured by the officer's primary residence, and (2) in an unlimited amount, so long as the loan is over- collateralized by readily marketable assets.  The Board believes the provision regarding the home equity line should be clarified to indicate that the amount of the credit line may not exceed the value of the real estate held as collateral.  In addition, the Board believes that the provision allowing unlimited extensions of credit secured by readily marketable assets goes too far:  Loans to executive officers and to other insiders should be carefully circumscribed and subject to quantitative limits.  The Board and the FDIC, which we understand recommended these provisions, are working together to suggest a clarification of this section of the bill and to address these issues.
+
+[SECTION]
+
+Call Report Simplification
+	Finally, the Subcommittee specifically requested comment on section 302 of the draft bill, which restates section 307 of the Riegle Community Development and Regulatory Improvement Act ("Riegle Act").  The Board and the other banking agencies, working through the Federal Financial Institutions Examination Council, have made substantial progress in implementing the mandate of section 307 of the Riegle Act.
+
+[SECTION]
+
+Thus far, the federal banking agencies have eliminated approximately 80 Call Report data items; placed revised Call Report instructions and forms on the Internet; adopted Generally Accepted Accounting Principles ("GAAP") as the reporting basis for all Call Reports; produced a draft core report; condensed four sets of Call Report instructions into one; provided an index for Call Report instructions; implemented an electronic filing requirement for all institutions submitting Call Reports; placed much of the Call Report data on the Internet; and reported to Congress on recommendations to enhance efficiency for filers and users.  The agencies are currently surveying depository institutions to identify additional Call Report items that could be eliminated, while retaining items that are essential for safety and soundness and other public policy purposes.  The significant progress that has been made by the agencies to date and the agencies' on-going efforts suggest that this section of the draft bill is not necessary.
+
+[SECTION]
+
+Closing Thoughts
+	The Board applauds the efforts of the Subcommittee to continue to eliminate unnecessary government-imposed burdens.  The Subcommittee has fashioned legislation that, in the main, builds upon past successes in regulatory reform and relieves regulatory burdens on banking organizations.  In some areas, however, the draft bill may not achieve meaningful reform but instead would lead to competitive inequities or raise safety and soundness and other concerns.
+
+[SECTION]
+
+The Board has long endorsed regulatory relief and financial modernization strategies that ensure regulatory equity for all participants in the financial services industry, that minimize the chances that federal safety net subsidies will be expanded into new activities and beyond the confines of insured depository institutions, that guarantee adequate federal supervision of financial organizations, and that ensure the continued safety and soundness of .financial organizations.  The Board would be pleased to work with the Subcommittee and its able staff to reach these goals in this and future legislative efforts.
+
+[SECTION]
+
+Appendix
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: July 16, 1998, 9:30 AM

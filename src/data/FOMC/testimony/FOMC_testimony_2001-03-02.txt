@@ -1,0 +1,140 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear here today to discuss some of the important issues surrounding the outlook for the federal budget and the attendant implications for the formulation of fiscal policy. In doing so, I want to emphasize that I speak for myself and not necessarily for the Federal Reserve.
+
+[SECTION]
+
+The challenges you face both in shaping a budget for the coming year and in designing a longer-run strategy for fiscal policy have been brought into sharp focus by the budget projections that have been released in the past month and a half.  Both the Bush Administration and the Congressional Budget Office project growing on-budget surpluses under current policy over the next decade.  Indeed, growing on-budget surpluses were projected even under the more conservative assumptions of the Clinton Administration's final budget projections.
+
+[SECTION]
+
+The key factor driving the cumulative upward revisions in the budget picture in recent years has been the extraordinary pickup in the growth of labor productivity experienced in this country since the mid-1990s.  Between the early 1970s and 1995, output per hour in the nonfarm business sector rose about 1-1/2 percent per year, on average. Since 1995, however, productivity growth has accelerated markedly, about doubling the earlier pace, even after one takes account of the impetus from cyclical forces. Though hardly definitive, the apparent sustained strength in measured productivity in the face of a pronounced slowing in the growth of aggregate demand during the second half of last year was an important test of the extent of the improvement in structural productivity. These most recent indications have added to the accumulating evidence that the apparent increases in the growth of output per hour are more than transitory.
+
+[SECTION]
+
+It is these observations that appear to be causing economists to raise their forecasts of the economy's long-term growth rates and budget surpluses. This increased optimism receives support from the forward-looking indicators of technical innovation and structural productivity growth, which have shown few signs of weakening despite the marked curtailment in recent months of capital investment plans for equipment and software.
+
+[SECTION]
+
+To be sure, these impressive upward revisions to the growth of structural productivity and economic potential are based on inferences drawn from economic relationships that are different from anything we have considered in recent decades. The resulting budget projections, therefore, are necessarily subject to a relatively wide range of uncertainty.  CBO, for example, expects productivity growth rates through the next decade to average roughly 2-1/2 percent per year--far above the average pace from the early 1970s to the mid-1990s, but still below that of the past five years.
+
+[SECTION]
+
+Had the innovations of recent decades, especially in information technologies, not come to fruition, productivity growth during the past five to seven years, arguably, would have continued to languish at the rate of the preceding twenty years. The sharp increase in prospective long-term rates of return on high-tech investments would not have emerged as it did in the early 1990s, and the associated surge in stock prices would surely have been largely absent. The accompanying wealth effect, so evidently critical to the growth of economic activity since the mid-1990s, would never have materialized.
+
+[SECTION]
+
+In contrast, the experience of the past five to seven years has been truly without recent precedent. The doubling of the growth rate of output per hour has caused individuals' real taxable income to grow nearly 2-1/2 times as fast as it did over the preceding ten years and has resulted in the substantial surplus of receipts over outlays that we are now experiencing.  Not only has taxable income risen with the faster growth of GDP, but the associated large increase in asset prices and capital gains has created additional tax liabilities not directly related to income from current production.
+
+[SECTION]
+
+The most recent projections from OMB and CBO indicate that, if current policies remain in place, the total unified surplus will reach about $800 billion in fiscal year 2010, including an on-budget surplus of almost $500 billion.   Moreover, the admittedly quite uncertain long-term budget exercises released by the CBO last October maintain an implicit on-budget surplus under baseline assumptions well past 2030 despite the budgetary pressures from the aging of the baby-boom generation, especially on the major health programs.
+
+[SECTION]
+
+These most recent projections, granted their tentativeness, nonetheless make clear that the highly desirable goal of paying off the federal debt is in reach and, indeed, would occur well before the end of the decade under baseline assumptions. This is in marked contrast to the perception of a year ago, when the elimination of the debt did not appear likely until the next decade.  But continuing to run surpluses beyond the point at which we reach zero or near-zero federal debt brings to center stage the critical longer-term fiscal policy issue of whether the federal government should accumulate large quantities of private (more technically, nonfederal) assets.
+
+[SECTION]
+
+At zero debt, the continuing unified budget surpluses now projected under current law imply a major accumulation of private assets by the federal government.  Such an accumulation would make the federal government a significant factor in our nation's capital markets and would risk significant distortion in the allocation of capital to its most productive uses.  Such a distortion could be quite costly, as it is our extraordinarily effective allocation process that has enabled such impressive increases in productivity and standards of living despite a relatively low domestic saving rate.
+
+[SECTION]
+
+I doubt that it is possible to secure and sustain institutional arrangements that would insulate federal investment decisions, over the long run, from political pressures.  To be sure, the roughly $100 billion of assets in the federal government's defined-contribution Thrift Savings Plan have been well insulated from political pressures.  But the defined-contribution nature of this plan means that it is effectively self-policed by individual contributors, who would surely object were their retirement assets to be diverted to investments that offered less-than-market returns.
+
+[SECTION]
+
+But such countervailing forces may be greatly attenuated for federal government defined- benefit plans such as social security.  To the extent that benefits are perceived to be guaranteed by the government, beneficiaries may be much less vigilant about the stewardship of trust fund assets.
+
+[SECTION]
+
+Requiring the federal government to invest in indexed funds arguably would largely insulate the investment decision from political tampering. But such assets, by definition, can cover only publicly traded securities, perhaps three-fifths of total private capital assets.  With large allocations of public funds invested in larger enterprises, our innovative, smaller, non-publicly traded businesses might find themselves competitively disadvantaged in obtaining financing.  To be sure, there is not universal agreement among economists on this point, but it is a consideration that should be kept in mind.  More generally, the problematic experiences of some other countries with large government accumulation of private assets should give us pause about moving in that direction.  To repeat, over time, having the federal government hold significant amounts of private assets would risk sub-optimal performance by our capital markets, diminished economic efficiency, and lower overall standards of living than would be achieved otherwise.
+
+[SECTION]
+
+Private asset accumulation may be forced upon us well short of reaching zero debt. Obviously, savings bonds and state and local government series bonds are not readily redeemable before maturity. But the more important issue is the potentially rising cost of retiring long-maturity marketable Treasury debt. While shorter-term marketable securities could be allowed to run off as they mature, longer-term issues could only be retired before maturity through debt buybacks. The magnitudes are large: As of January 1, for example, there was in excess of three quarters of a trillion dollars in outstanding nonmarketable securities, such as savings bonds and state and local series issues, and marketable securities (excluding those held by the Federal Reserve) that do not mature and could not be called before 2011. Some holders of long-term Treasury securities may be reluctant to give them up, especially those who highly value the risk-free status of those issues. Inducing such holders, including foreign holders, to willingly offer to sell their securities prior to maturity could require paying premiums that far exceed any realistic value of retiring the debt before maturity.  Both CBO and OMB project an inability of current services unified budget surpluses to be applied wholly to repay debt by the middle of this decade.  Without policy changes, private asset accumulation is likely to begin in just a few short years.
+
+[SECTION]
+
+In summary, the Congress needs to make a policy judgment regarding whether and how private assets should be accumulated in federal government accounts.  This judgment will have important implications for the level of saving and, hence, investment in our economy, as well as for the nature of government programs.  If, for example, the accumulation of assets is avoided by eliminating unified budget surpluses through tax and spending changes, public and presumably national saving may well fall from already low levels.  If so, over time, capital accumulation and the productive capacity of the economy presumably would be reduced through this channel.   Eliminating unified surpluses by transforming social security into a defined-contribution system with accounts held in the private sector would likely better maintain national saving levels.  But the nature of social security would at the same time be fundamentally changed.  Alternatively, unified surpluses could be used to establish  mandated individual retirement accounts outside the social security system, also mitigating the erosion in national saving.
+
+[SECTION]
+
+The task before the Administration and the Congress in the years ahead is likely to prove truly testing.  But, of course, the choices confronting you are far more benign than having to deal with deficits "as far as the eye can see."
+
+[SECTION]
+
+Returning to the broader fiscal picture, I continue to believe, as I have testified previously, that all else being equal, a declining level of federal debt is desirable because it holds down long-term real interest rates, thereby lowering the cost of capital and elevating private investment. The rapid capital deepening that has occurred in the U.S. economy in recent years is a testament to these benefits. But the sequence of upward revisions to the budget surplus projections for several years now has reshaped the choices and opportunities before us.
+
+[SECTION]
+
+Indeed, in almost any credible baseline scenario, short of a major and prolonged economic contraction, the full benefits of debt reduction are now achieved well before the end of this decade--a prospect that did not seem reasonable only a year or even six months ago.  Thus, the emerging key fiscal policy need is now to address the implications of maintaining surpluses beyond the point at which publicly held debt is effectively eliminated.
+
+[SECTION]
+
+But, though special care must be taken not to conclude that wraps on fiscal discipline are no longer necessary, at the same time we must avoid a situation in which we come upon the level of irreducible debt so abruptly that the only alternative to the accumulation of private assets would be a sharp reduction in taxes or an increase in expenditures.  These actions might occur at a time when sizable economic stimulus would be inappropriate. Should this Congress conclude that this is a sufficiently high probability, it is none to soon to adjust policy to fend off such potential imbalances.
+
+[SECTION]
+
+In general, for reasons I have testified to previously, if long-term fiscal stability is the criterion, it is far better, in my judgment, that the surpluses be lowered by tax reductions than by spending increases. The flurry of increases in outlays that occurred near the conclusion of last fall's budget deliberations is troubling because it makes the previous year's lack of discipline less likely to have been an aberration.
+
+[SECTION]
+
+As for tax policy over the longer run, most economists believe that it should be directed at setting rates at the levels required to meet spending commitments, while doing so in a manner that minimizes distortions, increases efficiency, and enhances incentives for saving, investment, and work.
+
+[SECTION]
+
+In recognition of the uncertainties in the economic and budget outlook, it is important that any long-term tax plan, or spending initiative for that matter, be phased in. Conceivably, it could include provisions that, in some way, would limit surplus-reducing actions if specified targets for the budget surplus or federal debt levels were not satisfied. Only if the probability were very low that prospective tax cuts or new outlay initiatives would send the on-budget accounts into deficit, would unconditional initiatives appear prudent.
+
+[SECTION]
+
+The reason for caution, of course, rests on the tentativeness of our projections. What if, for example, the forces driving the surge in tax revenues in recent years begin to dissipate or reverse in ways that we do not now foresee? Indeed, we still do not have a full understanding of the exceptional strength in individual income tax receipts during the latter years of the 1990s. To the extent that some of the surprise has been indirectly associated with the surge in asset values in the 1990s, the softness in equity prices over the past year has highlighted some of the risks going forward.
+
+[SECTION]
+
+To be sure, unless the current economic weakness reveals a less favorable relationship between tax receipts, income, and asset prices than has been assumed in recent projections, receipts should be reasonably well maintained in the near term, as the effects of earlier gains in asset values continue to feed through with a lag into tax liabilities. But the longer-run effects of movements in asset values are much more difficult to assess, and those uncertainties would intensify should equity prices remain significantly off their peaks. Of course, the uncertainties in the receipts outlook do seem less troubling in view of the cushion provided by the recent sizable upward revisions to the ten-year surplus projections. But the risk of adverse movements in receipts is still real, and the probability of dropping back into deficit as a consequence of imprudent fiscal policies is not negligible.
+
+[SECTION]
+
+In the end, the outlook for federal budget surpluses rests fundamentally on expectations of longer-term trends in productivity, fashioned by judgments about the technologies that underlie these trends. Economists have long noted that the diffusion of technology starts slowly, accelerates, and then slows with maturity. But knowing where we now stand in that sequence is difficult--if not impossible--in real time.  Faced with these uncertainties, it is crucial that we develop budgetary strategies that deal with any disappointments that could occur.
+
+[SECTION]
+
+That said, the changes in the budget outlook over the past several years are truly remarkable. Little more than a decade ago, the Congress established budget controls that were considered successful because they were instrumental in squeezing the burgeoning budget deficit to tolerable dimensions. Nevertheless, despite the sharp curtailment of defense expenditures under way during those years, few believed that a surplus was anywhere on the horizon. And the notion that the rapidly mounting federal debt could be paid off would not have been taken seriously.
+
+[SECTION]
+
+But let me end on a cautionary note. With today's euphoria surrounding the surpluses, it is not difficult to imagine the hard-earned fiscal restraint developed in recent years rapidly dissipating. We need to resist those policies that could readily resurrect the deficits of the past and the fiscal imbalances that followed in their wake.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2001 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: March 2, 2001, 10:00 AM

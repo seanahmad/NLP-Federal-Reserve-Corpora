@@ -1,0 +1,256 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 15, 2011
+
+[SECTION]
+
+Michael R. Foley, Senior Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Protection, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Introduction
+       Chairman Brown, Ranking Member Corker, and other members of the subcommittee, thank you for the opportunity to testify today regarding the Federal Reserve Board's supervision and examination of financial institutions and changes to our supervisory policies and procedures for these institutions in response to the recent financial crisis. I am a senior associate director in our Banking Supervision and Regulation division.
+
+[SECTION]
+
+Background
+       The Federal Reserve has supervisory and regulatory authority for bank holding companies, including the consolidated supervision of large, complex financial firms, state-chartered banks that are members of the Federal Reserve System (state member banks), and certain other financial institutions and activities. We work with other federal and state supervisory authorities to ensure the safety and soundness of the banking industry, foster the stability of the financial system, and provide for fair and equitable treatment of consumers in their financial transactions.
+
+[SECTION]
+
+The Federal Reserve is involved in both regulation, that is, establishing the rules within which banking organizations must operate, and supervision, ensuring that banking organizations abide by those rules and remain, overall, in safe and sound condition. A key aspect of the supervisory process is evaluating risk-management practices. Because rules and regulations cannot always reasonably prescribe the exact practices each individual bank should use for risk management, supervisors design policies and guidance that expand upon requirements set in rules and regulations and establish expectations for the range of acceptable practices. Supervisors rely extensively on these policies and guidance as they conduct examinations and assign supervisory ratings.
+
+[SECTION]
+
+Enhancing Supervision of Large Institutions
+       The recent financial crisis revealed critical vulnerabilities in the financial regulatory framework and the financial system. In the years before the crisis, non-bank financial entities proliferated by exploiting gaps in the regulatory framework. This occurred during a period of increasing asset prices and abundant capital and liquidity, which eventually led to a relaxing of underwriting standards, deterioration in risk-management practices, and rapid growth of complex and opaque financial products for both consumers and investors. The combination of these factors created the vulnerabilities that ultimately led to the financial crisis and, in response, the Congress and the administration last year addressed many of these issues by enacting the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+[SECTION]
+
+However, even before passage of the Dodd-Frank Act, the Federal Reserve had been taking action to reorient its supervisory structure and strengthen its supervision of the largest, most complex financial firms in response to the crisis. In so doing, the Federal Reserve enhanced its large bank supervision program through the creation of the Large Institution Supervision Coordinating Committee, a centralized, multidisciplinary body made up of bank supervisors, economists, attorneys, and others. Relative to previous practices, this body makes greater use of horizontal, or cross-firm, evaluations of the practices and portfolios of the largest institutions. It relies more on additional and improved quantitative methods for evaluating the performance of firms, and it employs the broad range of skills of Federal Reserve staff more effectively. In addition, we have reorganized to more effectively coordinate and integrate policy development for, and supervision of, systemically important financial market utilities.
+
+[SECTION]
+
+More recently, we have also created an Office of Financial Stability Policy and Research at the Federal Reserve Board. This office coordinates our efforts to identify and analyze potential risks to the broader financial system and the economy. It also helps evaluate policies to promote financial stability and serves as the Board's liaison to the Financial Stability Oversight Council.
+
+[SECTION]
+
+The crisis demonstrated that a too narrow focus on the safety and soundness of individual firms can result in a failure to detect and thwart emerging threats to financial stability that cut across many firms. The Dodd-Frank Act requires supervisors to take more of a macroprudential approach; that is, to supervise financial institutions and critical infrastructures with an eye toward not only the safety and soundness of each individual firm, but also taking into account risks to overall financial stability. The Supervisory Capital Assessment Program (SCAP), led by the Federal Reserve in early 2009 as a key element of the plan to stabilize the U.S. financial system, demonstrated the feasibility and benefits of employing such a perspective.
+
+[SECTION]
+
+Building on SCAP and other supervisory work coming out of the crisis, the Federal Reserve initiated the Comprehensive Capital Analysis and Review (CCAR) in late 2010 to evaluate the internal capital planning processes of large, complex bank holding companies. The CCAR represented a substantial strengthening of previous approaches to ensuring that large firms have thorough and robust processes for managing and allocating their capital resources. We also focused on the risk measurement and management practices supporting firms' capital adequacy assessments, including their ability to deliver credible inputs to their loss estimation techniques.
+
+[SECTION]
+
+While our revised internal organizational structure facilitates our implementation of a macroprudential approach to supervision, it does not diminish the need for careful microprudential oversight of individual institutions. This serves many purposes beyond the enhancement of systemic stability, including the protection of the deposit insurance fund, the detection of money laundering and other forms of financial crime, and the prevention of unlawful discrimination or abusive lending practices. Equally important, is that microprudential oversight also provides the knowledge base on which a more systemic approach must be built; we cannot understand what is going on in the system as a whole without a clear view of developments within key firms and markets. Without a strong microprudential framework, macroprudential policies would be ineffective.
+
+[SECTION]
+
+Supervision of Community and Regional Banks
+       While many of our recent actions have focused on enhancing the supervision programs for the largest institutions, we have also been making adjustments to the supervision programs for community and regional banks in response to lessons learned. As liquidity strains developed at many banks during the crisis, we adjusted our focus to place greater emphasis on evaluating liquidity contingency funding plans at supervised community and regional banks. Liquidity pressures have eased considerably due to actions taken by the banking agencies during the crisis, recent legislative changes to increase the level of deposits insured by the Federal Deposit Insurance Corporation, and more stable market conditions. But given our experience during the crisis we are retaining a heightened focus on liquidity management and planning, particularly for institutions that rely on more volatile or nontraditional funding sources.
+
+[SECTION]
+
+As commercial real estate (CRE) began to deteriorate and affect the performance of supervised institutions, we conducted reviews of our implementation of the 2006 interagency guidance addressing CRE concentrations. These reviews helped us to identify issues for which examiners and bankers needed clarification and to contribute to the 2009 interagency guidance aimed at facilitating prudent workouts of CRE loans. As real estate conditions have remained weak and adversely affected the performance of many banks, we have continued to refine our examination procedures to address emerging supervisory issues related to CRE lending.
+
+[SECTION]
+
+To learn more from recent events, we have begun to analyze the characteristics of community banks that remained in sound condition throughout the crisis. Our preliminary work suggests that these institutions had many fundamental characteristics in common. For example, most of these banks had relatively well-diversified loan portfolios and because of that were able to report strong earnings and net interest margins throughout the crisis. They tended to have limited reliance on noncore funding and had strong capital levels as they entered the crisis. As we continue our study, we hope that what we learn will prove helpful in our efforts to evaluate and refine supervisory processes in the wake of the crisis.
+
+[SECTION]
+
+In addition to these efforts, we have also increased our outreach efforts with community and regional banks. In October 2010, the Board formed a Community Depository Institutions Advisory Council that includes representatives from across the country and provides the Federal Reserve with direct insight and information from community bankers about the economy, lending conditions, supervisory matters, and other issues of interest. We expect these ongoing discussions will provide a particularly useful and relevant forum for improving our community bank supervision program, and a better understanding of how legislation, regulation, and evolving examination activities affect small banking organizations.
+
+[SECTION]
+
+Additionally, the Board recently established a special supervision subcommittee that provides leadership and oversight on a variety of matters related specifically to community bank supervision. A primary role of this subcommittee, which includes Governors Elizabeth A. Duke and Sarah Bloom Raskin, two Board members with significant community banking experience, is to review policy proposals and evaluate their potential effect on smaller institutions, both in terms of safety and soundness and potential regulatory burden.
+
+[SECTION]
+
+While the crisis has made it clear that some tightening of supervisory expectations was needed, we are also mindful of the risks that excessive tightening could have on banks' willingness to lend to creditworthy small businesses and consumers. Consequently, we have worked hard to ensure that our examiners are well-trained and employ a balanced approach when reviewing banks' underwriting and risk-management practices. We expect examiners to strive for consistency in the examination process throughout the business cycle. Our Rapid Response program, which has been in effect since the crisis, is a widely attended weekly conference call for examiners that has been invaluable in delivering these messages, and others, to our field examiners.
+
+[SECTION]
+
+Compliance and Examination Costs
+ Banks consistently tell us that they face a number of regulatory uncertainties, which makes it hard for them to calculate the potential cost of compliance and its potential effect on operations and profitability. Firms of all sizes have been communicating these concerns, despite the fact that the requirements of the Dodd-Frank Act are primarily directed at firms with consolidated assets of $50 billion or more. Smaller institutions voice concerns that supervisory expectations being set for the largest institutions could ultimately be imposed on them in a burdensome way, which will adversely affect community bank competitiveness and profitability, as these institutions have less ability to absorb increased compliance costs and have less staff available to manage new processes.
+
+[SECTION]
+
+The Federal Reserve is cognizant of the challenges institutions, especially smaller institutions, face in the current environment. Banking supervision should be conducted in a way that is effective for all institutions, but it should also be scaled to the size and complexity of the supervised firm. The largest, most complex banks will incur costs to comply with the requirements of the Dodd-Frank Act. For example, stress testing provisions in the Dodd-Frank Act require these institutions to adequately identify the risks associated with their diverse business lines and to quantify this risk taking, which will require investments in data management technology and other risk identification systems. Smaller institutions, while still expected to adequately measure, monitor, and control risk in their organizations, will not necessarily need to incur additional costs, assuming existing risk management structures are sufficiently robust.
+
+[SECTION]
+
+Continuing Credit Challenges
+       Credit markets have been recovering slowly since the financial crises, and recent measures of aggregate credit outstanding have shown signs of improvement after declining throughout 2009 and much of 2010. Non-revolving consumer credit outstanding, which includes auto and student loans, has increased for the past nine months. Issuance of corporate bonds and syndicated loans has been robust for the past few quarters, and new issuance of commercial mortgage-backed securities increased in the first quarter of 2011, albeit from very low levels. Outstanding balances of commercial and industrial loans have also resumed modest growth.
+
+[SECTION]
+
+However, residential and commercial real estate remain lagging sectors. This continues to present challenges for banks and supervisors. With housing values flat or deteriorating in many markets, there are renewed concerns about the health of the mortgage market and home equity loans in particular. In addition, weak fundamentals in the CRE sector, including high vacancy rates and declining rents, continue to place pressure on all but the highest quality properties with strong tenants in healthier markets. With residential and commercial property values still under strain, heightened reserve levels at banks remain appropriate for these sectors, and we expect that banks will continue to incur losses due to ongoing weakness in real estate markets. It will take time to make progress on the overhang of distressed commercial and residential real estate, and banks will need to take strong steps to ensure that losses are recognized in a timely manner, and that reserves and capital levels remain adequate.
+
+[SECTION]
+
+Conclusion
+       The crisis demonstrated the need to always be mindful of and diligent about addressing the possible implications of severely adverse outcomes for individual institutions and the financial system more broadly. Enhancements the Federal Reserve has made to its supervisory process, coupled with improvements required by the Dodd-Frank Act, support enhanced regulation and supervision of large, complex firms that have the potential to trigger systemic risks. But, improvements in the supervisory framework will lead to better outcomes only if day-to-day supervision is well executed, with risks identified early and promptly remediated. When we have significant concerns about risk management at complex firms, we are raising those concerns forcefully with senior management at the firms, holding them accountable to respond, and tracking their progress.
+
+[SECTION]
+
+The Federal Reserve is also enhancing supervision of regional and community banks, placing greater emphasis on the development of sound risk-management practices. In so doing, we are mindful of the need to ensure that bank supervision is scaled to the size and complexity of the supervised firm; and that bank management and examiners take a balanced approach to ensuring the safety and soundness of the banking system and serving the credit needs of the community.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

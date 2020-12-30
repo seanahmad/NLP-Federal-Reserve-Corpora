@@ -1,0 +1,105 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear before this Committee to discuss the President's Working Group on Financial Markets' Report on Hedge Funds, Leverage, and the Lessons of Long-Term Capital Management.  Under Secretary Gensler has made a comprehensive presentation of the report's conclusions and recommendations.  Chairman Greenspan participated actively in the Working Group's discussions and supports the contents of the report.  My remarks this morning will be limited to highlighting a few key conclusions and recommendations.
+
+[SECTION]
+
+Leverage and Market Discipline
+As the title of its report indicates, the Working Group has concluded that the central public policy issue raised by the Long-Term Capital Management (LTCM) episode is excessive leverage.  Leverage plays a positive role in our financial system, resulting in greater market liquidity, lower credit costs, and a more efficient allocation of resources in our economy.  But leverage poses risks to firms and their creditors, and the LTCM episode demonstrated that a single firm could become both so large and so highly leveraged that failure of its business strategies could pose risks to the financial system as well.
+
+[SECTION]
+
+While LTCM is a hedge fund, excessive leverage is neither characteristic of, nor necessarily limited to, hedge funds.  Available data indicate that no other hedge fund was or is as large as LTCM and no other large hedge fund was or is so highly leveraged.  Indeed, a large majority of hedge funds are not significantly leveraged, having balance-sheet leverage ratios of less than 2-to-1.  Many financial institutions, including some banks and securities firms, are far larger than LTCM and are significantly leveraged.  Whether any of these larger financial institutions was or is as highly leveraged as LTCM cannot be established definitively.  Leverage is best defined as the ratio of economic risk relative to capital, but defined this way, it is very difficult to measure.  The fact that no other large U.S. financial institution saw its capital significantly impaired indicates that none was so vulnerable as LTCM to the extraordinary market conditions that emerged last August.
+
+[SECTION]
+
+In our market-based economy, the discipline provided by creditors and counterparties is the primary mechanism that regulates firms' leverage.  If a firm seeks to achieve greater leverage, its creditors and counterparties will ordinarily respond by increasing the cost or reducing the availability of credit to the firm.  The rising cost or reduced availability of funds provides a powerful economic incentive for firms to restrain their risk-taking.  In our system, government oversight of leverage is the exception, not the rule.  Even where government oversight has been deemed appropriate, as is the case of banks and broker-dealers, it is intended to supplement and reinforce market discipline, not to replace it.
+
+[SECTION]
+
+However, in the case of LTCM, market discipline seems largely to have broken down.  LTCM received very generous credit terms, even though it took an exceptional degree of risk.  Furthermore, this breakdown in market discipline reflected weaknesses in risk management practices by LTCM's counterparties that were also evident, albeit to a lesser degree, in their dealings with other highly leveraged firms.
+
+[SECTION]
+
+If market discipline is to be effective, counterparties of a firm must obtain sufficient information to make reliable assessments of its risk profile, both at the inception of the credit relationship and throughout its duration.  Furthermore, they must have in place mechanisms that place limits on the credit risk exposures that become more stringent as the firm's riskiness increases and its creditworthiness declines.  In the case of LTCM, however, few, if any, of its counterparties really seem to have understood its risk profile, especially its very large positions in certain illiquid markets.  And, many of its counterparties did not effectively limit their risk exposures to LTCM.  In part, they simply did not anticipate the extraordinary market conditions last August.  But a combination of the aggressive pursuit of earnings in a highly competitive environment and excessive confidence in LTCM's management appears to have led some counterparties to suspend or ignore fundamental risk management principles.
+
+[SECTION]
+
+The Working Group's recommendations are intended to make market discipline more effective by:  (1) improving risk management practices; and (2) increasing the availability of information on the risk profiles of hedge funds and their creditors.  The Working Group has not recommended steps, such as direct government regulation of hedge funds, that would risk significantly weakening market discipline by creating or exacerbating moral hazard.
+
+[SECTION]
+
+Enhancing Risk Management
+Primary responsibility for addressing the weaknesses in risk management practices that were evident in the LTCM episode rests with the private financial institutions--a relatively small number of U.S. and foreign banks and broker-dealers, most of which were LTCM's counterparties--whose credit and clearing services are critical to the establishment of leveraged trading positions.  Addressing the weaknesses is in their self-interest, as their experience with LTCM demonstrated.  And, as the world leaders in risk management, these firms have the capabilities as well as the incentives to address the weaknesses.  Nonetheless, prudential supervisors and regulators have a responsibility to help to ensure that the processes that banks and securities firms utilize to manage risk are commensurate with the size and complexity of their portfolios and responsive to changes in financial market conditions.
+
+[SECTION]
+
+Since the LTCM episode, both private financial institutions and prudential supervisors and regulators have taken steps to strengthen risk management practices.  Banks and securities firms have demanded more information and tightened their credit terms, especially vis-a-vis highly leveraged institutions.  Supervisors and regulators have sought to lock in this progress by issuing guidance on sound practices.  As banking supervisors testified in March before two of this Committee's Subcommittees, the Basle Committee on Banking Supervision, the Federal Reserve, and the Office of the Comptroller of the Currency all have issued such guidance recently.  The International Organization of Securities Commissions is well along in developing appropriate guidance for securities firms.
+
+[SECTION]
+
+That said, further improvements in risk management practices can and should be made.  And, as was demonstrated so clearly by the Group of Thirty's 1993 work on risk management, shared private sector initiatives can be extremely effective in fostering progress.  One such initiative has already been completed.  The International Swaps and Derivatives Association has issued a review of collateral management practices that draws lessons from collateral managers' experiences during the LTCM episode and other recent periods of market volatility.  The practitioners found that collateralization proved to be a highly successful tool for mitigating credit risk during such periods.  However, echoing concerns expressed by bank supervisors, they warned that collateralization should be regarded as a complement to, not a replacement for, other credit risk safeguards.  In particular, they emphasized that it does not obviate careful credit analysis of the counterparty.  The review set out recommendations for improving collateral management practices and an action plan for facilitating their implementation.
+
+[SECTION]
+
+A broader and more ambitious initiative also is well under way.  In January, twelve major internationally active banks and securities firms formed the Counterparty Risk Management Policy Group.  As the co-chairmen of the Group testified in March before this Committee's Capital Markets Subcommittee, the objective is to develop flexible standards for strengthened risk management practices in providing credit-based services to major counterparties, including, but not limited to, hedge funds.  The Group has established three working parties to address issues relating to risk management, reporting, and risk reduction through cooperative initiatives.  The Group hopes to complete its work and publish its findings in mid-June.
+
+[SECTION]
+
+Such private-sector initiatives can fulfill their considerable promise only if their words are translated into actions.  Here again, the private market participants should have primary responsibility.  But supervisors and regulators undoubtedly will study these reports carefully and, where appropriate, incorporate their findings in supervisory guidance, as they did with the findings of the Group of Thirty's earlier report.
+
+[SECTION]
+
+Improving Information on Risk Profiles
+ Improving the quality of information on the risk profiles of hedge funds and certain other highly leveraged institutions is particularly challenging because the liquidity of markets permits them to alter their risk profiles significantly within days or even hours.  In this instance, too, the Working Group's recommendations call for actions by both the private sector and public authorities.  One of the most difficult and important issues to be addressed by the Counterparty Risk Management Policy Group involves the exchange of information between creditors and counterparties.  The challenge is to develop meaningful measures of risk that could be exchanged frequently without revealing proprietary information on strategies or positions.  The revelation of proprietary information not only would jeopardize market participants' profits but could also significantly impair market liquidity and widen liquidity premiums for the assets traded.
+
+[SECTION]
+
+The need for timely information on rapidly changing risk profiles means that counterparties cannot expect to rely on public disclosure mechanisms to meet their requirements.  Nonetheless, new public disclosure requirements for both hedge funds and public companies could also contribute to the goal of strengthening market discipline.
+
+[SECTION]
+
+With respect to hedge funds, the Working Group has recommended that more frequent and more meaningful information be made public.  Some hedge funds already are required to report certain financial information to the Commodity Futures Trading Commission.  However, the information is only reported annually, does not include comprehensive and meaningful measures of risk, and cannot be made available to the public.  Quarterly release to the public of enhanced information on a broader group of hedge funds (not limited to those that trade futures) would help inform public opinion about the role of hedge funds in our financial system.  Equally important, by making clear that public disclosure is the sole objective of any reporting requirements, any false impression that the regulatory agency operating the reporting system is conducting prudential oversight of hedge funds would be discouraged.  Such a false impression can be dangerous because it weakens private market discipline without any hope that government oversight is making up for what is lost.
+
+[SECTION]
+
+In the case of public companies, including financial institutions, the Working Group recommends that they publicly disclose additional information about their material financial exposures to significantly leveraged institutions.  The information to be disclosed would be total exposures (aggregating across all relevant transactions), disaggregated by sector (for example,  commercial banks, securities firms, hedge funds, and so on).  The goal is to enhance market discipline on creditors of significantly leveraged institutions, which, in turn, would enhance creditor discipline on the leveraged institutions themselves.  The precise nature of any new disclosure requirements will be determined by the Securities and Exchange Commission (SEC), taking into account public comments through the normal rule-making process.  Both fellow regulators and market participants will need to support and assist the SEC in developing requirements that are both meaningful and cost-effective.
+
+[SECTION]
+
+Summary
+To sum up, then, the Working Group has concluded that the central public policy issue raised by the LTCM episode is how to constrain leverage more effectively.  In our market-based economy, we have always relied on market discipline as the primary mechanism for constraining leverage.  Although market discipline seems to have largely broken down in the case of LTCM, the Working Group believes that the best approach to addressing concerns about excessive leverage is to make market discipline more effective.  Primary responsibility for increasing the effectiveness of market discipline necessarily rests with market participants.  Nonetheless, prudential supervisors and regulators of the banks and broker-dealers that are critical sources of credit to leveraged institutions should seek to ensure the necessary improvements in risk management practices are implemented.  The Working Group believes that further progress in this area can and should be made and, through its constituent agencies, will be monitoring the credit risk management policies of large commercial banks and securities firms and assessing their effectiveness.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: May 6, 1999, 10:00 AM

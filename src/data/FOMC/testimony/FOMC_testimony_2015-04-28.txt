@@ -1,0 +1,246 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 28, 2015
+
+[SECTION]
+
+Mark E. Van Der Weide, Deputy Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Mark E. Van Der Weide submitted identical remarks to the Subcommittee on Housing and Insurance, Committee on Financial Services, U.S. House of Representatives, on April 29, 2015.
+
+[SECTION]
+
+Chairman Shelby, Ranking Member Brown, and other members of the committee, thank you for inviting me to testify on behalf of the Federal Reserve.
+
+[SECTION]
+
+The Federal Reserve welcomes the opportunity to participate in today's hearing, and I am pleased to be joined by my colleagues from the Federal Insurance Office (FIO) of the U.S. Treasury, the National Association of Insurance Commissioners (NAIC), and the independent insurance member of the Financial Stability Oversight Council (FSOC). While we each have our own unique authority and mission to carry out, we remain committed to working collaboratively on a wide range of international and domestic insurance supervisory and regulatory issues.
+
+[SECTION]
+
+The Federal Reserve's Role in the Supervision of Certain Insurance Holding Companies
+       With the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act), the Federal Reserve assumed expanded responsibility as the consolidated supervisor of a significant number of insurance holding companies. As a result of the Dodd-Frank Act, the Federal Reserve is responsible for the consolidated supervision of insurance holding companies that own an insured bank or thrift, as well as insurance holding companies designated for Federal Reserve supervision by the FSOC. The insurance holding companies for which the Federal Reserve is the consolidated supervisor hold approximately one-third of U.S. insurance industry assets and vary greatly in size and in the types of products they offer.
+
+[SECTION]
+
+After the passage of the Dodd-Frank Act, the Federal Reserve moved quickly to develop a supervisory framework that is appropriate for insurance holding companies that own depository institutions and promptly assigned supervisory teams to handle day-to-day supervision of those insurance holding companies. We also acted promptly to commence supervision of the three insurance holding companies designated by the FSOC for Federal Reserve supervision. While building our supervisory regime for these firms, we have reached out to our colleagues in the state insurance departments. Our supervisory teams for insurance holding companies are a combination of experienced Federal Reserve staff as well as newly hired staff with insurance expertise. The Federal Reserve is investing significant time and effort into enhancing our understanding of the insurance industry and firms we supervise, and we are committed to tailoring our supervisory framework to the specific business lines, risk profiles, and systemic footprints of the insurance holding companies we oversee. Our supervisory efforts to date have focused on strengthening firms' risk identification, measurement, and management; internal controls; and corporate governance. Our principal supervisory objectives for insurance holding companies are protecting the safety and soundness of the consolidated firms and their subsidiary depository institutions while mitigating any risks to financial stability.1 We conduct our consolidated supervision efforts in a manner that is complementary to, and coordinated with, state insurance regulators, who continue their established oversight of insurance legal entities. We do not regulate the manner in which insurance is provided by these companies or the types of insurance that they provide. Those important aspects of the actual business of providing insurance are the province of the relevant state insurance supervisors.
+
+[SECTION]
+
+The Federal Reserve's Development of Domestic Capital Standards for Insurance Holding Companies
+       Congress recently enacted the Insurance Capital Standards Clarification Act of 2014 (S. 2270), which amended the provision of the Dodd-Frank Act that had required the minimum capital standards for banks be applied to any insurance holding company that controls an insured depository institution or is designated for Federal Reserve supervision by the FSOC. With this amendment to the Dodd-Frank Act, the Federal Reserve may now focus on constructing a domestic regulatory capital framework for our supervised insurance holding companies that is well tailored to the business of insurance. To that end, the Federal Reserve has been engaging extensively with insurance supervisors and regulated entities to increase our understanding of the regulatory capital regime that already applies to insurance companies under state laws and to solicit feedback on various approaches to the development of an appropriate consolidated group-wide capital regime for insurance holding companies that would be consistent with federal requirements. We are exercising great care as we approach this challenging mandate. We are committed to following formal rule making processes to develop our insurance capital framework, which will allow for an open public comment period on a concrete proposal. We will continue to engage with interested parties as we move forward.
+
+[SECTION]
+
+The Federal Reserve's Participation in the International Association of Insurance Supervisors (IAIS)
+       Some of the insurance holding companies subject to Federal Reserve supervision are internationally active firms that compete with other global insurers to provide insurance products to businesses and consumers around the world. Our supervisory activities for these firms include collaborating with our regulatory counterparts internationally as well as domestically. As part of this role, in November 2013, the Federal Reserve joined our state insurance supervisory colleagues from the NAIC and the FIO as members of the International Association of Insurance Supervisors (IAIS). Accordingly, the Federal Reserve has been and will continue to be engaged in the development of global standards for regulating and supervising internationally active insurers. Global standard setting is not new to the Federal Reserve, as we have for decades participated in standard setting for global banks through our membership in the Basel Committee on Banking Supervision. As a general proposition, we believe in the utility of having effective global standards for regulation and supervision of internationally active financial firms. When implemented consistently across jurisdictions, such standards help provide a level playing field for global financial institutions. Further, consistent global financial regulatory standards can help limit regulatory arbitrage and jurisdiction shopping and can promote financial stability. We recognize, of course, that international regulatory standards cannot be imposed on U.S. firms by an international body; rather, these standards apply in the United States only if adopted by the appropriate U.S. regulators in accordance with applicable rulemaking procedures conducted here.
+
+[SECTION]
+
+Since joining the IAIS in late 2013, the Federal Reserve has been an active participant in several key committees, working groups, and work streams. We currently hold a seat on the Financial Stability Committee and the Technical Committee of the IAIS. Throughout our first year and a half as a member of the organization, and consistent with our statutory mandate, the Federal Reserve has been particularly focused on the financial stability and consolidated supervision work of the IAIS. In these tasks, we have worked closely with our U.S. partners, including in particular the NAIC and its member supervisors.
+
+[SECTION]
+
+IAIS Strategic Priorities
+       At the heart of the strategic priorities of the IAIS is the development of its Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame). Among other things, ComFrame includes the development of a global consolidated capital standard for large, complex international insurance companies. A group capital requirement for insurers with significant international operations is a new concept for U.S. insurance companies. State law includes capital requirements for insurance legal entities but does not include a group-wide or consolidated capital requirement for insurance groups. For the largest and most active global insurers, the Federal Reserve supports group-wide consolidated capital standards that are well tailored to insurance risks. We also strongly believe such standards must be deliberately developed through transparent processes and must be properly calibrated.
+
+[SECTION]
+
+A second key focus of the IAIS involves the identification of global systemically important insurers (G-SIIs) and the design of an enhanced regulatory and supervisory framework for G-SIIs. In 2013, the Financial Stability Board, in consultation with the IAIS and using a methodology developed by the IAIS, designated a set of nine global insurance firms (including three U.S.-based insurers) as G-SIIs. In addition to developing enhanced supervision standards and resolution planning requirements for G-SIIs, the IAIS continues to refine its G-SII designation methodology and to work diligently to design loss absorbency requirements for G-SIIs.
+
+[SECTION]
+
+Last year, the IAIS released the Basic Capital Requirement (BCR) for G-SIIs. It is the first international consolidated capital standard developed for the insurance industry. The IAIS developed the BCR to help provide a level playing field for the capital adequacy of global insurance firms with the largest systemic footprints. The IAIS intends to supplement the BCR with a Higher Loss Absorbency (HLA) capital standard for G-SIIs. The IAIS expects to release a consultation draft on HLA in June with an accompanying request for public comment.
+
+[SECTION]
+
+In time, the IAIS expects that the BCR will be replaced by the more detailed and comprehensive Insurance Capital Standard (ICS), which is currently under development. Although the ICS likely will apply to a broader range of internationally active insurance groups, the IAIS expects that the ICS ultimately will also serve as the basis upon which HLA capital requirements for G-SIIs are applied by the relevant national jurisdictions. IAIS began work on the ICS in 2013, issued an initial consultative proposal on the ICS late last year, and will continue work on the ICS for at least the next few years. This work includes the active participation of many volunteer insurance companies, including U.S. insurance companies, through field testing of various approaches and options, as well as the participation of state insurance supervisors and others.
+
+[SECTION]
+
+It is important to note that any standards adopted by the IAIS are not binding on the Federal Reserve, the FIO, state insurance regulators, or any U.S. insurance company. During the development of global standards for insurance firms by the IAIS, the Federal Reserve will work to ensure that the standards do not conflict with U.S. law and are appropriate for U.S. insurance markets and U.S. insurers. Moreover, the Federal Reserve would only adopt IAIS regulatory standards after following the well-established rulemaking protocols under U.S. law, which include a transparent process for proposal issuance, solicitation of public comments, and rule finalization.
+
+[SECTION]
+
+Cooperation and Coordination among U.S. Supervisors, Regulators, and the Industry
+       The Federal Reserve, along with the FIO and the NAIC, continues to actively engage with U.S. insurance companies on the development of global regulatory standards for insurance firms. For instance, the Federal Reserve, the FIO, and the NAIC have hosted four separate meetings with U.S. participants on the BCR and ICS since August of last year. These meetings were distinct and independent of two international sessions hosted by the IAIS. Moreover, in the coming months, the Federal Reserve, the FIO, and the NAIC are planning additional sessions with U.S. insurance firms, consumer groups, trade associations, and other interested parties. The Federal Reserve is committed to continuing this active level of dialogue and engagement and to continuing our work with the FIO and state and international insurance regulators to develop a set of standards for global insurance firms that is consistent across countries and appropriate for internationally active U.S. insurers.
+
+[SECTION]
+
+Nothing in the IAIS work plan, including the group capital requirement, seeks to lessen the critical role of individual insurance legal entity supervision conducted by the U.S. states and foreign countries. Rather, group-wide consolidated supervision and consolidated capital requirements supplement this legal-entity approach with a perspective that considers the risks across the entire firm, including risks that emanate from non-insurance subsidiaries and entities within the group. The Federal Reserve is a consolidated holding company supervisor that focuses on identifying and evaluating risks, capital and liquidity adequacy, governance, and controls across its supervised organizations. U.S. insurers with a global footprint or global aspirations stand to benefit considerably from a level global regulatory framework that is strong but pragmatic. Reasonably consistent global insurance standards for internationally active insurers and international cooperation among global regulators provide the means to that end.
+
+[SECTION]
+
+The Federal Reserve has acted on the international insurance stage in an engaged partnership with our colleagues from the FIO, the state insurance commissioners, and the NAIC. Our multiparty dialogue, while respectful of each of our individual authorities, strives to develop a central "Team USA" position on the most critical matters of global insurance regulatory policy.
+
+[SECTION]
+
+Mr. Chairman, thank you for inviting me here today. I look forward to an active dialogue on these issues with you and other members of the committee.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2014), "Incorporation of Federal Reserve Policies into the Savings and Loan Holding Company Supervision Program," Supervision and Regulation Letter SR 14-9 (November 7). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,309 @@
+Testimony of Governor Laurence H. Meyer
+Mergers and acquisitions in banking and other financial services
+Before the Committee on the Judiciary,
+U.S. House of Representatives
+June 3, 1998
+
+[SECTION]
+
+I am pleased to appear before this Committee on behalf of the Federal Reserve Board to discuss antitrust issues related to mergers and acquisitions between U.S. banks and between banking organizations and other financial services firms.  Under U.S. law, when considering the competitive effects of a proposed bank merger or acquisition, the Board is required to apply the competitive standards contained in the Sherman and Clayton Antitrust Acts.  Under these standards, the Board may not approve a proposal that would result in a monopoly or that may substantially lessen competition or tend to create a monopoly in a particular market. In the case of proposals that involve the acquisition of a nonbanking company by a bank holding company, the Board must consider whether the acquisition can reasonably be expected to produce benefits to the public, such as greater convenience, increased competition, or gains in efficiency that outweigh possible adverse effects.  My statement today will discuss how the Federal Reserve implements these requirements.   I will also try to provide some broad perspective on the ongoing consolidation of the U.S. banking system and the potential effects of bank mergers.
+
+[SECTION]
+
+It is important to understand that the Bank Holding Company Act does not give the Board unfettered discretion in acting on merger and acquisition proposals, and that competition is not the only criterion that the Board must consider when assessing such a proposal.  Other factors that the Bank Holding Company Act requires that the Board consider include the financial and managerial resources and future prospect of the companies and banks involved in the proposal, and the effects of the proposal on the convenience and needs of the community to be served, including the performance record of the depository institutions involved under the Community Reinvestment Act.  The Bank Holding Company Act also establishes nationwide and individual state deposit limits for interstate bank acquisitions and consolidated home country supervision standards for foreign banks.  In my testimony before the Committee on Banking and Financial Services on April 29, I discussed each of these topics in some detail.  Lastly, if a bank holding company proposes to acquire a firm that is engaging in an activity not previously approved for bank holding companies, the Board must determine whether such activities are so closely related to banking or to managing or controlling banks as to be a "proper incident" to banking.
+
+[SECTION]
+
+I.  Trends in Mergers and Banking Structure
+	It is useful to begin a discussion of the Board's antitrust policy toward bank mergers with a brief description of recent trends in merger activity and overall U.S. banking structure.  The statistical tables at the end of my statement provide some detail that may be of interest to the Committee.
+
+[SECTION]
+
+Bank Mergers: There have been over 7,000 bank mergers since 1980 (table 1).  The pace accelerated from 190 mergers with $10.2 billion in acquired assets in 1980, to 649 with $123.3 billion in acquired assets in 1987.  In the 1990s, the pace of both the number and dollar volume of bank mergers has remained high.  So far this year, the rapid rate of merger activity has continued.  For example, if only the five largest mergers or acquisitions approved or announced since December are completed, a total of over $500 billion in banking assets will have been acquired.
+
+[SECTION]
+
+The incidence of "megamergers," or mergers among very large banking organizations, is a truly remarkable aspect of current bank merger activity.  But, it is useful to recall that very large mergers began to occur with growing frequency after 1980.  In 1980, there were no mergers or acquisitions of commercial banking organizations where both parties had over $1.0 billion in total assets (table 2).  The years 1987 through 1997 brought growing numbers of such acquisitions and, reflecting changes in state and federal laws, an increasing number of these involved interstate acquisitions by bank holding companies.  The largest mergers in U.S. banking history took place or were approved during the 1990s--including Chase-Chemical, Wells Fargo-First Interstate, NationsBank-Barnett, and First Union-CoreStates.  And while these mergers set size precedents, the recently proposed mergers of Citicorp and Travelers, and NationsBank and BankAmerica, if consummated, would set a new standard for sheer size in U.S. banking organizations.
+
+[SECTION]
+
+National Banking Structure:  The high level of merger activity since 1980, along with a large number of bank failures, is reflected in a steady decline in the number of U.S. banking organizations from 1980 through 1997 (table 3).  In 1980, there were over 12,000 banking organizations, defined as bank holding companies plus independent banks; banks (independent banks plus banks owned by holding companies) in total numbered nearly 14,500.  By 1997, the number of organizations had fallen to about 7,100 and the number of banks to just over 9,000.  The number of organizations had declined over 40 percent and the number of banks by over one-third.
+
+[SECTION]
+
+The trends I have just described must be placed in perspective, because taken by themselves they hide some of the key dynamics of the banking industry.  Table 4 shows some other important characteristics of U.S. banking.  While there were about 1,450 commercial bank failures and over 7,000 bank acquisitions between 1980 and 1997, some 3,600 new banks were formed.  Similarly, while over 18,000 bank branches were closed, the same period saw the opening of nearly 35,000 new branches.  Perhaps even more importantly, the total number of banking offices, shown in table 3, increased sharply from about 53,000 in 1980 to over 71,000 in 1997, a 35 percent rise, and the population per banking office declined.  This includes former thrift offices that were acquired by banking organizations.  Fewer banking organizations clearly has not meant fewer banking offices serving the public.
+
+[SECTION]
+
+These trends have been accompanied by a substantial increase in the share of total banking assets controlled by the largest banking organizations.  For example, the proportion of domestic banking assets accounted for by the 100 largest banking organizations went from just over one-half in 1980, to nearly three-quarters in 1997 (table 5).  The increase in nationwide concentration reflects, to a large degree, a response by the larger banking organizations to the removal of state and federal restrictions on geographic expansion both within and across states.  The industry is moving from many separate state banking structures toward a nationwide banking structure that would have existed already had legal restrictions not stood in the way.  The increased opportunities for interstate banking are allowing many banking organizations to reach for the twin goals of geographic risk diversification and new sources of "core" deposits.
+
+[SECTION]
+
+As I will discuss shortly, it may well be that the retail banking industry is moving toward a structure more like that of some other local market industries such as clothing and department store retailing.  As in retail banking, clothing and department store customers tend to rely on stores located near their home or workplace.  These stores may be entirely local or may be part of regional or national organizations.  Thus, it should perhaps not be surprising that banks, now freed of barriers to geographic expansion, are taking advantage of the opportunity to operate in local markets throughout the country as have firms in other retail industries.
+
+[SECTION]
+
+But, it would be a mistake to think that adjustment to a new statutory environment--and the increased opportunities for geographic diversification--were the only reasons for the current volume of bank merger activity.  Each merger is somewhat unique, and likely reflects more than one motivation.  For example, a recent study of scale economies in banking suggests that efficiencies associated with larger size may be achieved up to a bank size of about $10-$25 billion in assets.  In addition, some lines of business, such as securities underwriting and market-making, require quite large levels of activity to be viable.
+
+[SECTION]
+
+Increased competitive pressures caused by rapid technological change and the resulting blurring of distinctions between banks and other types of financial firms, lower barriers to entry due to deregulation, and increased globalization also contribute to merger activity.  Global competition appears to be especially important for banks that specialize in corporate customers and wholesale services, especially among the very largest institutions.  Today, for example, almost 40 percent of the U.S. domestic commercial and industrial bank loan market is accounted for by foreign-owned banks.
+
+[SECTION]
+
+More generally, greater competition has forced inefficient banks to become more efficient, accept lower profits, close up shop, or--in order to exit a market in which they cannot survive--merge with another bank.  Other possible motives for mergers include the simple desire to achieve market power, or the desire by management to build empires and enhance compensation.  Some mergers probably occur as an effort to prevent the acquiring bank from itself being acquired, or, alternatively, to enhance a bank's attractiveness to other buyers.
+
+[SECTION]
+
+Many of these factors are also motivating mergers between bank and nonbank financial firms.  However, in these cases, a key causal factor is the on-going blurring of distinctions between what were, not very long ago, quite different financial services.  Today, as the Board has testified on many occasions, and despite the fact that banks continue to offer a unique bundle of services for retail customers, it is increasingly difficult to differentiate between many products and services offered by commercial banks, investment banks, and insurance companies.  Thus, we should not find it surprising that firms in each of these industries should seek partners in the others.
+
+[SECTION]
+
+Local Market Banking Structure:  Given the Board's statutory responsibility to apply the antitrust laws so as to ensure competitive banking markets, it is critical to understand that nationwide concentration statistics are generally not the appropriate metric for assessing the competitive effects of mergers.  Moreover, the extent to which mergers can increase national concentration is limited by the provisions in the Riegle-Neal Act of 1994 that amended the Bank Holding Company Act and established national (10 percent) and state-by-state (30 percent) deposit concentration limits for interstate bank acquisitions.  States may establish a higher or lower limit, and initial entry into a state by acquisition is not subject to the Riegle-Neal statewide 30 percent limit.
+
+[SECTION]
+
+Beyond this, the Board has a statutory responsibility to apply the antitrust laws so as to ensure competitive local banking markets.  Evidence indicates that in the vast majority of cases the relevant concern for competition analysis is competition in local banking markets.  This is based partly on survey findings that indicate that households and small businesses obtain most of their financial services in a very local area.  In addition, it is based on empirical research that shows deposit rates tend to be lower and some loan rates, particularly those on loans to small businesses, are higher in local markets with relatively high levels of concentration.
+
+[SECTION]
+
+While concentration has increased in some local markets, it has decreased in others, from 1980 through 1997, in both urban and rural markets, so that the average percentage of bank deposits accounted for by the three largest firms has remained steady or actually declined slightly, even as nationwide concentration has increased substantially (table 6).  Essentially similar trends are apparent when local market bank concentration is measured by the Herfindahl-Hirschman Index (HHI), defined as the sum of the squares of the market shares.  Because of the importance of local banking markets, I would like to provide somewhat more detail on the implications of bank mergers for local market concentration.
+
+[SECTION]
+
+Metropolitan Statistical Areas (MSAs) and non-MSA counties are often used as proxies for urban and rural banking markets.  The average three-firm deposit concentration ratio for urban markets decreased by three percentage points between 1980 and 1997 (table 6).  Average concentration in rural counties declined by 1.7 percentage points.  Similarly, the average bank deposit-based HHI for both urban and rural markets fell between 1980 and 1997 (table 7).  When thrift deposits are given a 50 percent weight in these calculations, average HHIs are sharply lower than the bank-only HHIs in a given year, but the HHIs trend slightly upward since 1984.  On balance, the three-firm concentration ratios and the HHI data indicate that, despite the fact that there were over 7,000 bank mergers between 1980 and 1997, local banking market concentration has remained about the same.
+
+[SECTION]
+
+Why haven't all of these mergers increased average local market concentration?  There are a number of reasons.  First, many mergers are between firms operating primarily in different local banking markets.  While these mergers may increase national or state concentration, they do not tend to increase concentration in local banking markets and thus do not reduce competition.
+
+[SECTION]
+
+Second, as I have already pointed out, there is new entry into banking markets.  In most markets, new banks can be formed fairly easily, and some key regulatory barriers, such as restrictions on interstate banking, have been all but eliminated.
+
+[SECTION]
+
+Third, the evidence overwhelmingly shows that banks from outside a market usually do not increase their market share after entering a new market by acquisition.  Studies indicate that when a local bank is acquired by a large out-of-market bank, there is normally some loss of market share.  The new owners are not able to retain all of the customers of the acquired bank.  Anecdotal evidence suggests that some other banks in the market mount aggressive campaigns to lure away customers of the bank being acquired.
+
+[SECTION]
+
+Fourth, it is important to emphasize that small banks have been and continue to be able to retain their market share and profitability in competition with larger banks.  Our staff has done repeated studies of small banks; all of these studies indicate that small banks continue to perform as well as, or better than, their large counterparts, even in the banking markets dominated by the major banks.  This may be due, in part, to more personalized service.  But whatever the reason, based on this
+experience, we expect that there will continue to be a large number of banks remaining in the future.
+
+[SECTION]
+
+Despite a continued high level of merger activity, studies based on historical experience suggest that in about a decade there may still be about 3,000 to 4,000 banking organizations, down from about 7,000 today.  Although the top 10 or so banking organizations will almost certainly account for a larger share of banking assets than they do today, the basic size distribution of the industry will probably remain about the same.  That is, there will be a few very large organizations and an increasing number of smaller organizations as we move down the size scale.  It seems reasonable to expect that a large number of small, locally oriented banking organizations will remain.  Moreover, size does not appear to be an important determining factor even for international competition.  Only very recently have U.S. banks begun to appear, once again, among the world's twenty largest in terms of assets.  Yet those U.S. banks that compete in world markets are consistently among the most profitable and best capitalized in the world, as well as being ranked as the most innovative.
+
+[SECTION]
+
+Finally, administration of the antitrust laws has almost surely played a role in restricting local market concentration.  At a minimum, banking organizations have been deterred from proposing seriously anticompetitive mergers.  And in some cases, to obtain merger approval, applicants have divested banking offices with their assets and deposits in certain local markets where the merger would have otherwise resulted in excessive concentration.
+
+[SECTION]
+
+Overall, then, the picture that emerges is that of a dynamic U.S. banking structure adjusting to the removal of longstanding legal restrictions on geographic expansion, technological change, and greatly increased domestic and international competition.  Even as the number of banking organizations has declined, the number of banking offices has continued to increase in response to the demands of consumers, and measures of local banking concentration have remained quite stable.  In such an environment, it is potentially very misleading to make broad generalizations without looking more deeply into what lies below the surface.  In part for the same reasons that make generalizations difficult, the Federal Reserve devotes considerable care and substantial resources to analyzing individual merger applications.
+
+[SECTION]
+
+II.  Federal Reserve's Application of Antitrust Standards
+	The Federal Reserve Board is required by the Bank Holding Company Act (1956) and the Bank Merger Act (1960) to review specific statutory factors arising from a transaction when (1) a holding company acquires a bank or a nonbank firm, or merges with another holding company, or (2) the bank resulting from a merger of two banks is a state-chartered member bank.  The Board must evaluate, among other things, the likely effects of such mergers on competition.  This section of my statement discusses in some detail the methodology the Board uses in assessing the competitive effects of a proposed merger.
+
+[SECTION]
+
+Competitive Criteria: In considering the competitive effects of a proposed bank acquisition, the Board is required to apply the same competitive standards contained in the Sherman and Clayton Antitrust Acts.  The Bank Holding Company (BHC) Act and the Bank Merger Act do contain a special provision, used primarily in troubled-bank cases, that permits the Board to balance public benefits from proposed mergers against potential adverse competitive effects.  The law also requires that the Board consider the potential effects on competition in the relevant market when bank holding companies acquire nonbank firms, as will be discussed later.
+
+[SECTION]
+
+The Board's analysis of competition begins with defining the geographic areas that are likely to be affected by a merger.  Under procedures established by the Board, these areas are defined by staff at the local Reserve Bank in whose District the merger would occur, with oversight by staff in Washington.  In mergers where one or both parties are in two Federal Reserve Districts, the Reserve Banks cooperate, as necessary.  To ensure that market definition criteria remain current, and in an effort to better understand the dynamics of the banking industry, the Board has recently sponsored several surveys, including national Surveys of Small Business Finances, a triennial national Survey of Consumer Finances, and telephone surveys in specific merger cases, to assist it in defining geographic markets in banking.  These surveys are particularly useful because electronic technology and banks with widespread branch networks are becoming more prevalent.  The surveys and other evidence continue to suggest that small businesses and households most often obtain their banking services in their local area.  This implies using a local geographic market definition for analyzing competition.  Local markets would, of course, be less important for the financial services obtained by large businesses.
+
+[SECTION]
+
+With this basic local market orientation of households and small businesses in mind, the staff constructs a local market index of concentration, the HHI, which is widely accepted as a useful measure of market concentration, in order to conduct a preliminary screen of a proposed merger.  The HHI is calculated based on local bank and thrift deposits.  The merger would generally not be regarded as anticompetitive if the resulting market share, the HHI, and the change in that index do not exceed the criteria in the Justice Department's merger guidelines for banking.  However, while the HHI is an important indicator of competition, it is not a comprehensive one.  In addition to statistics on market share and bank concentration, economic theory and evidence suggest that other factors, such as potential competition, the strength of the target firm, and the market environment may have important influences on bank behavior.  These other factors have become increasingly important as a result of many recent procompetitive changes in the financial sector.  Thus, if the resulting market share and the level and change in the HHI are within Justice Department guidelines, there is a presumption that the merger is acceptable, but if they are not, a more thorough economic analysis is required.
+
+[SECTION]
+
+To conduct such an analysis of competition, the Board uses information from its own major national surveys noted above, from telephone surveys of households and small businesses in the market being studied, from on-site investigations by staff, and from various standard databases with information on market income, population, deposits, and other variables.  These data, along with results of general empirical research by Federal Reserve System staff, academics, and others, are used to assess the importance of various factors that may affect competition.  To provide the Committee with an indication of the range of other factors the Board may consider in evaluating competition in local markets, I shall outline these factors.
+
+[SECTION]
+
+Potential competition, or the possibility that other firms may enter the market, may be regarded as a significant procompetitive factor.  It is most relevant in markets that are attractive for entry and where barriers to entry, legal or otherwise, are low.  Thus, for example, potential competition is of relatively little importance in markets where entry is unlikely for economic reasons.
+
+[SECTION]
+
+Thrift institution deposits are now typically accorded 50 percent weight in calculating statistical measures of the impact of a merger on market structure for the Board's analysis of competition.  In some instances, however, a higher percentage may be included if thrifts in the relevant market look very much like banks, as indicated by the substantial exercise of their transactions account, commercial lending, and consumer lending powers.
+
+[SECTION]
+
+While the merger guidelines provide a significant allowance for nonbank competition, competition from other depository and nonbank financial institutions may be given some additional consideration if such entities clearly provide substitutes for the basic banking services used by most households and small businesses.  In this context, credit unions and finance companies may be particularly important.
+
+[SECTION]
+
+The competitive significance of the target firm can be a factor in some cases.  For example, if the bank being acquired is not a reasonably active competitor in a market, the loss of competition would not be considered to be as severe as would otherwise be the case.
+
+[SECTION]
+
+Adverse structural effects may be offset somewhat if the firm to be acquired is located in a declining market.  This factor would apply where a weak or declining market is clearly a fundamental and long-term trend, and there are indications that exit by merger would be appropriate because exit by closing offices is not desirable and shrinkage would lead to diseconomies of scale.  This factor is most likely to be relevant in rural markets.
+
+[SECTION]
+
+Competitive issues may be reduced in importance if the bank to be acquired has failed or is about to fail.  In such a case, it may be desirable to allow some adverse competitive effects if this means that banking services will continue to be made available to local customers rather than be severely restricted or perhaps eliminated.
+
+[SECTION]
+
+A very high level of the HHI could raise questions about the competitive effects of a merger even if the change in the HHI is less than the Justice Department criteria.  This factor would be given additional weight if there has been a clear trend toward increasing concentration in the market.  The possibility of efficiency gains, especially via scale economies, is considered when appropriate, although this has generally not been a significant factor.
+
+[SECTION]
+
+Finally, other factors unique to a market or firm would be considered if they are relevant to the analysis of competition.  These factors might include evidence on the nature and degree of competition in a market, information on pricing behavior, and the quality of services provided.
+
+[SECTION]
+
+Some merger applications are approved only after the applicant proposes the divestiture of offices in local markets, and where the merger cannot be justified using any of the criteria I have just discussed.  We believe that such divestitures have provided a useful vehicle for eliminating the potentially anticompetitive effects of a merger in specific local markets while allowing the bulk of the merger to proceed.
+
+[SECTION]
+
+Remedies: Divestitures and Denials:  The Board makes a concerted effort to provide the industry and other market participants with clear competition standards in order to make the regulatory process as efficient as possible.  This is accomplished especially through published Board Orders on individual merger decisions.  Furthermore, staff at the Reserve Banks and the Board often provide guidance to banks and bank holding companies that are considering a merger even prior to the filing of a formal application as well as after an application is filed.  In this way, applicants learn very early in the process whether their application is likely to raise antitrust concerns.  In fact, because this information regarding the principles applied by the Board in its competitive analysis is so readily available, applicants are able to structure proposals so that few merger applications are denied on competitive grounds.
+
+[SECTION]
+
+Some potential applicants choose not to file an application after being advised of the Board's policy and standards.  Other potential applicants, who recognize that their application raises serious concerns about competition, choose to make divestitures of offices to remedy the competition problem.  As I indicated above, divestitures have proven to be an effective way for applicants to resolve a competition problem without jeopardizing the entire deal.  Indeed, the Board has approved 48 merger applications involving divestitures during the 1990s.
+
+[SECTION]
+
+Board denials of applications on competitive grounds are rare.  Nevertheless, despite the Board's efforts to inform the industry of its antitrust policy and standards, the Board has denied four applications because of adverse competitive effects during the 1990s.
+
+[SECTION]
+
+Reviews of Policies and Procedures:  Given the rapid pace of change in the U.S. banking and financial system, the Board and its staff review policies and procedures for assessing competition on a nearly continuous basis.  Periodically, more formal reviews are conducted, the most recent of which was completed by Board staff early last year.  This review essentially confirmed the continued appropriateness of our existing methodology.  I would like to highlight five aspects of that review that might be of particular interest to the Committee.
+
+[SECTION]
+
+Since at least the mid-1960s, the cluster of products and services that constitutes commercial banking has been used, and reaffirmed by the courts, as the relevant product line for bank merger analysis.  The cluster is meant to encompass the set of products and services that is purchased primarily from banks, a set that technological and other market developments have clearly changed over time.  However, extensive review of available data, including our practical experience in analyzing cases, indicated that there still exists a core of such activities for both households and small businesses.  Such activities certainly include federally insured deposits and, for small businesses, likely encompass certain credit products and services as well.  Thus, the cluster continues to be the product line used by the Board for bank merger analysis.
+
+[SECTION]
+
+The staff's review also indicated very strong support for the continued use of local geographic markets for the cluster of bank services as the primary concern of competition analysis.  Survey data indicate, for example, that 98 percent of households, and 92 percent of small businesses use a local depository institution.  In addition, it is estimated that almost 90 percent of services consumed at depositories by households, and 95 percent of services consumed by small business, are provided by local depositories.  On a closely related issue, our staff considered whether it might be appropriate to use somewhat different competition standards in urban and rural markets.  This question was motivated by the fact that, since rural markets tend to be more concentrated than urban markets, it is frequently more difficult for banks in a given rural market to merge with each other than it is for banks in an urban market.  However, no objective basis was discovered for treating urban and rural markets fundamentally differently in the analysis of potential competitive effects of a merger.  Thus, all proposals continue to be evaluated on a case-by-case basis using common standards.
+
+[SECTION]
+
+Our staff also reviewed whether continued use of the Department of Justice's merger guidelines was appropriate or whether, in light of institutional and technological changes, a more liberal initial screen should be applied.  While the market for banking services certainly has become more competitive since the existing guidelines were established in 1984, the current guidelines continue to provide a useful initial screen for deciding whether a proposed merger is likely to have anticompetitive effects.  In particular, the more generous allowance in the guidelines for the effects of nonbank competition were deemed to remain sufficient for the vast majority of cases.  Exceptions can be dealt with on an individual basis.  Moreover, there is considerable virtue in having both the Federal Reserve and the Department of Justice use the same initial screen.  In the end, there appears to be no substitute for a careful case-by-case analysis, of the type that I discussed above, of proposals that violate the Board's and the Department of Justice's initial guidelines.
+
+[SECTION]
+
+Lastly, in light of a substantial body of evidence accumulated over the 1980s, economies of scale are considered as a potential mitigating factor in our analysis of merger proposals.  Many studies using data from the 1970s and 1980s indicated only small economies of scale in banking, economies that were exhausted at about $100 million in total assets.  However, recent research using data from the 1990s suggests that significant scale economies may exist for much larger firms, perhaps for banks as large as $10 to $25 billion in assets.  If these results hold up to additional scrutiny, we will clearly need to evaluate once again the weight given to economies of scale in competition analysis.
+
+[SECTION]
+
+Coordination with Department of Justice: The Federal Reserve and the Department of Justice (DOJ) coordinate their antitrust analysis of banking consolidations through a combination of formal and informal procedures.  These procedures have two objectives.  First, they ensure that the two agencies share information that is relevant to the competition analysis of all bank merger proposals which raise a serious competitive issue.  Second, they ensure that the analysis of each agency is known to the other.
+
+[SECTION]
+
+A number of procedures have been developed at various stages of the application process.  Largely, they entail the exchange or sharing of documents.  The Department of Justice, for example, is provided a copy of all bank applications made to the Federal Reserve.  The geographic markets used to conduct the competitive analysis are provided by the Federal Reserve to the DOJ.  Also, the Department of Justice regularly (about every two weeks) sends the Federal Reserve and other banking agencies a document listing those mergers that the DOJ believes are not likely to have significantly adverse competitive effects.  Finally, in cases involving Justice Department-required divestitures, the Department typically sends the Federal Reserve a copy of the "letter of agreement" that identifies the terms of the required divestitures.
+
+[SECTION]
+
+A significant amount of information is also shared on an ad hoc basis.  Direct staff-to-staff communications, including conversations and meetings, play an important role in the resolution of difficult competitive issues.  Communications between the staffs of the Justice Department and the Federal Reserve can be frequent and may occur without limit at any stage of the application process, including pre-application and post-approval.  In the past, a range of issues has been discussed and resolved informally, including both geographic and product market definitions and divestiture requirements.  Such informal interactions occur routinely in both banking and nonbanking cases and are probably the single most important means by which the Federal Reserve and the Department of Justice coordinate their competitive analyses.
+
+[SECTION]
+
+The Department of Justice places substantial weight on the potential effect of a merger on lending to small businesses.  The Board also considers small business lending but in the context of the more general analysis of the cluster of banking services.  Because of these differences in emphasis, the Board and Department may, in occasional cases, reach different conclusions regarding the competitive effects of a merger.
+
+[SECTION]
+
+Recent Cases: As I noted earlier, the Board has always believed that it is important to make its antitrust policy clear to the industry and other members of the public.  One way it attempts to accomplish this is by providing a detailed analysis of competitive issues in its public Order on each case.  In a number of recent large and complex cases, the Board has reinforced its policy and methodology for analyzing competition, and reminded applicants of the need for noticeable, and possibly increasing, "mitigators" in cases that exceed the Department of Justice screening guidelines.  This was done because during the past couple of years an increasing number of applicants came very close to the Board's limits, in terms of structural effects and strength of mitigating factors, for approving bank mergers.  It appeared as though some applicants had concluded that the Board had relaxed its competition standards.  That conclusion is incorrect.
+
+[SECTION]
+
+For example, in one recent Order the Board noted,
+
+[SECTION]
+
+As the Board has indicated in previous cases, in a market in which the competitive effects of a proposal as measured by market indexes and market share exceed the DOJ guidelines, the Board will consider whether other factors tend to mitigate the effects of the proposal.  The number and strength of factors necessary to mitigate the competitive effects of a proposal depend on the level of market concentration and size of the increase in market concentration.1
+
+[SECTION]
+
+The Board has recently also considered cases in which Department of Justice guidelines were exceeded in a large number of local markets.  In those cases as well, the Board indicated that mitigating factors should exist in each local market being affected.  There, the Board stated that:
+
+[SECTION]
+
+In these cases, the Board believes that it is important to give increased attention to the size of the change in market concentration as measured by the HHI in highly concentrated markets, the resulting market share of the acquiror and the pro forma HHIs in these markets, the strength and nature of competitors that remain in the market, and the strength of additional positive and negative factors that may affect competition for financial services in each market.2
+
+[SECTION]
+
+In summary, at a time when the banking industry is undergoing an unprecedented merger movement that is likely to continue for a considerable period, it is particularly important to have a public policy that will maintain a competitive banking marketplace and that is well understood by all market participants.  The Board seeks to accomplish these public policy objectives in an efficient and effective manner by maintaining a relevant and up-to-date policy, cooperating closely with the Department of Justice, keeping the industry and other members of the public well informed, and providing information and guidance through staff at the Board and Reserve Banks.
+
+[SECTION]
+
+Nonbank Acquisitions: The ability of bank holding companies to engage in a wide range of nonbanking activities was made possible by the 1970 amendments to the Bank Holding Company Act.  Permissible nonbanking activities are those that satisfy a two-part test delineated in section 4(c)(8) of the Bank Holding Act.   This test first requires the Board to find that a nonbanking activity is "closely related to banking."  Second, the Board must determine that the performance of the activity "can reasonably be expected to produce benefits to the public, such as greater convenience, increased competition, or gains in efficiency, that outweigh possible adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices."
+
+[SECTION]
+
+The Board has determined that nonbanking activities are closely related to banking if they meet any one of three criteria: (1) banks generally have in fact provided the proposed services; (2) banks generally provide services that are operationally or functionally so similar to the proposed services as to equip them particularly well to provide the proposed services; or, (3) banks generally provide services that are so integrally related to the proposed services as to require their provision in a specialized form.
+
+[SECTION]
+
+The competitive effects of a proposal must be reviewed as part of the "net public benefits" test that governs nonbanking acquisitions.  Unlike the case in banking acquisitions, however, in every nonbanking acquisition, the Board must also weigh other possible effects--such as undue concentration of resources and the existence of unfair competition--against public benefits and find that public benefits are predominant in order to approve the proposal.
+
+[SECTION]
+
+Generally, the Board's competitive analysis of nonbanking acquisitions is very similar to that used in banking mergers.  In particular, the economic analysis begins with determining the product market in question, and then the relevant geographic area for assessing competition.  The relevant market area may be local, regional, national, or international, depending on the product under review and the exact nature of the marketplace.  Then, proposed changes in market structure are examined along with other factors, such as potential competition, to determine the extent to which competition may be reduced.  Over the years, nonbanking acquisitions generally have raised fewer competitive concerns than banking mergers.  This is because nonbanking activities have generally been conducted in markets where industry concentration was low or moderate and where numerous competitors existed (e.g., consumer finance and mortgage banking).
+
+[SECTION]
+
+III.  Conclusion
+	         	The Federal Reserve is required by law to assess the competitive implications of proposed bank mergers and acquisitions.  In order to fulfill its statutory responsibilities, the Federal Reserve devotes considerable resources to the case-by-case evaluation of merger proposals.  The Board normally focuses its analysis on a proposed merger's potential impact on competitive conditions in local markets for banking services.  In some cases, particularly those involving the acquisition of nonbank firms, broader geographic areas are used.  The Federal Reserve's (along with the Department of Justice's) administration of the antitrust laws in banking has helped to maintain competitive banking markets in the midst of the most significant consolidation of the banking industry in U.S. history.  It is the Board's intention and expectation that this will continue to be the case in the future.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+First Union Corporation, Board Order dated April 13, 1998, pp. 17 and 18.
+
+[SECTION]
+
+2
+NationsBank Corporation, 84 Federal Reserve Bulletin 129 (1998), p. 134.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Tables
+
+[SECTION]
+
+Table 1 - Bank Mergers and Acquisitions, 1980-1997
+Table 2 - Number of Large Mergers, 1980-1997
+Table 3 - Number of Banks, Banking Organizations, and Offices, 1980-1997
+Table 4 - Entry and Exit in Banking, 1980-1997
+Table 5 - Shares of Domestic Commercial Banking Assets Held by Largest Banking Organizations, 1980-1997
+Table 6 - Average Three-firm Deposit Concentration Ratio (in percent) based on Insured Commercial Banking Organizations, 1976-1997
+Table 7 - Average Herfindahl-Hirschman Indexes (HHI) of Metropolitan Statistical Areas and Rural (Non-MSA) Counties, 1976-1997
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: June 3, 1998, 1:00 PM

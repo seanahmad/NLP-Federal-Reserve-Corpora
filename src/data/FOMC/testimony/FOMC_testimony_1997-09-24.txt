@@ -1,0 +1,112 @@
+Testimony of Governor Laurence H. Meyer
+Debit cards and unsolicited "loan checks"
+Before the Subcommittee on Financial Institutions and Consumer Credit of the Committee on
+      Banking and Financial Services, U.S. House of Representatives 
+September 24, 1997
+
+[SECTION]
+
+The Board of Governors appreciates this opportunity to comment on issues concerning debit cards that can be used without security codes (sometimes referred to as "check cards" or "offline" debit cards).  Users of these cards have some consumer protections related to liability, issuance, and disclosure under the Electronic Fund Transfer Act (EFTA) and the Board's Regulation E.  A bill introduced by Representatives Schumer and Gonzalez, and another by Representative Barrett, would further limit a consumer's potential liability for the unauthorized use of debit cards and place restrictions on their issuance.  The Board's testimony discusses the existing statutory and regulatory scheme concerning debit card liability and issuance and provides comment on the legislative proposals.  The testimony also provides comment on issues related to unsolicited "loan checks," which are addressed in proposed legislation introduced by Representatives Hinchey and Gonzalez that would amend the Truth in Lending Act (TILA).
+
+[SECTION]
+
+Generally speaking, the oldest type of debit card in the United States is the automated teller machine (ATM) card used by consumers to make deposits, withdrawals, and transfers between deposit accounts.  The cards require the use of a magnetic stripe reader (built into the ATM) and the consumer's security code -- a personal identification number (PIN).  Because of the method of operation, these cards are sometimes characterized as "online" debit cards.  That is, at the time of the transaction, the account number, PIN, and account balance are verified; and instructions for the funds transfer are communicated, through the ATM network, to a database at the card-issuing institution.
+
+[SECTION]
+
+At first, institutions issued cards that could be used only at their own ATMs.  Over time, the development of regional, nationwide, and internationally linked networks has enabled consumers to access funds using ATMs at institutions other than their own.  The subsequent linking of electronic point-of-sale (POS) terminals to these networks has allowed consumers to use their debit cards to pay for purchases at supermarkets, gas stations, and other sites by debiting their deposit accounts.  At merchant locations requiring the use of a PIN, the cards operate as "online" debit cards.  The use of PIN-protected cards in these online systems has increased substantially in the United States over the past several years, while until recently the use of "offline" debit cards has remained more limited.
+
+[SECTION]
+
+Some financial institutions began issuing "offline" debit cards more than a decade ago.  Consumers have used these cards in place of credit cards at retail locations.  Typically, the consumer signs a charge slip, rather than entering a PIN, and the transactions are processed much like credit card transactions.  Indeed, early on, this largely "paper-based" mode of operation generated questions about whether these card transactions were covered by the EFTA and Regulation E.   As a consequence, the Board amended Regulation E in 1984 to make clear that debit card transactions are covered by the regulation, whether the transaction takes place at a terminal that captures the transaction data electronically, or is carried out manually and only later converted to electronic form.
+
+[SECTION]
+
+Over the past year or so, card issuers have begun marketing offline debit cards aggressively, encouraging consumers to use them in place of writing checks.  Besides just making them available, many institutions have automatically replaced their customers' existing ATM cards, previously usable only with PINs, with cards that can be used with a PIN at ATMs and electronic POS terminals, and without a PIN in the "offline" mode.  This development has raised concerns about the potentially greater consumer exposure to losses in the absence of PIN protection.
+
+[SECTION]
+
+Both the TILA and the EFTA--which govern credit cards and debit cards, respectively--contain provisions on unauthorized use and unsolicited issuance.  The TILA provisions were enacted in 1970, and the EFTA provisions have been part of the act since it became law in 1978.  The TILA limits consumer liability for the unauthorized use of a credit card to $50.  Under the EFTA, the rules are more complex.  Liability for the unauthorized use of a debit card is determined based on when the consumer notifies the financial institution of a lost or stolen card or an unauthorized transaction.
+
+[SECTION]
+
+If notice is provided within two business days of learning of the loss, the consumer's liability is limited to $50.  For the consumer who fails to report the loss or theft of a debit card within two business days of learning of the loss or theft, the potential liability increases to $500.  This higher limit applies to unauthorized transactions taking place after the two-business-day period.  For example, if a $600 unauthorized debit-card purchase takes place the same day the card is stolen, the consumer's maximum liability for that transaction is $50 even if the consumer fails to give notice within two business days after learning of the theft.  If unauthorized transactions appear on the consumer's account statement and the consumer fails to report them within 60 days after the statement is sent, the consumer's potential liability is unlimited for unauthorized transactions occurring after the 60 days.  Liability up to the 60th day is capped at $50 (or at $500, if the consumer knew about a debit card loss or theft and failed to report it within two business days).
+
+[SECTION]
+
+The explanation for the more complex rules in the EFTA can be gleaned from the history of the act, which followed a study completed in 1977 by the National Commission on Electronic Fund Transfers.  The Commission's report on emerging EFT payment mechanisms, which responded to a congressional directive, recommended legislative action to foster the orderly development of EFT systems.  At that time, the banking industry had raised objections to having a $50 cap on consumer liability for debit cards, the same as for credit cards.  Industry representatives urged that a negligence standard should apply if the consumer was negligent in handling the card and PIN.  The industry believed that a $50 cap was an insufficient incentive for consumers to protect their cards and security codes.  In turn, the Commission's report recommended a negligence standard that would hold the consumer liable for acts such as writing the PIN on the card.
+
+[SECTION]
+
+The Congress considered and ultimately decided against imposing a negligence standard.  Instead, both the House and Senate agreed on the basic $50 liability limit.  But in addition, to encourage consumers to protect debit cards and promptly report unauthorized use, the House favored holding a consumer liable for unauthorized transactions occurring a "reasonable time" after the consumer learned of the loss or theft of the card and failed to notify the card issuer.  The Senate bill provided for unlimited liability for the failure to report any unauthorized transactions appearing on a statement within 60 days after the statement was sent.  The law as finally enacted blended the two exceptions, changing "reasonable time" to two business days and adding the $500 cap for unauthorized transactions taking place within the 60 days.
+
+[SECTION]
+
+As to disclosures, both the TILA and the EFTA require that, to impose liability, the card issuer disclose the limits on consumer liability and give a telephone number or address (both phone number and address, in the case of the EFTA) for reporting loss or theft of the card or unauthorized transactions.
+
+[SECTION]
+
+For issuance, the TILA prohibits outright the unsolicited issuance of credit cards.  The EFTA permits the unsolicited issuance of debit cards, but only if disclosures are given and the card is not usable until after the consumer has requested validation and the consumer's identity has been verified.  Both laws permit issuing a new card to replace or substitute for an existing card.  Regulation Z (which implements the TILA) and Regulation E also permit an issuer to add features to a card at the time of substitution.  Under these rules, it is thus permissible to send a debit card that can be used without PIN protection to replace an "online" PIN-protected debit card, and these substitute cards can be sent validated or unvalidated.  When a substitution is made, if there are adverse changes in the terms and conditions that were originally disclosed to the cardholder (such as higher liability limits or higher fees), the issuer must disclose the revised terms.  But adding the capability for offline use to a debit card does not, by itself, require a new disclosure under Regulation E.
+
+[SECTION]
+
+Without doubt, the issuance of a card that does not require a PIN increases the consumer's risk.  The consumer deserves to be informed about this in a very straightforward way.  This risk may involve liability for unauthorized transactions or it may simply be the necessity of having to sort out unauthorized activity problems, even if there is no ultimate financial loss.  It also seems appropriate to apply a lower liability limit than that which presently applies:  under current law, adding non-PIN-protected capability to a card subjects the consumer to higher liability than applies to credit cards.  Apart from what the law requires, both VISA and MasterCard have decided to voluntarily limit consumer liability for unauthorized use of debit cards to $50 or less, and this should deal with consumer concern about unwarranted financial risk, although the potential aggravation of demonstrating unauthorized use may remain.  Therefore, it seems to us the question is whether voluntary industry activity is sufficient to deal with these concerns, or whether legislation is necessary.
+
+[SECTION]
+
+Now, let me turn to the two proposed bills.  H.R. 2319, the Consumer Debit Card Protection Act, introduced by Representative Barrett, limits consumer liability to $50 or less for all unauthorized debit card transactions, including those that require a PIN.  The bill also calls for a warning notice for debit cards that can be used without a PIN, and would give consumers the option to reject such cards in favor of PIN-protected cards.  Each periodic statement would have to include a detailed notice of the procedures for notifying the card issuer of the loss or theft of the debit card, or of unauthorized transactions.
+
+[SECTION]
+
+For cards without PIN protection, the Barrett bill would also require the card issuer to provisionally reimburse consumers for claims of unauthorized use within three business days.  Currently, the EFTA provides that claims of unauthorized use must be resolved within 10 business days; alternatively, the disputed amount must be recredited within 10 business days if an investigation cannot be completed within that time, and the investigation must then be completed within 45 days.  For POS and foreign transactions, Regulation E doubles the time periods:  20 business days to resolve a claim of error (or to recredit an account if the investigation takes longer); and 90 days to complete the investigation.  The longer periods were adopted in 1984, at the same time that Regulation E was amended to cover paper-based debit card transactions.  The longer times were deemed necessary for resolving claims that involved third-party merchants or remote institutions, and card issuers wanted to avoid having to provisionally recredit an account before the investigation was complete.  The Board is aware that VISA is changing its rules to provide for recrediting within 5 business days, and this suggests that technological improvements in payment systems may permit these consumer claims to be investigated more quickly.  We will reexamine the Board's rule in light of these developments.
+
+[SECTION]
+
+H.R. 2234, the Dual-Use Debit Cardholder Protection Act, introduced by Representatives Schumer and Gonzalez, addresses liability, disclosures, and issuance.  The bill limits a consumer's liability to $50 for a debit card that is not PIN-protected and does not use some other unique identifier; a signature is deemed not to be a unique identifier.  It requires card issuers, as a condition of imposing any liability on consumers, to disclose the importance of promptly reporting loss or theft of the card.  Under current law, this disclosure is optional.  The Schumer-Gonzalez bill also prohibits issuing a debit card that can function without a PIN unless (1) the card is not activated when sent, (2) certain disclosures accompany the card, and (3) the card is activated only upon the consumer's request and after verification of the consumer's identity.  These latter rules currently govern the initial issuance of a card on an unsolicited basis, but not a replacement card.
+
+[SECTION]
+
+There is considerable merit to having card issuers provide a new offline debit card in unvalidated form when they replace an online card, and only validating the card upon the consumer's request.  Requiring validation could be useful for assuring that consumers are not exposed to any additional risk or inconvenience without their consent.  It is our understanding that in many cases card issuers already follow, or are planning to adopt, a security procedure in which they validate a renewal card for use only after the cardholder has expressly confirmed receiving the card and has requested validation.  However, this procedure may not generally include the step of confirming the consumer's willingness to accept a debit card that is not PIN-protected.
+
+[SECTION]
+
+The question is whether current and evolving industry practices are sufficient, or whether a statutory requirement is needed.  Given the positive steps being taken by the industry to deal with consumer concerns on a voluntary basis, we are inclined to see how things work before enacting new laws.  However, the industry should be on notice that it is in everyone's best interest to assure that the public understands the new risks inherent in transactions that are not PIN-protected, and that individual consumers can make an informed choice about whether to assume that risk.
+
+[SECTION]
+
+The subcommittee also requested information about the tracking of a consumer's debit and credit card spending.  Although both regulations -- E for debit cards, and Z for credit cards -- require card issuers to capture transaction information such as transaction date, amount, and merchant name and location, for reporting to the cardholder on the periodic statement, they are silent on the use of this information by the card issuer.  However, I think we all know, from our own experience, that for credit cards, and probably also for debit cards, at least some card issuers do use this and other information about cardholders' purchasing patterns for marketing purposes.  Industry witnesses can no doubt provide detailed information on this matter.
+
+[SECTION]
+
+The Board also has been asked to comment on the mailing of unsolicited "loan checks" to consumers.  These credit products are also referred to as "loans by mail" or "live checks."  The consumer need only sign and cash or deposit the check to obtain the loan.  The amount of these loan checks may be thousands of dollars.
+
+[SECTION]
+
+Federal law does not prohibit creditors from mailing unsolicited loan checks.  The TILA does mandate that full disclosure of the credit terms, such as the annual percentage rate and the payment schedule, be included with any mailing so that consumers can make informed decisions about whether to accept the loan.  Therefore, the primary concern should not be disclosure, but rather the potential for theft and fraud and the consumer inconvenience of refuting a claim of liability.  The unsolicited check could be intercepted in the mail by a thief who forges the consumer's name and cashes the check.  The consumer's rights in the case of a forged endorsement are governed by state law, generally under the Uniform Commercial Code, which provides protection against fraud.  Although the consumer would not ultimately be liable for the forged instrument, the consumer is nevertheless exposed to risk that was not anticipated and inconvenience resulting from a loan check that was not requested.
+
+[SECTION]
+
+H.R. 2053, the Unsolicited Loan Consumer Protection Act, introduced by Representatives Hinchey and Gonzalez, prohibits the unsolicited mailing of loan checks or other negotiable instruments.  The bill also provides that if a check or other negotiable instrument is sent unsolicited, a consumer would not be liable for the debt unless the creditor could prove that the consumer received and negotiated the instrument.  And whether or not the intended recipient received it, the creditor could not report any liability resulting from the unsolicited instrument to a consumer reporting agency.
+
+[SECTION]
+
+Within the past two years, the Board has received a dozen or so complaints about unsolicited loan checks that primarily relate to theft and fraud problems.  This is not a vast number of complaints, and the issuance of unsolicited loan checks is not as prevalent as the issuance of unsolicited credit cards in the late 1960s that led to the TILA prohibition.  But creditors are increasingly making use of these checks, and the question is whether they pose a significant enough problem to warrant legislation.  In answering the question, it seems appropriate to balance any need for consumer protection to combat fraud and other concerns associated with unsolicited checks against unnecessary restrictions on the offering of financial products.  Some consumers may appreciate the convenience of obtaining "instant credit" without having to make a formal application.  In addition, the intended recipient of a loan check generally will not be held liable for the amount of a forged loan check, although that may be small comfort to an individual who must contend with proving the forgery of the check.  While the Board is mindful of the appearance that consumers are exposed to risks they have not voluntarily assumed, we do not favor an outright prohibition against sending these checks.  Absent some evidence of a significant problem, we are inclined to let the market work without the intervention of new legislation.
+
+[SECTION]
+
+This hearing provides a useful forum for the industry, consumer representatives, and others to discuss with lawmakers these important policy matters involving debit cards and loan checks, and we appreciate the opportunity to participate in the discussion.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: September 24, 1997, 10:00 AM

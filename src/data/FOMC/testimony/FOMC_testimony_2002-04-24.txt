@@ -1,0 +1,139 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear before your committee this morning to update you on recent economic developments and on the availability of credit to small businesses.  In doing so, I want to emphasize that I speak for myself and not necessarily for the Federal Reserve.
+
+[SECTION]
+
+Recent Economic Developments
+
+When I met with your committee almost one year ago, overall economic activity had slowed noticeably after several years of rapid expansion.  The economic boom that preceded the slowdown had been marked by an exceptionally high rate of investment in high-technology equipment and software and by a brisk pace of household spending.  Some moderation in aggregate demand had seemed desirable if the economy was to return to a more balanced growth path.  However, the declines in household spending for durable goods and in business outlays for new equipment in the fourth quarter of 2000 turned out to be more abrupt than many businesses had anticipated.  As a result, many found that their inventories had become uncomfortably high.  Manufacturers moved rapidly to adjust output in response to the disappointing final sales and to the efforts by businesses throughout the production and distribution system to reduce unwanted stocks.  Indeed, the inventory correction was quicker than that in earlier business cycles.
+
+[SECTION]
+
+What looked at the outset to be a gradual cooling of an overheated economy became much more serious--particularly in the manufacturing sector--for several reasons.  First, the shakeout in the high-tech sector proved to be not simply an adjustment to slower domestic demand but a more fundamental reassessment by businesses, globally, of the profitability of additional fixed capital added to the already high stock of such capital.  Besides the plunge in demand for high-tech products, our exports were hit hard by the slowdown in economic growth abroad.  Lastly, the shock to confidence and spending in the wake of the tragic events of September 11 extended the weakness in the economy that had emerged over the first half of the year.
+
+[SECTION]
+
+As the economic slowdown unfolded during 2001, the Federal Open Market Committee moved aggressively to counter the weakening in economic activity and to limit the extent of the downturn.  In the event, I believe that monetary policy substantially cushioned the negative forces weighing on the economy.  Homebuilding was visibly buoyed by lower mortgage rates.  Because of more attractive mortgage rates, consumers were able to reduce payments, extract some home equity, and pay down more expensive forms of credit.  At the same time, automakers drew a record number of new car buyers into showrooms by offering generous financing deals.  Indeed, in contrast to earlier economic contractions, consumer spending held up remarkably well last year.  The favorable effects of lower interest rates on borrowing costs and the boost to disposable income from the federal tax cuts and falling energy prices largely offset the deterioration in consumer confidence, the decline in wealth from lower equity values, and the rise in unemployment.
+
+[SECTION]
+
+Compared with the previous four downturns that we had experienced since 1969, last year's downturn appears to have been mild overall.  However, it differed importantly in its composition.  Between the first and fourth quarters of last year, real disposable personal income, real personal consumption expenditures, and real outlays for residential construction increased more rapidly than in the preceding four economic downturns.  In contrast, because of the particularly sharp retrenchment in capital spending for high-tech equipment, firms cut back their capital spending more extensively than was typical of earlier business cycles.  The inventory correction was, as I noted earlier, much more prompt, and as the cycle played out, it became a more substantial drag on domestic production than had been the case in earlier downturns.
+
+[SECTION]
+
+Because the cutbacks in demand centered on goods, the manufacturing sector was hit particularly hard.  Indeed, the contraction in manufacturing production began in the second half of 2000--well before the cyclical peak in March of 2001--when the inventory correction and retrenchment in capital spending developed.  And, though the recession in real GDP was mild by historical standards, the cumulative drop of more than 7-1/2 percent in manufacturing industrial production from June 2000 through December 2001 was larger than the decline in any of the previous four recessions.  As a result, capacity utilization in manufacturing dropped over that period to 73.1 percent in the fourth quarter of last year--7-3/4 percentage points below its longer-run average.
+
+[SECTION]
+
+Although the weakness in the manufacturing sector from mid-2000 through the end of last year was widespread, the global plunge in high-tech investment stands out as a significant drag.  After having climbed at a rate of more than 35 percent per year in 1999 and 2000, our output of high-tech products--computers, communications equipment, and semiconductors--contracted at an annual rate of 21-1/2 percent between December 2000 and September 2001; capacity utilization in this group of industries fell from 81 percent to just under 61 percent in the fourth quarter of last year.  Other non-high-tech industries, such as apparel, industrial and electrical machinery, and instruments, were also relatively severely affected by the declines in domestic spending and steep drops in exports in 2001.
+
+[SECTION]
+
+On a more positive note, two other distinctive aspects of last year's recession are important for the longer-run outlook.  The economy entered the recent slowdown, first, with a much lower rate of inflation and, second, with a noticeably higher rate of increase in productivity than during the other recession episodes since the mid-1970s.  In both cases, the favorable performance has been well maintained into the first part of this year and provides a solid basis for a return to sustained noninflationary economic expansion.
+
+[SECTION]
+
+As Chairman Greenspan reported in his testimony before the Joint Economic Committee last week, prospects for a renewed expansion have now brightened significantly.  The economy appears to have been expanding at a significant pace in recent months.  Household spending is holding up well, business spending on new equipment appears to have firmed, and preliminary data suggest that inventories are being drawn down less rapidly than at the end of last year.  Of course, I should caution that, at this early stage, the degree of strengthening of final demand--a key factor in shaping the contour of the upturn--is still uncertain.
+
+[SECTION]
+
+That said, our estimates of industrial production, which were released last week, indicate that manufacturers have begun to benefit from the pickup in the economy to date.  Overall IP began to increase again in January, and indexes for almost 60 percent of the individual series for which we calculate production were by February above their levels three months earlier.  We estimated another broad-based gain of 3/4 percent in IP for March.  Production in several of the high-tech industries in which demand and output had plunged last year--office and computing equipment and semiconductors--had begun to firm toward the end of last year and then posted strong gains in the first quarter.  Last quarter also saw some reversal of the steep declines posted in 2001 in industries producing various consumer goods and in those producing construction supplies and industrial materials.  In other instances, such as industries producing non-high-tech business equipment, first-quarter performance was more uneven.
+
+[SECTION]
+
+Of course, the cyclical recovery in the manufacturing sector will be superimposed on the longer-run structural trends in domestic goods production.  Our manufacturers have over time been a strong and steady source of advances in productivity, and thus, the sector continues to be a significant contributor to the nation's overall economic growth.  At the same time, because advances in manufacturing have required increasingly less of our economic resources, they have implied a noticeable secular decline in the share of jobs in the manufacturing sector.  Furthermore, the increased globalization of goods production and the competitive pressures that have ensued have had additional consequences for the extent to which worldwide demand for goods has been met by U.S. firms and their workers--and those consequences have varied by industry.
+
+[SECTION]
+
+The Survey of Small Business Finances
+
+Turning to issues more directly related to small businesses, I want to begin by noting that the results from the Federal Reserve Board's Survey of Small Business Finance (SSBF) had just become available when I testified before your committee last May.  At that time, I discussed with you, in broad terms, our findings regarding the use of credit and other financial characteristics of small businesses.  As you may know, the survey results are one of the inputs into the report that the Federal Reserve sends to the Congress every five years detailing the extent of small business lending by all creditors.  That report, which we prepare in consultation with a number of other agencies, will be completed later this year.
+
+[SECTION]
+
+As we have discussed before, the Survey of Small Business Finances can be used to examine a range of issues, including the study of specific groups of firms.  This morning, I would like to draw on the results of the survey to focus on what they tell us about small manufacturing firms.
+
+[SECTION]
+
+According to our 1998 survey, about 8 percent of the more than 5 million nonfarm, nonfinancial small businesses--that is, those with fewer than 500 employees--were manufacturing firms.  Those manufacturing firms were larger than other small businesses:  Both average employment and average receipts at small manufacturing enterprises were about twice those at other small businesses.  As a result, small manufacturing firms accounted for about 14 percent of small business employment and around 17 percent of small business receipts.
+
+[SECTION]
+
+Despite considerable structural change and consolidation in the financial service sector and the increased accessibility to capital markets by small businesses, commercial banks continued to be the dominant provider of financial services to most non-tech small businesses in 1998.   These patterns were similar for manufacturing and nonmanufacturing firms.  About 55 percent of small businesses overall, and nearly 60 percent of small manufacturing firms, obtained credit from market sources or institutions.  As is the case with other small firms, more than 70 percent of small manufacturing businesses with a credit arrangement--such as a line of credit, a loan, or a lease--had a relationship with a commercial bank.
+
+[SECTION]
+
+Recent Trends in Small Business Financing
+
+No doubt, the economic and financial environment has become less conducive to risk-taking and leverage since the survey was conducted in 1998.  The economic slowdown of the past year led to a deterioration of corporate profits and an escalation of bond defaults and loan delinquencies.  As profits fell and businesses revised down their expectations for sales and their expansion plans, investors became less certain about the returns they should expect on investments.  The dramatic rise in problem credits and the rapid pace at which we saw firms fall from stellar ratings to bankruptcy also led investors to reevaluate their views about the financial well-being of businesses and their creditors.
+
+[SECTION]
+
+Thus far, we have seen few signs of the types of financial headwinds that, in the early 1990s, had played havoc with the ability of many creditworthy small firms to roll over loans and renew credit lines.  Credit flows to businesses have fallen much more modestly in the recent cycle, even as firms slashed their investment in fixed capital and inventories.  Moreover, financial institutions have maintained their capital and liquidity as delinquency rates of business and real estate loans did not reach the highs witnessed in the earlier period.
+
+[SECTION]
+
+As the Federal Reserve aggressively cut the federal funds rate in 2001, borrowing rates for most businesses dropped sharply despite persistently high risk spreads for lower-rated firms.  Low interest rates prompted investment-grade nonfinancial corporations to issue a record volume of bonds, and issuance continues to be strong this year.  These firms used the proceeds to strengthen their balance sheets by repaying short-term debt, refinancing other long-term debt, and building up liquid assets.  Though investors appeared cautious, non-investment-grade companies were also able to raise funds: Junk bond offerings have accounted for about one-quarter of total public debt issuance.  At commercial banks, rates on business loans declined, but loans at large banks fell sharply.  In contrast, loans at small banks, which make many loans to small businesses, expanded moderately last year and have continued to do so this year.
+
+[SECTION]
+
+As you are aware, the Federal Reserve regularly surveys senior lending officers around the country--principally at large banks, but also at a selection of small banks.  The survey, which is administered quarterly, asks banks about their credit terms and standards, loan demand, and other issues that may be topical.  During the market turmoil in late 1998, banks began looking harder at the loans they made to large and middle-market businesses.  In each quarter over the past three years, more banks reported having firmed their lending standards than reported having eased their lending standards for large and medium-sized borrowers.  Not surprisingly, banks have been particularly vigilant during the recent economic downturn, with 40 to 60 percent, on net, having tightened their lending standards.  Of particular relevance to this committee is the fact that the net portion of banks that reported having tightened their lending standards for small borrowers was about 10 percentage points below the net portion that reported having tightened standards for larger borrowers.
+
+[SECTION]
+
+The senior loan officer survey also questions banks about why they tightened their lending standards.  In 2001, banks commonly cited uncertainty about the economic environment, worsening industry-specific problems, and a reduced tolerance for risk.  The survey further questions banks about their perception of borrower demand.  In the most recent survey, about one-half of the banks surveyed reported that the demand for business credit continued to decline--a high fraction by historical standards, but lower than the roughly three-fourths that reported declining demand in the fourth quarter of last year.  Banks attributed declines in loan demand to reductions in planned investments and diminished financing for mergers.  This view held by bankers is confirmed by surveys of small businesses.  According to surveys conducted by the National Federation of Independent Business (NFIB) in 2001, only about 12 percent of respondents, on average, thought that it was a good time to expand, roughly half the percentage of a year earlier.  Few firms reported financing costs as a reason for believing that expansions were not a good idea.
+
+[SECTION]
+
+Indeed, since the beginning of 2001, NFIB respondents have not viewed financing conditions as onerous.  The percentage reporting that they found credit more difficult to obtain has remained moderate and well below the highs witnessed in previous economic downturns.  In addition, for creditworthy small businesses, interest rates on bank loans have declined with the easing in monetary policy.  The average short-term interest rate paid by NFIB respondents decreased about 3 percentage points, to its lowest level in more than two decades.
+
+[SECTION]
+
+Though we may take comfort from the lack of angst expressed by small borrowers in the NFIB surveys as well as from the lower loan interest rates, we must recognize that, given the tighter lending standards, some small businesses have almost certainly found credit difficult and more expensive to obtain.  Small manufacturing firms, in particular, may have faced tight credit constraints, as their profitability fell sharply last year and their business prospects became more clouded.  Indeed, such constraints are suggested by a recent survey conducted by the National Association of Manufacturers (NAM), an association whose membership is heavily weighted toward small and middle-market manufacturing firms.  The survey found that 2 percent of respondents thought it was "impossible" to get credit, a further 16 percent reported that it was "much more difficult" to do so, and another 16 percent reported that it was "slightly more difficult" to do so.  Of those experiencing difficulty in obtaining credit, 19 percent cited tougher credit standards as the explanation.  But nearly 40 percent of the respondents cited a decline in profits and a slowing economy as the explanation for experiencing difficulty in obtaining credit.
+
+[SECTION]
+
+However, I note that recent data from the Quarterly Financial Reports of Manufacturing, Mining, and Trade Firms (QFR) show that outstanding bank loans to manufacturers with less than $25 million in total assets actually increased moderately in 2001.  In contrast, bank loans to larger manufacturing firms were falling.
+
+[SECTION]
+
+Bank Supervision
+
+Turning from the aggregate measures of credit availability to the role of the Federal Reserve as a bank and a bank holding company supervisor, I want to emphasize that the current credit conditions that individual businesses now face reflect the judgments of individual lenders about the underlying credit risks of their customers and about their own financial strength and appetite for risk.  In our supervision of bank holding companies and state-chartered member banks, the Federal Reserve's overall goal is to promote prudential lending and risk-management practices by these institutions.  In conducting our activities, we recognize that credit decisions must be left to banks; our examiners do not advise whether particular loans should or should not be made.  Our role is to evaluate an institution's policies, practices, and controls to ensure that they are sound and that they are administered impartially, according to law.  Of course, we must be mindful of the possibility that excessive reactions by banks or their regulators to emerging weakness could deprive creditworthy borrowers of financing and curtail economic growth, and we seek, at all times, to maintain a proper balance in our supervisory approach.
+
+[SECTION]
+
+Supervisors need to evaluate the results of a bank's lending activities and will act to address the deterioration if or as problems build.  As you recall, they did so most visibly, for example, in the early 1990s.   Supervisors also need to anticipate potential problems and, to that end, occasionally issue cautionary guidance to banks when the Federal Reserve perceives that their lending standards are weakening and that they are not fully considering the likelihood of adverse events.  Cautionary guidance was issued to banks in 1995, spurred by mounting evidence received from examiners, industry surveys, and other sources that the industry's lending standards had declined.  Similar guidance was repeated in 1998, following a more focused and intensive review of bank lending practices by our supervisory staff, and again in 1999, following an interagency review of large syndicated loans.  Even so, none of these statements directed or encouraged banks to constrain lending but rather urged them to recognize risks in both current and less favorable economic conditions and to exercise balanced judgment at all times.
+
+[SECTION]
+
+In contrast, the Federal Reserve has not issued any such statements during the past two years.  However, we do provide the industry each year with statistics regarding the volume of credits criticized by examiners as part of annual interagency reviews of large syndicated loans.  In recent years, those statements have highlighted the continuing decline in bank asset quality.  Though such announcements may sensitize banks and bank supervisors to risks in the current environment, they contain information that we believe all parties should have and should consider when evaluating exposures and loan requests.
+
+[SECTION]
+
+Summary
+
+Obviously, 2001 was a rough year for the economy, and given the nature of the downturn, it was particularly rough for the manufacturing sector.  Credit flows did slow, driven largely by the falloff in the demand for funds as the economy softened and the reduced pace of merger and acquisition activity.  Overall, the tightening in credit standards that occurred was principally a response to the weak economy and declining profits, and thus it reflected a prudent pulling back of lending.
+
+[SECTION]
+
+The outlook, however, has brightened:  Industrial output has begun to turn up, and various surveys of business conditions suggest that orders are increasing.  These developments are encouraging signs, but they are no guarantee that a sustained solid expansion of final demand has gained traction, and we will be monitoring economic developments closely in coming months.  Accordingly, the assessment of the Federal Open Market Committee at its most recent meeting was that the risks to the outlook in the near term were balanced between economic weakness and pressures on inflation.  The committee kept the federal funds rate at its current level of 1-3/4 percent, which implies that monetary policy remains accommodative.  The FOMC's focus will remain on fostering a balanced, noninflationary economic recovery.  As you know, monetary policy works with one instrument in a national money market.  As a result, we cannot and should not set policy with an eye to the outcome in a particular sector of the economy.  However, we believe that promoting our longer-run objectives of maximum sustainable economic growth and financial stability will produce an environment in which the broadest range of businesses and households will prosper.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2002 Testimony

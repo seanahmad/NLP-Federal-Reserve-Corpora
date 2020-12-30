@@ -1,0 +1,657 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 23, 2006
+
+[SECTION]
+
+Chairman Ben S. Bernanke
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs of the United States Senate
+
+[SECTION]
+
+Chairman Shelby, Senator Sarbanes, and members of the Committee: I am pleased to be here to discuss financial literacy and financial education. My remarks will emphasize the importance of financial literacy, both as a source of better decisionmaking by consumers and as a means of improving the functioning of financial markets. I will also highlight various Federal Reserve System initiatives to promote financial education and address some of the opportunities and challenges that policymakers and financial educators face as they seek to improve financial literacy.
+
+[SECTION]
+
+Technological advances have dramatically transformed the provision of financial services in our economy. Notably, increasingly sophisticated information technologies enable lenders to collect and process data necessary to evaluate and price risk much more efficiently than in the past. For example, the expanded use of credit-scoring models, by reducing the costs of making loans and by increasing the range of assets that can be securitized, has facilitated greater extension of credit to a larger group of borrowers. Indeed, we have seen an increasingly wide array of products being offered to consumers across a range of incomes, leading to what has been called the democratization of credit. Likewise, innovation has enhanced financial services, such as banking services, and increased the variety of financial products available to investors.
+
+[SECTION]
+
+Even as the availability of credit has increased, so has the range of potential providers. In particular, in recent years, the number of nonbank entities providing credit products and other financial services has increased significantly. Data from a recent paper on alternative providers of financial services revealed that, between 1996 and 2001, the number of nonbank check-cashing establishments doubled in the United States. Payday lending outlets, a source of credit that was almost non-existent a decade ago, now number more than 10,0001. Data from the Federal Reserve Boardâs 2004 Survey of Consumer Finances indicate that the share of households with a loan from a finance company increased from 13 percent of households in 1992 to 25 percent of households in 20042. While many of these providers cater to low- and moderate-income consumers, their customers include people with a wide range of incomes and financial experience3. Clearly, to choose wisely from the variety of products and providers available, consumers must have the financial knowledge to navigate todayâs increasingly complex financial services marketplace. Consumers with the necessary skills to make informed financial decisions about purchasing a home, financing an education or their retirement, or starting a business will almost certainly be economically better off than those lacking those vital skills.
+
+[SECTION]
+
+Informed financial decisionmaking is also vital for the healthy functioning of financial markets. Like any other businesses, financial service firms will provide better products at better prices when they are subject to market pressures imposed on them by informed consumers. Regulators have an important role in helping to ensure that financial service companies provide necessary information to their customers, but such information is of value only to the extent that it can be understood and applied by potential users of these services. Market competition among financial providers for the business of informed consumers is, in my judgment, the best mechanism for promoting the provision of better, lower-cost financial products.
+
+[SECTION]
+
+Research on the Impact of Financial Education
+Research suggests that financial education can help consumers make better choices. For example, for many decades, various nonprofit organizations have offered homebuying programs and credit counseling to improve consumersâ financial management skills and reduce the risk of default or delinquency. Research on the effectiveness of these programs has generally associated financial counseling with improvements in consumersâ credit management. For example, one study that analyzed nearly 40,000 affordable mortgage loans targeted to lower-income borrowers found that counseling before the purchase of a home reduced ninety-day delinquency rates by 19 percent on average4. This study also documented a 34 percent reduction in mortgage delinquency rates among borrowers who received individual counseling rather than classroom or telephone instruction.
+
+[SECTION]
+
+In another study, researchers found that credit counseling had a positive effect on creditworthiness, especially for individuals with the lowest credit scores. They examined credit bureau data on 14,000 recipients of one-on-one credit counseling and found that, over a three-year period, these borrowers reported reduced debt levels and delinquency rates5. Another, preliminary study found that after receiving on-line instruction in credit management new or recently delinquent credit cardholders were more likely to pay on time and to have lower revolving balances6.
+
+[SECTION]
+
+Other research has looked at the link between financial knowledge and broader financial management skills. For example, one study examined the relationship between financial knowledge and financial behavior such as cashflow management, savings, and investing. Overall, the study found a significant correlation between the level of financial knowledge and good financial management practices. Individuals who were familiar with financial concepts and products were found to be more likely to balance their checkbook every month, budget for savings, and hold investment accounts7. Similarly, another study on consumer creditworthiness and consumer literacy determined that financial knowledge is the single best predictor of behaviors, such as budgeting, saving, and shopping responsibly, that translated into positive outcomes on credit bureau reports. This study also found that the main sources of knowledge were bad experiences, school instruction, and other education8.
+
+[SECTION]
+
+The Federal Reserve Systemâs Commitment to Financial Literacy
+The Federal Reserve System has long recognized the value of economic and financial education for producing better-informed citizens and consumers. Broadly, our financial education activities fall into five primary categories: (1) increasing access to information about financial products and services, (2) promoting awareness of the importance of financial literacy, (3) collaborating with educational and community organizations, (4) supporting research and identifying best practices, and (5) providing financial education for its own employees. I will briefly comment on each of these.
+
+[SECTION]
+
+Increasing Access to Information about Financial Products and Services
+One important means by which the Federal Reserve helps consumers make better informed financial decisions is through its consumer protection rule-writing. For example, in pursuit of the goals set by the Congress, our regulations require the disclosure of specific information on terms and fees associated with credit and deposit accounts. The Truth in Lending Act of 1968 (as implemented by Regulation Z) requires uniform methods for computing the cost of credit and for disclosing terms on a broad range of credit products--credit cards and other lines of credit, automobile loans, student loans, and home-purchase and other home-secured loans. In addition, the Truth in Savings Act, implemented by Regulation DD, requires uniform disclosure of certain cost information on deposit accounts, including the annual percentage yield. These disclosures provide consumers with the essential information they need to assess the costs and benefits of financial services offered by different providers. Standardization of disclosures allows for comparison among similar products and thus provides consumers with an important shopping tool.
+
+[SECTION]
+
+One of the challenges of creating effective disclosures is presenting information so that it is as accessible and understandable as possible. To address this issue, we conduct focus groups and consumer testing to inform the rule-writing process. Because regulatory language can be quite technical, the Federal Reserve also publishes numerous brochures that explain the terminology and consumersâ rights in straightforward terms or provide useful information on particular areas of concern, such as predatory lending and identity theft. Focus groups convened over the years have found that the Federal Reserveâs consumer brochures were regarded as high-quality, unbiased publications. We have also found that counselors and educators often use our brochures when teaching about financial products and services.
+
+[SECTION]
+
+Promoting Awareness of the Importance of Financial Education and Literacy
+The Federal Reserve System has also worked to promote awareness of the importance of financial education and literacy. In May 2003, the Board and the twelve Reserve Banks participated in a national campaign to call attention to the value of personal financial education and the wide variety of financial literacy tools and resources available. This multi-media initiative, entitled "Thereâs a Lot to Learn about Money," included a public service announcement and a toll-free number for obtaining financial education resources. Consumers were also directed to our education website, www.federalreserveeducation.org, to obtain more-substantive information, ranging from materials about personal financial literacy to interactive tools for economic education. The website links to a wide variety of financial education resources at the national, regional, and local levels.
+
+[SECTION]
+
+Collaborating with Educational and Community Organizations
+A third piece of the Federal Reserveâs financial education effort is its collaboration with a wide range of educational and community organizations. Staff members from the Federal Reserve Board advise and assist national organizations such as the Jump$tart Coalition for Personal Financial Literacy, the Conference of Mayorsâ DollarWi$e Campaign, Operation HOPE, the American Savings Education Council, and America Saves on the development of policies, programs, and partnerships.
+
+[SECTION]
+
+The Federal Reserve Banks also join with regional organizations to address financial education needs. For example, the Federal Reserve Bank of Cleveland has worked with community financial educators to form regional networks that combine resources and share best practices. The Federal Reserve Bank of Chicago sponsors "MoneySmart Week," partnering with banks, businesses, government agencies, schools, community organizations, and libraries to host activities designed to help consumers learn how to manage money. The Federal Reserve Banks of San Francisco and Minneapolis have worked with leaders in the Native American community to develop financial education materials. As you are aware, the Federal Reserve Board also participates in the federal governmentâs Financial Literacy and Education Commission.
+
+[SECTION]
+
+Collaboration with outside organizations also plays a central role in the Federal Reserveâs support for broader economic education. We believe that a better understanding of how the economy works promotes both better citizenship and greater personal economic success. As one means of supporting this objective, Reserve Bank staff members advise high-school teachers on ways to help students understand economics. Perhaps the best-known economic education initiative in the Federal Reserve System is the Fed Challenge. This academic competition offers high-school students the opportunity to learn more about how the Federal Reserve develops monetary policy and how those policies affect the economy. Federal Reserve Bank economists provide instruction guides for developing a Fed Challenge team. These teams compete at local, regional, and national levels. The competition hones studentsâ analytical and presentation skills, while expanding their knowledge of economic principles. I have personally judged the national finals of this competition on two occasions and can attest to the remarkable economic knowledge displayed by these students.
+
+[SECTION]
+
+I have included an appendix to this testimony describing some of the significant System and Federal Reserve District programs and collaborative efforts in financial and economic education.
+
+[SECTION]
+
+Promoting Research and Identifying Best Practices
+The Federal Reserve also promotes, and engages in, research relevant to financial literacy. For example, understanding how families are doing financially helps financial educators decide how best to focus their efforts. The Federal Reserve Board conducts the triennial Survey of Consumer Finances to gain insight into U.S. familiesâ assets, borrowing, retirement saving, and use of financial institutions. Many researchers and practitioners use this unique data set in analyzing conditions and trends in consumer finances.
+
+[SECTION]
+
+Given the significant commitment to financial education by government, private-sector, and nonprofit organizations, it is important to determine whether such programs actually improve consumer financial literacy and behavior. Toward this end, the Federal Reserve undertakes and promotes research that aims to increase our understanding of the financial education programs and delivery channels that work best. For example, the Boardâs Division of Consumer and Community Affairs engages in research on learning preferences and consumer financial behavior. Currently, Federal Reserve researchers are collaborating with the Department of Defense to conduct a three-year longitudinal study of the effect of military-sponsored financial education on soldiersâ financial behaviors. Since 1999, the Federal Reserve Systemâs biennial Community Affairs Research conference has generated and highlighted new research on the efficacy of financial education. In fact, much of the research that I cited earlier has been presented at these conferences. The Federal Reserve Bank of Chicago maintains the Financial Education Research Center, which provides access to online resources for researchers, educators, and program developers.
+
+[SECTION]
+
+Economists at the Federal Reserve Banks also assess the effects of financial education. The Federal Reserve Bank of Kansas City is currently evaluating the role that financial knowledge and education play in personal money management behavior. In addition, the Federal Reserve Bank of Boston plans a year-long evaluation of its credit repair education program, which is provided to taxpayers filing for the Earned Income Tax Credit at volunteer tax preparation sites where Reserve Bank staff offer their assistance. This study seeks a better understanding of the underlying determinants of credit problems and ways in which credit counseling can improve individualsâ credit scores.
+
+[SECTION]
+
+Employee Financial Education
+Besides these externally focused initiatives, the Federal Reserve seeks to improve the financial literacy of its own workforce. The Board offers a comprehensive financial education program to help employees plan their retirements and better use their benefits. We also offer regular seminars on topics ranging from budgeting and saving to buying a home or investing for childrenâs education. The Board maintains an internal website with links to information on quality-of-life matters, including managing finances. The website is organized by age groups and life events to help employees identify the information resources that are most relevant to their circumstances.
+
+[SECTION]
+
+We view our employee education program as a win-win proposition. Research has determined that such programs benefit employers as well as employees. For example, one study found that workplace financial education programs contribute to improved worker performance, increased job satisfaction, and decreased absenteeism9. The Federal Reserve Bank of Kansas City is studying how financial education programs affect employersâ bottom lines.
+
+[SECTION]
+
+Challenges and Opportunities
+Financial education is a critical component of a robust and effective financial marketplace, but it is not a panacea. Clear disclosures, wise regulation, and vigorous enforcement are also essential to ensuring that financial service providers do not engage in unfair or deceptive practices. Even the most financially savvy consumer may fall victim to fraud or deception.
+
+[SECTION]
+
+As policymakers and educators know, providing effective financial education presents many challenges. Efforts to increase financial literacy are resource- and time-intensive. Counseling programs require trained instructors and, to be most effective, must be available to consumers near the time at which they are making an important financial decision, such as whether to buy a home. Some school programs now include financial literacy courses or modules, but curricula must be regularly updated to remain relevant and teaching methods must be adapted to the backgrounds and interests of students. In some cases, financial education efforts are constrained by gaps in math and reading literacy, which impede comprehension of fundamental financial concepts.
+
+[SECTION]
+
+Recent findings by the Jump$tart Coalition for Personal Financial Literacy illustrate the magnitude of the challenges still facing us, particularly in the case of young people.10 The Coalition has administered financial literacy tests to high-school students annually for the past nine years. Student performance on these tests has not improved during that time: The average score reported in the 2006 survey was 52.4 percent, up from the low of 50.2 percent in 2002 but below the 1998 score of 57.3 percent. The survey results also show a gap in financial literacy between minority and non-minority students: In the most recent survey, white students scored an average of 55 percent while African-Americans scored 44.7 percent and Hispanics scored 46.8 percent. Clearly, there is still much work to do to understand how to improve the financial literacy of young people. On the other hand, the Jump$tart survey does confirm the importance of financial literacy, in that students who score higher on the test tend to make better financial decisions. For instance, students who reported having bounced a check averaged just 45.8 percent on the financial literacy test while students with checking accounts who had never bounced a check scored higher on average, at 53.4 percent.
+
+[SECTION]
+
+Because financial literacy leads to better outcomes for individual consumers and for our economy generally, continued effort in this area is highly desirable. Fortunately, given the current level of interest in improving financial literacy and education both in the United States and internationally, opportunities abound for cooperation and collaboration among public, private, academic, and community institutions. Advances in technology also offer great promise for improving the quality and delivery of financial information and for sharing of research and best practices among financial education providers.
+
+[SECTION]
+
+In closing, I want to reaffirm the Federal Reserve Systemâs commitment to increased financial literacy and improved financial education. We look forward to continuing our collaboration with the many partners who share these objectives.
+
+[SECTION]
+
+
+
+[SECTION]
+
+In Order of Federal Reserve Bank District
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+American Savings Education Council is a national coalition of public- and private-sector institutions committed to making saving and retirement planning a priority for all Americans. ASEC is a program of the Employee Benefit Research Institute Education and Research Fund (EBRI-ERF). ASEC brings together public- and private-sector partners to share information on best practices and to collaborate on financial-security initiatives, including the federal government's Savings Matters campaign (now in its tenth year), the Choose to Save® public service campaign, and the U.S. Securities and Exchange Commissionâs Facts on Saving and Investing campaign. The Federal Reserve Board is an ASEC mission partner, along with other government agencies, educational institutions, and nonprofit organizations committed to increasing awareness of the importance of saving and financial education.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Federal Reserve is active in the America Saves initiative and serves on the National Savings Forum, its national advisory committee. The mission of this nationwide campaign--sponsored by nonprofit, corporate, and government groups--is to help individuals and families save and build wealth. The program is targeted at low- and moderate-income families, to raise their awareness and support their efforts to become more financially secure. Through local and regional campaigns, America Saves recruits "savers," who commit to the program and pledge to save. As a result of their commitment, savers receive information and education about strategies for fulfilling their financial goals, such as reducing debt, building an emergency fund, and saving for a home, education, or retirement. The Federal Reserve Bank of Cleveland played a significant leadership role in developing and launching Cleveland Saves, a pilot program for the national America Saves campaign. The program has also launched the targeted initiatives Black America Saves, Hispanic America Saves, and Military Saves.
+
+[SECTION]
+
+Financial Literacy and Education Commission (FLEC), established by Congress in 2003 through the passage of the Financial Literacy and Education Improvement Act, was created to "improve the financial literacy and education of persons in the United States through development of a national strategy to promote financial literacy and education." The Federal Reserve, along with numerous other federal government agencies, is a member of this commission, which is supported by the Treasury Departmentâs Office of Financial Education.
+
+[SECTION]
+
+U.S. Conference of Mayorsâ National DOLLAR WI$E Campaign was developed to encourage the development of ongoing local strategies to educate citizens about financial issues. With improved basic money management and financial planning skills, citizens are in a better position to own homes, raise healthy families, educate their children, and invest in small businesses. The Federal Reserve Board serves as an advisor to the National DOLLAR WI$E Campaign. The Federal Reserve Banks of Cleveland, Chicago, and St. Louis provide supporting programs that have been described as best practices by the U.S. Conference of Mayors.
+
+[SECTION]
+
+Operation HOPE is a nonprofit organization that provides lower-income and minority populations and communities with financial education and access to financial services. Its mission is to improve asset-building skills and accessibility of mainstream financial services for its constituencies. The organization, founded in 1992, is effective in creating public-private collaborations to fulfill its mission. Among its many national partners are the Federal Reserve Board, the FDIC, the Department of Commerce, H&R Block, E*Trade, Citigroup, and Bank of America. The Federal Reserve System has partnered with Operation HOPE in launching its youth financial education program Banking on Our Future in Washington, D.C.; Providence, Rhode Island; Atlanta, Georgia, and Los Angeles, California. A Federal Reserve Board staff member serves on Operation HOPEâs Mid-Atlantic advisory board.
+
+[SECTION]
+
+The Jump$tart Coalition for Personal Financial Literacy, in its 10-year history, has brought visibility and--through its biennial survey of high school seniors--research-based data to the financial literacy movement. Jump$tart is a Washington, D.C.-based not-for-profit organization that seeks to improve the personal financial literacy of students in kindergarten through college. The coalition has grown to include more than 170 national partners and 43 affiliated state coalitions. One of its premier services is the Jump$tart Personal Finance Clearinghouse (www.jumpstartclearinghouse.org), a web site that lists more than 580 financial literacy titles and provides information about speakers and training programs. The Federal Reserve is a partner and serves on the Jump$tart Coalition board of directors.
+
+[SECTION]
+
+The Fed Challenge, in its twelfth year, is an academic competition in which five-member student teams play the role of monetary policy makers. In this role, each team makes a presentation in which it analyzes the current economic situation and advocates a monetary policy prescription. The team then engages in a question-and-answer session in which the judges probe to examine studentsâ understanding of the mechanics of monetary policy, macroeconomic concepts, and the workings of the Fed. The Fed Challenge has been a great success, as measured by participantsâ grades on Advance Placement Exams, adoption of the program by other central banks (for example, the central banks of England, New Zealand, and South Korea); recommendations in the New York State Economics Syllabus, textbooks, and the National Academy Foundationâs Academy of Finance curriculum; and anecdotal evidence offered by teachers that the Fed Challenge profoundly affects participantsâ career choices. The Fed Challenge is organized by the Federal Reserve Bank of New York, and many other Federal Reserve Banks participate.
+
+[SECTION]
+
+FederalReserveEducation.org is the Federal Reserve Systemâs recently redesigned financial education web site, designed to increase the use of Federal Reserve educational materials and promote financial education in the classroom. The web site has material intended for the general public, as well as materials specifically geared toward teachers and high school and college students. It provides easy access to free educational materials, a resource search engine for teachers, and games for various ages and knowledge levels. FederalReserveEducation.org is maintained by the Federal Reserve Bank of Kansas City.
+
+[SECTION]
+
+Federal Reserve Community Affairs Research Conferences are sponsored to invite and highlight research on a variety of issues that affect consumer financial service policies and practices. Since 1999, this biennial event has featured research that evaluates and explores the role of financial education in improving financial outcomes for consumers, particularly those with lower incomes.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The New England Economic Adventure is an hour-and-a-half interactive exhibit at the Federal Reserve Bank of Boston that highlights New England entrepreneurs Francis Cabot Lowell, Colonel Albert Pope, and Ken Olson and investment decisions they made that enabled workers to be more productive. Increased productivity helped to raise the standard of living of the average New Englander and contributed to the overall economic growth of the region. Program use and effectiveness is tracked through visitor and teacher evaluations and an online evaluation form. Numbers of visitors, including those from low- and moderate-income communities, are also recorded.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Peanuts & Crackerjacks is a frequently visited online economic education program that simulates a baseball game to teach economic concepts. Pitches are questions, correct answers to questions about the economics of team sports lead to hits and runs, and wrong answers are outs. The site also includes a teacher's guide. The next iteration, Economics of Entertainment, is due out in this fall. It will focus more on the abstract concept of markets and will draw from the music industry to tap into studentsâ own experience.
+
+[SECTION]
+
+Talking About College is a curriculum created in collaboration with Citizen Schools, the national after-school program. It was created for middle school students to nurture their aspiration to attend college and to assist them in financial planning and the college-selection process. This curriculum has been taught as a financial literacy "apprenticeship" in after-school programs in the Boston Public Schools. The curriculum includes a built-in assessment.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Itâs All About Your Money is a program, offered in two formats, that promotes financial awareness among students in grades 4 to 8. In one format, groups of 30 to 35 students visit the Bank for roughly three hours to take part in a series of activities, including a play about bartering; an active-learning exercise about how money has changed over time; social studies lessons derived by examining foreign currency notes; and several team and individual activities focusing on budgeting, saving, and other personal finance topics. In the second format, teachers direct all of the activities described in the first format in their own classrooms by using a package of materials and guides ordered directly from the Bank through the Internet. Success is measured by the teachers, who engage students in activities and assignments before and after their visit to the Bank. Students then write letters to the Bank discussing what they learned and what they intend to do differently as a result of the program. In the 2005â2006 school year, the program was presented to 55 schools, mainly in low- and moderate-income communities, as planned.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Foundations of Finance: Money Management for High School and College Students is a money management workshop that teaches students basic sound practices that foster wise financial decision making. Workshop content is flexible and can be adapted to the content, format, and time specifications set forth by each host school or college. Frequently requested topics include college financing, the benefits and risks of credit use, financing lifeâs expected and unexpected contingencies, budgeting and building net worth, taxes and other financial obligations, wise consumer practices, work and compensation, and common financial mistakes. Success is measured by school administrators and educators, who meet to determine the extent to which the workshops helped to encourage changes in curricula and mandates. Ideally, the workshop results in the development of new courses, mandated personal finance awareness sessions for all students, or changes in course content. An attempt is made to contact all students who participated in the workshop to determine how it changed their financial practices.
+
+[SECTION]
+
+Wall Street Economics and Finance Club reaches approximately 50 high school students from throughout the Second Federal Reserve District who convene for eight two-hour monthly meetings at the New York Fed to learn more about the structure and functions of the financial system. Students take part in numerous activities, including discussions with economists, analysts, and traders at private-sector financial institutions; visits to trading floors and financial exchanges; their own presentations about financial developments and issues; and educational competitions that lead directly to internships. The Bank measures success by participating in discussions with educators involved in the program, attempting to determine the extent to which club activities resulted in changes in lesson plans, curricula, course offerings, and studentsâ performance and interest in finance-related topics. Students in the club become ambassadors to their classmates, encouraging greater interest in economics and finance as a course of study or career.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Finding the Keys to Your Financial Success is an annual, free, five-day training program for educators on a curriculum created by the Bank, the University of Delaware, the Delaware Bankers' Association, and the Consumer Credit Counseling Services of Maryland and Delaware. The program is used extensively in Delaware schools, and over the past two years it has been promoted it to schools in seven Pennsylvania and New Jersey school districts.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Buried by Debt: the Dangers of Borrowing is a 14-minute video for adults that describes the pitfalls of borrowing against your home. On the video, six Philadelphia District residents tell the viewers, in their own words, how they lost or nearly lost their homes by making unwise borrowing decisions. The Bank created the video at the request of ministers who were contacted to assist with outreach to low- and moderate-income minority homeowners who were most at risk because of lending abuses. The Bank has distributed over 4,000 copies to organizations throughout the United States and abroad. The video is shown at training events conducted for faith-based organizations interested in delivering financial education programs. A Spanish version is also available.
+
+[SECTION]
+
+Money and Banking for Educators, the Bankâs signature free summer professional development course for teachers, is in its third year of existence. It is designed to provide teachers with active learning techniques to enhance students' understanding of the economy, the Federal Reserve System, and monetary policy. Those who elect to receive graduate-level credits for the course enroll through a participating university.
+
+[SECTION]
+
+Personal Finance for the Middle School Classroom is a five-day professional development course for K-12 educators taught by Federal Reserve economic education specialists and staff from the state centers for economic education. The course covers how to teach students about money, banking, and the Federal Reserve System. Emphasis is placed on strategies for active and collaborative learning.
+
+[SECTION]
+
+Personal Financial Education Curricula and Compendium of Providers provides information on training materials and other resources available to the public, as well as organizations that offer educational services in the Third Federal Reserve District.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Learning Center and Money Museum was opened in January 2006. The Learning Center features over 30 interactive exhibits and related educational programs centered around the theme "What gives money value?" The educational programs were designed by the Bank, with teacher input, based on state educational benchmarks. Programs include lessons on saving and spending, inflation, barter, and the Federal Reserve System. The Learning Center hosted over 2,500 visitors in its first quarter of operations, and reservations for Learning Center educational programs are booking seven months in advance. All program participants "strongly agree" that their Learning Center visit provided a valuable learning experience. The center has been endorsed by the Ohio Council on Economic Education.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Fourth District Financial Education Consortia launched in June 2003 with a series of roundtable meetings with financial institutions, government agencies, and community-based nonprofits. These meetings were convened to coordinate financial education programs and discuss how to improve financial education delivery in the Fourth District, in part in response to the Federal Reserve Bank of Clevelandâs financial education survey "Financial Education: What Is It and What Makes It So Important," published earlier that year. The meetings were also a response to the growing complexity of financial services, predatory lending, wide gaps between white and minority homeownership rates, record low savings rates, and increases in personal bankruptcies and debt among American consumers. The roundtable meetings resulted in the formation of several financial education networks, or "consortia," in the Cincinnati, Cleveland, and Pittsburgh regions. The Federal Reserve Bank of Cleveland has staff in each of those cities who act as coordinators for these initiatives.
+
+[SECTION]
+
+The Essay Contest is an annual competition for area high school students. Essay topics are chosen with an eye toward engaging a broad range of students, not just students in economics classes. Topics have included the economics of children's literature, the economics of rock music, and economics on TV.
+
+[SECTION]
+
+The Bank also participates in the Fed Challenge and hosts a number of other programs for teachers and students throughout the year, including workshops and student competitions with various partners such as Ohio Jump$tart, the Ohio Council on Economic Education, Junior Achievement, and local public libraries.
+
+[SECTION]
+
+
+
+[SECTION]
+
+My Money is an educational package for elementary school students that includes a teacherâs guide and student workbooks featuring lessons entitled "What is Money?", "Money Equivalents," and "Jobs, Money, Goods and Services." Over 1,100 My Money packages have been shipped to elementary schools worldwide since early 2006. Teacher feedback gathered from evaluation cards has been overwhelmingly positive.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Essay Contest is an annual fall contest, sponsored by the Bank, designed to reach students who may not be enrolled in an economics class and have limited knowledge about personal finance and the Federal Reserve. High school juniors and seniors write a three-page essay on a financial literacy topic or the Federal Reserve. Winners receive savings bonds at an awards luncheon held at the Bank. In the fall of 2005, the essay theme highlighted the importance of saving at a young age. There were over 250 entries.
+
+[SECTION]
+
+Financial Literacy Fairs are sponsored by the Bank for its employees each year, during Financial Literacy Month. Financial seminars address issues ranging from free credit reports, saving for retirement, and paying off credit card debt.
+
+[SECTION]
+
+The Bank also partners with local and regional financial and economic education organizations, including the Council on Economic Education in Maryland, Virginia, North Carolina, and South Carolina.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Monetary Policy: Part Art, Part Science is a DVD-based lesson that focuses on the structure and functions of the Federal Reserve System, the Fedâs role in formulating monetary policy, and how members of Reserve Banksâ board of directors contribute to interest rate-setting decisions. This video was originally used as part of the Atlanta tour program; however, because of its popularity, it was adapted for use across the District and for distribution to educators. As part of this extension, a lesson plan entitled "Monetary Policy Starts in Your Own Backyard" was developed to accompany the DVD. The lesson and video were distributed to more than 4,300 educators in the spring 2006 Extra Credit e-newsletter.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Extra Credit, an e-newsletter published twice a year, is designed to help teachers looking for information, lesson plans and activities, and ideas for teaching economics and personal finance to middle school and high school students. The second edition of the e-newsletter, available on the Internet, was distributed in spring 2006 to more than 4,300 educators.
+
+[SECTION]
+
+Financial Education Day at the Fed, an annual event, teaches eighth-grade students about personal financial education. More than 40 employee volunteers teach roughly 250 students money management skills through lectures and interactive exercises dealing with budgeting, credit, and saving. To measure the knowledge gained, students are given a test--both before and after the event--on the topics covered.
+
+[SECTION]
+
+Workshops and tours reached roughly 2,000 educators and over 15,300 students in 2005. In addition to conducting workshops and tours, the Bank works with other organizations to collaborate on various initiatives to provide quality learning experiences for educators. In July 2005 the Bank--in cooperation with the St. Louis Fedâs Memphis Branch, the Mississippi Council on Economic Education, and Mississippi Jump$tart--conducted a three-day economic and financial education workshop that reached over 100 educators each day. Similar collaborations are planned for 2006 throughout the District.
+
+[SECTION]
+
+The Bank also works closely with the state Department of Education and state legislators on legislation and on a curriculum for a high school personal finance course. It also works with organizations that promote financial literacy, such as Junior Achievement, Jump$tart Coalition, and the Academy of Finance.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Money Smart Week, an annual event, continues to be the Bankâs premier program for promoting the importance of financial and economic education to the Chicago community. In line with our goals to continue growth, participating partner organizations numbered 192 (up from 134 a year ago) and events numbered 274 (up from 220 in 2005). The campaign included promotional and marketing components such as a direct mail campaign to one million households, distribution of almost 400,000 Money Smart bookmarks to grades K-6 within the Chicago public schools, and street marketing campaigns to distribute 40,000 event calendars. In addition, 5,000 Spanish language event calendars were distributed as part of the program.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Financial Education Research Center is a database of research on the impact of financial education programs. The goal of the center is to promote excellence in the field by providing online resources for researchers, educators, program directors, and others interested in supporting these types of programs and initiatives. The web-based tool also offers a listing of national financial education programs available to the public and educators.
+
+[SECTION]
+
+Power of Money Curriculum Package includes two lesson plans and a nine-minute video about the Federal Reserve Bank of Chicago. Since its inception in 2003, the package has been distributed to almost 2,200 high schools in the five-state region. The total audience for the project is upwards of 250,000 students.
+
+[SECTION]
+
+The Visitors Center and Tour Program continues to grow and receive positive feedback from the students, teachers, and members of the general public who visit the facility. Surveys in which visitors rated their experience in the Visitors Center show an 87 percent satisfaction rate, defined as a score of 4.5 on a 5-point scale. The total number of counted visitors in the Visitors Center during 2005 was 23,623, a 9 percent increase over 2004. Uncounted (walk-in visitors) are estimated to have totaled more than 5,000 in 2005. This was the second year in a row in which the number of counted visitors has exceeded 20,000. Since the museum opened in June 2001, new attendance records have been set each year.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Making Sense of Money and Banking is a one-week, three-credit college course hosted by the Bank in conjunction with the University of MissouriâSt. Louis and Southern Illinois UniversityâEdwardsville. The course is offered to K-12 teachers to help them integrate money and banking topics into social studies, language arts, and math lessons. Guest speakers from the St. Louis Fed are featured. June 2006 will mark the eleventh year of the course, which draws 25 to 35 educators each year. The success of the course is measured by attendance, formal course evaluations, and general commentary by actual and prospective students.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Teach Children to Save Day is a national event developed by the American Bankers Association Education Foundation in cooperation with the Bank, the University of Missouri--St. Louis Center for Entrepreneurship and Economic Education, and a number of metro area banks. Students in the first, second, and third grades are given 45-minute lessons on the importance of saving and then receive piggy banks. Of the 148 volunteers who delivered the program to 287 area classrooms, 68 were Bank employees. Success is measured by participation and by reaction from teachers and students.
+
+[SECTION]
+
+Your Paycheck is a program conducted with Culver-Stockton College of Canton, Missouri, that focuses on teenagers earning their first paychecks and facing challenges related to money, credit, and financial responsibility. The program is sponsored by Quincy, Illinois, businesses that often employ teens. The program's trainers are Culver-Stockton students who are trained by Bank employees. Success is measured by evaluations from the student trainers and the program students.
+
+[SECTION]
+
+Learn Before You Leap is a series of brochures listing counseling agencies that provide advice on every step of the home-buying process, from budgeting income to negotiating a contract to closing on a loan. Each of the brochures focuses on one of the Federal Reserve Bankâs regional areas--St. Louis, Little Rock, Louisville, and Memphis.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Supply, Demand, and Deadlines is an annual economics workshop for journalists. In its sixth year, the workshop--sponsored by the Bank and the University of Minnesotaâs Journalism School--was founded on the premise that a better understanding of economics can improve the reporting skills of journalists from all news beats, not just the business section. Roughly two dozen journalists from all types of media spend three days learning about economic principles and participate in a thorough case study. The workshop faculty includes college professors and experienced professional journalists. All participants are surveyed six months after the course to determine how they are applying what they have learned.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Essay Contest for High School Students, has, since 1998, challenged hundreds of high school students from the District to look through an economic lens to address questions about poverty, the environment, banking, economic development, and even illegal drug markets. The top 30 essay writers, along with their parents and teachers, are invited to the Bank for an educational program on that yearâs subject and to receive an award. Many teachers also use the contest materials in their class curriculum to apply economics to real-world issues. The Bank works with District teachers to regularly evaluate the effectiveness of this program.
+
+[SECTION]
+
+The Bank has also assisted with the formation of local financial education organizations, including the Montana Financial Education Coalition (MFEC), the Montana Jump$tart Coalition affiliate, and the Minnesota Jump$tart Coalition affiliate. The Bank partners with the Native Financial Education Coalition (NFEC), created to promote financial education in native communities, and its Youth Initiatives Committee for the Building Native Communities adult financial education curriculum; the Minnesota Council of Economic Education; the Montana Council of Economic Education; the South Dakota Council of Economic Education; the Minnesota Saves Network; and the University of Minnesota's Center for Personal and Family Financial Education (CPFFE).
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Workplace Financial Education Program encourages employers to offer financial education classes to employees. The program is a series of seminars that include budgeting for current and future needs, reducing debt, increasing savings, understanding how credit works, improving credit ratings, building a relationship with financial institutions, and maximizing retirement funds. To complement the classroom settings, each participant is offered up to two hours of confidential one-on-one counseling with a certified financial planner. This program was piloted by the Bank in October 2005. Kansas City's community affairs research economist conducts surveys, before and after the program, in order to publish results and findings from the program.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Jump$tart Your Money was organized in Oklahoma in 2005 and has successfully raised the profile of personal financial education. The event, one week of programs focusing on personal financial education, is sponsored by over 60 statewide partners. The Bank is working to replicate this program by establishing coalitions in Missouri, Kansas, and Nebraska. The Bank is also developing a comprehensive database and a public web site to create awareness of financial education resources and services.
+
+[SECTION]
+
+The Bank also participates in financial education networks in Oklahoma, Colorado, New Mexico, and Wyoming--most notably Teach Children to Save Day (Denver and Kansas City), Oklahoma Jump$tart Coalition, and the Denver Financial Literacy Network.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Building Wealth: A Beginnerâs Guide to Securing Your Financial Future is a publication that introduces individuals and families to the idea of developing a plan for building personal wealth. It contains four sections: Learn the Language, Budget to Save, Save and Invest, and Take Control of Debt. Written in both English and Spanish, it is available in print and as an interactive web site. Building Wealth is widely used as a basic financial education tool by a broad range of professionals, including bankers and other lenders, credit counselors, homebuyer education providers, employers, and real estate professionals. Its popularity has increased steadily since its introduction in October 2000, and over 170,000 copies have been printed and distributed across the country. In addition, it is the most frequently downloaded publication on the Bankâs web site, with over 130,000 downloads in 2005.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Rx: Financial Health is the Bankâs 2006 personal financial education workshop. It will address topics related to achieving financial health--such as credit scoring, banking services, and tax preparation--and will touch on state-legislated personal finance education initiatives. This workshop, open to all high school educators, is part of a series of annual workshops hosted by the Bank in partnership with the Texas Council on Economic Education. Several presentations will be conducted by representatives of both private and public organizations, including the Internal Revenue Service, the Federal Reserve Bank of Dallas, and the Texas Council on Economic Education. The workshop was held in Dallas and at the Bank Branches.
+
+[SECTION]
+
+Where Did My Money Go? Making Money, Spending It, and Keeping It was the Bankâs 2005 workshop series, which focused on money in the form of income, how personal choices affect future income, and the difference between money made and money kept. More than 300 high school teachers attended workshops conducted by Dallas Fed economists, the Consumer Credit Counseling Services, and Citigroupâs Office of Financial Education. The one-day events were held at the Bank in Dallas and at Branches throughout the District.
+
+[SECTION]
+
+Riding the Waves of the Global Economy was a Bank-hosted two-day economic summit for more than 130 high school faculty. The program focused on the world economy and international issues, with special emphasis on technology, financial markets, poverty, and outsourcing. Dallas Fed President Richard Fisher and Fordham University economics professor Darryl McLeod were featured speakers.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Thereâs a Lot to Learn About Money is the Bankâs one-hour personal finance session for high school students, which supplements the Bankâs tour program. This interactive session teaches students how to take control of their finances by understanding the time value of money through saving and investing, how to develop a budget, and how to use credit wisely. Since the program was launched in the fall of 2005, a total of 69 workshops have been held, reaching 1,620 students. Teachers also have access to the program curriculum through the Bankâs web site.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Open and Operating: The Federal Reserve Responds to September 11 is a video-based lesson that gives history and economics teachers a tool for introducing their students to the Federal Reserve System. The video combines news footage and interviews with Federal Reserve officials to illustrate how the Fed functions in the real world. The events of September 11, 2001, provide the context for this lesson, documenting how the Federal Reserve acted decisively to calm the financial markets, keep funds moving, and stabilize the economy. The program includes a videotape/DVD, a lesson plan booklet, and web-based resources. In the first quarter of 2006, 2,500 Open and Operating kits were distributed to high school teachers, reaching more than 17,500 students across the country.
+
+[SECTION]
+
+The International Economic Summit (IES) is a program that educates high school students about the benefits of world trade while exploring the controversies associated with globalization. Working in small groups, student teams adopt a country and take on the role of economic advisor. Each student team evaluates conditions within their country and develops a strategic plan to improve living standards. A typical event hosts 300 to 400 students representing 60 to 80 countries. The event concludes with an awards ceremony recognizing those teams of economic advisors who achieved the goals of their strategic plan. Student teams also compete for awards in creative costume and table displays. The Bank established a partnership with the IES Foundation in 2003 to promote and support the program throughout the District. Since then, approximately 25,000 students have participated in the IES simulation in high school classrooms throughout California, Idaho, and Washington. Most recently, the first bi-national IES event hosted 300 high school seniors from San Diego County and Ensenada, Mexico.
+
+[SECTION]
+
+Building Native Communities is a series of workshops offered in Portland, Sacramento, Seattle, and Phoenix to train tribal members and representatives of Native American community organizations to teach financial education curricula in their communities.
+
+[SECTION]
+
+Individual Development Account Initiatives were launched in the District to establish partnerships for sponsoring match savings account programs for low- and moderate-income populations to save for buying a home, starting a small business, or pursing education. The programs include financial education for participants.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Noah Sawyer and Kenneth Temkin (2004), "Analysis of Alternative Financial Service Providers" (782 KB PDF), prepared for The Fannie Mae Foundation by the Urban Institute Metropolitan Housing and Communities Policy Center. Return to text
+
+[SECTION]
+
+Survey of Consumer Finances (2004), Federal Reserve Board of Governors. Return to text
+
+[SECTION]
+
+Gary Elliehausen, Ph.D and Edward C. Lawrence, Ph.D, (2001), "Payday Advance Credit in America: An Analysis of Customer Demand" (653 KB PDF). Return to text
+
+[SECTION]
+
+Abdughani Hirad and Peter Zorn (2001), "A Little Knowledge Is a Good Thing: Empirical Evidence of the Effectiveness of Pre-Purchase Homeownership Counseling" (467 KB PDF). Return to text
+
+[SECTION]
+
+Gregory Elliehausen, E. Christopher Lundquist, Michael Staten (2003), "The Impact of Credit Counseling on Subsequent Borrower Credit Usage and Payment Behavior" (January), (305 KB PDF). Return to text
+
+[SECTION]
+
+Kimberly Gartner and Richard Todd (2005), "Effectiveness of Online âEarly Interventionâ Financial Education for Credit Cardholders" (July), (189 KB PDF). Return to text
+
+[SECTION]
+
+Jeanne M. Hogarth and Marianne A. Hilgert (2003), "Patterns of Financial Behaviors: Implications for Community Educators and Policymakers" (1.8 MB PDF). Return to text
+
+[SECTION]
+
+Marsha Courchane and Peter Zorn (2005), "Consumer Literacy and Creditworthiness" (1.2 MB PDF).  Return to text
+
+[SECTION]
+
+E. Thomas Garman, Jinhee Kim, Constance Y. Kratzer, Bruce H. Brunson, and So-hyun Joo (1999), "Workplace Financial Education Improves Personal Financial Wellness," Financial Counseling and Planning Journal, vol. 10. Return to text
+
+[SECTION]
+
+Jump$tart Coalition for Personal Financial Literacy (2006), "2006 Survey of Financial Literacy Among High School Students". Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

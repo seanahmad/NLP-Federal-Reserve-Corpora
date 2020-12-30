@@ -1,0 +1,193 @@
+
+
+[SECTION]
+
+Chairman Bachus, Representative Sanders, and members of the Subcommittee, thank you for the opportunity to testify on H.R. 3505, the Financial Services Regulatory Relief Act of 2005, and other issues related to regulatory relief.  The Board is aware of the current and growing regulatory burden that is imposed on this nation's banking organizations.  Often this burden falls particularly hard on small institutions, which have fewer resources than larger institutions.  The Board strongly supports the efforts of Congress to review periodically the federal banking laws to determine whether they can be streamlined without compromising the safety and soundness of banking organizations, consumer protections, or other important objectives that Congress has established for the financial system.  Developing regulatory relief legislation that appropriately balances burden reduction and sound public policy is no easy task, and I commend the Subcommittee for again addressing the issue of regulatory relief.
+
+[SECTION]
+
+In 2003, at Chairman Oxley's request, the Board provided a number of legislative proposals that we believe would improve the banking laws and relieve unnecessary burden.  Since then, the Board has continued to work with the other federal banking agencies and Committee staff on regulatory relief matters and has supported several additional regulatory relief proposals.
+
+[SECTION]
+
+I am pleased to note that some of the Board's most important legislative recommendations--including those authorizing depository institutions to pay interest on demand deposits, permitting the Federal Reserve to pay interest on balances held by depository institutions at Reserve Banks, and providing the Board greater flexibility in setting reserve requirements--were passed by the full House earlier this year as part of H.R. 1224, the Business Checking Freedom Act of 2005.  A number of the Board's other legislative suggestions are incorporated into H.R. 3505, and we look forward to working with Congress, our fellow banking agencies and other interested parties in developing, analyzing and perfecting other potential regulatory relief proposals as the legislative process moves forward.
+
+[SECTION]
+
+Federal Reserve Response to Hurricane Katrina
+Before turning to the provisions of H.R. 3505, I'd like to spend a few moments reviewing the steps that the Federal Reserve has taken to maintain and restore vital financial services to the people of the Gulf Coast--including those who remain in the region and those who have been forced by Hurricane Katrina to relocate outside the region.  At the outset, I want to express our heartfelt sympathy to all of the individuals and families who have suffered so much in the past few weeks, including the employees of the New Orleans Branch of the Federal Reserve Bank of Atlanta, and to acknowledge the very brave efforts of many individuals to save lives, help the sick and displaced, and restore public order.
+
+[SECTION]
+
+The Federal Reserve System, and particularly the Atlanta Reserve Bank, took a number of important steps immediately following Hurricane Katrina to assist depository institutions and customers affected by the disaster.  For example, the Atlanta Reserve Bank and other Federal Reserve offices quickly adjusted their operations to allow the cash services normally supplied by the New Orleans Branch to be provided by other offices in the region.  These offices have remained open each weekend since the disaster to help ensure that all depository institutions get the cash services they need and can service the critical cash needs of individuals and businesses in the region.  More recently, we have begun special deliveries of cash to designated distribution points in the most affected areas to reduce the transportation burdens and expenses on depository institutions in these areas.
+
+[SECTION]
+
+As relief and recovery efforts began, the restoration of check clearing became increasingly important.  We quickly shifted the processing of checks normally handled by our New Orleans office to Atlanta and worked with numerous individual institutions to address the special processing issues facing these institutions.  To help ease some of the burden in check clearing, during the week of September 5, we began giving credit for checks deposited by banks in the New Orleans territory as if these checks were still being processed normally in New Orleans.  We also did not return checks when we were unable to present them to severely affected institutions.  Instead, we held those checks and worked closely with the institutions' primary supervisors to determine how and when we could restart normal check relationships with these institutions.  Currently, we can present checks to all of the institutions that had service from the Federal Reserve prior to Katrina, although often at alternative locations.
+
+[SECTION]
+
+The Atlanta Reserve Bank also reminded the depository institutions it serves that, as usual, the discount window is available to assist in meeting their liquidity needs.  We have been in contact with many depository institutions in the affected areas and are carefully monitoring the situation.  At this time, we have not seen evidence of significant funding difficulties or problems in balance sheet management.
+
+[SECTION]
+
+In Washington, we have worked closely with the other regulatory agencies in encouraging financial institutions to consider all reasonable and prudent steps to ease burdens on persons that have been so deeply affected by Katrina.  These steps may include waiving ATM fees for customers and non-customers, increasing ATM daily cash withdrawal limits, allowing loan customers to defer or skip some payments, waiving late fees for credit card and other loan balances, and delaying delinquency notices to credit bureaus.  The banking agencies, working in conjunction with the Financial Crimes Enforcement Network (FinCEN), also have encouraged depository institutions to use the flexibility already embedded in existing regulations to use non-documentary methods to verify the identity of customers who may not have access to their normal identification documents due to the hurricane.
+
+[SECTION]
+
+At this point, the banking industry on the whole has responded well to this challenging situation, showing resilience and flexibility.  While the challenges have by no means passed, banks appear to be taking appropriate actions to get their customers access to cash and banking services.
+
+[SECTION]
+
+For our part, the Board has sought to assure institutions in the affected area that we will exercise prudence, discretion, and flexibility where possible and appropriate in fulfilling our supervisory and regulatory responsibilities.  In this regard, we recognize that efforts by banking organizations to work with affected borrowers may cause an institution's levels of delinquent and nonperforming loans to increase.  However, these actions, when conducted prudently, also can help protect the long-term viability of the institution, contribute to the local community and promote recovery.  We also have recognized that the disaster may well impact the ability of banking organizations to comply with a variety of regulatory filing and other requirements.  For this reason, we have publicly announced that the Federal Reserve will consider the unusual circumstances that organizations in the affected area have faced with respect to safety and soundness and compliance issues in determining what, if any, supervisory response is appropriate.  We also have reminded banking organizations that the Federal Reserve will favorably consider activities that revitalize or stabilize designated disaster areas, especially those activities that benefit low- and moderate-income individuals or areas, in reviewing an institution's performance under the Community Reinvestment Act.
+
+[SECTION]
+
+On a broader level, we also are cognizant of the concerns expressed by banking organizations regarding the burdens of complying with certain Bank Secrecy Act (BSA) requirements.  We recognize that provisions of the BSA require considerable effort by the banking industry to obtain, document and provide relevant financial information to support criminal investigations by law enforcement.  To further promote the uniform application of BSA/anti-money laundering requirements, the federal banking agencies, working with FinCEN, recently issued a joint BSA/AML Examination Manual.  The Board will continue to work with our fellow banking agencies and FinCEN to address key issues related to BSA/anti-money laundering compliance.  With respect to currency transaction reports (CTRs), we support the efforts of the Treasury Department and others to develop ways of reducing the burdens imposed on banks in ways that would not adversely affect the ability of banks to manage their risk or unintentionally impede the investigative tools available to law enforcement.
+
+[SECTION]
+
+De Novo Interstate Branching
+Turning back to H.R. 3505, the Board strongly supports those aspects of the bill that would remove outdated barriers to de novo interstate branching by banks.  Since enactment of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (Riegle-Neal Act), all fifty states have permitted banks to expand on an interstate basis through the acquisition of an existing bank in their state.  Interstate banking is not only good for banks, it is good for consumers and the economy.  While the number of banks has fallen in recent years, the number of branches has risen sharply to more than 71,000 in 2004 compared with approximately 50,000 in 1990.  More than 2,000 branches were opened by banks in 2004 alone.  The creation of new branches helps maintain the competitiveness and dynamism of the American banking industry and improve access to banking services in otherwise under-served markets.  It results in better banking services for households and small businesses, lower interest rates on loans, and higher interest rates on deposits.  Interstate branching also increases convenience for customers who live, work, and operate across state borders.
+
+[SECTION]
+
+However, the Riegle-Neal Act permitted banks to open a branch in a new state without acquiring another bank only if the host state enacted legislation that expressly permits entry by de novo branching (an opt-in requirement).  To date, twenty-one states and the District of Columbia have enacted some form of opt-in legislation, while twenty-nine states continue to require interstate entry through the acquisition of an existing bank.
+
+[SECTION]
+
+This limitation on de novo branching is an obstacle to interstate entry for all banks and also creates special problems for small banks seeking to operate across state lines.  Moreover, it creates an unlevel playing field between banks and federal savings associations, which have long been allowed to establish de novo branches on an interstate basis.
+
+[SECTION]
+
+H.R. 3505 would remove this last obstacle to full interstate branching for banks and level the playing field between banks and thrifts by allowing banks to establish interstate branches on a de novo basis.  The bill also would remove the parallel provision that allows states to impose a minimum requirement on the age of banks that are acquired by an out-of-state banking organization.  These changes would allow banks, including in particular small banks near state borders, to better serve their customers by establishing new interstate branches and acquiring newly chartered banks across state lines.  It also would increase competition by providing banks a less costly method for offering their services at new locations.  The establishment and operation of any new interstate branches would continue to be subject to the other regulatory provisions and conditions established by Congress for de novo interstate branches, including the financial, managerial, and community reinvestment requirements set forth in the Riegle-Neal Act.
+
+[SECTION]
+
+While the Board supports expanding the de novo branching authority of banks, the Board continues to believe that Congress should not grant this new branching authority to industrial loan companies (ILCs) unless the corporate owners of these institutions are subject to the same type of consolidated supervision and activities restrictions as the corporate owners of other full-service insured banks.  I will explain the reasons for the Board's position more fully later.
+
+[SECTION]
+
+Small Bank Examination Flexibility
+Another important section of the bill would expand the number of small institutions that qualify for an extended examination cycle.  Federal law currently requires that the appropriate federal banking agency conduct an on-site examination of each insured depository institution at least once every twelve months.  The statute, however, permits institutions that have $250 million or less in assets and that meet certain capital, managerial, and other criteria to be examined on an eighteen-month cycle.  As the primary federal supervisors for state-chartered banks, the Board and Federal Deposit Insurance Corporation (FDIC) may alternate responsibility for conducting these examinations with the appropriate state supervisory authority if the Board or FDIC determines that the state examination carries out the purposes of the statute.
+
+[SECTION]
+
+The $250 million asset cutoff for an eighteen-month examination cycle has not been raised since 1994.  The Board, Office of the Comptroller of the Currency, Federal Deposit Insurance Corporation and Office of Thrift Supervision unanimously support raising this asset cap from $250 million to $500 million.  Doing so would provide meaningful relief to small institutions without jeopardizing the safety and soundness of insured depository institutions.  In this regard, raising the threshold to $500 million would potentially allow approximately an additional 1,100 insured depository institutions to qualify for an eighteen-month examination cycle.
+
+[SECTION]
+
+The Board, however, does not support raising the asset threshold for an eighteen-month examination cycle to $1 billion, as section 607 of the bill would do.  Institutions that have assets approaching $1 billion tend to have more complex risk profiles and are more likely to operate business lines on a regional or national basis than institutions with assets of less than $500 million.  For these reasons, the Board believes that institutions with assets of more than $500 million should continue to be subject to a twelve-month safety and soundness exam cycle.
+
+[SECTION]
+
+The Board also does not support a separate provision of the bill (section 601), which would allow a federal banking agency to extend the twelve- or eighteen-month examination cycle for an institution of any size, and for a potentially indefinite period of time, in order to allocate and conserve the agency's examination resources.  Despite advances in off-site monitoring, the Board continues to believe that regular on-site examinations play a critical role in helping bank supervisors detect and correct asset, risk-management, or internal control problems at an institution before these problems result in claims on the deposit insurance funds.  These lessons were learned during the thrift and banking crises of the 1980s and were the reason Congress established the mandatory exam cycles in 1991.  These mandatory on-site examination cycles impose important discipline on the federal banking agencies, ensure that insured depository institutions do not go unexamined for extended periods, and have contributed significantly to the safety and soundness of insured depository institutions.  If an agency is experiencing shortages in its examination resources, we believe it would be better to address these constraints through the supplementation of the agency's resources, rather than by extending the mandated frequency of safety and soundness examinations.
+
+[SECTION]
+
+Permit the Board to Grant Exceptions to Attribution Rule
+H.R. 3505 includes another amendment that the Board proposed and that we believe will help banking organizations maintain attractive benefits programs for their employees.  The Bank Holding Company Act (BHC Act) generally prohibits a bank holding company from owning, in the aggregate, more than 5 percent of the voting shares of any company without the Board's approval.  The BHC Act also provides that any shares held by a trust for the benefit of a bank holding company's shareholders or employees are deemed to be controlled by the bank holding company itself.  This attribution rule was intended to prevent a bank holding company from using a trust established for the benefit of its management, shareholders, or employees to evade the BHC Act=s restrictions on the acquisition of shares of banks and nonbanking companies.
+
+[SECTION]
+
+While this attribution rule has proved to be a useful tool in preventing evasions of the BHC Act, it does not always provide an appropriate result.  For example, it may not be appropriate to apply the attribution rule when the shares in question are acquired by a 401(k) plan that is widely held by, and operated for the benefit of, the employees of the bank holding company.  In these situations, the bank holding company may not have the ability to influence the purchase or sale decisions of the employees or otherwise control the shares that are held by the plan in trust for its employees.  The bill would allow the Board to address these situations by authorizing the Board to grant exceptions from the attribution rule where appropriate.
+
+[SECTION]
+
+Reduce Cross-Marketing Restrictions
+Another amendment proposed by the Board and included in the bill would modify the cross-marketing restrictions imposed by the Gramm-Leach-Bliley Act (GLB Act) on the merchant banking and insurance company investments of financial holding companies.  The GLB Act generally prohibits a depository institution controlled by a financial holding company from engaging in cross-marketing activities with a nonfinancial company that is owned by the same financial holding company under the GLB Act's merchant banking or insurance company investment authorities.  However, the GLB Act currently permits a depository institution subsidiary of a financial holding company, with Board approval, to engage in limited cross-marketing activities through statement stuffers and Internet websites with nonfinancial companies that are held under the act's insurance company investment authority (but not the act's merchant banking authority).
+
+[SECTION]
+
+The bill would allow depository institutions controlled by a financial holding company to engage in cross-marketing activities with companies held under the merchant banking authority to the same extent, and subject to the same restrictions, as companies held under the insurance company investment authority.  We believe that this parity of treatment is appropriate, and see no reason to treat the merchant banking and insurance investments of financial holding companies differently for purposes of the cross-marketing restrictions of the GLB Act.
+
+[SECTION]
+
+The bill also would liberalize the cross-marketing restrictions that apply to both merchant banking and insurance company investments.  This aspect of the amendment would permit a depository institution subsidiary of a financial holding company to engage in cross-marketing activities with a nonfinancial company held under either the merchant banking or insurance company investment authority if the nonfinancial company is not controlled by the financial holding company.  When a financial holding company does not control a portfolio company, cross-marketing activities are unlikely to materially undermine the separation between the nonfinancial portfolio company and the financial holding company's depository institution subsidiaries.
+
+[SECTION]
+
+Small Bank Holding Company Policy Statement
+Another section of the bill (section 616) would direct the Board to propose for comment certain changes to its Small Bank Holding Company Policy Statement, including an increase in the asset threshold below which a bank holding company (BHC) qualifies as a "small" BHC for purposes of the Policy Statement.  I am pleased to report that the Board already has taken steps to raise this asset threshold.
+
+[SECTION]
+
+As a general matter, the Board has discouraged BHCs from using debt to finance the acquisition of banks or nonbank companies because high levels of debt at a parent BHC can impair the parent's ability to serve as a source of strength to its subsidiary banks.  The Board has recognized, however, that small community-based BHCs may have less access to the capital markets and equity financing than larger BHCs and that, therefore, the use of acquisition debt may be needed to permit or facilitate the transfer of ownership of small banks.  For this reason, the Policy Statement permits small BHCs to have higher levels of acquisition debt (and lower capital-to-asset ratios) than would otherwise be permitted for larger BHCs.  Currently, a BHC is considered "small" for purposes of the Policy Statement if it has less than $150 million in consolidated assets and meets certain other conditions.  The Policy Statement also contains certain ongoing restrictions on BHCs that operate under the Statement, which are designed to help ensure that these BHCs do not present an undue risk to the safety and soundness of their subsidiary banks.
+
+[SECTION]
+
+Earlier this month, the Board requested public comment on proposed changes to the Policy Statement.  These proposed changes would, among other things, raise the asset threshold in the Policy Statement from $150 million to $500 million in consolidated assets.  With this proposed change, approximately 85 percent of all top-tier BHCs--or approximately 4,400 companies--would qualify for the Policy Statement.  Raising the threshold to $500 million, as the Board has proposed, also goes well beyond the level (approximately $340 million) that would be needed to adjust the current threshold for inflation since it was established.  The Board also has announced plans to propose revisions to its regulatory reporting framework to accommodate the changes proposed to the Policy Statement, which should further lower reporting and compliance costs for small BHCs.
+
+[SECTION]
+
+This proposal balances the goals of facilitating the transfer of ownership of small banks, on the one hand, and ensuring capital adequacy and access to necessary supervisory information on the other hand.  Of course, the Board will carefully review the comments that we receive on this proposal.
+
+[SECTION]
+
+Industrial Loan Companies
+As I noted earlier, the Board strongly supports allowing banks to open de novo branches on an interstate basis.  The Board, however, opposes provisions, like those contained in H.R. 3505, that would grant this new authority to ILCs that operate under a special exemption in federal law.
+
+[SECTION]
+
+ILCs are state-chartered FDIC-insured banks that were first established early in the twentieth century to make small loans to industrial workers.  As insured banks, ILCs are supervised by the FDIC as well as by the chartering state.  However, under a special exemption in current law, any type of company, including a commercial or retail firm, may acquire an ILC in a handful of states--principally Utah, California, and Nevada--and avoid the activity restrictions and supervisory requirements imposed on bank holding companies under the federal BHC Act.
+
+[SECTION]
+
+When the special exemption for ILCs was initially granted in 1987, ILCs were mostly small, local institutions that did not offer demand deposits or other types of checking accounts.  In light of these facts, Congress conditioned the exemption on a requirement that any ILCs chartered after 1987 remain small (below $100 million in assets) or refrain from offering demand deposits that are withdrawable by check or similar means.
+
+[SECTION]
+
+This special exemption has been aggressively exploited since 1987.  Some grandfathered states have allowed their ILCs to exercise many of the same powers as commercial banks and have begun to charter new ILCs.  Today, several ILCs are owned by large, internationally active financial or commercial firms and a large retail firm recently applied to establish an exempt ILC.  In addition, a number of ILCs themselves have grown large, with one holding more than $50 billion in deposits and an additional six each holding more than $1 billion in deposits.
+
+[SECTION]
+
+Affirmatively granting ILCs the ability to open de novo branches nationwide would significantly expand the attractiveness of this loophole and further blur any remaining distinction between ILCs and full-service insured banks.  This result would be inconsistent with both the historical functions of ILCs and the terms of their special exemption in current law.
+
+[SECTION]
+
+Because the parent companies of exempt ILCs are not subject to the BHC Act, authorizing ILCs to open de novo branches nationwide would create an unlevel competitive playing field among banking organizations and undermine the framework Congress has established for the corporate owners of full-service banks.  It would allow firms that are not subject to the consolidated supervisory framework of the BHC Act--including consolidated capital, examination, and reporting requirements--to own and control an insured bank with nationwide offices.  It also would allow a foreign bank to acquire control of an insured bank and operate the bank anywhere in the United States without meeting the requirement under the BHC Act that the foreign bank be subject to comprehensive supervision on a consolidated basis in its home country.  In addition, it would allow financial firms to operate a nationwide insured bank without complying with the capital, managerial, and Community Reinvestment Act requirements established by Congress in the GLB Act.
+
+[SECTION]
+
+Congress has established consolidated supervision as a fundamental component of bank supervision in the United States because consolidated supervision provides important protection to the insured banks that are part of a larger organization and to the federal safety net that supports those banks.  Financial trouble in one part of an organization can spread rapidly to other parts.  To protect an insured bank that is part of a larger organization, a supervisor needs to have the authority and tools to understand the risks that exist within the parent organization and its affiliates and, if necessary, address any significant capital, managerial, or other deficiencies before they pose a danger to the bank.  This is particularly true today, as holding companies increasingly manage their operations--and the risks that arise from these operations--in a centralized manner that cuts across legal entities.  Risks that cross legal entities and that are managed on a consolidated basis simply cannot be monitored properly through supervision directed at one, or even several, of the legal entities within the overall organization.  For these reasons, Congress since 1956 has required that the parent companies of full-service insured banks be subject to consolidated supervision under the BHC Act.  In addition, following the collapse of Bank of Commerce and Credit International, Congress has required that foreign banks seeking to acquire control of a U.S. bank under the BHC Act be subject to comprehensive supervision on a consolidated basis in the foreign bank's home country.
+
+[SECTION]
+
+Authorizing exempt ILCs to open de novo branches nationwide would undermine this framework.  It also would take away from Congress the important decision--recently reaffirmed in the GLB Act--regarding the appropriate limits on the affiliation of banks and commercial entities.  This loophole allows any type of company, including a retail or commercial firm, to own an exempt ILC without regard to the activity restrictions in the BHC Act that are designed to maintain the separation of banking and commerce.
+
+[SECTION]
+
+In an attempt to address the issues associated with the mixing of banking and commerce, H.R. 3505 places certain limits on the types of ILCs that may open de novo interstate branches.  However, the limits contained in the bill do not adequately address these important issues.  For example, the bill would allow any ILC that received FDIC insurance before October 1, 2003, or had an application for deposit insurance pending on that date, to open de novo branches nationwide so long as the institution does not experience a change in control.  Thus, the bill would allow those commercial and retail firms that acquired an ILC before October 1, 2003, to transform the institution into a nationwide retail bank.
+
+[SECTION]
+
+Even those ILCs that are established or acquired after October 1, 2003, would be permitted to open interstate de novo branches unless an appropriate state supervisor for the ILC affirmatively determined that a company controlling the ILC derived more than 15 percent of its annual gross revenues from activities that are not "financial in nature or incidental to a financial activity."  Importantly, the bill does not define these terms by reference to the GLB Act or otherwise establish any standards for a state authority to use in determining what activities are "financial in nature or incidental to a financial activity."  Instead, the bill leaves this important determination--which has the potential to undermine the nation's longstanding policy of maintaining the separation of banking and commerce--to the discretion of the ILC's state supervisors.  Moreover, unlike the grandfather provisions of the GLB Act on which the ILC provisions of the bill purportedly are based (see 12 U.S.C. § 1843(n)), H.R. 3505 would not require a company that acquires an ILC after October 1, 2003, to divest its non-financial, commercial activities within a specified period of time.
+
+[SECTION]
+
+The limits contained in H.R. 3505 also do not address the other risks and issues presented by ILCs.  For example, the bill fails to address the supervisory issues associated with allowing domestic firms or foreign banks that are not subject to consolidated supervision to operate an FDIC-insured bank on a nationwide basis.  The bill also fails to address the equity issues raised by enhancing a loophole that is available to only one type of financial institution chartered in a handful of states.
+
+[SECTION]
+
+Let me be clear.  The Board does not oppose granting ILCs the ability to open de novo branches if the corporate owners of ILCs that exercise these expanded powers are covered by the same supervisory and regulatory framework that applies to the owners of other full-service insured banks.  Stated simply, if ILCs want to benefit from expanded powers granted other insured banks, then they and their corporate parents should be subject to the same rules that apply to the owners of other insured banks.
+
+[SECTION]
+
+The Board believes that important principles governing the structure of the nation's banking system--such as consolidated supervision, the separation of banking and commerce, and the maintenance of a level playing field for all competitors in the financial services marketplace--should not be abandoned without careful consideration by the Congress.  These matters deserve hearings and careful deliberation because they have the potential to change the landscape of our financial system and should not be considered as non-controversial regulatory relief matters.
+
+[SECTION]
+
+Conclusion
+I appreciate the opportunity to discuss the Board's legislative suggestions and priorities concerning regulatory relief.  Besides the items that I have highlighted in my testimony, the bill includes several other provisions suggested or supported by the Board, including useful clarifications of the ability of insured banks to acquire savings associations in interstate merger transactions and of the authority of the federal banking agencies to maintain the confidentiality of supervisory information obtained from foreign supervisory authorities.  The Board would be pleased to work with the Subcommittee, the full Committee, and their staffs as you seek to develop and advance meaningful regulatory relief legislation that is consistent with the nation's public policy objectives.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2005 Testimony

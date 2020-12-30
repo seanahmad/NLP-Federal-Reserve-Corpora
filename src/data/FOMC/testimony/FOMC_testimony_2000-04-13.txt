@@ -1,0 +1,95 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to be here today to discuss the evolution of our equity markets and the appropriate role for policymakers in this period of rapid change.  Publicly traded equities are a significant source of capital for firms, and equity markets are a key part of the process of allocating capital among competing uses in our economy.  Through issuance of equities, firms enable broad sets of investors to share in the risks and rewards of economic activity.  The pricing of existing capital assets plays an important role in directing investments in new capital assets.
+
+[SECTION]
+
+Today, equities constitute a substantial portion of the net worth of households, both direct holdings of shares and indirect holdings through mutual and pension funds.  In addition, U.S. equity markets are a significant factor in the international competitiveness of our finance industry.  For these reasons it is vital that our public policies foster equity markets that remain efficient, innovative, and competitive.
+
+[SECTION]
+
+In my remarks today, I shall be expressing my own views and not necessarily those of the Federal Reserve Board.  I shall endeavor to set out a few broad principles that I believe should govern the evolution of our stock exchanges.  Clearly, however, Chairman Levitt and his staff at the Securities and Exchange Commission (SEC) have enormous expertise that must be brought to bear on this issue, and they, along with the Congress, should lead the way in formulating and implementing appropriate public policies.
+
+[SECTION]
+
+Implications of Changes in Technology
+	  More powerful and functional computers and newer telecommunications technologies, in combination with deregulatory innovations by the SEC, have facilitated the development of new trading venues for equities.  These new venues offer investors a wide range of alternatives for entering orders and executing trades.  Some of the new trading mechanisms also offer speedier executions or greater anonymity, which are important to some types of investors.  Many allow customer orders to be matched directly, without the traditional intervention of a specialist or market maker.  As alternative trading venues proliferate and flourish, they have attracted increasingly larger volumes from the Nasdaq market and to a lesser extent from the other exchanges.  This competition among trading systems in the short run has resulted in market fragmentation  not all orders to buy and sell securities necessarily have the opportunity to interact with one another.
+
+[SECTION]
+
+Concerns that this fragmentation will have adverse implications for market efficiency and investor protection are, as I understand it, the prime motivations for this hearing.  The prices established in equity markets, as I noted at the outset, are a device through which capital is allocated.  Investors rely on them in making portfolio decisions.  These prices should reflect the supplies and demands of participants across all markets at a given time.   Fragmentation thus raises questions about the quality and completeness of the price discovery process and concerns that investors' orders to buy and sell securities may not be executed at the best price or the lowest cost.  Fragmentation also creates the impression, and perhaps the reality, that separate pools of liquidity yield a lower volume of liquidity in the aggregate.  Particularly in times of stress, liquidity simply may not be there or it may not be there in depth.
+
+[SECTION]
+
+But these concerns about fragmentation must be placed in perspective.  Market structures are constantly evolving, and activity shifts in response to innovations in trading and the development of new financial instruments.  In the long run, unfettered competitive pressures will foster consolidation as liquidity tends to centralize in the system providing the narrowest bid-offer spread at volume.  Two or more venues trading the same security or commodity will naturally converge toward a single market.  One market offering marginally narrower bid-ask spreads at volume will attract the business of others, improving its liquidity further, and reducing that of its competitors.  This, in turn, will engender an even greater competitive imbalance, leading eventually to full consolidation.  Of course, this process may not be fully realized if there are impediments to competition or if markets are able to establish and secure niches by competing on factors other than price.
+
+[SECTION]
+
+We need to be particularly careful, however, not to unintentionally and unnecessarily undermine sources of the extraordinary franchise values that have been built in to our equity markets, a process beginning with the Buttonwood Agreement of 1792 that founded what became the New York Stock Exchange.  Participants in our equity markets have succeeded in concentrating a great depth of liquidity that is the envy of other nations and a symbol of the United States as the world's preeminent financial power.
+
+[SECTION]
+
+Yet our established markets are undergoing profound competitive pressures and challenges, which they cannot fail to meet if they are to survive.  The very financial participants they serve are signaling that our exchanges may soon become noncompetitive, and their centralized liquidity could drift to other, presumably far more automated, venues.  The Nasdaq, as I noted earlier, has seen significant volume migrate to other trading systems.  The NYSE and regional exchanges, too, recognize that investors may increasingly choose to execute their trades elsewhere.
+
+[SECTION]
+
+Just as the market provides investors' valuations of the long-term prospects of individual equities trading on exchanges, the market also signals its assessment of the values of memberships in the exchanges themselves.  It is evident from these evaluations that market participants appear to be increasingly discounting the earnings from seats on the NYSE itself relative to the earnings of the stocks that trade on it.  Since 1996, for example, price-earnings ratios of NYSE stocks have risen by half.  The ratio of seat prices to the underlying earnings from seat leasing has barely budged.  This clearly implies uncertainty about the future of the exchange.  It would be unfortunate if this prized institution symbolizing American financial hegemony allowed itself to become marginalized.
+
+[SECTION]
+
+But if it fails to respond to technological change, one centralized trading venue, even the NYSE, can be displaced by another as other trading systems take advantage of newer technology to offer greater efficiency or to provide new functions investors value more highly.  The transition process clearly would result in fragmentation  a necessary consequence of the process of competition in the provision of trading services.  Obviously, if fragmentation can be avoided, it should be.  But if we enter such a transition process, it probably cannot be avoided entirely.
+
+[SECTION]
+
+The Role for Policymakers
+	What, in general, should be the role of policymakers in this cycle of competition, fragmentation, and consolidation?  We would do well to borrow the advice offered to the medical profession and, first, do no harm.  It has never proved wise for policymakers to try to direct the evolution of markets, and it strikes me as especially problematic at this juncture.  The structure of our equity markets is extraordinarily dynamic; hardly a week goes by that a new trading venue is not announced or an enhancement to an existing system is not trumpeted.  None of us can anticipate which of these venues will hit upon the combination of services that best meets the needs of investors.  That can only be revealed as competition establishes winners and losers.
+
+[SECTION]
+
+In light of these judgments, I would caution against the implementation of a government mandate for any particular form of central limit order book.  Given the pace of change in our markets, it is difficult to contemplate how a government mandate could be implemented; systems might well be obsolete before we were half-way through the planning process.
+
+[SECTION]
+
+As this technology-led market restructuring process plays out, there is a role for policymakers in facilitating the transition to a long-run equilibrium market structure.  Change often proves controversial because entities currently earning above-market rates of return owing to dominance over a segment of a market will seek, not unexpectedly, to protect those returns.  Many will argue that the rules, regulations, or market practices that give rise to such niches are critical for the continued functioning of markets or are in the best interest of investors.  These same entities, however, will see the need for additional competition in areas where others are earning above market returns.  It is the obligation of policymakers to cut through this underbrush and ensure that market participants and trading venues compete on as even terms as possible and that property rights of participants be scrupulously enforced.
+
+[SECTION]
+
+This suggests a re-examination of market practices and removal of current impediments to competition.  The testimony by market participants over the last several weeks offers some suggestions, such as broadening access to the system by which orders are routed between trading systems.  Clearly, all market participants recommend steps that are in their own self-interest; this, of course, is not surprising.  However, the role of policymakers is to weigh the rationale for recommended practices and use regulatory policy to foster competition.
+
+[SECTION]
+
+There are other ways in which policymakers can facilitate the shift to a new equilibrium market structure through steps to make competition itself more effective.  One area in which endeavors could well prove fruitful is enhancement of the transparency in markets.  The SEC's request for comment on market fragmentation seeks suggestions to improve disclosures  both by market centers and by brokers about the handling of orders and the execution of trades. Transparency is a fundamental organizing principle of markets.  Buyers and sellers should be fully cognizant not only of the characteristics of goods being bought and sold but also of the costs and methods by which trading occurs.  Only in this way will they be able to signal through their trading patterns the market venues that best fit their needs.  Retail investors, in particular, should pay attention to costs other than commissions that may be buried in the contracts authorizing their transactions.  Such costs could include delayed executions, failures to execute, or forgone profit if there is no opportunity for price improvement.  Disclosure empowers investors to make explicit choices about those factors that affect the quality of trade executions and ultimately the returns on their investments.
+
+[SECTION]
+
+Investors also should be particularly aware of the liquidity characteristics of the systems with which they choose to deal.  Despite the recent market volatility, the resiliency of our vastly expanded trading systems has not been fully tested, and there is a risk of complacency.
+
+[SECTION]
+
+If investors assume their everyday manner of dealing will always be possible in stressful conditions, such an assumption is unlikely to be realized.  The Long Term Capital Management episode was a wake-up call to institutional investors about the risks of dealing in illiquid markets.  The private-sector group that studied that event  the Counterparty Risk Management Policy Group  noted important deficiencies in the risk management systems of many market participants.  Improvements to these systems should help market participants better assess the possible consequences of market illiquidity, whether in the equity markets or in other markets.  But liquidity risk is not just an issue for institutional investors.  Retail investors, too, need to evaluate the implications of their decisions to deal in particular trading systems.  These investors need to exercise caution when dealing in illiquid markets, especially on a leveraged basis.
+
+[SECTION]
+
+Conclusion
+	In conclusion, I would like to reiterate my confidence in competition as the fundamental guide to the organization of our markets. Although fragmentation has some undesirable consequences, it is an inevitable part of the competitive process.  Fragmentation signals the value investors place on the services and functions offered by competing trading systems.  In the long run, activity will migrate to the systems that best meet the needs of investors, absent impediments to competition.  In the short run, policymakers should not attempt to anticipate the outcome of the competitive process.  Rather, they should seek to remove impediments to competition and take judicious steps to mitigate the adverse effects of fragmentation through policies such as enhanced disclosure.  Investors, too, can facilitate this evolutionary process by carefully evaluating the efficiency of the trading systems they use and the appropriateness of the trading strategies they undertake.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: April 13, 2000, 10:00 AM

@@ -1,0 +1,339 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman, Representative Cummings, members of the Subcommittee, I am pleased to testify on behalf of the Board of Governors on the Federal Reserve Board Retirement Portability Act, and to provide the Subcommittee with information on the Federal Reserve retirement system.  The Board strongly supports this legislation.  The bill would allow certain employees who leave the Board to work for other agencies and who then retire under the Federal Employees Retirement System (FERS), to receive pensions reflecting all of their federal service, including post-1988 service at the Federal Reserve Board.  On behalf of the Board and its employees, let me particularly thank you, Chairman Scarborough, and Representatives Cummings, Morella, Mica, Waxman, Norton, Davis, Hoyer, and Moran  for introducing this important legislation.
+
+[SECTION]
+
+By way of background, the Federal Reserve System has its own defined benefit retirement plan which has two benefit structures: the Board Plan covering Board employees hired pre-1984 which is modeled on the Civil Service Retirement System (CSRS); and the Bank Plan, covering Board employees hired after 1983 and all employees of the Federal Reserve Banks.  The Board Plan and CSRS have historically had reciprocity with regard to service credit portability.  However, as a result of an oversight that occurred when the FERS statute was first passed, post-1988 service at the Federal Reserve Board by employees enrolled in the Bank Plan and, in some limited situations, those enrolled in the Board Plan, is not creditable service under FERS.
+
+[SECTION]
+
+Service Credit Problem
+ The Board gains and loses employees in transfers between the Board and other government agencies each year.  In particular, transfers between the Board and the other bank regulatory agencies -- the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision -- are common.  The Board grants credit under its retirement plan to newly-hired employees with prior CSRS and FERS service if the employee renounces benefits under the prior retirement plan (to prevent dual credit).  Thus, there is service portability when employees come to the Board.  And, generally, there has been portability between the Board and other government agencies in crediting Board Plan service under CSRS.  However, due to the oversight mentioned above, post-1988 Bank Plan service at the Federal Reserve Board is not creditable under FERS.
+
+[SECTION]
+
+As a result, if a Board employee hired after 1983 (and participating in the Bank Plan) leaves the Board to work for another federal agency and then retires from that agency under FERS, that employee would receive a reduced pension that would not reflect all of that employee's federal government service.  This problem also affects any employee who participated in the Board Plan, did not complete five years of service prior to 1987, and  left the Board and reentered federal employment after a break in service of more than one year. In this situation, under current law, the employee would be placed under FERS with no credit for post-1988 Board service.  My testimony will refer to these situations as the "service credit" problem.
+
+[SECTION]
+
+Under current law, an employee affected by the service credit problem could receive two pensions:  the reduced pension from FERS and, if he or she had worked long enough to be vested, a pension from the Board.  In this case, because of the way the pensions are calculated, the sum of those pensions would usually be less than a single FERS pension that gave credit for all of the individual's federal government service.  Alternatively, if the employee was not vested at the Board, he or she would receive only the reduced FERS pension.
+
+[SECTION]
+
+Thus, current law creates a dollars-and-cents problem in retirement security.  Depending on the individual's final average salary and years of other federal service, the lack of portability of post-1988 Board service can mean the loss of hundreds or thousands of dollars a year in retirement income.
+
+[SECTION]
+
+We have identified about fifty former employees of the Board who have gone to work for other federal agencies and who will have this service credit problem when 
+they retire under FERS.  In addition, those of the Board's current workforce covered by the Bank Plan (about two-thirds of staff) would have the same problem if they should go to another federal agency and retire under FERS.  Over time, a growing percentage of  Board staff could encounter similar problems since virtually all new hires will have service that is not creditable under FERS.
+
+[SECTION]
+
+The service credit problem has festered without resolution since the FERS statute was enacted in 1986.  Employees at the Board are very aware of it.  The problem is damaging to employee morale and, just as important, some Board employees are deterred from making sound career moves because their pensions will suffer.  And, government agencies' efforts to recruit these employees are hampered.
+
+[SECTION]
+
+The bill before the Subcommittee would correct the unidirectional service credit problem.  It would amend the FERS statute to make post-1988 Board service creditable service under FERS.  As a result, when affected former Board employees retire under FERS, their pensions will reflect all their federal government service.
+
+[SECTION]
+
+To receive credit for post-1988 Board service under FERS, the bill  appropriately requires the employee to do two things.  First, the employee would have to renounce the entitlement (if any) to receive a pension from the Board.  This would prevent receipt of credit for post-1988 Board service under both FERS and the Bank Plan.
+
+[SECTION]
+
+Second, the bill requires the employee to make a contribution to FERS that, in effect, would "buy" FERS credit for his or her Board service.  This contribution would equal the amount the employee would have contributed to FERS if he or she had been covered by FERS during the service in question, plus interest to the date of payment.  This contribution is appropriate, since all FERS participants are required to contribute toward their pension benefit.
+
+[SECTION]
+
+These two requirements mirror provisions in current law that provide service credit for employees with prior service under the Foreign Service pension program.
+
+[SECTION]
+
+We believe that virtually all affected employees would be better off with this legislation than under current law.  This includes the Bank Plan employee who transfers to another agency and is placed under FERS, as well as the Board Plan employee who has completed five years service (but not prior to 1987) and who was placed under FERS following a break in service of more than one year.  As FERS employees, they will receive service credit for their post-1988 Board service.  Future government hires in the second situation (prior Board Plan) would be placed in CSRS Offset as a result of the legislation, where their post-1988 Board service would be creditable.
+
+[SECTION]
+
+To ensure that no one is inadvertently hurt, the bill would, in effect, allow affected employees to choose whether or not to get FERS credit for their post-1988 Board service.  With that option, the employee could make whichever choice would be more advantageous.
+
+[SECTION]
+
+In conclusion, Mr. Chairman, the Board and its employees strongly support this legislation, and we hope that the Congress can approve it quickly.
+
+[SECTION]
+
+I would now like to respond to the Subcommittee's request for an overview of the Federal Reserve Retirement Plan and information on the management of pension plan assets.
+
+[SECTION]
+
+Overview of the Federal Reserve Retirement Plan
+ The Federal Reserve System Retirement Plan is a governmental defined benefit plan that is qualified under Section 401(a) of the tax code.  The Plan provides retirement benefits for virtually all employees of the Federal Reserve Board and Reserve Banks.  (Exceptions are approximately 30 employees at the Board who are in FERS or CSRS.)  Plan benefits are determined under two separate benefit structures: the Board Benefit Structure (Board Plan), which covers approximately 600  Board employees; or the Bank Plan, which covers all eligible Reserve Bank staff (about 23,000 employees) and approximately 1,000 Board employees.  There are approximately 500 annuitants receiving payments from the Board Plan and approximately 12,000 annuitants receiving payments from the Bank Plan, with another 5,000 who have earned a benefit but have not yet begun drawing payments.
+
+[SECTION]
+
+The Federal Reserve Banks and the Board, as employers, are responsible to ensure the funding required to pay the benefits promised to participants and have contributed to the Plan at varying levels throughout the years as determined necessary by the Plan actuary.  Since 1986, the actuary has determined that no employer contributions are required.  Currently, the Retirement Plan's assets exceed both the Plan's accrued liability as well as total liability as calculated by the Plan actuary.  Plan assets based on a 5-year moving average as of January 1, 1998, were $4.0 billion.  The total benefit obligation--which includes both future service and future salary increases--was $3.5 billion.  Accrued benefits--based on service and salary up to the date of the valuation--were valued at $2.8 billion.  The value of Plan assets at the end of 1998 was $5.8 billion.
+
+[SECTION]
+
+The Board Plan covers Board employees hired prior to 1984; its plan design is nearly identical to that of  the Civil Service Retirement System.  Participants do not pay Social Security tax, but have contributed to the Board Plan at the same rate as CSRS participants over the years (except that the Board did not increase the employee contribution rate from 7.0 percent to 7.25 percent in 1999 as CSRS did).  The benefit features of the Board Plan mirror those of CSRS in most important respects.  The most significant differences are:  the Board Plan credits Federal Reserve Bank service while CSRS does not; the Board Plan has adopted a benefit formula for employees with part-time service after April 6, 1986, that is different from the CSRS; and the Board Plan does not allow incorporation of retired military pay into the Board Plan annuity as allowed by CSRS.  A detailed listing of the differences between the two plans is found in    Attachment A.
+
+[SECTION]
+
+The Bank Plan covers all eligible employees of the Federal Reserve Banks.  When Congress passed legislation requiring that federal employees hired after 1983 be subject to Social Security tax, the Board decided to place all newly hired Board employees in the Bank Plan as well.  Unlike the Board Plan, the Bank Plan does not require employee contributions, but all Bank Plan participants are covered under Social Security and thus are subject to the FICA withholding requirement.  The basic annuity formula for the Bank Plan is integrated with Social Security.  The annuity formula is based on years of creditable service and the average of the five highest earning years of the employee's career.   The benefit formula provides 1.3 percent of High-5 salary up to the Social Security integration level times the number of years of creditable service plus 1.8 percent of High-5 salary above the integration level times years of creditable service.
+
+[SECTION]
+
+While the Bank Plan is similar to FERS in that it is designed to work together with Social Security, the plan design features differ.  For example, the Bank Plan requires no employee contributions as FERS does; it uses the highest five years of earnings to compute the pension benefit rather than the highest three years under FERS; and it provides for annuity reductions for retirements prior to age 60 while FERS allows unreduced retirement below age 60 if the participant has 30 years of service.  A detailed comparison of the plan features of FERS and the Bank Plan are provided in Attachment B.
+
+[SECTION]
+
+The Federal Reserve Thrift Plan is the System's defined contribution plan comparable to the government's Thrift Savings Plan (TSP).  Both Board Plan and Bank Plan employees are eligible to participate and receive employer matching funds.  The Federal Reserve Thrift Plan differs from TSP in that it offers both pre-tax and after-tax savings components, and a wider variety of investment options.  It also allows higher contribution rates from participants (up to 20 percent of salary), subject to IRS limitations.
+
+[SECTION]
+
+Management of Pension Plan Assets
+The Federal Reserve System, composed of the Board of Governors and 
+12 Reserve Banks, vests fiduciary responsibility for the investments of its defined benefit (pension) and defined contribution (savings) plans in a committee of five senior System officers.   The System's investment oversight committee is currently comprised of three Reserve Bank presidents, one Member of the Board, and the First Vice President of the New York Reserve Bank.  The pension and savings Plans had investments valued at $8.1 billion as of year-end 1998, with $5.8 billion representing pension plan assets.
+
+[SECTION]
+
+I represent the Board on this committee and have done so since 1994.  The committee is chaired by one of the Reserve Bank presidents (currently Mr. Gary Stern of the Minneapolis Reserve Bank).  Day-to-day oversight of the investments is the responsibility of a small staff (3) in New York directed by our Chief Investment Officer, Mr. Paul Lipson, CFA.
+
+[SECTION]
+
+Our oversight committee has long sought to distance itself from asset allocation decisions because such activity might bring with it the appearance of a conflict of interest for the System.  Instead, the committee functions as a manager-of-managers -- selecting independent investment firms and giving them a common balanced investment mandate.  That mandate is set forth in our Investment Objectives and Guidelines document, which has been provided to the Subcommittee.  This document is part of the investment advisory agreement with each firm, and delegates to them asset allocation decisions (within broad parameters set by the committee), securities selection decisions, and the voting of proxies.
+
+[SECTION]
+
+Currently, eight firms are retained to manage our $5.8 billion in pension assets (of which about two-thirds were invested in equities as of year end 1998).  Those balanced accounts range in size from $350 million to $1 billion.  Managers are selected by criteria that include past performance, desired equity and fixed income investment "styles", trading and research capabilities, expense levels, etc.  Management expenses for the entire Plan are less than one-quarter of one percent of invested assets.  No pension assets are managed in-house.  The staff in New York monitors portfolio activity and performance, reporting on both to the committee on a monthly basis.  The committee meets with its portfolio managers at least once a year; staff meets with most of them quarterly.  No consultants are retained for any aspect of the investment process; although the staff in New York makes extensive use of generally-available analytical software to assess returns and various measures of risk.
+
+[SECTION]
+
+Performance of invested assets is measured against three benchmarks: versus the expected long term rate of return for Plan investments used in actuarial valuation (currently 9%), versus a trailing 36 month composite return (60% S&P 500/40% Lehman Bros. Aggregate), and in comparison to the Plan's peer group in the Wilshire Trust Universe Comparison Service, the largest tax-exempt institutional performance database in the US.  I am pleased to report that the Plan has met or exceeded each of those benchmarks over many years.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Attachment A
+Differences between CSRS and Board Plan
+The Board Plan and CSRS are identical in major benefit provisions.  The few differences that exist include the following.
+
+Board Plan provides credit for service performed at Federal Reserve Banks, subject to deposit rules for non-contributory service.  CSRS does not permit credit for Federal Reserve Bank service unless the CSRS participant is a presidential appointee.
+
+[SECTION]
+
+The Board Plan does not permit military retirement pay to be waived and credit received for such time under the Board Plan.  CSRS permits such credit upon waiver of military retired pay.
+
+[SECTION]
+
+The Board Plan does not include the requirement under CSRS that a participant must have at least one year of civilian service under CSRS within the two years immediately prior to the retirement date.
+
+[SECTION]
+
+The Board Plan has amended the provisions for determining the retirement benefit for employees who had part-time service after 4/6/86.  The change corrects some inequities that exist under the CSRS treatment of part-time employees.  The change is consistent with a provision to amend CSRS that was introduced in legislation proposed by Senator Robb in the 105th Congress.
+
+[SECTION]
+
+Entitlement to Discontinued Service Retirement under the Board Plan is determined by the Board pursuant to a resolution.  CSRS has specific requirements promulgated by OPM for discontinued service retirements.
+
+[SECTION]
+
+The employee contribution rate under the Board Plan varies from the employee contribution rate under CSRS for the first time, effective January 1999.  The Board Plan rate continues to be 7 percent; the CSRS rate rose to 7.25 percent.
+
+[SECTION]
+
+The Board benefit structure does not include certain special provisions provided for under CSRS such as:  special provisions for firefighters, law enforcement officers, air traffic controllers, employees on LWOP to serve in an employee organization, employees temporarily assigned to a state or local government, and similar situations.
+
+[SECTION]
+
+Board Plan annuitants are treated differently upon reemployment.  Under CSRS, the reemployed annuitant continues to receive an annuity but is paid a salary that is reduced by the amount of that annuity.  Board Plan annuitants have the annuity suspended until the period of reemployment has ended.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Attachment B
+Retirement system comparison
+
+
+	 
+	
+BANK PLAN  
+
+FERS
+
+[SECTION]
+
+Retirement Eligibility  Unreduced Benefit
+
+[SECTION]
+
+Age 65 with 5 yrs service
+
+[SECTION]
+
+Age 60 & meets rule of 90 (age + service = 90)
+
+[SECTION]
+
+Age 62 with 5 yrs service
+
+[SECTION]
+
+Age 60 with 20 yrs service
+
+[SECTION]
+
+MRA(age 55 to age 57 depending on birthdate) + 30 yrs service
+
+[SECTION]
+
+Retirement Eligibility  Reduced Benefit
+
+[SECTION]
+
+Minimum: Age 50 w/ 5 yrs (37.5 percent of full benefit)
+
+[SECTION]
+
+Reductions based on actuarial tables
+
+[SECTION]
+
+MRA + 10 years service
+
+[SECTION]
+
+(5 percent reduction for each year under age 62)
+
+[SECTION]
+
+Retirement Computation Formula
+
+[SECTION]
+
+1.3 percent x High-5 average salary up to SS Integration level, plus 1.8 percent x High-5 average salary over SS integration level, multiplied by total years of service
+
+[SECTION]
+
+Reduction for retirement before eligibility date (based on actuarial table)
+
+[SECTION]
+
+Maximum annuity          80 percent of High-5 average salary
+
+[SECTION]
+
+1 percent (or 1.1 percent at age 62) x High-3 salary x total years of service plus annuity supplement, where applicable
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Reduction of 5 percent for each year under age 62
+
+[SECTION]
+
+
+
+[SECTION]
+
+No maximum annuity
+
+[SECTION]
+
+Cost of Living Adjustments
+
+[SECTION]
+
+Upon approval of Board of Governors  On average, 40  60 percent of CPI-W change after CPI-W increases at least  8  percent
+
+[SECTION]
+
+No COLAs until age 62; CPI-1 thereafter
+
+[SECTION]
+
+Employee Contributions
+
+[SECTION]
+
+None required
+
+[SECTION]
+
+Social Security contributions
+
+[SECTION]
+
+Currently 1.05 percent + Social Security Contributions
+
+[SECTION]
+
+Employer Contributions
+
+[SECTION]
+
+None since 1986
+
+[SECTION]
+
+Social Security Contributions
+
+[SECTION]
+
+Currently 10.7 percent + Social Security Contributions
+
+[SECTION]
+
+Vesting
+
+[SECTION]
+
+5 years
+
+[SECTION]
+
+5 years
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: February 25, 1999, 10:00 AM

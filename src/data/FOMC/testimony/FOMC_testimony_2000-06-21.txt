@@ -1,0 +1,64 @@
+
+
+[SECTION]
+
+I am pleased to be here to present the Federal Reserve Board's views on the Commodity Futures Modernization Act of 2000 (S. 2697).  My testimony today will be largely identical to testimony that my colleague Patrick Parkinson delivered on behalf of the Board last week to the House Subcommittee on Risk Management, Research, and Specialty Crops.  The Board continues to believe that such legislation modernizing the Commodity Exchange Act (CEA) is essential.  To be sure, the Commodity Futures Trading Commission (CFTC) has recently proposed issuing regulatory exemptions that would reduce legal uncertainty about the enforceability of over-the-counter (OTC) derivatives transactions and would conform the regulation of futures exchanges to the realities of today's marketplace.  These administrative actions by no means obviate the need for legislation, however.  The greatest legal uncertainty affecting OTC derivatives is in the area of securities-based transactions, to which the CFTC's exemptive authority does not extend.  Furthermore, as events during the past few years have clearly demonstrated, regulatory exemptions carry the risk of amendment by future commissions.  If our derivatives markets are to remain innovative and competitive internationally, they need the legal and regulatory certainty that only legislation can provide.
+
+[SECTION]
+
+In my remarks today I shall focus on three of the areas that the legislation covers:  (1) OTC derivatives; (2) regulatory relief for U.S. futures exchanges; and (3) repeal of the Shad-Johnson restrictions on the trading of single-stock futures.
+
+[SECTION]
+
+OTC Derivatives
+ In its November 1999 report, Over-the-Counter Derivatives and the Commodity Exchange Act, the President's Working Group on Financial Markets (PWG) concluded that OTC derivatives transactions should be subject to the CEA only if necessary to achieve the public policy objectives of the act--deterring market manipulation and protecting investors against fraud and other unfair practices.  In the case of financial derivatives transactions involving professional counterparties, the PWG concluded that regulation was unnecessary for these purposes because financial derivatives generally are not readily susceptible to manipulation and because professional counterparties can protect themselves against fraud and unfair practices.  Consequently, the PWG recommended that financial OTC derivatives transactions between professional counterparties be excluded from coverage of the CEA.  Furthermore, it recommended that these transactions between professional counterparties be excluded even if they are executed through electronic trading systems.  Finally, the PWG recommended that transactions that were otherwise excluded from the CEA should not fall within the ambit of the act simply because they are cleared.  The PWG concluded that clearing should be subject to government oversight but that such oversight need not be provided by the CFTC.  Instead, for many types of derivatives, oversight could be provided by the Securities and Exchange Commission (SEC), the Office of the Comptroller of the Currency, the Federal Reserve, or a foreign financial regulator that the appropriate U.S. regulator determines to have satisfied its standards.
+
+[SECTION]
+
+The provisions of S. 2697 that address OTC derivatives are generally consistent with the PWG's conclusions and recommendations.  The Federal Reserve Board is troubled, however, by a provision that might leave uncertainty about whether some electronic trading systems for financial contracts between professional counterparties were subject to the CEA.  Specifically, restricting exclusions for transactions conducted on electronic trading facilities to "Abona fide" principal-to-principal transactions is unnecessary and undesirable.  This restriction could be construed to preclude a counterparty from entering into "back-to-back" principal-to-principal transactions, that is, from using an excluded electronic trading system to hedge transactions executed outside the trading system.  We can identify no public policy reason for precluding such back-to-back transactions.  Doing so would discourage the use of electronic trading systems and thereby inhibit realization of the improvements in market efficiency and transparency that such systems promise to deliver.
+
+[SECTION]
+
+Regulatory Relief for U.S. Futures Exchanges
+The PWG did not make specific recommendations about the regulation of traditional exchange-traded futures markets that use open outcry trading or that allow trading by retail investors.  Nevertheless, it called for the CFTC to review the existing regulatory structures, particularly those applicable to financial futures, to ensure that they remain appropriate in light of the objectives of the CEA.  In February, the CFTC published a report by a staff task force that provided a comprehensive review of its regulatory framework and proposed sweeping changes to the existing regulatory structure.  We understand that the regulatory relief provisions of S. 2697 are intended to codify these proposals.
+
+[SECTION]
+
+Using the same approach as the PWG, the CFTC has evaluated the regulation of futures exchanges in light of the public policy objectives of deterring market manipulation and protecting investors.  When contracts are not readily susceptible to manipulation and access to the exchange is limited to sophisticated counterparties, the CFTC has proposed alternative regulatory structures that would eliminate unnecessary regulatory burden and allow domestic exchanges to compete more effectively with exchanges abroad and with the OTC markets.  More generally, the CFTC proposes to transform itself from a frontline regulator, promulgating relatively rigid rules for exchanges, to an oversight agency, assessing exchanges' compliance with more flexible core principles of regulation.
+
+[SECTION]
+
+The Federal Reserve Board supports the general approach to regulation that was outlined in the CFTC's proposals.  For some time the Board has been arguing that the regulatory framework for futures trading, which was designed for the trading of grain futures by the general public, is not appropriate for the trading of financial futures by large institutions.  The CFTC's proposals recognize that the current "one-size-fits-all" approach to regulation of futures exchanges is inappropriate, and they generally incorporate sound judgments regarding the degree of regulation needed to achieve the CEA's purposes.
+
+[SECTION]
+
+Furthermore, the Board generally supports codification of the CFTC's proposals so as to provide the exchanges with greater certainty regarding future regulation.  However, the Treasury Department is concerned that the exempt board of trade provisions might have unintended consequences that could reduce the effectiveness of the existing regulatory framework for the trading of government securities.  To facilitate expeditious passage of legislation, it thus may be prudent to limit the codification of the exempt board of trade provisions, at least so that markets currently regulated under the Government Securities Act of 1986 are not affected.  In such a scenario, the CFTC could address any unintended consequences for the regulation of government securities by changing the terms of its exemptions.
+
+[SECTION]
+
+Single-Stock Futures
+ The PWG concluded that the current prohibition on single-stock futures (part of the Shad-Johnson Accord) can be repealed if issues about the integrity of the underlying securities markets and regulatory arbitrage are resolved.  The Board believes that S. 2697 provides an appropriate framework for resolving these issues.  Such instruments should be allowed to trade on futures exchanges or on securities exchanges, with primary regulatory authority assigned to the CFTC or the SEC, respectively.  However, the bill recognizes that the SEC should have authority over some aspects of trading of these products on futures exchanges.  The scope of the SEC's authority can and should be resolved through negotiations between the CFTC and the SEC.  The Congress should continue to urge the two agencies to settle their remaining differences so that investors have the opportunity to trade single-stock futures.
+
+[SECTION]
+
+If it would facilitate repeal of the prohibition, the Federal Reserve Board is willing to accept regulatory authority over levels of margin on single-stock futures, as provided in S. 2697, so long as the Board can delegate that authority to the CFTC, the SEC, or an Intermarket Margin Board consisting of representatives of the three agencies.  The Board understands that the purpose of such authority would be to preserve the financial integrity of the contract market and thereby prevent systemic risk and to ensure that levels of margins on single-stock futures and options are consistent.  The Board would note that, for purposes of preserving financial integrity and preventing systemic risk, margin levels on futures and options should be considered consistent, even if they are not identical, if they provide similar levels of protection against defaults by counterparties, taking into account any differences in (1) the price volatility of the contracts, (2) the frequency with which margin calls are made, or (3) the period of time within which margin calls must be met.
+
+[SECTION]
+
+Conclusion
+ This bill reflects a remarkable consensus on the need for legal certainty for OTC derivatives and regulatory relief for U.S. futures exchanges, issues that have long eluded resolution.  These provisions are vitally important to the soundness and competitiveness of our derivatives markets in what is an increasingly integrated and intensely competitive global economy.  The Federal Reserve Board trusts that remaining differences regarding single-stock futures and the potential application of the securities laws to OTC derivatives can be resolved quickly and this important piece of legislation can be expedited through this Congress.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: June 21, 2000, 10:00 AM

@@ -1,0 +1,179 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairman Collins, Senator Levin, Members of the Subcommittee, I am pleased to appear before the Permanent Subcommittee on Investigations to discuss the Federal Reserve's role in the government's efforts to detect and deter money laundering and other financial crimes, particularly as these issues relate to the private banking operations of financial institutions.
+
+[SECTION]
+
+You have asked the Federal Reserve to address several matters, including the Federal Reserve's review of private banking activities; the extent to which private banking is vulnerable to money laundering and what private banking activities raise concerns in this regard; the Federal Reserve's experience in obtaining information from U.S. banks that conduct private banking activities outside the United States; and any recommendations or comments the Federal Reserve may have with regard to the strengthening of anti-money laundering controls for private banking or on pending legislation.  You have also asked us to comment on the operations of a specific banking organization.  I will address each of these matters, however, I am not at liberty to discuss the activities of any one organization because of the confidentiality of examination findings that must be maintained.
+
+[SECTION]
+
+In order to better understand the money laundering issues related to private banking, it would be very useful to first provide you with some background information on what we consider to be private banking and the way in which private banks operate.  But first, let me start by stating that, as a bank supervisor, of primary interest to the Federal Reserve is the need to assure that banking organizations operate in a safe and sound manner and have proper internal control and audit infrastructures to support effective compliance with necessary laws and regulations.  A key component of internal controls and procedures is effective anti-money laundering procedures.  Moreover, as part of our examination process, we review the anti-money laundering policies and procedures adopted by financial institutions to ensure their continued adequacy.
+
+[SECTION]
+
+The Federal Reserve places a high priority on participating in the government's efforts designed to attack the laundering of proceeds of illegal activities through our nations's financial institutions.  Over the past several years, the Federal Reserve has been actively engaged in these efforts by, among other things, redesigning the Bank Secrecy Act examination process, developing anti-money laundering guidance, regularly examining the institutions we supervise for compliance with the Bank Secrecy Act and relevant regulations, conducting money laundering investigations, providing expertise to the U.S. law enforcement community for investigation and training initiatives, and providing training to various foreign central banks and government agencies.
+
+[SECTION]
+
+Overview of Private Banking
+		Private banking offers the personal and discrete delivery of a wide variety of financial services and products to the affluent market, primarily high net worth individuals, and their corporate interests who generally, on average, have minimum investable assets of 
+$1 million.  Customers most often seek out the services of a private bank for issues related to privacy, such as security concerns related to public prominence or family considerations or, in some instances, tax considerations.  The private banking relationship is usually managed by a "relationship manager" who is responsible for providing a high degree of personalized service to the customer and for developing and maintaining a strong, long-term banking relationship with that customer.
+
+[SECTION]
+
+Private banking accounts can typically be opened in the name of an individual, a commercial business, a law firm, an investment advisor, a trust, a personal investment company, or an offshore mutual fund.  A private banking operation usually offers its customers an all-inclusive money management relationship that could include investment portfolio management, financial planning advice, custodial services, funds transfer, lending services, overdraft privileges, hold mail, letter-of-credit financing and bill paying services.  These services, some of which I will describe in some further detail in my testimony, may be performed through a specific department of a commercial bank, an Edge corporation, a nonbank subsidiary, or a branch or agency of a foreign banking organization or in multiple areas of the institution, or such services may be the sole business of an institution.
+
+[SECTION]
+
+Private banking services almost always involve a high level of confidentiality regarding customer account information.  Consequently, it is not unusual for private bankers to assist their customers in achieving their financial planning, estate planning, and confidentiality goals through offshore vehicles such as personal investment corporations, trusts, or more exotic arrangements, such as mutual funds.  Through a financial organization's global network of affiliated entities, private banks often form the offshore vehicles for their customers.  These shell companies, which are incorporated in such offshore jurisdictions as the Bahamas, the British Virgin Islands, the Cayman Islands, the Netherlands Antilles, and countries in the South Pacific, such as the Cook Islands, Fiji, Nauru and Vanuatu, are formed to hold the customer's assets, as well as offer confidentiality because the company, rather than the beneficial owner of the assets, becomes the accountholder at the private bank.
+
+[SECTION]
+
+A customer's private banking relationship frequently begins with a deposit account, and then expands into other products.  Many banks require private banking customers to establish a deposit account before opening or maintaining any other accounts.  To distinguish private banking accounts from retail accounts, institutions usually require significantly higher minimum account balances and assess higher fees.  The customer's transactions, such as wire transfers, check writing, and cash deposits and withdrawals, are conducted through these deposit accounts.
+
+[SECTION]
+
+Investment management for private banking customers usually consists of either discretionary accounts in which portfolio managers make the investment decisions based on recommendations from the bank's investment research resources or nondiscretionary accounts in which customers make their own investment decisions.  Private banking customers may request extensions of credit.  Loans backed by cash collateral or managed assets held by the private banking function are quite common, especially in international private banking.  Private banking customers may pledge a wide range of their assets, including cash, mortgages, marketable securities, land, or buildings, to secure their loans.
+
+[SECTION]
+
+The Private Banking Industry
+		As the affluent market grows, both in the United States and globally, competition to serve it has become more intense.  Consequently, new entrants in the private banking marketplace include nonbank financial institutions, as well as banks, and the range of private banking products and services continues to grow.  A 1997 study estimated the private banking industry at $17 trillion globally and predicted that the private banking industry would grow at two to three times the pace of the overall consumer banking market for the foreseeable future.
+
+[SECTION]
+
+There are approximately 4,000 financial organizations competing worldwide in the private banking market with no one organization currently managing more than 2.5 percent of the estimated available business.  Private banking has a proven track record of being profitable for banking organizations.
+
+[SECTION]
+
+Typically, private banking services are organized as a separate functional entity within the larger corporate structure of a banking organization.  As the private banking industry has developed over the last several years, the expectations of the customers have evolved.  Historically, clients sought discretion, confidentiality and asset preservation.  This emphasis has shifted as capital restraints have been dismantled and, in some countries, autocratic regimes have been replaced with free market economies.
+
+[SECTION]
+
+Today, while confidentiality is still important, investment performance has taken precedence.  Private banking customers' portfolios typically now include a greater proportion of equities and sophisticated investment products.
+
+[SECTION]
+
+Review of Private Banking Activities
+		The Federal Reserve has long recognized that private banking facilities, while providing necessary services for a specified group of customers, can, without careful scrutiny, be susceptible to money laundering.  In our continuing efforts to provide relevant information and guidance in the area of effective anti-money laundering policies and procedures for private banking, in 1997, the Federal Reserve published guidance on sound risk management practices for private banking activities.  Besides distributing the guidance to all banking organizations supervised by the Federal Reserve, the guidance was made publically available through the Federal Reserve's website.  More recently, the Federal Reserve developed enhanced examination guidelines specifically designed to assist examiners in understanding and reviewing private banking activities.
+
+[SECTION]
+
+Since 1996, the Federal Reserve has undertaken two significant reviews of private banking.  In the fall of 1996, the Federal Reserve Bank of New York began a year-long cycle of on-site examinations of the risk management practices of approximately forty banking organizations engaged in private banking activities.  Last year, a Private Banking Coordinated Supervisory Exercise by several Reserve Banks and Board staff was undertaken to better understand and assess the current state of risk management practices at private banks throughout the Federal Reserve System.
+
+[SECTION]
+
+The examinations by the Federal Reserve Bank of New York focused principally on assessing each organization's ability to recognize and manage the potential risks, such as credit, market, legal, reputational or operational, that may be associated with an inadequate knowledge and understanding of its customers' personal and business backgrounds, sources of wealth, and uses of private banking accounts.
+
+[SECTION]
+
+These reviews were prompted by the Federal Reserve's desire to enhance its understanding of the risks associated with private banking.  We recognized, for example, that some private banking operations may not have been conducting adequate due diligence with regard to their international customers.  While all organizations had anti-money laundering policies and procedures, the implementation and effectiveness of those policies and procedures ranged from exceptional to those that were clearly in need of improvement.
+
+[SECTION]
+
+As a result of the examinations of the private banking activities of these organizations, which began in 1996, certain essential elements associated with sound private banking activities were identified.  These elements include the need for:
+
+[SECTION]
+
+Senior management oversight of private banking activities and the creation of an appropriate corporate culture that embraces a sound risk management and control environment to ensure that organization personnel apply consistent practices, communicate effectively, and assume responsibility and accountability for controls.
+
+[SECTION]
+
+Due diligence policies and procedures that require banking organizations to obtain identification and basic information from their customers, understand sources of funds and lines of business, and identify suspicious activity.
+
+[SECTION]
+
+Management information systems that provide timely information necessary to analyze and effectively manage the private banking business and to monitor for and report suspicious activity.
+
+[SECTION]
+
+Adequate segregation of duties to deter and prevent insider misconduct and such things as unauthorized account activity and unapproved waivers of documentation requirements.
+
+[SECTION]
+
+During the course of the examinations, a number of banking organizations were reluctant to release information on the beneficial ownership of personal investment corporations established in recognized secrecy jurisdictions that maintained accounts at the banks.  The banks raised concerns regarding the prohibition on disclosure imposed by the laws of the countries in which the personal investment corporations were formed, as well as concerns that such disclosures would lead to customer backlash.  However, as the result of continued persistence by Federal Reserve examiners, all banks provided the requested information.  Very few customers closed their accounts even after being asked to waive any confidentiality protections that they may have had under foreign law, so that the beneficial ownership information could be made available to examiners.
+
+[SECTION]
+
+In last year's Coordinated Supervisory Exercise, a sample consisting of the private banking activities of seven banking organizations was reviewed by a System-wide team of examiners during regularly scheduled safety and soundness examinations.  As a result of the examinations, we concluded that the strongest risk management practices existed at private banks with high-end domestic customers.  We found that among private banks with primarily international customers, stronger risk management practices were in place at those organizations that had a prior history of problems in this area, but, as a result of regulatory pressure, had successfully corrected the problems.  The weakest risk management practices were identified at organizations whose private banking activities were only marginally profitable and who were attempting to build a customer base by targeting customers in Latin America and the Caribbean.
+
+[SECTION]
+
+This exercise also identified emerging trends in the private banking industry, some of which were that:
+
+Established private banking operations maintain strong risk management controls and strong earnings, in contrast to relatively new entrants that have no specific criteria for seeking customers and tend to have inadequate customer screening procedures.
+
+[SECTION]
+
+New software and hardware products are being introduced into the marketplace that allow for banking organizations to direct products to their customers, with the byproduct that these systems will allow for more effective identification of potentially suspicious or criminal activity.
+
+[SECTION]
+
+Vulnerabilities to Money Laundering 
+		The Federal Reserve has addressed and continues to address perceived vulnerabilities to money laundering in private banking by issuing private banking sound practices guidance and developing targeted examination procedures for private banking, as well as our regular on-site examinations of private banking operations.  There are some practices within private banking operations that we believe pose unique vulnerabilities to money laundering and, therefore, require a commitment by the banking organizations to increased awareness and due diligence.
+
+[SECTION]
+
+Personal investment corporations that are incorporated primarily in offshore secrecy or tax haven jurisdictions and are easily formed and generally free of tax or government regulation are routinely used to maintain the confidentiality of the beneficial owner of accounts at private banks.  Moreover, and of primary interest to the beneficial owners, are the apparent protections afforded the accountholders by the secrecy laws of the incorporating jurisdictions.  Private banking organizations have at times interpreted the secrecy laws of the foreign jurisdictions in which the personal investment corporations are located as a complete prohibition to disclosing beneficial ownership information.  The Federal Reserve, however, has continually insisted that for those accounts that are maintained within the United States, banking organizations must be able to evidence that they have sufficient information regarding the beneficial owners of the accounts to appropriately apply sound risk management and due diligence procedures.
+
+[SECTION]
+
+A variant of personal investment corporation accounts that could increase the risk of the accounts being used for money laundering purposes are personal investment corporations that are owned through bearer shares.  Bearer shares are negotiable instruments with no record of ownership so that title of the underlying entity is held essentially by anyone who possesses the bearer shares.  Historically, bearer shares were used as a vehicle for estate planning in that at death the shares would be passed on to the deceased beneficiaries without the need for probate of the estate.  However, in the context of potential illicit activity being conducted through an entity whose ownership is identified by bearer shares, it is virtually impossible for a banking organization to apply sound risk management procedures, including identifying the beneficial owner of the account, unless the banking organization physically holds the bearer shares in custody for the beneficial owner, which of course we encourage.
+
+[SECTION]
+
+The use of omnibus or concentration accounts by private banking customers that seek confidentiality for their transactions poses an increased vulnerability to banking organizations that the transactions could be the movement of illicit proceeds.  Omnibus or concentration accounts are a variation of suspense accounts and are legitimately used by banks, among other things, to hold funds temporarily until they can be credited to the proper account.  However, such accounts can be used to purposefully break or confuse an audit trail, by separating the source of the funds from the intended destination of the funds.  This practice effectively prevents the association of the customers's name and account numbers with specific account activity, and easily masks unusual transactions and flows that would otherwise be identified for further review.
+
+[SECTION]
+
+There has been much said about the use of correspondent accounts in facilitating money laundering transactions.  Admittedly, correspondent accounts may raise money laundering concerns because the interbank flow of funds may mask the illicit activities of customers of a bank that is using the correspondent services.  However, it is our  belief that correspondent banking relationships, if subject to appropriate controls, play an integral role in the financial marketplace, by allowing banks to hold deposits and perform banking services, such as check clearing, for other banks.  This allows certain banks, especially smaller institutions, to gain access to financial markets on a more cost-effective basis than otherwise may be available.
+
+[SECTION]
+
+Foreign Jurisdictions
+		A primary obstacle to our supervision of offshore private banking activities by U.S. banking organizations, not only with regard to beneficial ownership information, but with regard to the safety and soundness of the operations, is our inability to conduct on-site examinations in many offshore jurisdictions.  While it appears that nearly all institutions that we supervise have adequate anti-money laundering policies and procedures, our examination process is most effective when we have the ability to review and test an organization's policies and procedures.  Secrecy laws in some jurisdictions limit or restrict our ability to conduct these on-site reviews or to obtain pertinent information.  In such instances, practically our only alternative is to rely on a bank's internal auditors.
+
+[SECTION]
+
+A number of offshore jurisdictions are currently preparing for on-site examinations by home country supervisors.   This effort is being led in large part by members of the Basle Committee on Banking Supervision and the Offshore Group of Banking Supervisors.  A report issued by these groups in 1996 stated that:  "While recognizing that there are legitimate reasons for protecting customer privacy . . . secrecy laws should not impede the ability of supervisors to ensure safety and soundness of the international banking system."
+
+[SECTION]
+
+Legislative and Regulatory Initiatives
+		The Federal Reserve has continually supported efforts to better and more effectively attack money laundering activities because of our supervisory interests in establishing policies and procedures thwarting money laundering, as well as our interests in supporting and participating in law enforcement's efforts to detect and deter money laundering.  The use of the banking system to launder the proceeds of criminal activity can certainly damage the reputation of the banks involved, as well as have a detrimental impact on the banking sector as a whole.
+
+[SECTION]
+
+The proposed "Foreign Money Laundering Deterrence and Anticorruption Act" addresses a number of areas in which current requirements would be strengthened.  We note that a number of the provisions of the proposed legislation address similar issues to those set forth in the recently released National Money Laundering Strategy.  The Strategy requires a review of a number of critical areas in which the Federal Reserve will be an active participant, and we believe that the results of the reviews will provide information that should be useful to the legislative process.
+
+[SECTION]
+
+The Federal Reserve has been contemplating, in cooperation with the banking industry, developing guidance to assist banking organizations in implementing money laundering risk assessments of their customer base.  These risk assessments would be used to determine the appropriate due diligence required to identify and, when necessary, report suspicious activity.  For example, because of the increased concern that private banking accounts could be used for money laundering, we would expect that guidance in this area would suggest that it may be necessary to engage in a more in-depth analysis of a customer's intended use of the account coupled with a heightened ongoing review of account activity to determine if, in fact, the customer has acted in accordance with the expectations developed at the inception of the relationship. We believe that such policies and procedures will be an effective tool against potential money laundering activity.
+
+[SECTION]
+
+The banking system has a significant interest in protecting itself from being used by criminal elements.  Individual banking organizations have committed substantial resources and achieved noticeable success in creating operational environments that are designed to protect their institutions from unknowingly doing business with unsavory customers and money launderers.  Clearly, these efforts need to continue and the momentum maintained.  I want to emphasize that the Federal Reserve actively supports these efforts.  Consequently, we will continue our cooperative efforts with other bank supervisors and the law enforcement community to develop and implement effective anti-money laundering programs addressing the ever changing strategies of criminals who attempt to launder their illicit funds through private banking operations, as well as through other components of banking organizations here and abroad.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: November 10, 1999, 1:00 PM

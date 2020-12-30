@@ -1,0 +1,305 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 24, 2010
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the House Committee on Financial Services, Washington, D.C.
+
+[SECTION]
+
+Chairman Frank, Ranking Member Bachus, and other members of the Committee, thank you for the opportunity to discuss the oversight of incentive compensation practices in banking and financial services, an area in which the Federal Reserve has undertaken significant initiatives. Incentive compensation is an important and useful tool for attracting and motivating employees to perform at their best. At the same time, poorly designed or implemented compensation arrangements can provide executives and other employees with incentives to take imprudent risks that are not consistent with the long-term health of financial organizations. For example, offering large payments to managers or employees to produce sizable increases in short-term revenue or profit--without regard for the potentially substantial short- or long-term risks associated with that revenue or profit--can encourage managers or employees to take risks that are beyond the capability of the financial institution to manage and control. It is clear that flawed incentive compensation practices in the financial industry were one of many factors contributing to the financial crisis that began in 2007.
+
+[SECTION]
+
+To help address these problems, the Federal Reserve led the development of interagency guidance on incentive compensation adopted by the federal banking agencies in June 2010. We also are close to completing a horizontal review of incentive compensation practices at large complex banking organizations (LCBOs). Section 956 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) provides an important support to these efforts by requiring that the federal banking agencies, the Securities and Exchange Commission (SEC), the National Credit Union Administration Board (NCUAB), and the Federal Housing Finance Agency (FHFA) prescribe joint regulations or guidelines on incentive compensation.
+
+[SECTION]
+
+In my testimony, I will describe the guidance on sound incentive compensation policies issued by the Federal Reserve and the other federal banking agencies earlier this year. In addition, I will provide an update on the horizontal review of incentive compensation practices at large banking organizations initiated in the fall of 2009. I will also review the incentive compensation provisions of the Dodd-Frank Act and provide some preliminary thoughts on these provisions and their implementation. The Federal Reserve remains committed to helping move the industry forward in developing and implementing incentive compensation practices that are consistent with prudent risk management and safety and soundness.
+
+[SECTION]
+
+Final Guidance on Sound Incentive Compensation Policies
+       In February of this year, I testified before this committee about the guidance on incentive compensation proposed by the Federal Reserve in October 2009 and on the related supervisory initiatives we had commenced to help ensure that incentive compensation programs at banking organizations do not encourage excessive risk-taking.1 I am pleased to report today that final guidance was adopted in June.2 Importantly, the other federal banking agencies--the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation--joined the Federal Reserve in adopting the guidance, ensuring that the principles embedded in the guidance will apply to all banking organizations regardless of the identity of their federal supervisor.
+
+[SECTION]
+
+The guidance adopted by the federal banking agencies is based on three key principles. These principles are: (1) incentive compensation arrangements at a banking organization should provide employees incentives that appropriately balance risk and financial results in a manner that does not encourage employees to expose their organizations to imprudent risk; (2) these arrangements should be compatible with effective controls and risk management; and (3) these arrangements should be supported by strong corporate governance, including active and effective oversight by the organization's board of directors.
+
+[SECTION]
+
+Because compensation arrangements for executive and non-executive employees alike may pose safety and soundness risks if not properly structured, the guidance applies to senior executives as well as other employees who, either individually or as part of a group, have the ability to expose the banking organization to material amounts of risk. Importantly, in identifying employees covered by the guidance, banking organizations are directed to consider the full range of inherent risks associated with an employee's activities, rather than just the level or type of risks that may remain after application of the organization's risk controls. While strong and effective risk-management and internal control functions are critical to the safety and soundness of banking organizations, poorly designed or implemented incentive compensation arrangements can themselves be a source of risk to banking organizations and undermine the controls in place. For example, unbalanced incentive compensation arrangements can place substantial strain on the risk-management and internal control functions of even well-managed organizations. Accordingly, the guidance emphasizes that organizations should have both balanced incentive compensation arrangements and effective risk management and internal controls.
+
+[SECTION]
+
+The guidance outlines four currently available methods that banking organizations can--and often do--use to make compensation more sensitive to risk: (1) risk-adjusting compensation awards for measurements of risk, (2) deferring payment of awards so that the payments may be adjusted as risks are realized or become better known, (3) using longer performance periods, and (4) reducing the sensitivity of awards to measures of short-term performance. Each method has advantages and disadvantages. Accordingly, a banking organization may need to use more than one method to ensure that an incentive compensation arrangement does not encourage excessive risk-taking.
+
+[SECTION]
+
+In addition, activities and risks may vary significantly across banking organizations and across employees within a particular banking organization. For this reason, the methods used to achieve appropriately risk-sensitive compensation arrangements likely will differ across and within firms, and use of a single, formulaic approach likely will provide at least some employees with incentives to take excessive risks. For example, incentive compensation arrangements for senior executives at large complex organizations are likely to be better balanced if the arrangements involve deferral of a substantial portion of the executives' incentive compensation over a multiyear period, with payment made in the form of stock or other equity-based instruments and with the number of instruments ultimately received dependent on the performance of the firm during the deferral period. Deferral, however, may not be effective in constraining the incentives of employees who may have the ability to expose the firm to long-term or "bad tail" risks, as these risks are unlikely to be realized during a reasonable deferral period.3 Similarly, the use of equity-based incentive compensation may not be effective in balancing the incentives of mid- and lower-level employees because these employees may view the outcomes of their decisions as unlikely to have much effect on the firm or its stock price.
+
+[SECTION]
+
+These differences highlight the need for flexibility in approaches by financial institutions. As in many areas, one size certainly does not fit all. Each organization is responsible for ensuring that its incentive compensation arrangements are consistent with the safety and soundness of the organization. Methods for achieving balanced compensation arrangements at one organization may not be effective at another organization, in part because of the importance of integrating incentive compensation arrangements with the firm's own risk-management systems.
+
+[SECTION]
+
+While the guidance highlights the best current thinking on incentive compensation, it also recognizes that much theoretical and practical study is being done on new methods for constructing effective incentive compensation arrangements. The guidance urges large banking organizations to actively monitor industry, academic, and regulatory developments in incentive compensation practices and theory and be prepared to incorporate into their incentive compensation systems new or emerging methods that are likely to improve the organization's long-term financial well-being and safety and soundness.
+
+[SECTION]
+
+The guidance reflects the expectation that large banking organizations will have robust procedures for collecting information about the effects of their incentive compensation programs on employee risk-taking, as well as systems and processes for adjusting compensation arrangements to eliminate or reduce unintended incentives for risk-taking. Smaller banking organizations, however, typically make less use of incentive compensation arrangements than larger banking organizations, and because smaller organizations are less complex, they are more able to readily adjust compensation as risks emerge. Accordingly, the guidance includes several provisions designed to reduce burdens on smaller banking organizations and reflect the real differences between the scope and complexity of the activities, as well as the incentive compensation practices, at large and smaller banking organizations. The Federal Reserve's supervisory approach to incentive compensation also reflects this two-tiered approach. While the Federal Reserve intends to integrate reviews of incentive compensation arrangements at both large and small banking organizations into our examination process going forward, experience suggests that incentive compensation arrangements at small banks are not nearly as complex or prevalent as those at larger institutions. As a result, reviews of incentive compensation practices at smaller firms are more easily integrated into the normal examination process. For the largest banking organizations, we have undertaken a special horizontal review of incentive compensation practices at the largest banking organizations, a topic to which I will now turn.
+
+[SECTION]
+
+Horizontal Review of Incentive Compensation Practices
+       While firms of all sizes should manage the risks created by their incentive compensation arrangements, LCBOs warrant special supervisory attention because the adverse effects of flawed approaches at these institutions are more likely to have adverse effects on the broader financial system. To help ensure that LCBOs moved rapidly to bring their arrangements into compliance with the principles of safety and soundness, last fall the Federal Reserve initiated a special "horizontal" review of incentive compensation practices at the LCBOs under the Federal Reserve's supervision.4 Overall, a multidisciplinary team of more than 150 staff members from the Federal Reserve System, including supervisors, economists, and legal professionals, have participated in these reviews to date. Although the initiative is being led by the Federal Reserve, representatives of each of the other federal banking agencies have been involved in the horizontal process in order to promote full and consistent coverage of U.S. banking organizations.
+
+[SECTION]
+
+Supervisory teams have collected substantial information--through questionnaires, documentary requests, and interviews with key executives and managers--from each LCBO concerning the firm's existing incentive compensation practices and related risk-management and corporate governance processes. To supplement this information and to evaluate specifically how incentive compensation practices were used at the line-of-business level, teams conducted "deep dive" examinations of incentive compensation practices in trading and mortgage-origination business lines at a number of LCBOs.
+
+[SECTION]
+
+Importantly, early this year, each LCBO was required to submit a detailed self-assessment of shortcomings and gaps in its existing practices relative to the principles contained in the proposed guidance, as well as plans--including timetables--for addressing any weaknesses in the firm's incentive compensation arrangements and related risk-management and corporate governance practices. These initial internal assessments and plans were carefully reviewed by the multidisciplinary and interagency examination teams over a span of several weeks. The reviews focused on the adequacy of each firm's assessment of its current practices and plans for improving those practices, as well as areas where additional information was needed to permit a full review of the organizations practices and plans. Firms were required to address all substantive or informational deficiencies and then to submit revised assessments, plans, and timetables by midsummer.
+
+[SECTION]
+
+The federal banking agencies are currently reviewing these revised plans with the finalized guidance in hand. The results of the deep-dive examinations are also being used to inform these reviews. We expect to provide each LCBO with individualized feedback on its revised plans and timetables this fall. After the assessments are completed, implementation of the revised plans will become part of the supervisory expectations for the banking organizations, and future reviews of incentive compensation at LCBOs will be integrated into the normal supervision process.
+
+[SECTION]
+
+During the horizontal review, firms have largely been responsive to these Federal Reserve-led efforts and have put forth significant effort to find constructive solutions to the issues identified. In addition, over the course of the horizontal review, we have observed and encouraged real, positive change in incentive compensation practices at LCBOs. For example, many firms are developing enhanced and comprehensive methodologies to systematically identify employees whose activities, either individually or as a similarly compensated group, may expose the organization to material risk; the firms are also completing fresh assessments of the types of risks to which these employees may expose the organization. These first steps are critical in identifying employees whose incentive compensation arrangements may expose the organization to material risk.
+
+[SECTION]
+
+Many LCBOs also are revising their performance measurement processes in order to adequately capture activities that expose the firm to a wide range of risks by, for example, developing performance assessment processes that incorporate risks that are difficult to measure and include input from risk management and control functions. For many firms, these changes have necessitated significant investments to improve their performance management and incentive compensation infrastructures. Notably, many LCBOs are developing innovative solutions for common areas of weakness. For example, many firms lacked incentive compensation arrangements for midlevel managers that were appropriately sensitive to the risks posed by those managers' activities. The firms have developed varying techniques to appropriately balance incentive compensation for those managers, including in some cases using appropriate risk adjustment techniques, deferral of payouts, or some combination of the two. In many cases, the methods chosen have been tailored to the particular business line of the manager and to the operating context of the organization.
+
+[SECTION]
+
+Many LCBOs also are enhancing their deferral arrangements, especially for senior executives, to ensure that information about risk-taking activities that becomes available over time affects incentive compensation payouts. Finally, LCBOs are continuing to find ways to appropriately involve risk-management and other control personnel into the design, implementation, and oversight of incentive compensation arrangements and to improve the corporate governance structure over these arrangements, for example, by developing line-of-business compensation committees involving risk-management personnel.
+
+[SECTION]
+
+While significant improvements have been achieved, it should not be surprising that time will be required to implement all the improvements that are needed, given firms' relatively unsophisticated approach to risk incentives before the crisis, the unavoidable complexity of compensation issues, and the large numbers of employees who receive incentive compensation at large banks. Each LCBO is expected to ensure that the organization's plans are adequate to achieve incentive compensation arrangements that are consistent with safety and soundness. The Federal Reserve also expects that the organization's plans will be appropriately revised to address all weaknesses at that organization identified as part of the horizontal process and fully implemented in an expeditious manner. Importantly, the Federal Reserve expects LCBOs to make significant progress to improve the risk sensitivity of their incentive compensation for the 2010 performance year. The implementation of these plans will be monitored through the ongoing supervisory process.
+
+[SECTION]
+
+The Federal Reserve intends to actively monitor the actions being taken by banking organizations with respect to incentive compensation arrangements and will review the final guidance in light of the work being done to implement the Dodd-Frank Act incentive compensation provisions and in cooperation with the other federal banking agencies, as appropriate, to incorporate best practices that emerge. After 2010, the Federal Reserve will prepare and make public a report, in consultation with the other federal banking agencies, on trends and developments in incentive compensation practices at banking organizations in order to encourage improvements throughout the industry.
+
+[SECTION]
+
+Section 956 of the Dodd-Frank Act
+       Having seen the consequences of poorly structured compensation arrangements, the Congress also included provisions in the Dodd-Frank Act to strengthen the ability of regulators to identify and correct problems before they threaten a financial institution or the financial system. Section 956 of the act improves the ability of federal regulators to collect information about incentive compensation arrangements at a wide range of firms, including publicly traded nonbanking firms and the housing-related government-sponsored enterprises (GSEs), as well as banking organizations already subject to the guidance. The Dodd-Frank Act also empowers the appropriate federal regulators to prohibit any type of incentive-based payment arrangement, or any feature of such an arrangement, that the regulators determine encourages inappropriate risks by a covered financial institution, either by providing excessive compensation, fees, or benefits or by potentially leading to material financial losses to the institution. Section 956 requires the federal banking agencies, the SEC, the NCUAB, and the FHFA to jointly develop, no later than April 21, 2011, regulations or guidelines implementing these disclosures and prohibitions concerning incentive-based compensation at "covered financial institutions" with at least $1 billion in assets. For this purpose, a "covered financial institution" means a depository institution, registered broker-dealer, credit union, investment adviser, Freddie Mac, Fannie Mae, and any other financial institution that the regulators determine should be covered. By expanding the scope of coverage to include many large nonbanking firms as well as supporting the federal banking agencies' efforts, the Dodd-Frank Act helps level the playing field by reducing the potential for sound practices at banking firms to be undermined by arrangements at nonbank competitors.
+
+[SECTION]
+
+The Federal Reserve is working with the other appropriate federal regulators to develop the regulations or guidelines required by section 956 of the Dodd-Frank Act. We can already see substantial interest and commitment of resources on the part of all agencies. Most, if not all, of the regulators have experience in writing regulations or guidance dealing with compensation issues. The SEC, for example, has implemented disclosure requirements for the compensation of senior executives at publicly traded companies, and for other employees where the compensation policies and practices create risks that are reasonably likely to have a material adverse effect on companies. Building on these efforts, the Dodd-Frank Act also requires the SEC to take a number of additional actions to improve disclosures to shareholders at publicly traded financial firms, the independence of compensation committees at these firms, and the role of shareholders in reviewing compensation of senior executives at these firms.
+
+[SECTION]
+
+As discussed earlier, the federal banking agencies have issued guidance on sound incentive compensation arrangements. And section 956 requires the appropriate federal regulators--the banking agencies along with the SEC, the NCUAB, and the FHFA--to ensure that any compensation standards established pursuant to that section are comparable to those applicable to insured depository institutions under the Federal Deposit Insurance Act (12 U.S.C. § 1831p-1). Together, these agencies are determining together how best to take account of their individual expertise, mission, and supervisory approach as we work together to develop joint regulations or guidelines.
+
+[SECTION]
+
+A number of interpretive and operational issues are being addressed in meeting the requirements of section 956. Perhaps most importantly, the provision allows the regulators to issue regulations or guidelines, and choices will have to be made in that regard. The regulators may ultimately make different choices on this issue for the different parts of section 956. For example, the disclosure provision may be particularly amenable to implementation by regulation. For the prohibition provision, regulations may be more appropriate if and to the extent regulators can craft effective standards regarding particular prohibited practices and determine how best to apply those standards across the universe of institutions and employees.
+
+[SECTION]
+
+The Federal Reserve recognizes that international coordination in this area is important both to promote competitive balance and to ensure that internationally active organizations are subject to consistent requirements. For this reason, the Federal Reserve will continue to work closely with its domestic and international counterparts to foster sound compensation practices across the financial services industry. Importantly, the guidance adopted by the federal banking agencies is consistent with both the Principles for Sound Compensation Practices and the related Implementation Standards adopted by the Financial Stability Board in 2009.5 We expect these principles to be influential in the implementation of section 956 as well.
+
+[SECTION]
+
+Conclusion
+       I appreciate the opportunity to describe the Federal Reserve's continuing efforts to improve incentive compensation practices and am happy to answer any questions.
+
+[SECTION]
+
+
+
+[SECTION]
+
+See Scott G. Alvarez (2010), "Incentive Compensation," statement before the Committee on Financial Services, U.S. House of Representatives, February 25. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2010), "Federal Reserve, OCC, OTS, FDIC Issue Final Guidance on Incentive Compensation," press release, June 21, 2010. Return to text
+
+[SECTION]
+
+Bad tail risks are risks that have a low probability of being realized but would have highly adverse effects on the organization if they were to be realized. These risks warrant special attention from a safety-and-soundness perspective given the threat they pose to a banking organization's solvency and the federal safety net. Return to text
+
+[SECTION]
+
+Horizontal examinations, which the Federal Reserve has used for many years, involve a coordinated review of particular risks or activities across a group of banking organizations. Return to text
+
+[SECTION]
+
+See Financial Stability Forum (2009), FSF Principles for Sound Compensation Practices (87 KB PDF) (Basel, Switzerland: FSF, April); and Financial Stability Board (2009), FSB Principles for Sound Compensation Practices: Implementation Standards (36 KB PDF) (Basel, Switzerland: FSB, September). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

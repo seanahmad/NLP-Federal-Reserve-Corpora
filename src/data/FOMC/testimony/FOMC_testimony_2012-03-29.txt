@@ -1,0 +1,221 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 29, 2012
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Johnson, Ranking Member Shelby, and members of the Committee, thank you for inviting me to appear before you today to talk about consumers' use of mobile financial services.
+
+[SECTION]
+
+The evolution of new technologies that enable consumers to conduct financial transactions using mobile devices has the potential to affect their financial lives in important--but as of yet, not fully known--ways. For this reason, the Federal Reserve has been monitoring trends and developments in mobile financial services. By "mobile financial services," I am really talking about two categories of activities. The first we call "mobile banking," which is using your mobile device to interact with your financial institution, mostly doing things you could also do through more traditional means, like check your account balance or transfer money between accounts. The second we call "mobile payments," which we define as making purchases, bill payments, charitable donations, or payments to other persons using your mobile device with the payment applied to your phone bill, charged to your credit card, or withdrawn directly from your bank account.
+
+[SECTION]
+
+Beyond banking and payments, mobile devices have the potential to be useful tools in helping consumers track their spending, saving, investing, and borrowing, and in making financial decisions. Such technologies also hold the potential to expand access to mainstream financial services to segments of the population that are currently unbanked or underbanked. That said, the technologies are still new, and important concerns, such as consumers' expressions of unease about the security of these technologies, must also be addressed for consumers to feel confident adopting these new services.
+
+[SECTION]
+
+To further our understanding of consumers' use of, and opinions about, such services, the Federal Reserve commissioned a survey late last year. Nearly 2,300 respondents completed the survey. This survey is among the first to integrate questions about using mobile devices for shopping and comparing products along with questions about using mobile devices for banking and payments. On March 14, 2012, the Federal Reserve released a report, based on these responses, titled "Consumers and Mobile Financial Services."1 My testimony today will draw from this report, which is attached to my written testimony.
+
+[SECTION]
+
+Nearly nine out of ten adults in the United States have a mobile phone, and two-fifths of those phones are so-called "smartphones" with Internet connectivity. Among all mobile phone users, one out of five has used their phones to conduct some banking activity in the last 12 months. Those users with more traditional mobile phones, or so-called "feature phones," access bank information via text messages, while smartphone users access their bank information by downloading their bank's application or via the bank's Internet site. Younger consumers, those below age 29, have readily adopted mobile banking, and make up almost 44 percent of all consumers surveyed who use such services. Adoption rates of mobile banking also differ by racial and ethnic background, with Hispanics and non-Hispanic blacks making up a disproportionate share of those who use mobile banking services. The most common transactions performed by users of mobile banking were checking account balances or checking recent transactions. Transferring money between accounts was another common transaction.
+
+[SECTION]
+
+Of those consumers who had not adopted mobile banking, the primary reason given was that they felt their banking needs were being met through more traditional means. Security concerns were the second most-cited reason for not using mobile banking. Specifically, consumers expressed concerns about hackers gaining access to their phones and exposing their personal financial information. A little more than one-third of all mobile phone users reported that they do not know how secure mobile banking technology is for protecting their personal information, while an additional one-third rated the technology as unsafe. Nevertheless, among those consumers with any type of mobile phone, but who are not currently using mobile banking, one out of ten expects to be using it within the next year.
+
+[SECTION]
+
+In addition to mobile banking, we asked about mobile payments, which I described earlier. Mobile payments are not yet as prevalent as mobile banking; one out of eight respondents reported making a mobile payment in the previous 12 months, and usually this involved paying a bill online via their mobile phone. Mobile payments are disproportionately used by consumers under age 45 and by Hispanics. Consumers who are not currently using mobile payments responded that they were concerned about the security of the technology, did not see any benefit from mobile payments, or found it easier to pay in other ways--for example, with cash or with a credit card.
+
+[SECTION]
+
+Consumers who are "underbanked"--that is, those who have a bank account but who also use an alternative financial service provider such as a check casher, payday lender, auto-title lender, or payroll card--make significant use of mobile banking and mobile payments. Among this group, nearly three out of ten have used mobile banking, primarily to check their account balances. The underbanked are more likely than the general population to use mobile payments, with one out of six using payment services on their mobile devices. Those consumers who are unbanked also report using mobile financial services, generally in conjunction with a general purpose prepaid card or payroll card.
+
+[SECTION]
+
+Let me give you a few examples from the report of how consumers reported using mobile financial services to make financial decisions. I stated earlier that the most frequent use of mobile banking was to check account balances. Of those consumers who use mobile banking, more than two-thirds reported that they checked their account balance or available credit before making a large purchase. Moreover, among the consumers that reported doing this, nearly six out of ten reported that they had decided not to buy an item because of the amount of money available in their account. As another example, some consumers reported setting up a text alert from their bank if their account balance was getting low; among those using this service, five out of six reported taking some action--transferring money into the account with the low balance, reducing spending, or making a deposit into the account--in response to receiving an alert. Consumers also reported using their mobile devices to browse product reviews or get pricing information while shopping.
+
+[SECTION]
+
+More details on consumers' use of mobile financial services are available in the report. Staff members in the Division of Consumer and Community Affairs expect to conduct additional analysis of the data in the months ahead. This should round out our understanding of these initial findings. For instance, some of the differences that we see based on ethnic or socioeconomic factors may be better understood when we examine how such factors interact with other characteristics of the respondents. We also anticipate that we may conduct periodic updates of the survey to monitor consumers' experiences as the technology and business practices evolve.
+
+[SECTION]
+
+Thank you again for inviting me to appear before you today. I would be happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+1. The report is available at www.federalreserve.gov/econresdata/mobile-device-report-201203.pdf. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

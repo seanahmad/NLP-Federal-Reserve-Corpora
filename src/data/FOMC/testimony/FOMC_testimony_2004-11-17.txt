@@ -1,0 +1,261 @@
+Introduction
+Mr. Chairman, thank you for the opportunity to appear before the Committee on International Relations to discuss the obligations of banking organizations under the Bank Secrecy Act (BSA) and the USA Patriot Act and the activities of bank supervisors in this important area.  Money laundering and terrorist financing can, if not properly controlled, pose significant threats to our financial system and nation.  Due to these risks, the Federal Reserve and the other bank supervisory agencies work to ensure that banking organizations have the appropriate anti-money laundering (AML) compliance programs in place.
+
+[SECTION]
+
+As the Committee requested, in my testimony today I will provide:
+
+a brief "primer" on money laundering and terrorist financing;
+an outline of BSA/AML statutory and regulatory requirements (in particular, I will address a few key requirements with which banking organizations must comply, such as suspicious activity reporting requirements and customer due diligence standards);
+a description of the roles of the Federal Reserve and other banking and government agencies with regard to BSA/AML; and
+a summary of the Federal Reserve's BSA/AML supervisory program (including a description of the examination process, related enforcement and applications programs, and a few key interagency initiatives) in order to illustrate how bank supervisors carry out their responsibilities.
+
+As we discussed with the staff of the Committee in advance of today's hearing, this afternoon I will not be discussing the BSA/AML practices of any particular banking organization supervised by the Federal Reserve or the results of any supervisory efforts that were undertaken to determine compliance with applicable anti-money laundering statutes and rules at any specific institution.
+
+[SECTION]
+
+Banking organizations today are responsible for complying with a number of laws and regulations to combat money laundering and terrorist financing.  These obligations span a number of statutes and regulations including the BSA, rules issued by the U.S. Department of the Treasury and the banking agencies, and the legislation and regulations that enact the various sanction programs administered by Treasury's Office of Foreign Assets Control--or OFAC.  To ensure that banking organizations have the programs in place to fully comply with all of their legal obligations and to effectively identify and manage all of the risks associated with their business operations, the Federal Reserve has long included a review of banking organizations' anti-money laundering compliance programs as part of our safety and soundness examinations.  In addition, we and the other banking agencies have developed guidance designed to help banking organizations understand applicable statutory and regulatory requirements and our compliance expectations.
+
+[SECTION]
+
+Money Laundering and Terrorist Financing
+The central purpose of the Bank Secrecy Act is to help identify situations when the U.S. financial system and the institutions that comprise that system may be used to facilitate money laundering, terrorist financing and other illicit financing activities.  In both money laundering and terrorist financing, criminals are able to exploit the openness of our financial system to launder criminal proceeds, or to support terrorist activity, and ultimately, to hide their true purpose.
+
+[SECTION]
+
+Money laundering is the criminal practice of filtering ill-gotten gains or "dirty" money through a maze or series of transactions, so the funds are "cleaned" to look like proceeds from legal activities.  Although money laundering can be diverse and complex, it basically involves three independent steps that can occur simultaneously:  the "placement" of the unlawful proceeds into the financial system in an effort to avoid attracting the attention of law enforcement; the "layering" of the proceeds through a series of transactions to create confusion about the origin and true owner of the funds, and complicate the paper trail; and the "integration" of the proceeds wherein the launderers seek to create the appearance of legitimacy through additional transactions.
+
+[SECTION]
+
+In contrast with money laundering, the motivation behind terrorist financing is ideological rather than profit-based.  Typically, terrorist financing includes the use of both clandestine and legitimate sources of financing, which is a key difference from traditional money laundering.  However, terrorists and their support organizations have been found to use the same methods as other criminal groups to launder funds.  For example, law enforcement reports that terrorist financiers use currency smuggling; structured deposits to, or withdrawals from, bank accounts; purchases of various types of monetary instruments; and circuitous funds transfers in order to hide financial support.  Terrorist financing is generally more difficult for banking organizations to identify.  Funding for terrorist attacks does not always require large sums of money, and the associated transactions may not be complex.  The movement of small sums of money for laundering or terrorist purposes can be a challenge for a banking organization to identify with no other information.
+
+[SECTION]
+
+Statutory and Regulatory Requirements of Banking Organizations
+With that brief explanation of money laundering and terrorist financing, I will now outline a brief history of the statutory and regulatory framework in the United States to combat these crimes and then describe a few of the key BSA/AML requirements placed on banking organizations today.
+
+[SECTION]
+
+First and foremost, in 1970, Congress passed the Currency and Foreign Transactions Reporting Act otherwise known as the "Bank Secrecy Act" that established requirements for recordkeeping and reporting by banks and other financial institutions.  The BSA was designed to help identify the source, volume, and movement of currency and other monetary instruments into or out of the United States or U.S. financial institutions.  The statute sought to achieve that objective by requiring individuals, banks, and other financial institutions to create a paper trail by keeping records and filing reports determined to have--quoting from the law--a "high degree of usefulness in criminal, tax and regulatory investigations and proceedings."  Part of the paper trail was the filing of Currency Transaction Reports, or CTRs, for currency transactions in excess of $10,000.  CTRs and other reports enable law enforcement and regulatory agencies to pursue investigations of criminal, tax and regulatory violations.
+
+[SECTION]
+
+The next significant development was the enactment of the Money Laundering Control Act of 1986 that sought to preclude circumvention of the BSA requirements by imposing criminal liability for an institution or person that knowingly assists in the laundering of money, or who structures transactions to avoid reporting.  It also directed banks to establish and maintain procedures reasonably designed to assure and monitor compliance with the reporting and recordkeeping requirements of the BSA.  In January 1987, all federal banking agencies issued essentially similar regulations requiring banks to develop procedures for complying with the BSA and other AML requirements.  For the Federal Reserve, the anti-money laundering program rule is set forth in Regulation H (12 C.F.R. 208.63).
+
+[SECTION]
+
+The 1992 Annunzio-Wylie Anti-Money Laundering Act strengthened the sanctions for BSA violations and the role of the Treasury Department.  Two years later, Congress passed the Money Laundering Suppression Act that primarily addressed Treasury's role in combating money laundering.
+
+[SECTION]
+
+More recently, in response to the terror attacks of September 11th, Congress passed the Patriot Act, more formally known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001.  Title III of the Patriot Act is the International Money Laundering Abatement and Anti-Terrorist Financing Act of 2001.  The Patriot Act is arguably the single most significant AML law that Congress has passed since the BSA itself.  Among other things, the Patriot Act criminalized the financing of terrorism and augmented the existing BSA framework by strengthening customer identification requirements for banks and other financial institutions, prohibiting banks from engaging in business with foreign shell banks, requiring banks to enhance their due diligence procedures concerning foreign correspondent and private banking accounts, and improving information sharing between banks and with the U.S. government.
+
+[SECTION]
+
+The Patriot Act and its implementing regulations also:
+
+expanded the AML compliance program requirements to all financial institutions, including broker-dealers and casinos;
+increased the civil and criminal penalties for money laundering;
+facilitated access to records and required banks to respond to requests for information within 120 hours; 
+required regulatory agencies to evaluate an institution's AML record when considering bank mergers, acquisitions, and other applications for business combinations; and  
+provided the Secretary of the Treasury with the authority to impose "Special Measures" on jurisdictions, institutions, or transactions that are of  "primary money-laundering concern."
+
+	Most of the rulemaking under the Patriot Act is now completed, and banking organizations have made significant investments to ensure compliance with these requirements.
+
+[SECTION]
+
+Role of Government Agencies
+To effectively oversee compliance with the BSA/AML requirements in banking organizations, Treasury and the federal banking agencies have had an important partnership for a number of years.  To help you understand the roles we play, I will briefly describe the functions of a few of the key agencies engaged in BSA/AML oversight.
+
+[SECTION]
+
+A number of government agencies play a critical role in promulgating BSA regulations, developing examination guidance, and ensuring compliance with and enforcing the BSA.  With respect to banks, these agencies include the U.S. Department of the Treasury, Treasury's Financial Crimes Enforcement Network (FinCEN), and the federal banking agencies (Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency, and Office of Thrift Supervision).  The Department of Justice administers any prosecutions for money laundering or for criminal violations of the BSA .  Finally, Treasury also administers the foreign sanctions program through OFAC.
+
+[SECTION]
+
+U.S. Department of the Treasury
+The U.S. Department of the Treasury has statutory authority to administer the BSA, and has delegated this authority to FinCEN, one of the department's bureaus.  In this capacity, FinCEN promulgates regulations, provides outreach and guidance to the regulated industries, and pursues civil enforcement actions in certain circumstances.  FinCEN has authority to examine institutions for compliance with the BSA, but has delegated this examination authority to other federal agencies--including the Federal Reserve--for institutions within their respective jurisdictions.  As we explain below, the bank supervisory agencies use their own examination authority to assess compliance with the Bank Secrecy Act by organizations within their jurisdiction.
+
+[SECTION]
+
+While Treasury has delegated its examination authority, it remains the overall administrator of the BSA.  The role has become all the more important as BSA requirements have expanded beyond traditional financial service providers to include not only other federally functionally related financial services providers, but also casinos, money services businesses, insurance providers, and others.  To enhance coordination of the administration of the BSA  across industry sectors, FinCEN has entered into, or is in the process of entering into, memoranda of understanding for information sharing with each of the federal agencies that examine for BSA compliance--that is, the federal banking agencies, the U.S. Securities and Exchange Commission, the Commodity Futures Trading Commission, and the Internal Revenue Service.  The MOU with the banking agencies, which was executed in September, details the types of information that will now be shared among the banking agencies and FinCEN with the goal of assisting FinCEN to fulfill its role as administrator of the BSA and to enhance the banking agencies' examination efforts in this area.   (I should note in this regard that well before the execution of the recent MOU, the Federal Reserve routinely shared critical information concerning BSA compliance with FinCEN on a case-by-case basis.)
+
+[SECTION]
+
+Federal Banking Agencies
+The federal banking agencies expect the banking organizations they supervise to take reasonable and prudent steps to combat money laundering and terrorist financing in order to minimize their vulnerability to such activities.  The agencies require banking organizations under their supervision to establish and maintain an anti-money laundering compliance program that addresses the risks presented by the nature, extent, and complexity of the banking products and services offered, by an organization's customer base, and other factors.  Today, it is abundantly clear that banking organizations face legal, reputational, and operational risks when they do not perform appropriate due diligence and safeguard their institutions with adequate internal controls to mitigate risks.  For this reason, the commitment of the federal banking agencies to ensuring compliance with the BSA continues to be a high supervisory priority.
+
+[SECTION]
+
+The federal banking agencies work to ensure that the banking organizations they supervise understand the importance of having in place effective AML compliance programs.  This obligation is "dynamic"--that is, a bank's policies and procedures must reflect any expansion of business operations and new products and services.  An organization's AML program should also take into account developments within the industry, as new regulatory standards are introduced, as industry best practices evolve to better manage risks, as law enforcement authorities provide feedback about laundering and terrorist funding schemes, and as improved systems and software become available to enhance compliance.
+
+[SECTION]
+
+Office of Foreign Assets Control
+Treasury's OFAC administers and enforces economic and trade sanctions against targeted foreign countries, terrorism-sponsoring jurisdictions and organizations, and international narcotics traffickers based on U.S. foreign policy and national security goals.  OFAC acts under presidential wartime and national emergency powers and authority granted by specific legislation to impose controls on transactions and freeze foreign assets under U.S. jurisdiction.  Acting under authority delegated from the Secretary of the Treasury, OFAC promulgates, develops, and administers the sanctions under its statutes and executive orders.
+
+[SECTION]
+
+OFAC requirements are separate and distinct from the BSA, but both OFAC requirements and the BSA share a common national security goal.  Because institutions and regulators view compliance with OFAC sanctions as related to BSA compliance obligations, supervisory examination for OFAC compliance is typically connected to examination of an institution's BSA compliance.  Examiners focus on a banking organization's compliance processes and evaluate the sufficiency of a banking organization's implementation of policies, procedures and systems to ensure compliance with OFAC regulations.
+
+[SECTION]
+
+Key BSA/AML Requirements
+Before going forward, it is worth taking some time to outline a few of the most significant BSA/AML requirements placed on banking organizations.  These requirements serve as the framework for BSA/AML examinations as they are the core of a banking organization's BSA/AML responsibilities: the anti-money laundering compliance program, the customer indentification program, and suspicious activity reporting requirements and the customer due diligence program.
+
+[SECTION]
+
+Anti-Money Laundering Programs
+Under the Bank Secrecy Act, all financial institutions must develop, administer, and maintain a program that ensures compliance with the BSA and its implementing regulations, including reporting and recordkeeping requirements, and each federal banking agency, including the Federal Reserve, has specific rules requiring such programs.  A strong anti-money laundering compliance program that is tailored to a bank's business operations and risks, and rigorously followed by bank personnel, should ensure full compliance with all legal requirements, as well as effective risk management.
+
+[SECTION]
+
+At a minimum, a banking organization's anti-money laundering compliance program must be documented in writing, approved by the board of directors (or its equivalent), and noted in the minutes of board meetings.  By law, the program must include the following four components:
+
+a system of internal controls to assure ongoing compliance with the BSA;
+independent testing of the banking organization's compliance with the BSA;
+the designation of an individual responsible for coordinating and monitoring day-to-day compliance with the BSA; and
+training for appropriate personnel.
+
+[SECTION]
+
+Customer Identification Program
+Under the BSA, as amended by the Patriot Act, every financial institution must implement a written Customer Identification Program (CIP) appropriate for its size, location, and type of business.  The CIP must be incorporated into the institution's anti-money laundering compliance program and must be approved by the institution's board of directors.  The CIP must include account-opening procedures that specify the identifying information that will be obtained from each customer, and it must include reasonable and practical risk-based procedures for verifying the customer's identity.  These procedures must enable the institution to form a reasonable belief that it knows the true identity of each customer.
+
+[SECTION]
+
+Suspicious Activity Reporting Requirements and Customer Due Diligence
+Under the Bank Secrecy Act and the suspicious activity reporting rules promulgated by the Federal Reserve, the other federal banking agencies, and Treasury in 1995, banking organizations are required to report to the government any instances of known or suspected criminal or suspicious activity by filing a Suspicious Activity Report, or SAR.  To ensure that it will be able to identify suspicious activity, a banking organization should have in place a customer due diligence (CDD) program under which the organization (1) assesses the risks associated with a customer account or transaction, and (2) gathers sufficient information to evaluate whether a particular transaction warrants the filing of a SAR.  In addition, appropriate systems, processes, and controls should be in place to monitor and identify suspicious or unusual activity.  Common processes include employee referrals, manual systems, automated systems, or any combination, which vary based on the risk and size of the banking organization.
+
+[SECTION]
+
+The concept of CDD incorporates and builds upon the CIP requirements for identifying and verifying customer identification.  The goal of a CDD program is to conduct a risk assessment to develop and maintain an awareness of the unique financial details of the banking organization's customers joined with an ability to generally predict the type and frequency of transactions in which its customers are likely to engage.  In doing so, banking organizations can better identify, research, and report suspicious activity as required by the BSA and the agencies' regulations.  It is essential that CDD programs be tailored to each institution's BSA/AML risk profile and that they include monitoring systems and procedures for identifying transactions or activities inconsistent with a customer's normal or expected banking activity.
+
+[SECTION]
+
+It is important to note that sound practices in the banking industry and statutory and regulatory standards for specific CDD protocols vary depending on the activities associated with different types and volumes of banking transactions and their risk.  For example, a bank's CDD procedures for its large, publicly held corporate account holders such as General Motors and IBM will be very different than a U.S. bank's customer due diligence procedures associated with its foreign correspondent banking activities.  In the former, it is easier to understand the nature of the transactions undertaken by General Motors or IBM and identify what may be suspicious--for example, new requests for loans to fund transactions that are inconsistent with the normal, routine business activities of the customer.  With respect to the foreign correspondent banking business, given the special risks associated with this activity it is expected that the U.S. bank's customer due diligence procedures include a review of the nature of the business of its foreign respondent bank.  In higher risk cases, U.S. banking organizations may also now be expected to look at what banks and other entities do business with the foreign respondent bank and review the types of transactions that will be undertaken by the respondent bank and its customers--an evolving "know your customer's customer" standard in a limited area of a bank's correspondent banking activities.
+
+[SECTION]
+
+The Federal Reserve's BSA/AML Supervisory Program
+Understanding how the Federal Reserve conducts its BSA/AML examination program and related functions should be instructive to the Committee because it will illustrate what bank regulators do in this important area.
+
+[SECTION]
+
+The Federal Reserve's BSA/AML role is multifaceted.  It includes work in the areas of bank supervision, enforcement, applications, investigations, and coordination with the law enforcement and intelligence communities.  This afternoon, I will touch on some of these aspects of the Federal Reserve's anti-money laundering program, but will concentrate on bank supervision efforts and our enforcement and applications approaches.  The other federal banking agencies work in similar ways.
+
+[SECTION]
+
+Our examinations are conducted at the state member banks, bank holding companies, Edge Act corporations, and U.S. branches and agencies of foreign banks supervised by the Federal Reserve.  Each of the twelve Federal Reserve Banks has BSA/AML specialists and coordinators on its staff, and, since the late 1980s, the Board has had an anti-money laundering program in its supervision division overseen by a senior official.
+
+[SECTION]
+
+The Federal Reserve supervision process includes both on-site examinations and off-site surveillance and monitoring.  On-site examinations of banks generally occur once every twelve to eighteen months, and, at each examination, examiners review the institution's anti-money laundering procedures and its compliance with the BSA, as amended by the Patriot Act and recent Treasury regulations.  Banking organizations with problems generally are examined more frequently.  For large, complex banking organizations, safety and soundness examination is a continuous process, and anti-money laundering and BSA compliance is incorporated into examinations conducted throughout the year.
+
+[SECTION]
+
+A key component of anti-money laundering examinations is the banking organization's compliance with the anti-money laundering program rule that was already described.   When a Reserve Bank conducts a BSA/AML examination of a banking organization under its supervision, the four components of the program establish the framework for the examination.  To properly evaluate the effectiveness of a banking organization's anti-money laundering compliance program, the Federal Reserve has developed comprehensive examination procedures and manuals, and regularly provides training for its examiners.
+
+[SECTION]
+
+Examiners first determine whether the institution has included BSA/AML procedures in all of its operational areas, including retail operations, credit, private banking, and trust, and has adequate internal audit procedures to detect, deter and report money laundering activities, as well as other potential financial crimes.  As part of such an examination, bank examiners also review a banking organization's fraud detection and prevention capabilities, and its policies and procedures for cooperating with law enforcement (whether through responding to subpoenas, acting on information requests under the Patriot Act, or otherwise).  Examiners also conduct a review of the databases of SARs and Currency Transaction Reports to determine if the banking organization that is about to be examined has filed such reports and that they appear complete and timely.  Testing of sample transactions is generally conducted to verify these procedures and systems.
+
+[SECTION]
+
+In those instances where there are deficiencies in the anti-money laundering program, including failures to adequately document self-testing or training, obvious breakdowns in operating systems, or failures to implement adequate internal controls, examiners conduct a more intensified second-stage examination that would include the review of source documents and expanded transaction testing, among other steps.
+
+[SECTION]
+
+Enforcement
+Federal Reserve supervisory staff makes every effort to assist banking organizations to identify and address anti-money laundering deficiencies as early as possible.  The Federal Reserve focuses significant resources on the prevention and early resolution of deficiencies within the supervisory framework.  When problems are identified at a banking organization, they are communicated to the management and directors.  The management and directors are requested to address identified problems voluntarily and to take measures to ensure that the problems are corrected and will not recur.  Most problems are resolved promptly after they are brought to the attention of a banking organization's management and directors.
+
+[SECTION]
+
+In the event that anti-money laundering problems are pervasive, repeated, unresolved by management, or otherwise of serious concern, the Federal Reserve may exercise its enforcement authority by taking an action against a supervised institution.  The federal enforcement statutes associated with actions based on BSA/AML-related problems and violations are the same for all of the federal banking agencies.  In general, problems that give rise to enforcement actions relate to compliance with the four-part anti-money laundering program rule and with suspicious activity reporting requirements.  The provisions of each action are tailored to the organization to address particular violations and weaknesses identified by examiners.  Actions may also require forensic reviews of past transactions to ensure that the organization has properly complied with all filing obligations.  As a general rule, banking organizations consent to the issuance of supervisory actions and move quickly to take required remedial actions.
+
+[SECTION]
+
+In the case of some deficiencies, informal, non-public supervisory action is sufficient to resolve a problem.  Such action could include requiring the adoption of a resolution by an institution's board of directors or the execution of a memorandum of understanding between an institution and the appropriate Reserve Bank.  These actions are incorporated into the supervisory process, trigger periodic status reports from the institution, and guide the banking organization in making the required improvements.
+
+[SECTION]
+
+Where informal action is insufficient to address problems or the problems are egregious, the Federal Reserve may exercise its statutory enforcement authority to issue formal action against an institution.  Such action includes written agreements, cease and desist orders, and civil money penalties.  By law, the Federal Reserve must make these actions public, and they are posted on the Board's website.   Because these actions are public, they can have a significant impact on a banking organization, particularly one that is a public company.  In determining whether formal action is appropriate, Federal Reserve staff considers all relevant factors, including the nature, severity, and duration of the problem, the anticipated resources and actions necessary to resolve the problem, and the responsiveness of the directors and management.
+
+[SECTION]
+
+In cases where examiners have identified a violation of the four-part anti-money laundering compliance program requirement, the federal banking agencies are required by law to take formal enforcement action.  The same law requiring the banking agencies to promulgate rules requiring the compliance program provides that if an institution fails to establish and maintain the required procedures, or if it has failed to correct any previously identified problem with the procedures, then the agency must issue a formal action requiring the institution to correct the problem.  The Federal Reserve takes this responsibility very seriously and has issued a number of public actions against banking organizations in fulfillment of this statutory mandate.
+
+[SECTION]
+
+Over the past three years, the Federal Reserve has taken approximately twenty-five formal, public enforcement actions addressing anti-money laundering compliance at a wide variety of institutions.  The banking organizations subject to action have been large, small, domestic, and foreign.  In each case, the examination process identified regulatory violations in the organization's compliance programs that, under the law, mandated the action.
+
+[SECTION]
+
+The cases in which the Federal Reserve takes action for anti-money laundering problems are also brought to the attention of Treasury's FinCEN when they involve serious BSA problems, so that FinCEN may itself consider assessing a penalty for violations of the BSA.  The recent MOU among the federal banking regulators and FinCEN provides that FinCEN will be notified of all significant BSA deficiencies and violations by federal and state bank supervisory authorities.
+
+[SECTION]
+
+In recent cases, FinCEN has taken coordinated actions with federal banking agencies.  For example, the Office of the Comptroller of the Currency, FinCEN, and the Federal Reserve coordinated their recent enforcement actions against Riggs Bank, N.A., Riggs National Corporation, and Riggs International Banking Corporation, the bank's Edge Act subsidiary, to ensure consistency and to ensure concurrent resolution of open issues.  FinCEN and the Federal Reserve recently coordinated a concurrent penalty against AmSouth Bank, which was issued together with a joint Federal Reserve and State of Alabama order for remedial action.  In that case, the Department of Justice also coordinated the issuance of a deferred prosecution agreement and forfeiture against the bank.
+
+[SECTION]
+
+The Federal Reserve regularly coordinates enforcement actions with state banking supervisors, and enforcement actions involving U.S. operations of foreign banking organizations are also resolved in cooperation with supervisors abroad.
+
+[SECTION]
+
+The Applications Process
+To fully gauge the importance of a banking organization having a sound anti-money laundering compliance program, it is also essential that I mention another important component of the anti-money laundering supervisory process--the processing of applications and notices filed with the Board.
+
+[SECTION]
+
+The Federal Reserve has had a longstanding practice of considering an applicant's compliance with federal law, including anti-money laundering laws and regulations, in evaluating various applications, including applications for bank mergers and acquisitions of insured depositories by bank holding companies as well as applications filed by foreign banks to establish U.S. banking offices under the Foreign Bank Supervision Enhancement Act.  The Patriot Act memorialized our practice in the application area and required the Board to take into account the effectiveness of an applicant's anti-money laundering compliance program when it considers applications under various laws.
+
+[SECTION]
+
+Under our existing protocols as well as the new law, every application matter considered by the Federal Reserve includes a BSA/AML compliance-related component.  While I cannot of course comment on specific cases, I can report to you that Board staff has on some recent occasions advised banking organizations considering expansion or other activities requiring the filing of applications with the Federal Reserve to concentrate instead on enhancing their anti-money laundering or other federal law compliance programs.  While not the full equivalent of an enforcement action, I am sure that you can appreciate that every banking organization that is seeking or planning on seeking Federal Reserve approval of an application makes every effort possible to ensure that its anti-money laundering program is considered to be fully satisfactory by examiners and that any deficiencies that may be identified are addressed as expeditiously as possible.
+
+[SECTION]
+
+Other Initiatives
+
+[SECTION]
+
+Interagency BSA/AML Examination Procedures
+Since July 2004, the federal banking agencies, FinCEN, and state bank supervisors have been collaborating to develop a single set of BSA/AML examination procedures.  This is broadly viewed as a critical initiative in the area of safety and soundness examination.  We expect that the interagency examination procedures will go a long way to ensure consistency in the interpretation of BSA and AML requirements among the agencies.
+
+[SECTION]
+
+The new procedures will have two important components: a "core" section will be used as the term implies, as the platform for the BSA/AML examination, or perhaps the entire BSA/AML examination for a very low-risk organization; and "expanded" procedures will be used by examiners to address specific lines of business or products that may be more vulnerable to money laundering or terrorist financing.   This format will allow examiners to tailor the examination scope to the specific profile of a banking organization.  We expect to release the new examination procedures in the second quarter of 2005.
+
+[SECTION]
+
+To support this important work and to provide a forum for the federal banking supervisors to discuss matters related to BSA/AML examination and training, a BSA Working Group was recently formed under the Federal Financial Institutions Examination Council.  The working group includes FinCEN and state bank regulators.  This new working group complements the work of other, already existing interagency and international efforts, such as the Bank Secrecy Act Working Group, the Bank Fraud Working Group, the Financial Action Task Force and various Basel supervisors committees.
+
+[SECTION]
+
+Guidance to Banking Organizations
+The Federal Reserve and the other bank regulators view their supervisory roles as including initiatives to enhance awareness and understanding by examiners, by banking organizations under the agencies' supervision, and by the financial industry at large.  To promote a full understanding of BSA and anti-money laundering requirements, for example, we issue Supervision and Regulation letters (commonly referred to as SR letters) that are used to advise Reserve Bank supervisory staff, supervised institutions, and the banking industry about policy matters; provide on-going training to examiners; speak regularly before the financial industry; and issue guidance.  This is often done in conjunction with other regulators and Treasury.  A good example of this was the recently issued interagency guidance on the embassy banking business, which addressed sound practices and risk management policies arising out of the Riggs matter.  These initiatives are meant to respond to or anticipate questions that arise regarding anti-money laundering requirements.
+
+[SECTION]
+
+Conclusion
+Banking organizations that operate in this country are subject to a wide variety of laws and regulations requiring them to address money laundering and terrorist funding activities through the establishment of compliance programs, monitoring systems, and reporting protocols.  Regulators believe that banking organizations have to take reasonable and prudent steps to combat illicit financial activities such as money laundering and terrorist financing, and to minimize their vulnerability to risks associated with such activity by taking conscious and well considered steps to comply with their legal obligations.
+
+[SECTION]
+
+Thank you again for inviting me today to explain the laws and rules relating to countering money laundering and terrorist financing and the obligations of banking organizations under them, as well as the bank supervisors' work in this critical area.  I will be pleased to respond to any questions.
+
+[SECTION]
+
+Return 
+              to top
+
+[SECTION]
+
+2004 Testimony
+
+ Home | News and 
+      events 
+Accessibility | Contact 
+      Us
+Last update: November 17, 2004, 3:00 PM

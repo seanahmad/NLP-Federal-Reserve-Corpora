@@ -1,0 +1,103 @@
+I would like to thank the subcommittee for inviting me to discuss H.R. 1474, the Check Clearing for the 21st Century Act.  This bill, which is similar to a proposal that the Board sent to Congress in late 2001, removes existing legal barriers to the use of new technology in check processing and holds the promise of a more efficient check collection system.  The Board commends the subcommittee for holding hearings on this very important legislative initiative.
+
+[SECTION]
+
+Technological Advances in Check Processing
+Check processing is far more efficient than it once was.  Less than fifty years ago, clerks hand-sorted millions of checks each day.  In the 1960s, the banking industry began to use mechanical high-speed check-processing equipment to read and sort checks, which had been redesigned for automated processing.  Today, banks, thrifts, and credit unions, which I will collectively refer to as banks, process about 40 billion checks that consumers, businesses, and the government write each year.
+
+[SECTION]
+
+Typically, after a check has been deposited at a bank's branch or ATM, the bank transports the check to a central operations center.  The check is then usually sent to one or more intermediaries--such as a Federal Reserve Bank or a correspondent bank--or a clearinghouse for collection before it is ultimately delivered for payment to the bank on which it is drawn.  At each step, the check must be physically processed and then shipped to its destination by air or ground transportation.  Some checks, however, are removed from the collection or return process, and the payment information on the checks is captured and delivered electronically.  This process, which is commonly referred to as check truncation, reduces the number of times that the checks must be physically processed and shipped.  As a result, check truncation is generally more efficient, more cost effective, and less prone to processing errors.
+
+[SECTION]
+
+Today, however, check truncation can only occur by agreement of the banks involved because existing law requires that, in the absence of an agreement, the original paper checks be presented or returned.  Further, given the thousands of banks in the United States, it is infeasible for any one bank to obtain check truncation agreements from all other banks or even a large proportion of them.  As a result, the check system's legal framework, which has not kept up with technological advances, has constrained the efforts of many banks to use new electronic technologies, such as digital check imaging, to improve check-processing efficiency and to provide improved services to customers.  Therefore, legal changes are needed to facilitate the use of technologies that could improve check-processing efficiency and lead to substantial reductions in transportation and other check-processing costs.  H.R. 1474 makes such changes.
+
+[SECTION]
+
+Check Clearing for the 21st Century Act
+The Check Clearing for the 21st Century Act solves a long-standing dilemma--how to foster check truncation early in the check collection or return process without mandating that banks accept checks in electronic form.  Currently, under typical check truncation arrangements, electronic information about a truncated check, rather than the original paper check, is presented to the bank on which the check is drawn.  The act facilitates check truncation by creating a new negotiable instrument called a "substitute check," which would permit banks to truncate the original checks, to process the check information electronically, and to print and deliver substitute checks to banks and bank customers that want to continue receiving paper checks.
+
+[SECTION]
+
+A substitute check, which would be the legal equivalent of the original check, would include all the information contained on the original check--that is, an image of the front and back of the original check as well as the machine-readable numbers that appear on the bottom of the check.  Under this act, while a bank could no longer demand to receive the original check, it could still demand to receive a paper check.  Banks would likely receive a mix of original checks and substitute checks.  Because substitute checks could be processed just like original checks, a bank would not need to invest in any new technology or otherwise change its current check-processing operations.
+
+[SECTION]
+
+Banks could use the new authority provided in this legislation in a number of different ways.  For example, a bank would no longer need to send couriers every afternoon to each of its branches and ATMs to pick up checks that customers have deposited.  Instead, digital images of checks could be transmitted electronically from those locations to the bank's operations center, where substitute checks could be created and forwarded for collection.  Not only would this be quicker and more efficient, but it could also permit banks to establish branches or ATMs in remote locations more cost effectively and to provide their customers with later deposit cut-off hours.
+
+[SECTION]
+
+Moreover, the act would give a bank the flexibility to transmit checks electronically over long distances, and create substitute checks at locations near their ultimate destination, for example, near the bank on which the checks are drawn, substantially reducing the time and cost associated with physical transportation.  The banking industry's extensive reliance on air transportation was underscored in the aftermath of the September 11 tragedy, when air transportation came to a standstill and the flow of checks slowed dramatically.  During the week of the attacks, the Federal Reserve Banks' daily check float, which is normally a few hundred million dollars, ballooned to over $47 billion, or more than a hundred times its normal level.  Had the legislation been in effect at that time and had banks been using a robust electronic infrastructure for check collection, banks would have been able to collect many more checks by transmitting electronic check information across the country and presenting substitute checks to paying banks.  In addition, today bad weather routinely delays check shipments, and check shipments have been destroyed in plane crashes.  By enabling the banking industry to reduce its reliance on physical transportation, the act would reduce the risk that checks may be lost or delayed in transit, thereby reducing check float in the banking system.
+
+[SECTION]
+
+Finally, many banks hope to use the authority provided by this legislation to streamline the processing of checks that they must return unpaid.  Today, after a bank processes its incoming checks and determines which checks to return, it has to reprocess all of the incoming checks to pull out the less than one percent of checks that are to be returned unpaid.  Many banks have indicated to us that they would find it more cost effective to use their image systems to generate substitute checks for return rather than having to reprocess all of their physical checks.
+
+[SECTION]
+
+Both individual and corporate bank customers would also benefit from the legislation.  As I noted earlier, as banks restructure their branch and ATM networks, they could offer customers broader deposit options or extended deposit cutoff hours.  Such changes could result in some checks being credited one day earlier and interest accruing one day earlier for some checks deposited in interest-bearing accounts.  In addition, banks might allow some corporate customers to transmit their deposits electronically.  Because the legislation would likely encourage greater investments in image technology, banks might also be able offer their customers new and improved services.  For example, banks might be able to provide customers with access to on-line images of deposits and payments before the delivery of paper statements or provide printed copies of checks deposited at ATMs on ATM receipts.  The same investment in image technology might also enable banks to provide better customer service by using check images to resolve customer inquiries more easily and quickly than today.  Further, as banks reduce their operating costs, the savings will be passed on through a combination of lower fees to their customers and higher returns to their shareholders.  Banks have indicated that they expect cost savings to be substantial.
+
+[SECTION]
+
+The act is designed to provide banks with additional flexibility in processing checks by requiring banks to accept substitute checks in place of original checks.  The act does not, however, require banks to accept checks in electronic form nor does it require banks to use the new authority granted by the act to create substitute checks.  This market-based approach permits each bank to decide whether to make use of this new authority based on its business judgment about the costs and benefits of doing so.
+
+[SECTION]
+
+We believe the market changes arising from these revisions to check law will result in substantial cost savings.  Clearly, because substitute checks can be processed in the same manner as original checks, recipients of substitute checks should incur little or no additional processing costs.1   It is difficult, however, to estimate the overall cost savings.  Different banks will take different approaches toward using the new authority granted by the act.  Each bank's use of the new authority will depend on its technology infrastructure and strategy, its physical infrastructure, and its customer and business profiles.  Thus, the magnitude of the cost savings, which will depend on the rate at which banks begin using the new authority, is difficult to determine.
+
+[SECTION]
+
+Customer Protection Provisions
+While there is a fairly broad consensus on the desirability of the act's underlying concepts that permit the use of substitute checks, the issue of customer protections has been the subject of much debate.  The Board has had an opportunity to further reflect on the views that have been expressed by both consumer advocates and the banking industry and has concluded that expedited recredit provisions are not necessary for the successful implementation of the act.  We recognize that the issue of customer protections is the most challenging policy issue in the act and that Congress might arrive at a different conclusion as it considers whether to include expedited recredit provisions in this act.  I would like to discuss briefly consumers' rights under existing check law, additional rights granted under the act's new warranty and indemnity provisions, and why we believe the expedited recredit provisions are not needed.
+
+[SECTION]
+
+Existing Customer Protections
+Long-established check law protects bank customers if checks are improperly charged to their accounts.  The act would apply existing check law, including the Uniform Commercial Code (UCC) and the Federal Reserve Board's Regulation CC, to substitute checks as though they were the original checks, to the extent such law is not inconsistent with the proposed legislation.
+
+[SECTION]
+
+Specifically, a bank may only charge a check that is properly payable to a customer's account.2   A check is properly payable if it has been authorized by the bank's customer and complies with any agreement between the customer and the bank.  Thus, if a bank charges a customer's account for a check that is not properly payable, such as when a check has been forged, altered, or duplicated, the customer has a claim against the bank for an unauthorized charge to the customer's account.  For example, if a bank pays a counterfeit check, the bank could be liable to its customer for the amount of the unauthorized charge, interest on that amount, and consequential damages for the wrongful dishonor of any subsequently presented checks.  This potentially large liability provides a strong incentive for the bank to resolve a claim for an unauthorized charge as expeditiously as possible.  Over the years, no pattern of problems has emerged to suggest that existing check law is inadequate in protecting bank customers against unauthorized charges.
+
+[SECTION]
+
+Moreover, as part of its analysis, Board staff reviewed the consumer complaint databases of the five agencies of the Federal Financial Institution Examination Council.  That review found no pattern of problems associated with the timely resolution of check processing errors, including problems related to accounts where the checks are not returned with the monthly statements.
+
+[SECTION]
+
+Additional Customer Protections under the Act
+	In addition to the protections provided in current check law, the act requires banks to provide new warranties for substitute checks and to indemnify customers for losses resulting from the receipt of a substitute check instead of the original check.  Specifically, customers whose checks have been converted to substitute checks receive a warranty that the substitute checks are legally equivalent to the original checks and that a check will not be paid more than once from a customer's account.  Banks must also indemnify customers for losses they incur due to the receipt of substitute checks rather than the original checks.  Taken together, these warranty and indemnity provisions provide customers with additional protections against losses related to the use of substitute checks.
+
+[SECTION]
+
+Are Expedited Recredit Provisions Needed?
+The act also includes expedited recredit provisions for consumers.  (A companion section of the act includes interbank expedited recredit rules.)  The expedited recredit provisions require a bank to recredit a consumer's account, within a specified time frame, if a substitute check was not properly charged to the consumer's account.  The Board believes expedited recredit provisions are unnecessary given the protections provided by existing check law and by the act's new warranty and indemnity provisions, which provide additional customer protections.
+
+[SECTION]
+
+While it is true that the Uniform Commercial Code (UCC) does not provide a specified time frame within which a bank must act to resolve a claim, its provisions give the bank a significant financial incentive to resolve problems on a timely basis.  The longer a bank takes to research and resolve a customer's claim, the longer the bank is exposed to liability for consequential damages arising from the wrongful dishonor of subsequently presented checks.  These protections appear to have worked well for many decades.3   Further, the Board believes that the significant compliance burdens imposed by expedited recredit provisions on banks that receive substitute checks would outweigh the small incremental benefits that the provisions would provide to consumers.  Also, in the unlikely event that additional consumer protections are needed for substitute checks, the act grants the Board authority to adopt such protections by regulation.  Therefore, the Board does not believe that expedited recredit provisions are necessary to successfully implement the act.  Nonetheless, Congress may conclude that expedited recredit provisions for consumers are desirable.  In that case, the Board believes that any expedited recredit provisions should be consistent with the act's basic purposes and should not go beyond the provisions originally proposed by the Board in 2001.
+
+[SECTION]
+
+Conclusion
+In conclusion, although an increasing number of payments are being made electronically, it is clear that checks will continue to play an important role in the nation's payments system for the foreseeable future.  The Board believes that, over the long run, the concepts embodied in the Check Clearing for the 21st Century Act will spur the use of new technologies to improve the efficiency and reduce the cost of the nation's check collection system and provide better services to bank customers.  The legislation accomplishes this by simply permitting banks to replace one piece of paper, the original check, with another piece of paper, the substitute check, both of which contain the same payment information.  Because the act should result in substantial cost savings, it would also be desirable to begin obtaining these savings as quickly as possible.
+
+[SECTION]
+
+We look forward to working with you as you further consider this legislation.  Thank you for your time and I would be happy to answer your questions.
+
+
+Footnotes
+
+[SECTION]
+
+1. The extent to which banks that receive substitute checks incur additional administrative and compliance costs will depend largely on whether the legislation, as enacted, includes expedited recredit and disclosure requirements and, if so, the form of these requirements.Return to text
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2003 Testimony

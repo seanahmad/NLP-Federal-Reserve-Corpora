@@ -1,0 +1,282 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+August 02, 2012
+
+[SECTION]
+
+Matthew J. Eichner, Deputy Director, Division of Research and Statistics
+
+[SECTION]
+
+Before the Subcommittee on Securities, Insurance, and Investment, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Reed, Ranking Member Crapo, and members of the subcommittee, thank you for inviting me to appear before you today to discuss the triparty repurchase agreement (repo) market.
+
+[SECTION]
+
+The Federal Reserve has a strong interest in the smooth functioning and resiliency of this market for several reasons. First, the market serves as a tool for cash and liquidity management as well as for short-term borrowing for a wide range of financial intermediaries, including money market funds, insurance companies, banks, and securities dealers, all of which play an important role in supporting the savings and investment programs of households, small businesses, and nonfinancial corporations. Second, a number of entities subject to direct prudential supervision by the Federal Reserve are significant participants, including the holding companies of the two clearing banks, JPMorgan Chase and BNY Mellon, as well as many other bank holding companies. Finally, triparty funding materially supports the depth and liquidity of a number of critical markets, including those for U.S. government securities in which U.S. monetary policy is executed.
+
+[SECTION]
+
+In light of the importance of the triparty repo market, the Federal Reserve has been and is committed to working with market participants and other supervisory and regulatory organizations to enhance the market's resiliency. During the crisis, it became apparent that the design of the market's infrastructure to settle transactions, in particular, had fundamental flaws that could lead to serious instability during periods of market stress. Some significant progress has been made subsequently by market participants to address these shortcomings. The triparty repo market is now smaller than its peak and in general funds higher-quality collateral than it did prior to the crisis. However, not as much progress has been made--or made as quickly--as we believe is warranted given the seriousness of the situation, and certain clear vulnerabilities remain. The Federal Reserve continues to be fully engaged on a number of fronts to promote measures that will further mitigate these risks.
+
+[SECTION]
+
+I would now like to describe in greater detail the underlying vulnerabilities in the triparty repo market, the risk mitigation accomplished since the financial crisis, and the significant work that still remains. In offering this perspective, I think it will become clear that the very importance of the triparty repo market--which is currently the locus of funding for some $1.8 trillion in securities held by securities dealers, down from $2.7 trillion in 2007--complicates the task of enhancing its resiliency. As in the case of a busy highway that must be rebuilt while traffic continues to flow, fundamental changes to the triparty infrastructure must be accomplished in a manner that allows the market to continue to function without introducing new risks as market participants adjust. Further complexities are introduced by the diversity of participants in this market, which connects institutional investors of many types that have surplus cash with dealers who need funding for their securities portfolios. These different classes of entities, although tied together through the triparty infrastructure, have very distinct institutional priorities, operational needs, and regulatory requirements.
+
+[SECTION]
+
+Triparty Repos and the Financial Crisis
+       A triparty repo, like other repurchase agreements, is a form of secured borrowing in which one party effectively lends cash against the securities collateral of the other party. As the name suggests, a triparty repo is distinguished by the involvement of a third party, a clearing bank that provides custody and settlement services related to the transaction. Of particular importance, the triparty repo settlement process in the United States evolved over time to rely on the extension of very substantial amounts of intraday credit by the clearing banks. While securities are funded each evening with cash provided by the lenders in the triparty repo market, each day almost all trades are "unwound," with cash being returned to the accounts held by lenders at their clearing bank. The clearing bank, protected by a lien on the securities, provides funding for the collateral during part of the day. This unwind, which is reversed at the end of each trading day with a "rewind," permits borrowers in the triparty repo market--generally securities dealers--to have full and unimpeded access to their securities inventory for routine operational purposes, notably delivering and receiving securities, while ensuring that triparty lenders at all times hold either cash in their accounts at the clearing bank or a perfected security interest in specific collateral. Under this settlement process, almost all trades are unwound each day whether the trades are maturing or have remaining terms. Thus, almost the entire value of this market is funded each day through the extension of intraday credit by a clearing bank. Further, these extensions of intraday credit by the clearing banks are not contractually committed, but rather wholly discretionary. In short, a clearing bank can decide at any time to stop providing intraday credit to a securities dealer.
+
+[SECTION]
+
+The reliance on discretionary intraday credit in the triparty settlement process poses difficult dilemmas for cash lenders, borrowers, and clearing banks during periods of market stress. As a result, securities dealers may experience a sudden and acute loss of funding. A clearing bank may be reluctant to unwind the triparty trades of a securities dealer and extend credit if the bank perceives a material risk to the financial viability of the dealer, or even if market sentiment regarding the dealer is merely deteriorating in a way that could deter cash lenders from providing sufficient new funding to support a rewind at the end of the day. On the one hand, such a decision by a clearing bank not to unwind would likely push the securities dealer into immediate default and would certainly impair its ability to operate normally. On the other hand, the clearing bank unwinding the triparty trades of an apparently weakened securities dealer has potentially serious implications as well. If the securities dealer subsequently fails to attract sufficient new cash from lenders to fully finance its securities inventory, the clearing bank faces a material, albeit secured, credit exposure to that dealer. This situation could call the clearing bank's own viability into question, impair its ability to settle transactions for other dealers, and potentially spread distress across broader markets.
+
+[SECTION]
+
+In essence, a clearing bank is inclined to provide intraday credit to a dealer only when it is confident that sufficient incremental funding from cash lenders will materialize to make the rewind possible. And cash lenders will only enter new trades that provide incremental funding to a dealer if they are confident that their transactions will be unwound at maturity by the clearing bank. So, if concerns rise markedly about the financial condition of one or more securities dealers, the instantaneous transfer of the risk of a default that occurs twice each trading day--the first time through the unwind to the clearing bank and the second time through the rewind to the cash lenders--creates incentives for both the clearing bank and cash lenders to "get out first," leaving the triparty repo market highly vulnerable to runs.
+
+[SECTION]
+
+The fundamental susceptibility to runs stemming from this settlement process was exacerbated during the financial crisis by other compounding factors, which included weaknesses in the risk-management practices of many market participants. Some dealers were heavily reliant on triparty financing with very short tenor--which entailed significant potential rollover risk--on the assumption that this funding would be durable during a stress event. And some cash lenders were apparently not fully aware of the discretionary nature of intraday credit or of the consequences of a decision by a clearing bank to decline to provide such funding. In particular, in the event that a clearing bank declined to provide intraday credit to support the unwind of a securities dealer's triparty trades, no mechanism existed then or now to orchestrate an orderly liquidation of the collateral to repay the lender. The absence of such a process raised the specter of a "fire sale" of securities by cash lenders who could find themselves taking possession of collateral they had limited operational capacity to manage or that might place them in violation of their portfolio composition guidelines. Concerned that other firms similarly situated would quickly liquidate large volumes of collateral and cause market dislocations, each cash investor would, quite rationally, try to sell first with predictable, but possibly dire, consequences. These compounding factors--the weaknesses in risk management and the absence of a mechanism to assist with the orderly liquidation of triparty collateral--further increased the vulnerability of the triparty repo market to runs.
+
+[SECTION]
+
+In fact, runs did occur, and they played out with surprising speed around the time of the near failure of Bear Stearns in March 2008 and again during the worsening of the crisis in midâSeptember of that year after the bankruptcy of Lehman Brothers. Indeed, the Federal Reserve implemented the Primary Dealer Credit Facility in March 2008, and expanded its scope in September 2008, in part to stabilize the triparty repo market in the face of rapid erosion of investor and clearing bank confidence. While this facility proved to be a critical crisisâmanagement tool, the fact that it was necessary underscored the need for fundamental changes to market conventions and practices.
+
+[SECTION]
+
+The Task Force
+       Following broad recognition of the vulnerabilities associated with discretionary intraday credit, an industry-led Tri-party Repo Infrastructure Reform Task Force was formed in 2009 as an initiative of the Payments Risk Committee, a private-sector body convened by the Federal Reserve Bank of New York.1  The task force included representatives of market participants, such as cash lenders, dealers, clearing banks, and other service providers, as well as industry groups representing both dealers and investors. The Federal Reserve and agencies with regulatory authority over other market participants served in an advisory capacity. Not surprisingly, a key focus of the task force's efforts was the reduction in reliance on intraday credit in the settlement process. But the group also considered some related vulnerabilities, including the risk-management practices of both securities dealers and cash lenders.
+
+[SECTION]
+
+In its May 2010 interim report, the task force dealt directly with the issue of reliance on intraday credit extension, creating a detailed plan for its "practical elimination" by mid-2011.2  In fact, participants achieved some important prerequisites to this goal last year. Clearing banks developed tools that will allow automated substitution of collateral, and hence access to securities for routine operational purposes without requiring a daily unwind of a dealer's entire triparty book. A process was implemented to support the three-way confirmation of trades, ensuring that nonmaturing trades could be readily identified as such by the clearing bank, and eventually not unwound on a daily basis. Further, the unwind, while still very much a part of the settlement process, was moved from early morning to midafternoon, allowing clearing banks more time to make an informed decision regarding the extension of intraday credit. While not directly related to the reduction of reliance on intraday credit, the task force also played an important role in improving the transparency of the triparty repo market for market participants and the public, working with staff at the Federal Reserve Bank of New York in a process that culminated in the publication, beginning in June 2010, of key monthly statistics on the types of collateral funded and applicable terms.3
+
+[SECTION]
+
+These significant achievements notwithstanding, it became clear last year that moreâfundamental changes to systems at both clearing banks and on the part of other market participants, as well as associated adjustments to market practices, would take significantly longer to implement. The task force, in its final report issued in early 2012, acknowledged that the work had entered a new phase and described in greater detail the "target state," a safer and more robust settlement process for the triparty repo market that would not rely on significant discretionary intraday credit.4
+
+[SECTION]
+
+Federal Reserve Use of Supervisory Authorities
+       The Federal Reserve, while acknowledging the contributions and achievements of the task force, responded on several fronts to the inability of the industry to meet its commitment to meaningfully address the triparty repo market's heavy reliance on discretionary intraday credit in 2011. Notably, the Federal Reserve has used supervisory tools to encourage market participants over which it has direct authority to implement the task force recommendations in a timely fashion. If adopted uniformly across the market, these recommendations should materially reduce reliance on discretionary intraday credit. While a great deal of focus is appropriately on the clearing banks, given their pivotal role in the settlement process, the active engagement of all market participants is critical to reaching the goal of material risk reduction. To this end, the largest securities dealers affiliated with bank holding companies have recently been asked to submit to the Federal Reserve detailed execution plans and timelines for the necessary changes to systems and processes. At the same time, the Federal Reserve is pressing them to work with lenders to achieve more-timely and more-accurate trade confirmations, which are critical to ensuring that the coming process changes are effective in reducing the use of intraday credit, and thus risk.5
+
+[SECTION]
+
+On another front, the Federal Reserve is working with regulators of other important market participants. As I described earlier, there are a wide range of participants in the triparty repo market, only some of whom are subject to direct Federal Reserve oversight. A particular strength of the task force process was the involvement of essentially all important classes of market participants and their regulators. With that process now concluded, the Federal Reserve is committed to finding other ways to continue and expand these interactions. Such an inclusive approach is essential if key changes to the settlement process that require adjustments in the behavior of all market participants are to be effectively implemented. Not only securities dealers affiliated with bank holding companies but also other broker-dealers as well as cash lenders, such as money market funds, must modify systems and protocols consistent with the requirements of the target state. To this end, engagement with the Securities and Exchange Commission has been and will continue to be particularly important given its role as the primary regulator of broker-dealers and many cash lenders, notably money market funds.
+
+[SECTION]
+
+Given the broad interest in the triparty repo market and the complexities involved in reaching the target-state settlement system, the Federal Reserve considers it critical that the general public have the opportunity to follow progress, including by tracking relevant metrics of risk reduction associated with the gradual decline in reliance on intraday credit. In addition, the Federal Reserve is committed to providing information on its initiatives related to the triparty repo market. With these aims in mind, the Federal Reserve Bank of New York recently launched a website that will serve as a portal for a range of information related to the triparty repo market.6
+
+[SECTION]
+
+The Problem of Fire Sales
+       While eliminating the daily unwind and reducing reliance on intraday credit will materially reduce the potential for a recurrence of many of the problems evident during the financial crisis, other vulnerabilities will remain. A particular concern of the Federal Reserve, and also reflected in the Financial Stability Oversight Council's most recent annual report, involves the challenge of managing the collateral of a defaulting securities dealer in an orderly manner.7  Larger dealers finance portfolios of securities that can easily exceed $100 billion and would be difficult to liquidate even under favorable market conditions without causing dislocations. As I noted earlier, the situation could be further complicated by the fact that many cash lenders are highly risk averse, subject by regulation or prospectus to stringent limitations on their portfolio holdings, and may have limited operational capacity to manage collateral. As a result, they would likely be inclined to quickly liquidate securities that they had obtained from a failed dealer, creating the potential for a fire sale that could destabilize markets and propagate shocks across the financial system.
+
+[SECTION]
+
+A solution to this fire sale problem likely requires a marketwide collateral liquidation mechanism. The challenges in designing and creating a robust mechanism--which would almost certainly need the capacity to fund a significant volume of collateral for some period of time--are appreciable, and include assuring adequate liquidity resources even under adverse market conditions and developing rules for the allocation of any eventual losses across market participants. Such capabilities typically exist today in the context of clearing organizations that have a formal membership structure, which allows for capital assessments and the sharing, or "mutualization," of potential losses. How this model might be adapted to a market more loosely organized around clearing banks, particularly in which certain less-liquid collateral types continue to be funded, remains unclear and will surely need to be the focus of much additional study.
+
+[SECTION]
+
+Conclusion
+       Given the importance of the triparty repo market and the vulnerabilities that were so evident during the financial crisis, enhancing the market's resiliency and its settlement system is an important regulatory and financial stability priority. Building on the work of the task force, we believe that supervisory efforts will yield substantial progress in eliminating the reliance of the triparty repo market on intraday credit, although perhaps not as quickly as many of us had hoped, and in improving risk-management practices across a range of market participants. A significant remaining challenge, however, is the development of a process to liquidate in an orderly fashion the collateral of a defaulting dealer that would operate reliably in the context of a settlement system organized around clearing banks.
+
+[SECTION]
+
+Thank you once again for the invitation to appear before you today to share the perspectives of the Federal Reserve on these important issues. I would be pleased to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+1. Information on the Tri-Party Repo Infrastructure Reform Task Force  is available on the Federal Reserve Bank of New York's website. Return to text
+
+[SECTION]
+
+2. See Federal Reserve Bank of New York (2010), "Tri-Party Repo Infrastructure Reform (PDF),"  white paper (New York: FRBNY, May). Return to text
+
+[SECTION]
+
+3. Information on the Tri-Party Repo Margin and GCF Repo Statistics  is available on the Federal Reserve Bank of New York's website. Return to text
+
+[SECTION]
+
+4. See Tri-Party Repo Infrastructure Reform Task Force (2012), "TriâParty Repo Infrastructure Reform Task Force Releases Final Report (PDF),"  press release, February 15; the report is also available directly at www.newyorkfed.org/tripartyrepo/pdf/report_120215.pdf . Return to text
+
+[SECTION]
+
+5. See Federal Reserve Bank of New York (2012), "Update on Tri-Party Repo Infrastructure Reform,"  statement, July 18. Return to text
+
+[SECTION]
+
+6. Information on Tri-Party Repo Infrastructure Reform  is available on the Federal Reserve Bank of New York's website. Return to text
+
+[SECTION]
+
+7. See Financial Stability Oversight Council (2012), 2012 Annual Report (Washington: FSOC). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,301 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 19, 2009
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee of Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Gutierrez, Ranking Member Hensarling, and members of the Subcommittee, I appreciate the opportunity to appear today to discuss the Federal Reserve Board's recent regulatory actions to expand protections for consumers who use credit cards and overdraft protection plans.
+
+[SECTION]
+
+The Federal Reserve is committed to enhancing consumers' ability to use credit cards in a responsible and informed manner.  Credit cards provide important benefits for many consumers, both as a source of credit and as a convenient payment mechanism.  However, in recent years, credit card terms and features have become more complex, which has reduced transparency in credit card pricing.  Growing complexity has increased the risk that consumers will not understand or notice key terms that affect a plan's cost.
+
+[SECTION]
+
+In December 2008, the Board issued sweeping rules to enhance protections for consumer credit card accounts.  One set of rules prohibits certain unfair card practices using the Board's rulemaking authority under the Federal Trade Commission Act (FTC Act), while complementary rules improve disclosures for credit cards under the Truth in Lending Act.  Together, these rules are the most comprehensive changes to regulations that govern consumer credit cards ever adopted by the Board.  These rules affect nearly all aspects of consumer credit card accounts, including marketing and advertising, disclosures given with applications and at account opening, billing statements, and issuers' ability to change account terms.
+
+[SECTION]
+
+In addition to these final credit card rules, in December 2008 the Board also proposed rules that would give consumers the right to instruct their depository institutions whether to pay or not pay overdrafts for ATM withdrawals or one-time debit card purchases.
+
+[SECTION]
+
+In my testimony today, I will first discuss highlights of the Board's revisions to improve the Truth in Lending disclosures provided in connection with consumer credit card accounts, including some of the limitations of a disclosure-based approach.  I will then summarize the final rules prohibiting certain unfair acts or practices by banks in connection with consumer credit card accounts, which were issued in conjunction with the Office of Thrift Supervision (OTS) and the National Credit Union Administration (NCUA).  Finally, I will discuss the Board's pending efforts to provide consumer protections in connection with overdraft protection plans.
+
+[SECTION]
+
+Truth in Lending DisclosuresThe Federal Reserve has primary rule-writing authority for the Truth in Lending Act, which is implemented by the Board's Regulation Z.  One of the purposes of the Truth in Lending Act is to assure a meaningful disclosure of credit terms so that consumers can compare available credit terms and avoid the uninformed use of credit.  Clear disclosure of credit card terms has always been a challenge.  However, this disclosure challenge has grown substantially with the increasing complexity of credit card plans.
+
+[SECTION]
+
+The Board drew on several sources of data and information in developing improved disclosures to communicate key information to consumers in ways that they would be more likely to pay attention to, understand, and use in their decisionmaking.  First, the Board conducted extensive consumer testing, using focus groups and several dozen one-on-one interviews with consumers.  The testing first identified what information consumers currently use in making decisions about their credit card accounts, and how they use existing disclosures.  The Board used these insights to develop revised credit card disclosures, which also were tested with consumers.  Prior to issuing final rules, the Board conducted quantitative testing with over 1,000 consumers nationwide to gauge consumers' comprehension of the newly developed disclosures compared to existing disclosures and formats.  In addition, in response to proposed revisions to Regulation Z issued in June 2007 and May 2008, the Board received and considered over 3,000 comment letters representing a broad spectrum of views.  The Board used lessons learned from testing and input from those commenting in order to develop a final rule and model disclosures that would enhance consumer understanding of credit card terms.
+
+[SECTION]
+
+Credit Card Applications and SolicitationsThe final rule includes several changes to the content and terminology of the tabular disclosure of key costs and terms currently provided with credit card applications and solicitations, commonly known as the "Schumer box."  These changes were based largely on information from our consumer testing about what information consumers do and do not notice or find important when shopping for credit.  The final rules mandate that certain terminology be used in the table in order to enhance consumer understanding, such as by requiring that issuers use the term "penalty rate" to describe the increased rate that may apply if a consumer engages in behavior such as paying late.  In order to target the tabular disclosure to those terms that are most useful to consumers, the final rule does not permit a creditor to include in the table information that testing revealed consumers do not use in comparing different credit card offers, for example detailed information about the calculation of variable rates.
+
+[SECTION]
+
+Account-Opening DisclosuresCurrently, the key terms Truth in Lending requires to be disclosed at account opening are often interspersed within long, complex credit agreements.  To make the information more conspicuous and more useful to consumers, the final rule requires creditors to provide a table summarizing the key terms to consumers at account opening.  This new account opening table is substantially similar to the Schumer box, based on consumer testing findings indicating that consumers tend not to read disclosures that are in small print and dense prose, but generally are familiar with the table on applications and solicitations.  Replicating the tabular format that is familiar to consumers should enhance consumer understanding of the disclosures given at account opening, and also should make it easier for consumers to compare the terms of the offer for which they applied with the terms that they receive.
+
+[SECTION]
+
+Periodic StatementsThe final rule contains a number of revisions to the periodic statement to improve consumers' understanding of the costs associated with using their credit card accounts.  First, the rule includes new formatting and terminology requirements that require creditors to group costs together and identify them as interest charges or fees.  Consumer testing demonstrated that consumers more readily understand costs disclosed in dollars than costs disclosed as percentage rates.  The final rule also imposes a new requirement to disclose year-to-date totals for interest charges and fees.  Finally, the final rule eliminates the requirement to disclose an effective APR, which is an annual percentage rate figure that reflects fees as well as interest charges.  Consumer testing demonstrated that consumers find the disclosure of an effective APR that combines rates and fees to be confusing, and that for some consumers, disclosure of an effective APR makes it more difficult to identify the interest rate applicable to the account.
+
+[SECTION]
+
+Changes in Consumer's Interest Rate and Other Account TermsThe final rule increases advance notice of rate increases or changes in other key account terms from 15 days to 45 days, in order to ensure that consumers will not be surprised by unexpected changes and will have time to explore alternatives.  For example, a consumer who receives 45 days' advance notice of an impending rate increase will have time to seek alternative sources of financing for future transactions, or to alter his or her account usage in order to mitigate the impact of the change.  The final rule also expands upon the current requirements of Regulation Z by requiring that 45 days' advance notice also be given when a rate increases due to the consumer's delinquency or default or as a penalty.  Finally, for rate increases and changes in key terms, the final rule imposes new formatting requirements.  Specifically, creditors must disclose changes in key terms in a summary table to enhance the effectiveness of the change-in-terms notice.
+
+[SECTION]
+
+Additional ProtectionsOther consumer protections in the Regulation Z final rule include:
+
+[SECTION]
+
+The Board's Rules under the FTC ActThe data obtained in consumer testing informed the development of new rules under Regulation Z to improve the effectiveness of the content, format, and timing of credit card disclosures.  However, the testing process also illustrated the limitations of disclosures for today's complex financial products.  There are certain key credit card terms, such as how an issuer allocates payments among balances on which interest accrues at different rates, that consumer testing indicates cannot be explained to consumers in a way that would improve their ability to make meaningful decisions about credit.  In addition, consumers who commented on the Board's proposals under Regulation Z encouraged the Board to prohibit certain credit card practices that they believe to be unfair.  Because improved disclosures alone cannot solve all the problems consumers face in managing their credit card accounts, in December 2008 the Board issued a rule prohibiting certain unfair practices in connection with consumer credit card accounts.
+
+[SECTION]
+
+The Board has authority under the FTC Act to prescribe regulations to prevent unfair or deceptive acts or practices by banks.  The OTS and NCUA have corresponding rule-writing authority for savings associations and federally-chartered credit unions, respectively.  In May 2008, the Board, OTS, and NCUA jointly proposed rules to prohibit certain unfair acts or practices with respect to consumer credit card accounts and overdraft services for deposit accounts.  The Board received and considered more than 60,000 comments in response to this proposal, more than for any other regulatory proposal in our history.  The overwhelming majority of these comments came from individual consumers.  In addition to reviewing and considering the comments, the final rules also were informed by the Board's consumer testing, as well as outreach regarding credit card practices with consumer advocates, industry representatives, members of the Board's Consumer Advisory Council, and other federal agencies.  The Board's final rule pursuant to its FTC Act authority is set forth in Regulation AA.
+
+[SECTION]
+
+Time to Make PaymentsThe Board's final rule seeks to ensure consumers have an adequate amount of time to make payments once they receive their billing statements.  Banks are prohibited from treating a payment as late for any purpose unless consumers have been provided a reasonable amount of time to make payment.  The rule establishes a safe harbor for banks that send periodic statements at least 21 days prior to the payment due date.  This rule responds to concerns that credit card issuers have reduced the amount of time provided to consumers to make payment while increasing the costs imposed on consumers whose payments are not received by the due date (such as late payment fees and penalty interest rates).
+
+[SECTION]
+
+Allocation of Payments Credit card accounts often permit consumers to carry multiple balances at different APRs, for example a purchase balance, cash advance balance, and balance transfer balance.  When different annual percentage rates apply to different balances on a credit card account, the final rule requires banks to allocate payments in excess of the minimum payment either to the highest rate balance first or pro rata among all the balances on the account.  Currently, credit card issuers generally allocate payments first to the balance with the lowest interest rate, which maximizes the assessment of interest charges.  Consumer testing conducted by the Board demonstrated that disclosures alone are not sufficient to enable consumers to avoid the higher interest charges caused by current payment allocation practices.
+
+[SECTION]
+
+Protections Against Interest Rate IncreasesThe final rule restricts the circumstances in which a bank may increase an interest rate applicable to a consumer's credit card account.  These provisions address concerns that increases in the interest rate on a credit card account can come as a costly surprise to consumers who relied on the rate in effect when engaging in transactions.  For example, many credit card issuers impose penalty rates that can be more than twice the consumer's normal rate on purchases when a payment is late.  Some card issuers impose penalty rates based on factors not directly related to the account, such as a drop in the consumer's credit score or the consumer's default on a different account, a practice sometimes referred to as "universal default."  In addition, issuers typically reserve the right to increase rates on existing balances at any time, for any reason, in order to, for example, adjust for changes in the creditor's cost of funds.
+
+[SECTION]
+
+To address these concerns, the final rule restricts penalty pricing and prevents "any time, any reason" repricing of a cardholder's outstanding balances.  It also generally prohibits rate increases on new transactions during the first year after account opening.  The Board's consumer testing indicated that interest rates are a primary concern for consumers when shopping for credit cards.  This final rule promotes fairness in credit card pricing by ensuring that consumers who open accounts based on the rate or rates stated by the card issuer can rely on those rates when engaging in transactions.  In addition, the final rule should spur efforts by lenders to improve upfront underwriting by reducing reliance on after-the-fact penalty rate increases.
+
+[SECTION]
+
+The final rule contains several limited exceptions to the general prohibition on increasing rates on credit card accounts.  Each of these exceptions is intended to give issuers sufficient flexibility to respond to changes in the market or changes in the consumer's financial condition while still protecting consumers from unfair surprise.
+
+[SECTION]
+
+The final rule also establishes rules regarding the repayment of balances on which the rate cannot be increased.  These restrictions limit card issuers' ability to accelerate repayment.  They complement the rule on repricing of balances by ensuring that consumers are given a reasonable amount of time to pay off any outstanding balances that an issuer may not reprice.  Creditors are permitted to establish a repayment period of five years or more, to double the consumer's repayment rate, or use a repayment schedule that is no less beneficial to the consumer than the two specified methods.  Finally, in order to prevent banks from imposing new fees in lieu of rate increases, the final rule prohibits the assessment of fees or other charges based solely on a balance that cannot be repriced.
+
+[SECTION]
+
+The rule strikes a balance between increasing certainty and transparency in the cost of credit for consumers and allowing issuers sufficient flexibility to adjust to changes in borrower creditworthiness and market conditions.  In addition to protecting consumers from unexpected increases in the cost of transactions that have already been completed, this rule will enable consumers to more accurately assess the cost of using their credit card accounts at the time they engage in new transactions, particularly during the first year after account opening.  Finally, the new rules should enhance competition because issuers that offer rates that realistically reflect risk and market conditions will no longer have to compete with issuers offering artificially reduced rates that can increase unexpectedly.
+
+[SECTION]
+
+Computing Interest on Account Balances Over Two Billing CyclesThe final rule prohibits the balance computation method sometimes referred to as "two-cycle billing."  In general, an institution using the two-cycle method assesses interest not only on the balance for the current billing cycle but also on the balance for days in the preceding billing cycle.  The Board's consumer testing indicates that disclosures cannot adequately explain the two-cycle method in a way that enables consumers to make informed choices among credit products with different balance computation methods.
+
+[SECTION]
+
+Security Deposits and Fees That Limit Credit AvailabilityThe final FTC Act rule includes several provisions to protect vulnerable subprime consumers from credit card products that charge high fees and provide little available credit.  Specifically, the final rule prohibits banks from financing security deposits and fees that, in the aggregate, constitute a majority of the initial credit limit in the first year.  The final rule also limits the total security deposits and fees that can be charged at account opening to 25 percent of the initial credit limit.
+
+[SECTION]
+
+Effective DateThese rules represent the most comprehensive and sweeping reforms ever adopted by the Board for credit card accounts and will apply to more than one billion accounts.  Given that the changes affect nearly every aspect of credit card lending, card issuers must be afforded sufficient time for implementation to allow for an orderly transition that avoids unintended consequences, compliance difficulties, and potential liabilities.  The effective date for both the revised credit card rules under the FTC Act and Regulation Z is July 1, 2010.
+
+[SECTION]
+
+To comply with the final rules, card issuers must adopt different business models and pricing strategies and then develop new credit products.  Depending on how business models evolve, card issuers may need to restructure their funding mechanisms.  In addition to these changes, issuers must revise their marketing materials, application and solicitation disclosures, credit agreements, and periodic statements so that the documents reflect the new products and conform to the rules.  Changes to issuers' business practices and disclosures will involve extensive reprogramming of automated systems which subsequently must be tested for compliance, and personnel must receive appropriate training.
+
+[SECTION]
+
+Although the Board has encouraged card issuers to make the necessary changes as soon as practicable, an 18-month compliance period is consistent with the nature and scope of the required changes.
+
+[SECTION]
+
+Regulatory Proposal on Overdraft ServicesFinally, I will discuss the Board's recent proposal to give consumers greater control over the payment of overdrafts.  The term "overdraft service" generally refers to an institution's practice of paying a consumer's transaction that overdraws the consumer's account and charging a fee for doing so.  In the past, overdraft services were provided only for check transactions.  More recently, institutions have extended the service to apply to other transaction types, including automated teller machine (ATM) withdrawals and point-of-sale debit card purchases.  Most institutions have automated the process for determining whether, and to what extent, to pay overdrafts.
+
+[SECTION]
+
+In most cases, consumers are automatically enrolled in overdraft services.  Each time an overdraft is paid, the consumer is charged a flat fee, regardless of the amount of the overdraft.  Institutions commonly charge the same amount for paying an overdraft as they would if they returned the item unpaid.  According to the Government Accountability Office (GAO), the average cost of overdraft and insufficient funds was just over $26 per item in 2007.1  For point-of-sale debit card transactions in particular, the overdraft fee may substantially exceed the dollar amount of the overdraft.
+
+[SECTION]
+
+The Board's December 2008 proposal under the Electronic Fund Transfer Act (Regulation E) would provide consumers with the opportunity to choose whether overdraft services meet their needs.  The proposal contains two alternative approaches.  The first approach would prohibit an institution from assessing any fees on a consumer's account after the institution authorizes an overdraft, unless the consumer is first given notice and a reasonable opportunity to opt out of the institution's overdraft service.  The second approach would require an institution to obtain the consumer's affirmative consent, or opt-in, before fees may be assessed to the consumer's account for overdrafts authorized by the institution.
+
+[SECTION]
+
+The proposal would apply to overdrafts for ATM withdrawals and one-time debit card purchases, and thus would not cover overdrafts by check or recurring debit.  Consumer testing conducted for the Board indicates that consumers would not opt out if opting out meant that their most significant bills--those typically paid by check or recurring debit--would not be paid.  In addition, if their check or recurring debit payment is dishonored for insufficient funds, consumers could incur fees, both from their institution and from the merchant.  In contrast, if a consumer does not have sufficient funds to cover an ATM withdrawal or a one-time debit card purchase, the transaction would simply be declined without the assessment of any fees.  Thus, limiting the rule to these transactions, and excluding checks and recurring debits, seems appropriate to ensure consumers are given a meaningful choice regarding the payment of overdrafts.
+
+[SECTION]
+
+The public comment period for the overdrafts proposal concludes on March 30, 2009.  After evaluating the comments and conducting additional consumer testing, we expect to issue a final rule later this year.
+
+[SECTION]
+
+ConclusionIn closing, let me emphasize the Federal Reserve's commitment to enhancing the ability of consumers to use credit cards to their benefit.  The Board believes that the package of substantive and disclosure-based regulations issued in December 2008 appropriately promotes fairness in the terms of consumer credit card accounts and ensures that consumers receive disclosures at a time and in a form that meaningfully assists them in making informed decisions regarding the use of credit.  The Federal Reserve also is committed to helping consumers better understand the cost of overdraft services and providing a means to exercise choice regarding the use of these services.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+See "Bank Fees: Federal Banking Regulators Could Better Ensure That Consumers Have Required Disclosure Documents Prior to Opening Checking or Savings Accounts", GAO Report 08-281, at 14 (January 2008). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

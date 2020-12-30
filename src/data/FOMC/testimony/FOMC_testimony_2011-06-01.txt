@@ -1,0 +1,297 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 01, 2011
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel, and Thomas C. Baxter Jr., General Counsel, Federal Reserve Bank of New York
+
+[SECTION]
+
+Before the Subcommittee on Domestic Monetary Policy and Technology, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Paul, Ranking Member Clay, and members of the Subcommittee, we appreciate the opportunity to discuss the different ways in which the Federal Reserve informs the Congress and the American people about our policies and actions. The Federal Reserve regularly releases significant, detailed information about its operations. Our aim in doing so is to promote understanding of how the Federal Reserve fosters financial and economic stability and to facilitate an evaluation of our actions while also preserving the ability to effectively fulfill the responsibilities that the Congress has given the Federal Reserve. In that context, we will describe the Federal Reserve's compliance with the disclosure provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act), including the data we released in December 2010 about the transactions we conducted to stabilize markets during the recent financial crisis, restore the flow of credit to American families and businesses, and support economic recovery and job creation in the aftermath of the crisis. We will also address our March 2011 release, under the Freedom of Information Act, of documents regarding the use of the Federal Reserve's discount window during the crisis.
+
+[SECTION]
+
+The role of lender of last resort is a critical responsibility long filled by central banks around the world. Central bank lending facilitates the implementation of monetary policy and allows the central bank to address short-term liquidity pressures in the banking system. During normal times, the Federal Reserve's discount window provides a backup source of liquidity for depository institutions in sound financial condition to address unexpected, short-term funding pressures. In doing so, the discount window facilitates the smooth and efficient flow of credit to U.S. households and businesses. In periods of crisis, the discount window is a tool that can be used to support market liquidity, and thereby mitigate strains in financial markets that could otherwise escalate and lead to sharp declines in output and employment. All discount window loans are fully secured and the Federal Reserve has not suffered a loss on any discount window loans.
+
+[SECTION]
+
+Disclosure and Integrity of the Federal Reserve's Financial Statements
+       Since it began operation in 1914, the Federal Reserve has published full financial statements. We release our balance sheet every week, both by individual Reserve Bank and on a consolidated basis for the entire Federal Reserve System.1 In addition, the Federal Reserve publishes annual financial statements with information on our assets and liabilities as well as income and expenses in the same detail as a publicly traded corporation.2
+
+[SECTION]
+
+During the recent financial crisis, the Federal Reserve expanded its weekly balance sheet disclosures to include information about the amount of credit outstanding under each of the credit facilities established during the crisis. The Federal Reserve also initiated in June 2009 a special monthly report, which we provide to the Congress and publish on the Board's website, that provides additional detail about the Federal Reserve's emergency lending programs, including information on the amount of lending under each program, a description of the type and level of collateral associated with those loans, and information about the borrowers under those facilities.3 This report includes aggregate information about credit provided to depository institutions through the discount window as well as information on the Federal Reserve's securities holdings and the holdings of Maiden Lane, Maiden Lane II, and Maiden Lane III. The Board's website also contains detailed information about the terms and conditions of each of the emergency lending programs, the availability of discount window lending, the swap lines opened with foreign central banks, and the arrangements with third-party vendors used by the System during the financial crisis, as well as expansive data and numerous reports and other information on all aspects of Federal Reserve operations.4
+
+[SECTION]
+
+The Federal Reserve Bank of New York (FRBNY) also maintains a website that offers detailed information on open market operations taken to implement the monetary policy decisions of the Federal Open Market Committee. This information includes schedules of purchases and sales of securities as part of open market operations with CUSIP information describing the securities involved. With this information, a description of every open market operation can be examined shortly after it is conducted. Other open market information available on the FRBNY website includes summary and individual data on the securities held in the System Open Market Account and information about the federal funds rate.5 The site also contains a great deal of additional data related to FRBNY operations, including the names of the primary dealers, some legal forms for transacting business, and other information about fiscal agency activities on behalf of the U.S. Treasury.
+
+[SECTION]
+
+The Federal Reserve's annual financial statements are audited by an independent public accounting firm, which performs customary procedures to assure their accuracy and integrity. For the last four years, for example, Deloitte and Touche has audited the financial statements of the Federal Reserve Board and the Federal Reserve System as a whole. In each year, the Federal Reserve has received a clean auditor opinion, meaning that the financial statements present fairly the financial positions of the Federal Reserve. Further, the external auditor also opines that the Federal Reserve has maintained effective internal controls over financial reporting. The independent audit also covers transactions conducted through each of the special lending facilities established by the Federal Reserve under section 13(3) of the Federal Reserve Act and the financial statements of Maiden Lane, Maiden Lane II, and Maiden Lane III, as well as the transactions conducted through the discount window and with foreign central banks. By statute, the Board's Office of Inspector General (OIG) is responsible for ensuring that the auditor and the audits are independent. The results of these financial audits are reported annually to the Congress along with the audited financial statements of the Federal Reserve System and published on the Board's website.6 The OIG also has conducted its own review of the special lending facilities established under section 13(3) of the Federal Reserve Act.
+
+[SECTION]
+
+In addition to these audits, the Federal Reserve, and in particular, the special lending facilities established by the Federal Reserve during the recent financial crisis, have been subject to a number of other audits and reviews. These include special audits by the Office of the Special Inspector General for the Troubled Asset Relief Program for each program that involved any funding from the TARP program.7 The Congressional Oversight Panel and the Financial Crisis Inquiry Commission also conducted reviews and both have issued public reports.8
+
+[SECTION]
+
+Moreover, the Federal Reserve's financial statements and a broad range of our functions are subject to review by the Government Accountability Office (GAO). For example, in recent years the GAO has conducted reviews of the policies and practices of the Federal Reserve in its supervision and regulation of bank holding companies, state-chartered banks that are members of the Federal Reserve System, and other banking organizations. It has also conducted reviews of the Federal Reserve in other areas, including our oversight and operation of payment systems; our implementation and enforcement of consumer protection laws; our policies on the acquisition of U.S. banking organizations by sovereign wealth funds; our efforts to address cyber security; and the need for financial regulatory reform. These reviews are not limited to auditing the integrity of the financial statements or public reporting of these activities. Rather, the GAO reviews the development of policies and provides assessments of and suggestions regarding appropriate policies.
+
+[SECTION]
+
+In response to a directive from the Congress in the Dodd-Frank Act, the GAO is currently conducting a special review of all loans and other Federal Reserve transactions between December 1, 2007, and July 21, 2010, under the special lending facilities and other programs developed during the financial crisis.9 This review will assess operational integrity, internal controls, security and collateral policies, policies governing third-party contractors, and the existence of any conflicts of interest or inappropriate favoritism in the establishment or operations of the facilities.10 The Federal Reserve is fully cooperating with the GAO in its conduct of this extensive review and will continue its close cooperation with the GAO to assist in its reviews of Federal Reserve functions generally.
+
+[SECTION]
+
+Recent Information Releases
+       As provided by the Dodd-Frank Act, on December 1, 2010, the Board published detailed information on its website about the Federal Reserve's actions during the financial crisis, including transactions to stabilize markets, restore the flow of credit to American families and businesses, and support economic recovery and job creation in the aftermath of the crisis.11 Many of these transactions, conducted through a variety of broad-based lending facilities, provided liquidity to financial institutions and markets through fully secured, mostly short-term loans. Purchases of agency mortgage-backed securities (MBS) supported mortgage and housing markets, lowered long-term interest rates, and fostered economic growth. Dollar liquidity swap lines with foreign central banks helped stabilize dollar funding markets at home and abroad. Other transactions provided liquidity to particular institutions whose disorderly failure during the financial crisis could have severely stressed an already fragile financial system.12 The Federal Reserve followed sound risk-management practices in administering all of these programs, most of which ended during 2010. The Federal Reserve has incurred no credit losses to date on these programs, and does not expect to incur any credit losses on the few programs still outstanding.
+
+[SECTION]
+
+In the December 1 data release, the Federal Reserve provided vast amounts of information about the programs and the terms and conditions of the individual transactions made under them. The information provided detailed explanations as well as definitions of the material terms for each facility. Data concerning the material terms were made available in multiple formats, including Excel files that allow users to search, sort, and filter the data for each program in multiple categories. For the broad-based lending facilities, details included the name of the borrower, the amount borrowed, the date the credit was extended, the interest rate charged, information about collateral, and other relevant credit terms. Similar information was provided for the draws of foreign central banks on their dollar liquidity swap lines with the Federal Reserve. For agency MBS transactions, details included the name of the counterparty, the security purchased or sold, and the date, amount, and price of the transaction.
+
+[SECTION]
+
+In addition, as mandated by the Dodd-Frank Act, the Board's website directly links to the Federal Reserve's audit-related information, including GAO reports, annual audited financial statements, and reports related to emergency lending authority provided to the Congress.13 The Board has also charged staff with identifying other information that could be posted to this site that would help to explain the accounting, financial reporting, and internal controls of the Board and the Reserve Banks.
+
+[SECTION]
+
+On March 31, 2011, the Federal Reserve released documents related to the discount window in response to requests filed by Bloomberg L.P. and Fox News Network LLC under the Freedom of Information Act. Discount window lending under section 10B of the Federal Reserve Act offers secured, short-term loans from the Reserve Banks to depository institutions located in the lending Reserve Bank's district. The March 31 release included documents containing information related to borrowers at the discount window between August 8, 2007, and March 1, 2010, that was not required to be disclosed under the Dodd-Frank Act.
+
+[SECTION]
+
+Future Information Disclosures
+       Going forward, the Dodd-Frank Act provides for the release of information on any broad-based emergency lending facility one year after the termination of the facility. The act also provides for the release of information regarding discount window lending and open market operations conducted by the Federal Reserve after July 21, 2010, with a two-year lag. For lending facilities (including both emergency lending facilities and the discount window) and for open market operations, the Federal Reserve will publish information disclosing the identity of the borrower or counterparty, transaction amount, interest rate or discount paid, and collateral pledged.
+
+[SECTION]
+
+The Federal Reserve believes that the lags provided by the Dodd-Frank Act for the release of transaction-level information about open market operations, emergency lending facilities, and discount window lending activities establish an important balance between the public's interest in information about participants in transactions with the Federal Reserve and the need to ensure that the System can effectively use its congressionally authorized powers to maintain the stability of the financial system and implement monetary policy. We remain concerned that a more rapid release of information about borrowers accessing the discount window and emergency lending facilities could impair the ability of the Federal Reserve to provide the liquidity needed to ensure the smooth working of the financial system. If institutions believe that publication of their use of Federal Reserve lending facilities will impair public confidence in the institution, then institutions may choose not to participate in these facilities. Experience has shown that banks' unwillingness to use the discount window can result in more volatile short-term interest rates and reduced financial market liquidity that, in turn, can contribute to declining asset prices and reduced lending to consumers and small businesses.
+
+[SECTION]
+
+We will carefully monitor developments in the use of the discount window and other Federal Reserve facilities and keep the Congress informed about their effectiveness.
+
+[SECTION]
+
+Conclusion
+       The Federal Reserve has worked and will continue to work with the Congress to ensure that our operations promote the highest standards of accountability, stewardship, and policy effectiveness, consistent with meeting our statutory responsibilities. We appreciate the opportunity to describe the Federal Reserve's efforts on this important subject and are happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+This information is published each Thursday, for the week ending the preceding Wednesday, through the Federal Reserve's H.4.1 Statistical Release, "Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks." The current release, as well as past releases dating from 1996, is available on the Board's website. The website also provides descriptive information and an interactive guide for each table in the release. Return to text
+
+[SECTION]
+
+This information is included in the Board's annual report, which is submitted to the Congress each spring and published on the Board's website at www.federalreserve.gov/boarddocs/rptcongress. Return to text
+
+[SECTION]
+
+See the Monthly Report on Credit and Liquidity Programs and the Balance Sheet, available at www.federalreserve.gov/monetarypolicy/clbsreports.htm. For more information on the various Federal Reserve liquidity and credit facilities and further background on the Federal Reserve's balance sheet, see www.federalreserve.gov/monetarypolicy/bst.htm. Return to text
+
+[SECTION]
+
+The Board's website is at www.federalreserve.gov. Return to text
+
+[SECTION]
+
+FRBNY's website is at www.newyorkfed.org. See www.newyorkfed.org/markets/openmarket.html for information about open market operations. Return to text
+
+[SECTION]
+
+The latest Annual Report of the Board of Governors of the Federal Reserve System is available on the Board's website. Return to text
+
+[SECTION]
+
+See www.sigtarp.gov/audits.shtml. Return to text
+
+[SECTION]
+
+See Congressional Oversight Panel (2011), March Oversight Report--The Final Report of the Congressional Oversight Panel (Washington: GPO, March 16); The Financial Crisis Inquiry Commission (2011), The Financial Crisis Inquiry Report (Washington: GPO, January). Return to text
+
+[SECTION]
+
+This audit is being undertaken pursuant to section 1109 of the Dodd-Frank Act and is to be completed in July 2011. Return to text
+
+[SECTION]
+
+See 31 U.S.C. § 714(f). Return to text
+
+[SECTION]
+
+See section 1103(b) of the Dodd-Frank Act. The data released on December 1, 2010, included transaction-level information about the following programs: the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF); the Term Asset-Backed Securities Loan Facility (TALF); the Primary Dealer Credit Facility (PDCF); the Commercial Paper Funding Facility (CPFF); the Term Securities Lending Facility (TSLF); the TSLF Options Program (TOP); the Term Auction Facility (TAF); agency MBS purchases; dollar liquidity swap lines with foreign central banks; assistance to Bear Stearns, including Maiden Lane; and assistance to American International Group, including Maiden Lane II and III. The information can be found on the Board's website at www.federalreserve.gov/newsevents/press/monetary/20101201a.htm. Return to text
+
+[SECTION]
+
+The Dodd-Frank Act has substantially modified the ability of the Federal Reserve to extend emergency credit to single identified non-banking companies. Now, credit under section 13(3) of the Federal Reserve Act may only be offered through credit facilities with broad-based eligibility. Return to text
+
+[SECTION]
+
+See www.federalreserve.gov/newsevents/reform_audit.htm. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

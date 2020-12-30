@@ -1,0 +1,245 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 04, 2011
+
+[SECTION]
+
+William R. Nelson, Deputy Director, Division of Monetary Affairs
+
+[SECTION]
+
+Before the Congressional Oversight Panel for the Troubled Asset Relief Program, U.S. Congress, Washington, D.C.
+
+[SECTION]
+
+Chairman Kaufman and members of the Congressional Oversight Panel, thank you for the opportunity to testify about the Term Asset-Backed Securities Loan Facility (TALF), which was established by the Federal Reserve and the Treasury Department during the financial crisis to increase the availability of credit to households and small businesses. The Treasury provided credit protection for the TALF under the Troubled Asset Relief Program (TARP). In my remarks today, I will review financial market conditions when the Federal Reserve and the Treasury established the program, how the program worked, its effects, and the steps we took to control risk.
+
+[SECTION]
+
+Asset-backed securities (ABS) are a common instrument used to finance a variety of types of consumer and business loans, including small business loans, auto loans, student loans, business equipment loans, and credit card loans. For example, about one-half of credit card loans and one-third of auto loans were funded through securitization in the years leading up to the financial crisis.
+
+[SECTION]
+
+Prior to the financial crisis, many investors in highly rated ABS relied on short-term funding markets, such as the repurchase and asset-backed commercial paper markets, to finance their ABS investments. However, beginning in the summer of 2007, creditors pulled back from lending in short-term funding markets in what has been well characterized as a run on the shadow banking system. When the financial crisis intensified in the fall of 2008, concerns about ratings on structured products and the economic consequences of the financial crisis deepened and conditions in short-term funding markets deteriorated further. As a result, investor demand for highly rated ABS evaporated. Spreads on ABS widened dramatically, and issuance of new ABS dwindled to near zero. In response, lenders that relied on securitization for funding tightened their lending terms and standards. For example, the average interest rate on auto loans extended by finance companies--companies that were heavily dependent on securitization--rose from 3.25 percent in July 2008 to more than 8 percent by December 2008. This sharp deterioration in credit conditions contributed to the severe contraction in the economy that followed.
+
+[SECTION]
+
+Among the many actions taken by the Federal Reserve and the Treasury in response to these events was the creation of the TALF, which was designed to encourage renewed issuance of ABS. The program was announced in November 2008 and began operations in March 2009. Under the TALF, the Federal Reserve Bank of New York provided loans to investors for the purchase of newly issued, highly rated ABS backed by new or recently extended auto loans, credit card loans, student loans, and small business loans. TALF loans had maturities ranging from three to five years. The interest rate spreads on TALF loans were set below spreads on highly rated ABS prevailing during the financial crisis but well above spreads in more normal market conditions, providing investors an incentive to repay the loans as financial conditions normalized.1 TALF loans were collateralized by the ABS purchased but did not provide for further recourse to the borrower except in limited circumstances.
+
+[SECTION]
+
+The TALF was subsequently expanded to include newly issued, highly rated securities backed by business equipment loans, loans to retailers to finance their inventories, mortgage servicer advances, vehicle fleet receivables, insurance premium loans, and commercial mortgages (CMBS), as well as highly rated existing CMBS. The Federal Reserve and the Treasury considered but ultimately decided not to accept newly issued or existing residential mortgage-backed securities or newly issued collateralized loan obligations because the TALF appeared unlikely to be able to improve conditions in the markets for those securities at acceptable levels of risk.
+
+[SECTION]
+
+The Federal Reserve Board initially authorized the TALF to make $200 billion in loans, but because of the improvement that occurred in financial markets in the latter half of 2009, only about $70 billion in loans were extended under the program. Nearly 200 different borrowers participated in the TALF, including traditional asset managers, pension funds, hedge funds, and banks, as well as many smaller companies. The specific details on each loan--including the names of the borrowers, the terms of the loan, and the collateral backing the loan--are publicly available on the Federal Reserve Board's website.2 The Treasury provided the Federal Reserve with credit protection through the TARP equal to $20 billion, 10 percent of the authorized size of the program; as a result, the Federal Reserve was able to participate in the program in its traditional role as liquidity provider without taking on more than minimal credit risk despite the longer terms and nonrecourse nature of the loans provided.
+
+[SECTION]
+
+The Federal Reserve Board, the Federal Reserve Bank of New York, and the Treasury collaborated in designing the TALF. Staff members conferred daily, and all major decisions were reviewed by the Board of Governors, the leadership of the New York Fed, and the leadership of the Treasury. Although the Treasury provided credit protection for the Federal Reserve, the risk controls built into the TALF, which I will describe in more detail in a moment, were designed to keep the risk for the U.S. government as a whole very low.
+
+[SECTION]
+
+The TALF contributed importantly to a revival of ABS markets and a renewed flow of credit to households and businesses. Issuance of nonmortgage ABS jumped to $35 billion over the first three months of TALF lending in 2009, after having slowed to less than $1 billion per month in late 2008. During its initial months of operation, the TALF financed about half of the issuance in the ABS market, with the degree of support then declining as market functioning improved. Over the life of the program, the TALF supported nearly 3 million auto loans, more than 1 million student loans, nearly 900,000 loans to small businesses, 150,000 other business loans, and millions of credit card loans. Auto lenders that funded their operations in part with ABS supported by the TALF told us that the program allowed them to provide more credit to consumers and at lower rates than they would have been able to do otherwise. The TALF also facilitated the first issuance of a commercial mortgage-backed security following a year-and-a-half drought, a security that provided an important benchmark for pricing and helped establish the higher credit standards now seen in the market.
+
+[SECTION]
+
+The TALF closed for new loans backed by ABS and existing CMBS in March 2010, and for new loans backed by new-issue CMBS in June 2010. When the program closed in June, $43 billion in loans was outstanding. As a result, in July 2010, the Federal Reserve Board and the Treasury agreed that it was appropriate for the Treasury to reduce the credit protection provided the TALF under the TARP from $20 billion to $4.3 billion--10 percent of the loans outstanding when the program closed.
+
+[SECTION]
+
+To protect the Federal Reserve and the Treasury, several layers of risk controls were built into the TALF program. First, TALF loans were extended only to finance purchases of securities acquired in arms-length transactions--an investor borrowing from the TALF had to be unaffiliated with the originator or seller of the ABS presented as TALF collateral, and no side-payments could be made between the investor and seller.
+
+[SECTION]
+
+Second, the securities were required to have triple-A ratings from two or more rating agencies and could not have a rating below triple-A from any rating agency. For CMBS, those ratings had to be from one of five credit rating agencies that had been qualified to provide ratings for the TALF, and the collateral was subject to an additional credit review by the Federal Reserve Bank of New York before being accepted. For ABS, initially, credit ratings were accepted from the three largest rating agencies, and no separate credit review was performed. Starting in the third quarter of 2009, however, the Federal Reserve established criteria for credit rating agencies for ABS pledged to the TALF, and the ratings of four agencies were accepted. At the same time, an internal credit review process for ABS was established.
+
+[SECTION]
+
+Third, the maximum allowable amount of each TALF loan was always less than the market value of the ABS purchased by an amount referred to as the haircut, which depended on the riskiness of the collateral. The haircuts were calibrated based on the historical price volatility and credit-loss experience of the eligible securities.3 Since the borrower provided the funds to cover the haircut as a down payment on the ABS, the haircut served to reduce the likelihood that a borrower would default on the loan in the event that the underlying securities declined in value. In addition, because the borrower had its own money invested to cover the haircut, and stood to lose that money if the ABS declined in value, the borrower had an appropriate incentive to rigorously evaluate the securities it purchased and pledged to the TALF.
+
+[SECTION]
+
+And fourth, the TALF loan interest rates were set at spreads chosen to be well above those that prevailed in more normal financial conditions yet below those at the height of the crisis, and the resulting excess interest income was designed to serve as a buffer against losses. The TALF has earned nearly $600 million of net interest income to date, which is equal to more than 2-1/2 percent of the TALF loans currently outstanding. If there were to be any losses on TALF loans, the losses would first be absorbed by the accumulated net interest income. The TARP funds would absorb any losses that exceeded the accumulated net interest, up to the $4.3 billion commitment provided by the Treasury.
+
+[SECTION]
+
+The experience to date suggests that the multiple risk controls built into the TALF program have been effective and losses appear unlikely. Because market conditions have improved, TALF loans now appear expensive, as intended, and many borrowers have elected to repay their loans early. More than 2,000 TALF loans totaling $70 billion were extended, and although no loans have come due yet, 1,400 loans totaling $49 billion have been repaid early, leaving $21 billion outstanding currently. All of the remaining TALF loans are current regarding payments of interest and principal. All of the collateral backing the outstanding loans have retained their triple-A rating, and the market value of the collateral backing each of the loans has remained well above the loan amount, significantly reducing the likelihood of borrower default. As a result, we see it as highly likely that the accumulated interest will be sufficient to cover any loan losses that may occur without recourse to the dedicated TARP funds.
+
+[SECTION]
+
+In conclusion, we believe that the TALF program represents a very successful use of TARP funds. The TALF program helped restart the ABS markets at a critical time, thereby supporting the provision of credit to millions of American households and businesses. Moreover, its careful design has protected the taxpayer, and in the end, the program almost certainly will return a net profit to the Treasury.
+
+[SECTION]
+
+Thank you for the opportunity to discuss the TALF program today. I would be pleased to take any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+1. TALF loan rates were set as a spread over a variable base rate (usually Libor (London interbank offered rates)) for loans secured by variable-rate collateral, and as a spread over a fixed base rate (the Libor swap spread) for loans backed by fixed-rate collateral. The spreads for TALF loans that were backed by government-guaranteed collateral (Small Business Administration ABS and Federal Family Education Loan Program student loan ABS) were 50 basis points. For other TALF loans, the spreads were 100 basis points. Return to text
+
+[SECTION]
+
+2. See "Usage of Federal Reserve Credit and Liquidity Facilities" on the Board's website. Return to text
+
+[SECTION]
+
+3. The haircuts varied from 5 percent for securities with short maturities and strong track records, such as credit card ABS, up to 18 percent for longer-dated securities with higher historical loss experiences and more volatile prices, such as CMBS. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

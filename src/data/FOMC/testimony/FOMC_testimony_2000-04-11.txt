@@ -1,0 +1,72 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to be here today to discuss efforts to implement recommendations contained in the reports on hedge funds and OTC derivatives submitted to Congress last year by the President's Working Group on Financial Markets.  Your letter of invitation requested that the Board's testimony focus on three issues: (1) financial netting legislation; (2) public disclosure requirements for hedge funds; and (3) the regulation of over-the-counter (OTC) derivatives transactions, including the Board's views on the bill that Chairman Leach has recently introduced.
+
+[SECTION]
+
+Financial Netting Legislation
+		The Board strongly supports the Working Group's recommendations for amendments to the U.S. Bankruptcy Code to support financial contract netting.  It commends this committee's efforts to enact those amendments.  Enactment of H.R. 1161, the bill pending before this committee, would reduce uncertainty for market participants about the disposition of their financial market contracts in the event one of the counterparties becomes insolvent.  This reduced uncertainty should limit market disruptions in the event of an insolvency, limit risk to federally supervised market participants, including insured depositories, and limit systemic risk.
+
+[SECTION]
+
+Public Disclosure by Hedge Funds
+		The Board also supports the Working Group's recommendation that the very largest hedge funds be required to publicly disclose information about their financial activities, including meaningful and comprehensive measures of market risk, but excluding proprietary information on their strategies or positions.  The recommendation is one of a larger set of recommendations by the Working Group intended to constrain excessive leverage in the financial system by making private market discipline more effective.
+
+[SECTION]
+
+The leverage of hedge funds is constrained primarily by the credit decisions of the large banks and securities firms that are their creditors and counterparties.  It is of the greatest importance that those creditors and counterparties have timely and accurate information on the risk profiles of hedge funds, so that they can make appropriate decisions about the amounts and terms and conditions of the credit that they provide.
+
+[SECTION]
+
+Given the speed with which the risk profiles of hedge funds can change, quarterly public disclosures would not meet the needs of creditors and counterparties.  Nonetheless, it would be useful to policymakers and to the general public.  Evaluations of the role of hedge funds in our financial system and of appropriate public policies toward these institutions have been hampered by a lack of reliable data on their activities.
+
+[SECTION]
+
+The Board has been following the progress of Rep. Richard Baker's Hedge Fund Disclosure Act.  The Board had been concerned about provisions of an earlier version of the bill that would have permitted collection and sequestration of proprietary information on hedge funds' strategies and positions.  Such provisions could have created the perception that hedge funds were subject to prudential oversight, even though the bill provided no explicit authority for such oversight.  Such a perception would be fraught with moral hazard that would weaken market discipline, contrary to the Working Group's goal in recommending public disclosure.
+
+[SECTION]
+
+The Board welcomed the manager's amendments to the earlier bill that deleted these troublesome provisions and thereby made clear that public disclosure, not prudential oversight, is the objective of the legislation.  The Board supports the substantive provisions of the amended bill and commends this committee for its efforts to move this legislation forward.  In the Board's judgment, however, the bill could be further improved by an amendment providing that the information be collected and disseminated by the Securities and Exchange Commission (SEC) instead of the Board.  Because of the SEC's broader responsibilities for public disclosure, such an amendment would underscore the purpose of the legislation.
+
+[SECTION]
+
+Regulation of OTC Derivatives
+		The Board strongly supports modernizing the Commodity Exchange Act (CEA) by implementing the recommendations contained in the Working Group's November 1999 report.  The primary focus of the Working Group's report was on OTC derivatives.  OTC derivatives have come to play an extremely important role in our financial system and in our economy.  In light of this, it is essential that we address the legal uncertainties created by the possibility that courts could construe OTC derivatives to be futures contracts subject to the CEA.  These legal uncertainties create risks to counterparties and, indeed, to our financial system that simply are unacceptable.  They have also impeded initiatives to centralize the trading and clearing of OTC contracts, developments that have the potential to increase efficiency and reduce risks in OTC transactions.
+
+[SECTION]
+
+To address these concerns, the Working Group recommended that financial OTC derivatives transactions between professional counterparties be excluded from coverage of the CEA.  Furthermore, it recommended that such transactions between such counterparties should be excluded even if they were executed through electronic trading systems.  Finally, the Working Group recommended that transactions that were otherwise excluded from the CEA should not fall within the ambit of the act simply because they are cleared.  While the Working Group concluded that clearing should be subject to government oversight, that oversight need not be provided by the Commodity Futures Trading Commission (CFTC).  Instead, for many types of derivatives, oversight could be provided by the SEC, the Office of the Comptroller of the Currency, the Federal Reserve, or by a foreign financial regulator that the appropriate U.S. regulator determines to have satisfied appropriate standards.
+
+[SECTION]
+
+The Working Group recognized that implementation of these recommendations regarding OTC derivatives would blur some of the distinctions between OTC derivatives and exchange-traded futures and that this would aggravate existing concerns about regulatory disparities and resulting competitive imbalances between the OTC markets and the exchanges.  Consequently, the Working Group called for a review of the existing regulatory structure for futures, particularly financial futures, to determine whether it is appropriately tailored to serve valid regulatory goals.  Furthermore, the Working Group stated that enactment of its recommendations with respect to OTC derivatives should be accompanied by explicit authority for the CFTC to provide appropriate regulatory relief for exchange-traded futures.  The report also concluded that the current prohibition on single-stock futures can be repealed if issues about the integrity of the underlying securities markets are addressed.
+
+[SECTION]
+
+The Working Group had envisioned that these recommendations would be implemented through amendments to the CEA.  Chairman Leach recently introduced a bill that takes a different approach to implementing some, but not all, of the Working Group's recommendations.  The bill also includes provisions that would enhance the Federal Reserve's authority to oversee clearing organizations that seek to organize as uninsured state member banks and would clarify the treatment of such clearing organizations in bankruptcy.
+
+[SECTION]
+
+The Board appreciates the efforts of this committee and believes that they enhance prospects for implementation of the Working Group's recommendations.  Nonetheless, it believes that many of those recommendations can be fully implemented only through amendments to the CEA.  The Board does support enactment of the provisions of Chairman Leach's bill that relate to clearing organizations that choose to organize under Federal Reserve supervision, which would complement the necessary modernization of the CEA.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony

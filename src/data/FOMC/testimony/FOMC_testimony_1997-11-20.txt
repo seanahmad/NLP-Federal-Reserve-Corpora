@@ -1,0 +1,146 @@
+Testimony of Chairman Alan Greenspan
+Social security
+Before the Task Force on Social Security of the Committee on the Budget,
+U.S. Senate
+November 20, 1997
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear here today to discuss one of our nation's most pressing challenges: putting social security's Old-Age and Survivors Insurance program on a sound financial footing for the twenty-first century.  It has become conventional wisdom that the social security system, as currently constructed, will not be fully viable after the baby boom generation starts to retire.  The most recent report by the social security trustees projected that the trust funds of the system will grow over approximately the next fifteen years.  However, beginning in the year 2014, the annual expected costs of the Old-Age and Survivors Insurance program are projected to exceed annual earmarked tax receipts, and the subsequent deficits are projected to deplete the trust funds by the year 2031.
+
+[SECTION]
+
+This imbalance in social security stems primarily from the fact that, until very recently, payments into the social security trust accounts by the average employee, plus employer contributions and interest earned, were inadequate to fund the total of retirement benefits.  This has started to change.  Under the most recent revisions to the law and presumably conservative economic and demographic assumptions, today's younger workers will pay social security taxes over their working years that appear sufficient, on average, to fund their benefits during retirement.  However, the huge liability for current retirees, as well as for much of the work force closer to retirement, leaves the system as a whole badly underfunded.
+
+[SECTION]
+
+This issue of funding underscores the critical elements in the forthcoming debate on social security reform, because it focuses on the core of any retirement system, private or public.  Simply put, enough resources must be set aside over a lifetime of work to fund the excess of consumption over claims on production a retiree may enjoy.  At the most rudimentary level, one could envision households saving by actually storing goods purchased during their working years for consumption during retirement.  Even better, the resources that would have otherwise gone into the stored goods could be diverted to the production of new capital assets, which would, cumulatively, over a working lifetime, produce an even greater quantity of goods and services to be consumed in retirement.  In the latter case, we would be getting more output per worker, our traditional measure of productivity, and a factor that is central in all calculations of long-term social security trust fund financing.
+
+[SECTION]
+
+In sum, the bottom line in all retirement programs is the availability of real resources.  The finance of any system is merely to facilitate the allocation of resources that fund retirement consumption of goods and services.  Unless social security savings are increased by higher taxes (with negative consequences for growth) or reduced benefits, domestic savings must be augmented by greater private saving or surpluses in the rest of the government budget to ensure that there are enough overall savings to finance adequate productive capacity down the road to meet the consumption needs of both retirees and active workers.
+
+[SECTION]
+
+The basic premise of our current largely pay-as-you-go social security system is that future productivity growth will be sufficient to supply promised retirement benefits for current workers.  However, even supposing some acceleration in long-term productivity growth from recent experience, at existing rates of saving and capital investment, a pick-up in productivity growth large enough by itself to provide for impending benefits is problematic.  Moreover, savings borrowed from abroad, our current account deficit, cannot be counted on indefinitely to bridge the gap between domestic investment and domestic savings.
+
+[SECTION]
+
+Accordingly, short of a far more general reform of the system, there are a number of initiatives, at a minimum, that should be addressed.  As I argued at length during the Social Security Commission deliberations of 1983, with only modest effect, some delaying of the age of eligibility for retirement benefits is becoming increasingly pressing.  For example, adjusting the full-benefits retirement age further to keep pace with increases in life expectancy in a way that would keep the ratio of retirement years to expected life span approximately constant would significantly narrow the funding gap.  Such an initiative would become easier to implement as fewer and fewer of our older citizens retire from physically arduous work.  Hopefully, other modifications to social security, such as improved cost-of-living indexing, will be instituted.
+
+[SECTION]
+
+There are a number of broader reform initiatives that, through the process of privatization, could increase domestic saving rates.  Given the considerable stakes involved, these are clearly worthy of intensive evaluation.  Perhaps the strongest argument for privatization is that replacing the current underfunded system with a fully funded one could boost domestic saving.  But, we must remember that it is because privatization plans might increase savings that they are potentially viable, not because of their particular form of financing.
+
+[SECTION]
+
+Moving toward a privatized defined-contribution plan would, by definition, convert our social security system into a fully funded plan.  But, the same issues and questions remain as under the current system.  What level of retirement income would be viewed as adequate, and should required contributions to private accounts (and savings) be increased to meet this level?  Is there an alternative to forced savings to raise the level of contributions to the private funds?
+
+[SECTION]
+
+Finally, if individuals did invest a portion of their accounts in equities and other private securities, thereby receiving higher rates of return and enhancing their social security retirement income, what would be the effect on non-social security investments?  As I have argued elsewhere,1  unless national saving increases, shifting social security trust funds to private securities, while likely increasing income in the social security system, will, to a first approximation, reduce non social-security retirement income to an offsetting degree.   Without an increase in the savings flow, private pension and insurance funds, among other holders of private securities, presumably would be induced to sell higher-yielding stocks and private bonds to the social security retirement funds in exchange for lower-yielding U.S. Treasuries.  This could translate into higher premiums for life insurance, and lower returns on other defined-contribution retirement plans.  This would not be an improvement to our overall retirement system.
+
+[SECTION]
+
+Furthermore, the potential consequences of moving social security to a system that features private retirement accounts need to be considered carefully.  Any move toward privatization will confront the problem of how to finance previously promised benefits.  That would presumably involve making the implicit accrued unfunded liability of the current social security system to beneficiaries explicit.  For example, participants at the time of privatization could each receive a non-marketable certificate that confirmed irrevocably the obligations of the U.S. Government to pay a real annuity at retirement, indexed to changes in the cost of living.  The amount of that annuity would reflect the benefits accrued through the date of privatization.2
+
+[SECTION]
+
+Under our current system, social security beneficiaries technically do not have an irrevocable claim to current levels of promised future benefits because legislative actions can lower future benefits.  In contrast, the explicit liability of federal government debt 
+to the public is essentially irrevocable.  A critical consideration for the privatization of social security is how financial markets are factoring in the implicit unfunded liability of the current system in setting long-term interest rates.
+
+[SECTION]
+
+If markets perceive that this liability has the same status as explicit federal debt, then one must presume that interest rates have already fully adjusted to the implicit contingent liability.  However, if markets have not fully accounted for this implicit liability, then making it explicit could lead to higher interest rates for U.S. government debt.
+
+[SECTION]
+
+For any level of real annuity at retirement, the corresponding current value of  recognition certificates would depend on a number of technical assumptions.  These assumptions have no impact on the real payouts from the retirement annuities but determine the current notional value of recognition certificates, which is useful for making broad economic comparisons.  For example, factoring in a 2 percent real annual rate of discount and including other technical assumptions, the value of recognition certificates the U.S. government would need to issue to ensure that all currently accrued legislated future benefits are paid would be roughly $9-1/2 trillion.  Alternatively, at a 1 percent real rate, the value would be roughly $12 trillion, and at a 6 percent real rate, the value would be about $4-1/2 trillion.3    Because, under a wide range of assumptions, the magnitude of this liability remains very large relative to the current outstanding federal debt to the public--$3-1/2 trillion--the market adjustment could be substantial.
+
+[SECTION]
+
+There is reason to suspect, however, that if such a liability is made explicit in a manner similar to the transition procedure in Chile, each dollar of new liability will weigh far less on financial markets than a dollar of current public debt.  In the case of the Chilean pension reform, a significant portion of the implicit liability of their old system was made explicit at the initiation of the new pension system by the issuance of "recognition bonds" that were deposited in workers' individual accounts.  These bonds were initially nonmarketable, indexed for price inflation, and yielded a fixed real return on a specified face value.   In Chile, the liquidation of these bonds generally occurs only after a worker retires and the proceeds from the bonds are required to be paid in the form of an annuity or through programmed partial withdrawals.   These bonds have been viewed as a different instrument from other forms of public debt, and it is likely that if an instrument such as recognition certificates were issued here, it also would be viewed as distinct from fully-liquid marketable public debt.
+
+[SECTION]
+
+In effect, under privatization, the obligations of social security would be transferred from an implicit government account to millions of private individual accounts.  Retirement needs would be funded first by the conversion of recognition certificates, and later by withdrawals from private defined contribution funds.  The outstanding certificates would accordingly decline with time, and finally be paid off some decades in the future.  But if benefits and contributions do not change, national savings are only being transferred from the federal government account to that of households and are not increased in the process.  It is only if contributions or private saving increases that household and national saving increases.
+
+[SECTION]
+
+The transfer of savings from public to private accounts would affect the unified budget balance of the U.S. government, although precisely how that balance would be affected would depend on the exact budgetary accounting treatment adopted for recognition certificates.   Certainly, with immediate and full privatization, the on-going annual unified budget balance would decline by at least the amount of the social security surplus:  As payroll taxes were diverted from public coffers to private accounts, they would no longer count as tax revenues; similarly, payments of social security benefits would not count as outlays.
+
+[SECTION]
+
+The issuance of recognition certificates under current accounting rules presumably would also increase outlays and the deficit by the value of the certificates at the time of issuance.  Exactly how much the deficit would be affected in the initial year, and how much in subsequent years, would depend on how the certificates were structured and on bookkeeping conventions.4    However, the basic effects of privatization on the budget deficit are clear--the implicit liabilities of the social security system would start to appear on our balance sheets now, rather than when the baby boomers retire.
+
+[SECTION]
+
+It is an open, but crucial, question as to how financial markets would respond to a change of the magnitude contemplated by immediate full privatization.  Before any such move is made, a thorough examination of the risks and benefits to the financial markets would be wise.  The key issues that will affect the economy are (1) the change from the implicit liability of the current system to one of an irrevocable obligation to pay and (2) the magnitude of changes in national saving and the level of productivity-spurring investment.  The budget bookkeeping on how privatization is recorded has little significance.
+
+[SECTION]
+
+An alternative to what is clearly a "big bang" one-shot transition, in which privatization occurs immediately for all, is a gradual transition where, for example, only younger workers are accorded recognition certificates, and are required to fund the remainder of their retirement needs through defined contribution plans.  Over the years, ever older groups would be included in the new system.  During the transition, two systems would operate in parallel.  Such a transition would involve smaller immediate increases in recognition certificates (and in the unified budget deficit) and smaller accompanying market risks, but would have larger effects in subsequent years, as tax revenues from the younger groups would be diverted as contributions to private accounts, whereas all social security benefits to retirees would still be counted as government outlays.5   Thus, if there is a unified budget surplus before the transition, it will be reduced or turned to a deficit at least to the extent of the loss in tax revenues.  In effect, social security benefits will be increasingly financed with "general revenues" for a time.  Should this be the direction that the Congress decides to move, containment of spending outside of social security doubtless would be necessary to add assurances to the market.
+
+[SECTION]
+
+Ultimately, of course, even under a gradual transition, the system would be almost fully privatized.  I say almost because I presume Congress would provide some form of assistance to those who through investment imprudence or unforeseen events had retirement benefits below a certain level perceived as an absolute minimum.  Needless to say such a new entitlement would have to be rigorously delimited because political pressures to increase it could be overwhelming.
+
+[SECTION]
+
+Despite all of these complications, in the broader scheme of things, the types of changes that will be required to restore fiscal balance to our social security accounts are significant but manageable.  More important, most entail changes that are less unsettling if they are enacted soon, even if their effects are significantly delayed, rather than waiting five or ten years or longer for legislation.  We owe it to those who will retire after the turn of the century to be given sufficient advance notice to make what alterations in retirement planning may be required.  If we procrastinate too long, the adjustments could be truly wrenching.  Our senior citizens, both current and future, deserve better.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+See my remarks at the Abraham Lincoln Award Ceremony of the Union League of Philadelphia, December 6, 1996.
+
+[SECTION]
+
+2
+Calculating the accrued benefits would require an estimate of future national real wage growth.
+
+[SECTION]
+
+3
+Note that these estimates of the value of the accrued liability differ in concept from the $3 trillion official OASDI unfunded liability.  That number represents the difference between expected future tax payments and future benefits over a 75-year horizon, and also includes the unfunded liability of the disability program.  Even if the assets in the social security trust fund were to be increased by the $3 trillion, the social security system would still not be in balance over the long-term (i.e., in perpetuity).
+
+[SECTION]
+
+4
+For example, if the certificates could be treated as non-interest bearing, then the notional face value of the certificates would be quite large; their issuance would lead to a one-time spike in the deficit, but the certificates would not affect the deficit in future years.  Alternatively, if the certificates were accorded an imputed interest rate for budget accounting, while the immediate effect would be to record a lower deficit, the unified balance of the U.S. government would increase in subsequent years by interest accruing on the certificates.  Finally, should the recognition certificates be kept separate from the unified budget, the unified deficit would only be affected by the loss of the social security surplus.
+
+[SECTION]
+
+5
+The cumulative total effect of privatization on the unified budget is approximately the same whether the privatization is immediate or phased in.  Immediate privatization results in bigger up-front deficits.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: November 20, 1997, 10:00 AM

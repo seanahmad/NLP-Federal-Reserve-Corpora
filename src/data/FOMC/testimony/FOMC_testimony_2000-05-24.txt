@@ -1,0 +1,173 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Much recent attention has been focused on predatory lending, amid distressing reports of abusive practices connected with home-secured loans.  These practices may involve, among other things, excessive fees and interest rates, unnecessary insurance, and fraud.  Borrowers saddled with unaffordable payments can lose their homes.  Excessive up-front fees combined with frequent refinancings (often referred to as "loan flipping") may also strip the equity from consumers' homes.  These are matters of serious concern, and the committee should be commended for examining them.
+
+[SECTION]
+
+There is some debate about what constitutes abusive or predatory lending.  A narrow definition of predatory lending focuses on specific practices that take advantage of consumers and that are unfair, deceptive, or fraudulent.  Other observers view predatory lending more broadly, focusing on high-cost loans as such.  Most predatory lending seems to occur in the subprime mortgage market, a market that has grown recently.  In this market, the premiums paid by borrowers typically range from about 1 percentage point to about 6 percentage points over the rate charged for prime mortgage loans, depending on the credit risk involved.  Some consumer advocates have stated that many subprime loans are predatory because, in their view, subprime borrowers pay rates and fees that exceed the amounts necessary to account for any additional credit risks.  Thus, even though most consumer advocates applaud the growth of subprime lending--because it expands the availability of credit to those with less-than-perfect credit records--they are concerned about whether, in practice, some subprime lenders or their brokers are taking unfair advantage of many of these consumers.
+
+[SECTION]
+
+The information we have about predatory lending is essentially anecdotal.  Even apart from the conceptual differences I mentioned, there is no ready method for measuring the amount of predatory lending or determining how prevalent a problem it represents.  Yet, even without precise data, there are enough anecdotes to suggest that a problem exists.  We also know that attempts to deal with predatory lending are hampered by two broad phenomena:
+
+[SECTION]
+
+Predatory lending often involves the abuse of credit provisions that can be of value to many borrowers.
+Predatory lending seems to occur most commonly in the unregulated sector
+	of the loan market, by lending institutions that are not forced to undergo
+	periodic compliance exams.
+
+[SECTION]
+
+The Truth in Lending Act
+No law administered by the Board contains a statutory or regulatory definition of predatory lending.  The Truth in Lending Act (TILA) is intended to promote the informed use of consumer credit, primarily through disclosure of the costs and terms of loans, although it also contains some substantive restrictions.
+
+[SECTION]
+
+TILA requires all creditors to calculate and disclose credit costs in a uniform manner.   Lenders must disclose information on payment schedules, prepayment penalties, and the total cost of credit expressed as a dollar amount and as an annual percentage rate (APR).  TILA mandates additional disclosures for loans secured by a consumer's home and provides for a "cooling off period," during which consumers may rescind certain transactions that involve their principal dwelling.
+
+[SECTION]
+
+The Home Ownership and Equity Protection Act 
+In response to reports of abusive lending practices whereby unscrupulous lenders made unaffordable home-secured loans to "house-rich but cash-poor borrowers," the Congress amended TILA by enacting the Home Ownership and Equity Protection Act of 1994 (HOEPA).  HOEPA identifies a class of high-cost mortgage loans and protects borrowers from loan agreements that are likely to result in default and the loss of their homes.  The act does not prohibit creditors from making such loans but defines a class of transactions through rate and fee triggers.  The particular triggers of HOEPA are an APR 10 percentage points above the yield on a Treasury security of comparable maturity or closing fees exceeding 8 percent of the loan amount.  For covered transactions, additional disclosures are required and certain loan terms are prohibited, such as balloon payments for short-term loans and non-amortizing payment schedules.
+
+[SECTION]
+
+The disclosures required by HOEPA include a warning that the lender has a mortgage on the borrower's home and that the borrower could lose the home through a default.  The disclosures also must provide cost information such as the APR and the monthly payment.  These disclosures must be given to consumers at least three days in advance of the loan closing.  When combined with TILA's three-day right of rescission after the closing, the disclosures ensure that a consumer has a minimum of six days to consider the relevant information before finally deciding to enter into a transaction.  If a creditor fails to provide material disclosures or includes prohibited terms in the loan agreement, the borrower may have up to three years to rescind the transaction.  Violations of HOEPA may result in creditors' being liable for actual and statutory damages.  Consumers may also recover all finance charges and fees paid on a loan.  HOEPA also includes special liability rules that generally make the purchasers or assignees of these loans subject to all claims and defenses that could be asserted against the original creditor.
+
+[SECTION]
+
+Changes in Home-Equity Lending  
+Since HOEPA's enactment, the volume of home-equity lending has increased significantly.  This overall growth in home-equity lending has featured a sharp boost in the  subprime mortgage market.  The Department of Housing and Urban Development (HUD) reports that the number of subprime loans used to purchase homes has increased from a mere 16,000 in   1993 to more than  220,000 in 1998.  The number of subprime home-equity loans has increased from 80,000 in 1993 to 790,000 in 1998.
+
+[SECTION]
+
+The result of this growth has been a massive increase in the availability of credit to borrowers having less-than-perfect credit histories and to other consumers who do not meet the underwriting standards of prime lenders.  These are mainly lower-income or minority borrowers, or those residing in lower-income or minority neighborhoods.
+
+[SECTION]
+
+Because consumers who obtain subprime mortgage loans have fewer credit options than other borrowers, or because they perceive that they have fewer options, they may be more vulnerable to unscrupulous lenders or brokers.  With the increase in the number of subprime loans and the fact that a large share of these loans are made by nondepository financial institutions that are not facing periodic compliance examinations, consumer advocates have been concerned for some time about the potential for a corresponding increase in the number of predatory loans.  But some industry representatives have noted that the trend toward securitizing subprime mortgages has served to standardize creditor practices and to limit the opportunity for widespread abuse.
+
+[SECTION]
+
+Although HOEPA's purpose is to regulate abusive lending practices, coverage by the act depends on price triggers rather than on a definition or finding of "predatory lending."  This means that HOEPA's price triggers bring some subprime loans not associated with unfair or abusive lending within the act's coverage and that abusive practices may occur in transactions that fall below the HOEPA triggers.
+
+[SECTION]
+
+The 1998 Joint Report to the Congress
+In July 1998, the Board and the Department of Housing and Urban Development submitted a report to the Congress on the issue of how TILA and the Real Estate Settlement Procedures Act (RESPA), an act requiring certain disclosures and prohibitions, might be reformed.  Although improved disclosures would help many consumers shop for loans that best fit their needs, the two agencies found that these disclosures alone were unlikely to protect vulnerable or unknowing consumers from unscrupulous creditors.   Accordingly, the 1998 report included a detailed analysis of the problem of abusive practices in mortgage lending, with several recommendations for possible legislation.  A copy of the report is attached.
+
+[SECTION]
+
+As described in the 1998 report, abusive practices in home-equity lending take many forms but principally fall within two categories.  One category includes the use of blatantly fraudulent or deceptive techniques that may also involve other unlawful acts, including violations of HOEPA.  These practices occur even though they are illegal.  For example, loan applicants' incomes and ability to make scheduled loan payments may be falsified, consumers' signatures may be forged or obtained on blank documents, or borrowers may be charged fees that are not tied to any service rendered.
+
+[SECTION]
+
+The other category of abuses involves various techniques used to manipulate borrowers, coupled with practices that may ordinarily be acceptable but can be used or combined in abusive ways.  Consumers may be talked into accepting high-cost loans without knowing that they may qualify for lower-cost alternatives.  A broker or creditor may pressure consumers to enter into transactions that they do not fully understand or that are not beneficial.  If there is sufficient equity in the property, homeowners may be charged excessive up-front fees, which are added to the loan amount.  Because of the equity built up, such loans may be based on the collateral value alone, without consideration of the borrowers' ability to repay.  And some loan terms that work well for some borrowers in some circumstances may harm borrowers who are not fully aware of the consequences.  For example, a consumer may not understand that a loan with affordable monthly payments will not amortize the principal or that the consumer may have to refinance a balloon payment at additional cost.
+
+[SECTION]
+
+What Should Be Done?
+The 1998 report suggested some new substantive protections to deal with predatory lending, some involving legislative action.  The report noted that any regulatory scheme involves tradeoffs.  Government-imposed rules dictating when and on what terms consumers can obtain credit sometimes raise issues of fairness and economic efficiency.  Overly broad rules could  unnecessarily burden the entire home-equity credit industry in an effort to regulate a minority of unethical or dishonest players.  Any legislation should focus on abusive practices without interfering with legitimate credit transactions.
+
+[SECTION]
+
+The desirability of rules that narrow a consumer's options depends on the circumstances or the perspective of the particular consumer.  We should try to preserve consumers' ability to choose loan products that meet their particular needs.  For example, mortgages with a balloon payment feature often are attractive to borrowers because they allow distressed borrowers or young borrowers who have low cash incomes to buy homes and match payments with their rising income stream.  But sometimes balloon payments can ruin borrowers who do not have a rising stream of income and who are unduly influenced by the lower short-term cost of a balloon note.
+
+[SECTION]
+
+Given the wide range of practices that are included in the notion of what is "predatory," a multifaceted approach is likely to be the most effective.  We should certainly look at ways to strengthen enforcement of current laws that are being ignored.  Nonregulatory strategies should also be encouraged and implemented, including voluntary industry action, community outreach efforts, and consumer education and counseling.
+
+[SECTION]
+
+The 1998 report identified two specific changes to protect consumers who obtain HOEPA-covered loans.  One addresses balloon payments; the other addresses single-premium credit insurance.
+
+[SECTION]
+
+Currently, balloon payments are prohibited for HOEPA-covered loans having maturities of less than five years.  This prohibition is an important first step to curb the "flipping" that occurred before HOEPA was enacted.  While most creditors believe low monthly payments with balloon payments can sometimes be useful credit arrangements and should be permitted, the current less-than-five-year rule can still be criticized because it allows creditors to flip mortgages with balloon loans that mature in five years.  For HOEPA-covered loans, consumers may be just as unlikely to repay or refinance the loan at better rates after five years as they are after two or three years.  Hence the Board and HUD proposed that balloon notes covered by HOEPA might be further restricted, for example, either by applying stronger prohibitions to a subset of these  loans or by prohibiting balloon notes for these loans altogether.
+
+[SECTION]
+
+The Board and HUD also recommended limiting creditors' ability to collect certain credit insurance premiums on HOEPA-covered loans up-front.  Consumer advocates express concern about high-pressure sales tactics sometimes used to sell high-priced credit insurance that does not allow for a discount for advance payments.  The insurance is sometimes sold with a single premium collected up-front.  If for some reason the mortgage loan is paid off early, it is often difficult for consumers to obtain a refund of the unused portion of their premium.
+
+[SECTION]
+
+Regulation of insurance, including the setting of allowable premium rates, has historically been a matter for state law.  Yet some abusive practices could be eliminated by prohibiting the advance collection of premiums on HOEPA-covered loans, so that consumers would pay for insurance periodically--and only for the time the loan is actually outstanding.  This means that termination of the loan would automatically cancel both the coverage and any liability for future payments.
+
+[SECTION]
+
+The Board and HUD also recommended reforms concerning the type of notice that should be provided with consumer loans in general, both HOEPA and non-HOEPA, prior to foreclosure.  Consumers victimized by abusive practices must be provided adequate opportunity to assert their rights in order to avoid unwarranted foreclosures.  For the most part, the procedures that a creditor must follow for foreclosure are governed by state law, local practice, and the terms of the relevant contract documents.  Some states require creditors to provide actual notices of foreclosure proceedings to consumers, but in other states notice by publication is deemed sufficient.  In some states a judicial process is followed; the creditor must file a lawsuit and obtain a judgment in order to obtain permission to sell the property.  Other states allow a nonjudicial process in which the creditor merely notifies the borrower that the home will be advertised and sold, thereby placing the burden on the homeowner to take legal action to prevent the sale.  In some cases consumers do not receive adequate information about the foreclosure and the options that are available to them.
+
+[SECTION]
+
+Requiring a minimum standard for the type of notice creditors must provide to consumers prior to foreclosure raises issues concerning preemption of state law.  Nevertheless, to avoid unannounced foreclosures on consumers' homes, the Board and HUD recommended that before  any foreclosure sale, creditors should be required to provide a written explanation of any rights the consumer may have to cure the delinquency or redeem the property.  Consumers should also be notified of the steps they must take to exercise their rights and the process that will be followed in any foreclosure, and should be given information about the availability of third-party credit counseling.
+
+[SECTION]
+
+Current Efforts
+As I mentioned earlier, a multifaceted approach, including both regulatory and 
+nonregulatory strategies, is likely to be the most effective.  Efforts on all or most of these fronts are under way.  For example, several bills taking different approaches to addressing predatory lending have been introduced in the Congress.  Several states have enacted or are considering legislation.
+
+[SECTION]
+
+Various federal task forces have been formed.  The Board has convened a nine-agency working group, including the five federal agencies that supervise depository institutions, two agencies that regulate housing (HUD and the Office of Federal Housing Enterprises Oversight),  and two that regulate or prosecute deceptive trade practices in general (the Department of Justice and the Federal Trade Commission).  The latter four agencies cover lending institutions outside  the normal compliance network.  The aims of the group are to tighten enforcement of existing statutes and to establish a coordinated approach to predatory practices.  Even though insured depository institutions typically have not been associated with making predatory loans, concerns have been raised about financial institutions that invest in these loans.
+
+[SECTION]
+
+The Board is required to hold periodic hearings on the effectiveness of HOEPA in curbing abusive lending.  The Board did so in 1997, slightly less than two years after the act became effective.  Those hearings formed the basis of the 1998 analysis of abusive lending contained in the Board-HUD joint report to the Congress.  The Board plans to hold another round of public hearings on HOEPA later this year, with the Board's Consumer Advisory Council taking an active role in developing the specific questions for discussion.
+
+[SECTION]
+
+At those hearings, consideration will be given to broadening HOEPA's coverage by, for example, lowering the HOEPA rate triggers or including additional costs in the points and fee triggers.  In addition, the Board will explore whether its regulatory authority under HOEPA to prohibit practices that harm consumers can, as a practical matter, curb predatory loans.  Frankly, the value of rules prohibiting such practices is uncertain, given the nature of predatory practices.  Some occur even though they are already illegal, and others are harmful only in certain circumstances.  The best solution in many cases may simply be stricter enforcement of current laws.
+
+[SECTION]
+
+Nonregulatory strategies are also being pursued.  Trade associations for subprime lenders and mortgage brokers have been actively engaged in developing self-regulatory guidelines.  Secondary market participants such as Fannie Mae and Freddie Mac are developing their own strategies for ensuring that they do not finance predatory loans and are making efforts to develop consumers' awareness of legitimate credit options.
+
+[SECTION]
+
+There is one final, but important, factor.  Whether the concern is high-cost loans generally or specific predatory practices, credit markets operate more efficiently when consumers are well informed.  Community outreach efforts, consumer education, and, where appropriate, counseling would increase consumers' understanding of their credit options.  Such efforts can and should be supported by both government and industry, working in conjunction with consumer and community organizations.  For example, the Federal Reserve's community affairs program has been actively working with community organizations, holding conferences and workshops, and publishing articles that identify specific abuses and strategies for avoiding them.
+
+[SECTION]
+
+Thank you for the opportunity to testify.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: May 24, 2000

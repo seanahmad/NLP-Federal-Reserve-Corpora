@@ -1,0 +1,315 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 01, 2010
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Financial Crisis Inquiry Commission, Washington, D.C.
+
+[SECTION]
+
+Chairman Angelides, Vice Chairman Thomas, and members of the Commission, I am pleased to appear today to provide the Commission with information on the events leading up to the acquisition of Wachovia Corporation and its banking and nonbanking subsidiaries by Wells Fargo & Company in the fall of 2008. The purpose of my testimony is to summarize the events, with a focus on the Federal Reserve's involvement. I will also address the lending and supervisory questions raised in the Commission's invitation letter.
+
+[SECTION]
+
+Wachovia
+       Wachovia was a financial holding company headquartered in Charlotte, North Carolina, that provided commercial and retail banking services and other financial services in the United States and internationally. At the end of the second quarter of 2008, Wachovia had assets of $812 billion, making it the fourth largest banking organization in the United States in asset terms. Wachovia's principal subsidiary was Wachovia Bank, which had assets of $671 billion. Wachovia also had two insured thrift subsidiaries with total assets of $105 billion. Thus, the assets of the lead national bank and two insured thrift subsidiaries comprised about 95 percent of the assets of the holding company. Wachovia's insured depository institution subsidiaries had a very large retail presence--serving more than 27 million deposit accounts totaling more than $400 billion--and operated a large mortgage business. These subsidiaries were supervised, examined, and regulated by the Office of the Comptroller of the Currency (OCC) and the Office of Thrift Supervision (OTS), respectively. Wachovia also operated a large retail-oriented securities broker-dealer network through its subsidiaries, Wachovia Securities and AG Edwards, Inc., and provided a wide range of investment banking, private banking, and asset management services. These subsidiaries were supervised and regulated by the Securities and Exchange Commission (SEC).
+
+[SECTION]
+
+The Federal Reserve supervised Wachovia in a manner similar to other very large bank holding companies. The Federal Reserve routinely conducts inspections of bank holding companies and their nonbank subsidiaries under authority granted by the Bank Holding Company Act (BHC Act). These statutory provisions require that we rely to the fullest extent possible on the examinations of the bank, thrift, and other functionally regulated subsidiaries, such as the securities broker-dealer, conducted by the primary regulator of the entity. Consequently, the Federal Reserve worked closely with the OCC, the OTS, and the SEC in examining and supervising the various subsidiaries of Wachovia.
+
+[SECTION]
+
+The examinations conducted by the Federal Reserve are designed to review the organization's systems for managing risk across the organization and to evaluate the organization's overall financial strength. The Federal Reserve also establishes consolidated capital, liquidity, risk management, and other prudential requirements for bank holding companies. In addition, federal law gives the Federal Reserve authority to review merger and expansion proposals by bank holding companies and enforcement authority over bank holding companies and their nonbank subsidiaries, including the ability to stop or prevent a bank holding company or nonbank subsidiary from engaging in an unsafe or unsound practice.
+
+[SECTION]
+
+Wachovia had been profitable continuously for more than a decade through year-end 2007. During the first half of 2008, Wachovia posted losses totaling $9.6 billion, reflecting write-downs on securities and high provisions for loan losses. In part, the provisions reflected significant expected losses on option adjustable-rate mortgages (ARMs), which Wachovia acquired in the 2006 purchase of Golden West Financial Corporation, a $125 billion federal thrift holding company based in California. The losses also reflected, to a lesser extent, declines in the value of commercial real estate mortgages originated and held by Wachovia.
+
+[SECTION]
+
+With encouragement from the Federal Reserve, Wachovia raised $8 billion in capital in April 2008 to partially offset those losses. On August 19, 2008, the Federal Reserve Bank of Richmond entered into a Memorandum of Understanding (MOU) with Wachovia. This MOU was the culmination of efforts by the Federal Reserve that had been initiated earlier through our inspection process to ensure that Wachovia completed a number of steps to improve corporate governance, risk management, liquidity, capital management, and strategic planning.
+
+[SECTION]
+
+The troubles at Wachovia occurred during a period of extreme financial turbulence and distress. The nation's economy was in recession, with declining housing prices and stalled economic growth. The financial system was also deteriorating quickly. On September 7, 2008, the Federal Housing Finance Agency had placed Fannie Mae and Freddie Mac into conservatorship and the Treasury had used its authority, granted by Congress in July 2008, to make financial support available to these two government-sponsored entities. On September 15, Lehman Brothers had filed for bankruptcy after efforts had failed to organize private-sector assistance or arrange an acquisition by another company. The failure of Lehman Brothers ended efforts by private investors to provide liquidity to American International Group, Inc. (AIG), which faced its own mounting financial difficulties. On September 16, the Board acted to provide temporary liquidity to AIG under the emergency lending authority of section 13(3) of the Federal Reserve Act. Losses at a prominent money market mutual fund caused by the failure of Lehman Brothers sparked extensive withdrawals from a number of similar funds. These events caused extraordinary turbulence in financial markets: equity prices dropped sharply, the costs of short-term credit spiked upward, and liquidity dried up in many markets.
+
+[SECTION]
+
+On September 25, 2008, the Federal Deposit Insurance Corporation (FDIC) seized and sold Washington Mutual Bank (WaMu), then the largest thrift in the United States. WaMu was the second largest holder of option ARMs at the time, and Wachovia was the largest holder of these assets. The failure of WaMu thus raised creditor concern about the health of Wachovia. Wachovia's stock price declined sharply and credit default swap spreads on its debt surged.
+
+[SECTION]
+
+The day after the failure of WaMu, Wachovia Bank depositors accelerated the withdrawal of significant amounts from their accounts. In addition, wholesale funds providers withdrew liquidity support from Wachovia. It appeared likely that Wachovia would soon become unable to fund its operations. That week, Wachovia management, which had engaged in tentative discussions with potential merger partners earlier in the month, began discussions in earnest to sell the company. On September 27 and 28, both Citigroup and Wells Fargo, the second and fifth largest banking organizations in the United States, respectively, conducted due diligence investigations of Wachovia. Both Citigroup and Wells Fargo also contacted federal regulators indicating that government assistance would be needed in connection with each of their proposed bids to acquire Wachovia.
+
+[SECTION]
+
+Systemic Risk Exception
+       The FDIC judged that an assisted bid from either Citigroup or Wells Fargo could be more expensive than a liquidation of Wachovia Bank and the two insured thrifts. The Federal Deposit Insurance Act (FDI Act) requires the FDIC, as a general matter, to exercise its resolution authority over insured depository institutions in the method least costly to the deposit insurance fund. The act also provides that the FDIC may take other actions or provide assistance that would not meet the least-cost test if the Secretary of the Treasury, in consultation with the President, and based on the recommendation of both the board of directors of the FDIC and the Board of Governors of the Federal Reserve (each by a vote of two-thirds of its members), determine that compliance with the least-cost requirement would have adverse effects on economic conditions or financial stability and other action or assistance would avoid or mitigate those adverse effects.
+
+[SECTION]
+
+The Board of Governors and the FDIC were concerned about the systemic complications of the failure of the fourth largest bank in the United States during this fragile economic period. The Board believed that a full or partial default by Wachovia and its subsidiaries on their debt would intensify liquidity pressures on other U.S. banking organizations. At the time, U.S. banking organizations were extremely vulnerable to a loss of confidence by wholesale suppliers of funds. Markets were already under considerable strain after the events involving Lehman Brothers, AIG, and WaMu. Investors were becoming increasingly concerned about the outlook for a number of U.S. banking organizations, putting downward pressure on their stock prices and upward pressure on their credit default swap spreads.
+
+[SECTION]
+
+At the time, Wachovia was considered "well capitalized" by regulatory standards and until very recently had not generally been thought to be in danger of failure, so there were fears that the failure of Wachovia would lead investors to doubt the financial strength of other organizations in similar situations, making it harder for those institutions to raise capital and other funding. In addition, if a least-cost resolution did not support foreign depositors, the resolution would endanger what was a significant source of funding for several other major U.S. financial institutions.
+
+[SECTION]
+
+Creditors would also be concerned about direct exposures of other financial firms to Wachovia or Wachovia Bank, since these firms would face losses in the event of a default. In particular, losses on debt issued by Wachovia and Wachovia Bank could lead more money market mutual funds to "break the buck," accelerating runs on these and other money funds. The resulting liquidations of fund assets--along with the further loss of confidence in financial institutions--could lead short-term funding markets to virtually shut down; these markets were already under extreme pressure in the fall of 2008.
+
+[SECTION]
+
+The consequences of an insolvency and unwinding of Wachovia under the least-cost resolution test would also have disastrous effects for an already weakened economy. Business and household confidence would be undermined by the worsening financial market turmoil, and banking organizations would be less willing to lend due to their increased funding costs and decreased liquidity. These effects could contribute to materially weaker economic performance, higher unemployment, and reduced wealth.
+
+[SECTION]
+
+For these reasons, on September 28, 2008, the Board by unanimous vote determined that compliance by the FDIC with the least-cost requirements of the FDI Act with respect to Wachovia Bank and its insured depository institution affiliates would have serious adverse effects on economic conditions and financial stability, and that action or assistance by the FDIC permitted under the systemic risk exception within the act would avoid or mitigate these adverse effects. Similar determinations were made by the board of directors of the FDIC and the Secretary of the Treasury, in consultation with the President, which allowed the FDIC to consider measures outside the least-cost resolution requirement to resolve Wachovia, including the provision of so-called "open bank" assistance.
+
+[SECTION]
+
+Citigroup Proposal
+On September 29, 2008, Citigroup proposed to acquire most of Wachovia's assets and liabilities, including Wachovia Bank, and assume senior and subordinated Wachovia debt, in exchange for approximately $2.1 billion in Citigroup stock. Citigroup proposed that the FDIC enter into a loss sharing arrangement with Citigroup with respect to a pre-identified pool of Wachovia loans totaling about $312 billion. Under the arrangement, Citigroup would absorb the first $42 billion of losses on the pool, and the FDIC would absorb any additional losses. Citigroup would grant the FDIC $12 billion in preferred stock and warrants to compensate the FDIC for bearing this risk.
+
+[SECTION]
+
+Around the same time, Wells Fargo submitted a bid for Wachovia that the FDIC judged would require a greater amount of FDIC assistance. Consequently, the FDIC accepted the Citigroup bid as the prevailing bid.
+
+[SECTION]
+
+The FDIC and the Federal Reserve each publicly announced that the Citigroup bid had been received after completion of an FDIC-supervised bidding process and that the parties would proceed to negotiate final details. This restored some confidence in Wachovia and the liquidity pressures on Wachovia stabilized.
+
+[SECTION]
+
+To allow Citigroup and Wachovia to finalize their agreement in principal and complete due diligence, the two firms entered into an exclusive dealing agreement for the period from September 29 to October 6. During this period, Citigroup filed an application with the Federal Reserve seeking expedited approval of its proposed acquisition of Wachovia.
+
+[SECTION]
+
+Wells Fargo's Second Proposal
+On October 2, during the period Citigroup and Wachovia were negotiating a final merger agreement, the board of directors of Wachovia received a communication from Wells Fargo that included an offer from Wells Fargo to acquire all of Wachovia's stock by merger. Contrary to its original communication days before that FDIC assistance would be needed as part of a Wells Fargo bid, the new Wells Fargo proposal did not involve any direct financial assistance from the FDIC. Based on an IRS notice issued September 30, Wells Fargo had determined that certain U.S. federal income tax benefits resulting from the proposed Wachovia transaction would allow it to acquire Wachovia without FDIC assistance.
+
+[SECTION]
+
+On October 3, 2008, Wachovia's board of directors voted to accept the Wells Fargo offer, and the parties signed a binding merger agreement. Upon becoming aware of this, Citigroup informed Wachovia and Wells Fargo that Citigroup considered the merger agreement to be a violation of the exclusive dealing agreement between Citigroup and Wachovia. Citigroup demanded that Wachovia and Wells Fargo terminate their proposed transaction. Citigroup on the same date sent a separate letter to the Federal Reserve protesting any Wells Fargo application to the Federal Reserve to acquire Wachovia on a number of grounds.
+
+[SECTION]
+
+The Federal Reserve issued a public statement on October 3 noting the new Wells Fargo proposal. The statement indicated that the Wells Fargo proposal had not yet been reviewed and that regulators would be working to achieve an outcome that protected all Wachovia creditors and promoted market stability. The statement also noted that the Citigroup proposal was under review by the Federal Reserve and the OCC.
+
+[SECTION]
+
+Litigation and Standstill
+On October 4, Citigroup filed suit against Wachovia and Wells Fargo, seeking a temporary restraining order, preliminary and permanent injunctive relief, specific performance of the exclusivity agreement, and punitive damages. On October 5, Wachovia filed its own motion for a temporary restraining order preventing Citigroup from taking any steps to interfere with the implementation of the Wachovia-Wells Fargo merger agreement.
+
+[SECTION]
+
+Due to concerns that the competing legal claims of Citigroup and Wells Fargo could themselves become a destabilizing influence on those institutions, Wachovia, and the banking system generally, representatives of the Federal Reserve attempted to facilitate negotiations among Wachovia, Citigroup, and Wells Fargo to resolve their disagreements. To allow these discussions time to proceed, Federal Reserve officials became involved in facilitating negotiations for a cease-fire or standstill to the litigation among the three firms. A standstill agreement was finalized on October 6, under which Wachovia, Citigroup, and Wells Fargo agreed to suspend for two days all formal litigation activity, including discovery, and to otherwise cooperate to preserve the status quo with regard to any litigation. This agreement was extended until October 10.
+
+[SECTION]
+
+During this period, the three firms attempted to renegotiate a transaction that would be mutually agreeable. The negotiations focused on a joint acquisition of Wachovia by the two bidders, with each bidder acquiring a different geographic portion of Wachovia. The parties were unable to reach an agreement on a joint acquisition of Wachovia, but did agree on October 9 not to seek injunctive relief to stop a Wachovia acquisition transaction from occurring. Citigroup determined to proceed with its claims, but to limit those claims to seeking monetary damages. Wells Fargo announced its intention to complete its merger with Wachovia and indicated that it had submitted an application to the Federal Reserve seeking expedited approval of the transaction.
+
+[SECTION]
+
+Wells Fargo Application
+On October 12, the Board announced its approval of the application and notice under sections 3 and 4 of the BHC Act by Wells Fargo to acquire Wachovia and its banking and nonbanking subsidiaries. In light of the emergency affecting the financial markets, and as permitted by the BHC Act and Federal Reserve regulations, the Board waived public notice of the proposal and shortened the notice period to the primary regulators of the banks and thrifts involved.  These agencies, and the Department of Justice, indicated that they had no objection to approval of the proposal.
+
+[SECTION]
+
+On October 21, the Board released a statement explaining in more detail the reasons for its approval. This statement included a discussion of the various relevant factors for applications and notices under sections 3 and 4 of the BHC Act, including competitive effects, financial and managerial performance, the convenience and needs of the communities to be served, and performance under the Community Reinvestment Act. The statement also addressed a number of comments received on the proposal, including comments from Citigroup objecting to the proposal.
+
+[SECTION]
+
+Wells Fargo-Wachovia Merger
+On December 23, 2008, Wachovia announced that its shareholders had approved the Wells Fargo merger proposal. On January 1, 2009, Wells Fargo announced that the merger had been completed effective December 31, 2008.
+
+[SECTION]
+
+Federal Reserve Assistance
+The Federal Reserve did not provide any emergency financial assistance in connection with the Wells Fargo-Wachovia merger, nor was any financial assistance sought from the Federal Reserve as part of the Citigroup bid or either of the Wells Fargo bids. This Commission has asked nonetheless for information explaining the Federal Reserve's authority to provide assistance under section 13(3) of the Federal Reserve Act. Prior to the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, which was signed into law earlier this year, section 13(3) of the Federal Reserve Act authorized the Federal Reserve to extend credit to any individual, partnership, or corporation in unusual and exigent circumstances and upon a vote of five members of the Board of Governors of the Federal Reserve. This provision authorized only the extension of credit and required that the credit be secured to the satisfaction of the lending Reserve Bank. It also required that the lending Reserve Bank obtain evidence that the borrower could not obtain adequate credit accommodations from other banking organizations.
+
+[SECTION]
+
+The Dodd-Frank Act has since substantially modified section 13(3) to remove authority to extend credit to single identified non-banking companies or to make a loan to remove assets from the balance sheet of a particular institution. Now, credit under section 13(3) may only be offered through broad-based credit facilities that are offered to multiple borrowers.
+
+[SECTION]
+
+While emergency credit was not sought or given in connection with the Wachovia transaction, Wachovia's depository institutions accessed the Federal Reserve's discount window at various times throughout 2008. The discount window comprises several credit facilities open to insured depository institutions on a regular basis and is not limited to emergency credit like section 13(3). The Wachovia depository institutions accessed these facilities on the same terms and conditions applicable to other depository institutions, including the completion of required documentation and the pledging of collateral to the Federal Reserve. Many other depository institutions accessed the discount window during this period as well.
+
+[SECTION]
+
+Improvements in Supervisory Approach
+This Commission has asked whether the Federal Reserve has made any changes to the way it supervises institutions under its jurisdiction in light of the financial crisis. Indeed, the Federal Reserve has identified a number of ways to improve its supervisory approach based on lessons learned during that time. We have already made substantial changes to our supervisory framework to improve both our consolidated supervision and our ability to identify potential risks to the financial system. So that we can better understand linkages among firms and markets that have the potential to undermine the stability of the financial system, we have adopted a more explicitly multidisciplinary approach, making use of the Federal Reserve's broad expertise in economics, financial markets, payment systems, and bank supervision.
+
+[SECTION]
+
+We are also augmenting our traditional supervisory approach that focuses on firm-by-firm examinations with greater use of horizontal reviews that look across a group of firms to identify common sources of risks and best practices for managing those risks. To supplement information from examiners in the field, we are developing an enhanced quantitative surveillance program for large bank holding companies that will use data analysis and formal modeling to help identify vulnerabilities at both the firm level and for the financial sector as a whole. This analysis will be supported by the collection of more timely, detailed, and consistent data from regulated firms. Many of these changes draw on the successful experience of the Supervisory Capital Assessment Program, also known as the banking stress test, which the Federal Reserve led last year.
+
+[SECTION]
+
+We are also working actively to implement the provisions of the Dodd-Frank Act, which addressed a number of gaps in the statutory framework for supervision. In particular, the Federal Reserve is working to develop enhanced capital, risk management, liquidity, and other requirements that would be applicable to large systemically important financial organizations. We are also working with the other banking and prudential supervisors to develop resolution plans, incentive compensation guidelines, and other tools to better address the risks posed by and to financial firms.
+
+[SECTION]
+
+Conclusion
+       I appreciate the opportunity to describe these events, and the Federal Reserve's role in them, to this Commission and am happy to answer any questions.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

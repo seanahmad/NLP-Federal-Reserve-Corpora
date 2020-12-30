@@ -1,0 +1,110 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Thank you, Madame Chairwoman.  You and the Subcommittee are to be commended for
+efforts to resolve the issue of customer financial privacy.  This is a vitally important issue in our increasingly information-dependent economy.
+
+[SECTION]
+
+Information about individuals' needs and preferences is the cornerstone of any system that allocates goods and services within an economy.  The more information about needs and preferences that is available, the more accurately and efficiently will the economy meet these needs and preferences.  But though the availability of information promotes economic efficiency, there is also a long-recognized value in permitting individuals to maintain a zone of privacy.  This value must be weighed against the benefits of economic efficiency that accrue from a broad dissemination of information.
+
+[SECTION]
+
+To date, this issue has been largely handled in the marketplace, where the competitive value to companies of the use of customer information has been traded off against the competitive value of providing customer privacy, but there could be a public dimension as well.  The growth of information-sharing technology has raised some important public policy issues that must be dealt with by the Congress.
+
+[SECTION]
+
+The collision between economic interests in the value of customer information and individual privacy interests is an inevitable consequence of the growth in information technology.  As information technology increases the flexibility of production processes to meet changes in product demands, the value of information about existing and probable demands also increases.  Increases in productivity will contribute most efficiently to increases in standards of living when that productivity is focused on the goods and services consumers desire most.  In order to identify existing customers' preferences, as well as potential customers and their preferences, firms will seek information about the tastes of their own customers.
+
+[SECTION]
+
+The current debate over the privacy of customer financial information concerns information that banking and other financial institutions derive from their relationships with their customers.  This information may include information submitted by a customer to a bank in order to obtain a loan or deposit service; information concerning transactions between a customer and a bank, such as individual deposits, check payments or payments on loans; as well as information obtained by the bank from third parties, such as information from a credit report.  The economic value of this customer financial information to the bank in unquestionable.  It is necessary to the conduct of transactions and also helps the bank evaluate the credit risk of its customers.  This information also has value to others who may wish to sell goods or services to the bank's customers, and therefore has value to the bank as a marketable asset.
+
+[SECTION]
+
+In the area of financial information, however, it is clear that many consumers believe that an implicit contract exists between the financial institution and the customer that requires the financial institution to keep certain transactional information confidential.  Control of information about ourselves is one of the fundamental means by which we, as individuals, manage our relationships with each other.  The feeling that financial information should be private has deep historic roots, and bankers and bank customers have long viewed their business relationship as involving a high degree of trust.  The maintenance of this trust is essential to ensuring the confidence in our financial institutions that is so essential to their operations.
+
+[SECTION]
+
+As market processes evolve, there is evidence that consumers have come to value both economic efficiency and privacy.  On one side, individual consumers often overcome their reluctance to share particular items of information with third parties if they benefit from the sharing of that information.  Many consumers participate in programs that assist retailers in collecting detailed information about their own purchases in exchange for modest price discounts.  Similarly, the sharing of credit histories for certain purposes is so widely accepted that sometimes creditors have been criticized by customers for failing to share information that would help these customers improve their credit histories.
+
+[SECTION]
+
+At the same time, proposals or programs for using information about individuals have been abruptly dropped because of public responses.  In Washington, D.C., two sellers of prescription medications stopped sharing prescription data with a third party.  Several states backed away from programs of sharing driver's' license photographs with a private company.  Federal banking regulators dropped a proposal to require banks to establish "Know Your Customer" programs.  In each of these cases, the strength of individual privacy preferences was underestimated, and public reaction forced a response more consistent with these preferences.
+
+[SECTION]
+
+It is also possible that the increased ease of collecting and sharing information is allowing the practices of information users to evolve more rapidly than individuals' ability to respond.  Given the rapid evolution of current market practice and the paucity of public information about these practices, the ability of individual bank customers to influence these developments through their market choices may not be adequate.
+
+[SECTION]
+
+Already our judicial system is reaching for the appropriate balance between the economic value of customer financial information and the customer's privacy interest.  The judicial system has long recognized the value of customer information:  the courts have considered customer lists to be intellectual property protectable as trade secrets for most of this century.  This suggests that customer account information may also be considered to be the intellectual property of the bank.  In a related context, the Supreme Court has flatly characterized documents relating to a  customer's account as "the business records of banks" to which the customer "can assert neither ownership nor possession."  Although ownership of property, including intellectual property, ordinarily includes the power to use or transfer the property, a number of state courts have limited banks' ownership rights in customer information, recognizing the value of the privacy of financial transactions to individuals.  Despite the fact that most banking relationships are based on a debtor-creditor relationship, which entails considerably less responsibility for the counterparty's interests than a fiduciary relationship, these courts have found an implied contractual duty on the part of banks to maintain the confidentiality of customer information.
+
+[SECTION]
+
+This environment presents the Congress with a series of important questions.  Are banking practices involving customer information developing so quickly that customers will be unable to respond to those practices effectively?  If so, can market processes be made more efficient without materially lessening privacy protection?  If not, must the Congress itself strike the appropriate balance between these competing interests?
+
+[SECTION]
+
+The Congress has already deemed it necessary to address specifically the uses of consumer financial information in the Fair Credit Reporting Act (FCRA).  This Act governs the exchange of customer data by and with consumer reporting agencies.  In connection with the enactment and amendment of the FCRA, the Congress grappled with some of the issues related to sharing customer information between affiliates.  After significant debate, the Congress balanced the issues of consumer privacy and economic efficiency by allowing institutions to share information related solely to the institution's transactions or experiences with the customer, but to require that each customer be provided with the right to "opt-out" of sharing between affiliates of any other type of customer information.  In addition, the Electronic Fund Transfer Act requires a financial institution holding certain accounts to inform consumers of the circumstances under which information will be made available to affiliates and third parties.  Similarly, several states have construed constitutional provisions or enacted general or industry-specific statutes to establish financial privacy rights.
+
+[SECTION]
+
+Moreover, the Congress has given the banking agencies powers that may be exercised to address abuses in this area.  These include the banking agencies' general enforcement powers over unsafe and unsound practices under the Federal Deposit Insurance Act and the Federal Reserve's ability to adopt rules addressing unfair or deceptive acts or practices under the Federal Trade Commission Improvement Act.  Although we believe that information sharing between banks and third parties is fairly common, to date we have received relatively few complaints and have not found the need to institute any enforcement actions on privacy grounds.
+
+[SECTION]
+
+The Congress is now considering whether to place additional limitations on banks and other financial institutions' disclosures of customer information, as would be done by the privacy provisions of H. R. 10.  By adding these additional limitations--such as providing customers the right to "opt-out" and thereby limiting the sharing of the institution's own experiences and other transactional information with third parties--it would be placing an increased value on privacy protections for bank customers.  In making this decision, it is important that the tradeoff between economic efficiency and privacy be addressed with the fullest possible understanding of the competing interests.  In particular, there should be recognition of the importance of consistency across markets--to ensure that any limitations imposed on one industry, such as financial services, do not place that industry at a competitive disadvantage.
+
+[SECTION]
+
+If the Congress were to enact the privacy provisions of Sections 501 through 510 of H.R. 10 as drafted, we believe that the exceptions would permit routine payment transactions and supervisory activities to continue.  However, the Committee may wish to consult others as to the efficacy of other exceptions to the disclosure limitations.  There may be some room to clarify the drafting, and we would be happy to offer suggestions to that end.  In addition, the time period for adopting or implementing regulations is ambitious.  Thought might be given to extending the implementation period to at least a year.
+
+[SECTION]
+
+Finally, your letter of invitation raised issues with respect to the Board's own privacy policy and to our experience with the Right to Financial Privacy Act and the Privacy Act.  Significantly, these questions relate to governmental, as opposed to private, access to data about individuals.  The Board's privacy policy statement was adopted in June and can be accessed from the Board's "home page" and several other locations on the Board's web site (www.federalreserve.gov).  At its web site, the Board collects information concerning the frequency and volume of visits to the site.  It does not collect information that identifies individuals, nor does it use "cookies" (i.e., entries placed in the individual's computer to allow monitoring of the individual's use of a web site).  The Board does not see an obvious need for revision of the Right to Financial Privacy Act at this time, though there is a need for its continued review.  We would want to make a more thorough study of the issue before recommending any specific changes.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: July 21, 1999, 10:00 AM

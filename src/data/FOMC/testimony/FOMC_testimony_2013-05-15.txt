@@ -1,0 +1,257 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 15, 2013
+
+[SECTION]
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on National Security and International Trade and Finance, Committee on Banking, Housing, and Urban Affair, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Warner, Ranking Member Kirk, and other members of the Subcommittee, I appreciate the opportunity to testify today on the challenges to achieving an orderly cross-border resolution of a failed systemic financial firm. In my remarks, I would like to first reflect on the improvements that have been made in the last few years in the underlying strength and resiliency of the largest U.S. banking firms, and then turn to a discussion of what has been accomplished and what remains to be accomplished in facilitating a cross-border resolution.
+
+[SECTION]
+
+A Look Back
+       The recent financial crisis was unprecedented in its scope and severity. Some of the world's largest financial firms nearly or completely collapsed, sending shock waves through the highly interconnected global financial system. The crisis made clear that our regulatory framework for reducing the probability of failure of systemic financial firms was insufficient and that governments everywhere had inadequate tools to manage the failure of a systemic financial firm.
+
+[SECTION]
+
+Since 2008, the United States and the international regulatory community have made meaningful progress on policy reforms to reduce the moral hazard and other risks associated with financial firms perceived to be too big to fail. In broad terms, these reforms seek to eliminate too-big-to-fail in two ways: (1) by reducing the probability of failure of systemic financial firms through stronger capital and liquidity requirements and heightened supervision, and (2) by reducing the costs to the broader system in the event of the failure of such a firm. My testimony today relates principally to the second of these two aspects of reform, but I want to begin by highlighting some of the material achievements we have made to reduce the likelihood of failure of systemic financial firms.
+
+[SECTION]
+
+The Basel III capital and liquidity reforms are the foundation of the global efforts to improve the resilience of the international banking system. These reforms are being implemented in the United States and elsewhere. In addition, the Federal Reserve has significantly strengthened its supervision of the largest, most complex financial firms since the financial crisis. For example, the Federal Reserve now conducts rigorous annual stress tests of the capital adequacy of our largest bank holding companies. As a result of these efforts, the overall strength of the largest U.S. banking firms has significantly improved. The aggregate tier 1 common equity ratio of the 18 largest U.S. banking firms has more than doubled, from 5.6percent of risk-weighted assets at the end of 2008 to 11.3percent at the end of 2012. In absolute terms, these firms have increased their aggregate levels of tier1 common equity from just under $400 billion in late 2008 to almost $800 billion at the end of 2012. Higher capital puts these firms in a much better position to absorb future losses and continue to fulfill their vital role in the economy. In addition, the U.S. banking system's liquidity position relative to pre-crisis levels has materially improved.
+
+[SECTION]
+
+Accomplishments to Date on Cross-Border Resolution
+       Congress and U.S. regulators have made substantial progress since the crisis in improving the process for resolving systemic financial firms. The core areas of progress include adoption and implementation of statutory resolution powers, adoption and implementation of resolution planning requirements, increased international coordination efforts, and the Federal Reserve's foreign bank regulatory proposal.
+
+[SECTION]
+
+Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) created the Orderly Liquidation Authority (OLA), a statutory resolution mechanism designed to improve the prospects for an orderly resolution of a systemic financial firm. In many ways, OLA has become a model resolution regime for the international community. The Financial Stability Board (FSB) in 2011 adopted the Key Attributes of Effective Resolution Regimes for Financial Institutions, a new standard for resolution regimes for systemic firms.1 The core features of this global standard are already embodied in OLA. By acting early through the passage of the Dodd-Frank Act, Congress paved the way for the United States to be a leader in shaping the development of international policy for effective resolution regimes for systemic financial firms.
+
+[SECTION]
+
+The Federal Reserve supports the progress made by the Federal Deposit Insurance Corporation (FDIC) in implementing OLA, including, in particular, by developing a single-point-of-entry (SPOE)2 resolution approach. SPOE is designed to focus losses on the shareholders and long-term unsecured debt holders of the parent holding company of the failed firm. It aims to produce a well-capitalized bridge holding company in place of the failed parent by converting long-term debt holders of the parent into equity holders of the bridge. The critical operating subsidiaries of the failed firm would be re-capitalized, to the extent necessary, and would remain open for business. The SPOE approach should work to significantly reduce incentives for creditors and customers of the operating subsidiaries to run and for host-country regulators to engage in ring-fencing or other measures disruptive to an orderly, global resolution of the failed firm.
+
+[SECTION]
+
+The Dodd-Frank Act requires all large bank holding companies to develop, and submit to supervisors, resolution plans. The largest U.S. bank holding companies and foreign banking organizations submitted their first annual resolution plans to the Federal Reserve and the FDIC in the third quarter of 2012. These "first-wave" resolution plans have yielded valuable information that is being used to identify, assess, and mitigate key challenges to resolvability under the Bankruptcy Code and to support the FDIC's development of backup resolution plans under OLA. These plans are also very useful supervisory tools that have helped the Federal Reserve and the firms focus on opportunities to simplify corporate structures and improve management systems in ways that will help the firms be more resilient and efficient, as well as easier to resolve.
+
+[SECTION]
+
+Internationally, the Federal Reserve has been an active participant in the FSB's work to address the challenges of cross-border resolutions. For example, the Federal Reserve, together with the FDIC, participated in the development of the Key Attributes. We are also an active participant in the FSB's many committees and technical working groups charged with developing policy guidance on a broad range of technical areas that affect the feasibility of cross-border resolution. Moreover, as the home-country supervisor of eight of the 28 global systemically important banks (G-SIBs) identified by the FSB, the Federal Reserve has the responsibility of establishing and routinely convening for each U.S. G-SIB a crisis management group. These firm-specific crisis management groups, which are comprised primarily of the firm's prudential supervisors and resolution authorities in the United States and key foreign jurisdictions, are working to mitigate potential cross-border obstacles to an orderly resolution of the firms.
+
+[SECTION]
+
+Last year, the Federal Reserve also sought public comment on a proposal that would generally require foreign banks with a large U.S. presence to organize their U.S. subsidiaries under a single intermediate holding company that would serve as a platform for consistent supervision and regulation.3 Just as other countries already apply Basel capital requirements to U.S. bank subsidiaries operating in their countries, our proposal would subject the U.S. intermediate holding companies of foreign banks to the same capital and liquidity requirements as U.S. bank holding companies. We believe that the proposal would significantly improve our supervision and regulation of the U.S. operations of foreign banks, help protect U.S. financial stability, and promote competitive equity for all large banking firms operating in the UnitedStates. The proposal would enhance the ability of the United States, as a host-country regulator, to cooperate with a firm-wide, global resolution of a foreign banking organization led by its home-country authorities.
+
+[SECTION]
+
+Challenges Ahead on Cross-Border Resolution
+       Despite the progress that is being made within the FSB and in our domestic efforts with the FDIC, developing feasible solutions to the obstacles presented by cross-border resolution of a systemic financial firm remains necessary and work toward this end is under way. The key remaining obstacles include (1)adopting effective statutory resolution regimes in other countries; (2) ensuring systemic global banking firms have sufficient "gone concern" loss-absorption capacity; (3)completing firm-specific cooperation agreements with foreign regulators that provide credible assurances to those host-country regulators to forestall disruptive ring-fencing; and (4)coordinating consistent treatment of cross-border financial contracts.
+
+[SECTION]
+
+First, although the United States has had OLA in place since 2010, and the FDIC has made good progress in developing the framework for using OLA over the past three years, most other major jurisdictions have not yet enacted national legislation that would create a statutory resolution regime with the powers and safeguards necessary to meet the FSB's Key Attributes. Mitigating the obstacles to cross-border resolution will, at a minimum, require key foreign jurisdictions to have implemented national resolution regimes consistent with the Key Attributes. Therefore, we will continue to encourage our fellow FSB member jurisdictions to move forward with such reforms as quickly as possible.
+
+[SECTION]
+
+Second, key to the ability of the FDIC to execute its preferred SPOE approach in OLA is the availability of sufficient amounts of debt at the parent holding company of the failed firm. Accordingly, in consultation with the FDIC, the Federal Reserve is considering the merits of a regulatory requirement that the largest, most complex U.S. banking firms maintain a minimum amount of outstanding long-term unsecured debt on top of its regulatory capital requirements. Such a requirement could have a number of public policy benefits. Most notably, it would increase the prospects for an orderly resolution under OLA by ensuring that shareholders and long-term debt holders of a systemic financial firm can bear potential future losses at the firm and sufficiently capitalize a bridge holding company in resolution. In addition, by increasing the credibility of OLA, a minimum long-term debt requirement could help counteract the moral hazard arising from taxpayer bailouts and improve market discipline of systemic firms. Switzerland, the United Kingdom, and the European Commission are moving forward with similar requirements, and it may be useful to work toward an international agreement on minimum total loss absorbency requirements for globally systemic firms.
+
+[SECTION]
+
+Third, we need to take additional actions to promote regulatory cooperation among home and host supervisors in the event of the failure of an internationally active, systemic financial firm. Importantly, OLA only can apply to U.S.-chartered entities. Foreign subsidiaries and bank branches of a U.S.-based systemic financial firm could be ring-fenced or wound down separately under the insolvency laws of their host countries if foreign authorities did not have full confidence that local interests would be protected. Further progress on cross-border resolution ultimately will require significant bilateral and multilateral agreements among U.S. regulators and the key foreign central banks and supervisors for the largest global financial firms. It also may require that home-country authorities provide credible assurances to host-country supervisors to prevent disruptive forms of ring-fencing of the host-country operations of a failed firm. The ultimate strength of these agreements will depend on whether they have adequately addressed the shared objectives, as well as the self-interests, of the respective home and host authorities. The groundwork for these agreements is being laid, but many of the most critical issues can be addressed only after other jurisdictions have effective resolution frameworks in place.
+
+[SECTION]
+
+Fourth, we must help ensure that a home-country resolution of a global systemic financial firm does not cause key creditors and counterparties of the firm's foreign operations to run unnecessarily. One of the key challenges to the orderly resolution of an internationally active, U.S.-based financial firm is that certain OLA stabilization mechanisms authorized under title II of the Dodd-Frank Act, including the one-day stay provision with respect to over-the-counter derivatives and certain other financial contracts, may not apply outside the United States. Accordingly, counterparties to financial contracts with the foreign subsidiaries and branches of a U.S. firm may have contractual rights and substantial economic incentives to terminate their transactions as soon as the U.S. parent enters into resolution. Regulators and the industry are focused on the potential for addressing this concern through modifications to contractual cross-default and netting practices and through other means. The Federal Reserve will continue to support these efforts.
+
+[SECTION]
+
+Conclusion
+       The financial regulatory architecture is stronger today than it was in the years leading up to the crisis, but considerable work remains to complete implementation of the Dodd-Frank Act and the post-crisis global financial reform program. A key prong of that program is making sure that government authorities in the United States and around the world can effect an orderly resolution of a systemically important, internationally active financial firm. Much has been accomplished in this area, but much remains to be done. In the coming years, the FederalReserve will be working with other U.S. financial regulatory agencies, and with foreign central banks and regulators, to make an orderly resolution of a global systemic financial firm as feasible as possible.
+
+[SECTION]
+
+Thank you for your attention. I am happy to answer any questions you might have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+See www.financialstabilityboard.org/publications/r_111104cc.pdf . Return to text
+
+[SECTION]
+
+In a SPOE resolution under title II of the Dodd-Frank Act, the FDIC is appointed as a receiver of the top-tier holding company to carry out the resolution of the company. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2012), "Federal Reserve Board Releases Proposed Rules to Strengthen the Oversight of U.S. Operations of Foreign Banks," press release, December 14. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

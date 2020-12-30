@@ -1,0 +1,458 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 21, 2010
+
+[SECTION]
+
+Chairman Ben S. Bernanke
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Bernanke presented identical remarks before the Committee on Financial Services, U.S. House of Representatives, on July 22, 2010
+
+[SECTION]
+
+Chairman Dodd, Senator Shelby, and members of the Committee, I am pleased to present the Federal Reserve's semiannual Monetary Policy Report to the Congress.
+
+[SECTION]
+
+Economic and Financial Developments
+The economic expansion that began in the middle of last year is proceeding at a moderate pace, supported by stimulative monetary and fiscal policies. Although fiscal policy and inventory restocking will likely be providing less impetus to the recovery than they have in recent quarters, rising demand from households and businesses should help sustain growth. In particular, real consumer spending appears to have expanded at about a 2-1/2 percent annual rate in the first half of this year, with purchases of durable goods increasing especially rapidly. However, the housing market remains weak, with the overhang of vacant or foreclosed houses weighing on home prices and construction.
+
+[SECTION]
+
+An important drag on household spending is the slow recovery in the labor market and the attendant uncertainty about job prospects. After two years of job losses, private payrolls expanded at an average of about 100,000 per month during the first half of this year, a pace insufficient to reduce the unemployment rate materially. In all likelihood, a significant amount of time will be required to restore the nearly 8-1/2 million jobs that were lost over 2008 and 2009. Moreover, nearly half of the unemployed have been out of work for longer than six months. Long-term unemployment not only imposes exceptional near-term hardships on workers and their families, it also erodes skills and may have long-lasting effects on workers' employment and earnings prospects.
+
+[SECTION]
+
+In the business sector, investment in equipment and software appears to have increased rapidly in the first half of the year, in part reflecting capital outlays that had been deferred during the downturn and the need of many businesses to replace aging equipment. In contrast, spending on nonresidential structures--weighed down by high vacancy rates and tight credit--has continued to contract, though some indicators suggest that the rate of decline may be slowing. Both U.S. exports and U.S. imports have been expanding, reflecting growth in the global economy and the recovery of world trade. Stronger exports have in turn helped foster growth in the U.S. manufacturing sector.
+
+[SECTION]
+
+Inflation has remained low. The price index for personal consumption expenditures appears to have risen at an annual rate of less than 1 percent in the first half of the year. Although overall inflation has fluctuated, partly reflecting changes in energy prices, by a number of measures underlying inflation has trended down over the past two years. The slack in labor and product markets has damped wage and price pressures, and rapid increases in productivity have further reduced producers' unit labor costs.
+
+[SECTION]
+
+My colleagues on the Federal Open Market Committee (FOMC) and I expect continued moderate growth, a gradual decline in the unemployment rate, and subdued inflation over the next several years. In conjunction with the June FOMC meeting, Board members and Reserve Bank presidents prepared forecasts of economic growth, unemployment, and inflation for the years 2010 through 2012 and over the longer run. The forecasts are qualitatively similar to those we released in February and May, although progress in reducing unemployment is now expected to be somewhat slower than we previously projected, and near-term inflation now looks likely to be a little lower. Most FOMC participants expect real GDP growth of 3 to 3-1/2 percent in 2010, and roughly 3-1/2 to 4-1/2 percent in 2011 and 2012. The unemployment rate is expected to decline to between 7 and 7-1/2 percent by the end of 2012. Most participants viewed uncertainty about the outlook for growth and unemployment as greater than normal, and the majority saw the risks to growth as weighted to the downside. Most participants projected that inflation will average only about 1 percent in 2010 and that it will remain low during 2011 and 2012, with the risks to the inflation outlook roughly balanced.
+
+[SECTION]
+
+One factor underlying the Committee's somewhat weaker outlook is that financial conditions--though much improved since the depth of the financial crisis--have become less supportive of economic growth in recent months. Notably, concerns about the ability of Greece and a number of other euro-area countries to manage their sizable budget deficits and high levels of public debt spurred a broad-based withdrawal from risk-taking in global financial markets in the spring, resulting in lower stock prices and wider risk spreads in the United States. In response to these fiscal pressures, European leaders put in place a number of strong measures, including an assistance package for Greece and €500 billion of funding to backstop the near-term financing needs of euro-area countries. To help ease strains in U.S. dollar funding markets, the Federal Reserve reestablished temporary dollar liquidity swap lines with the ECB and several other major central banks. To date, drawings under the swap lines have been limited, but we believe that the existence of these lines has increased confidence in dollar funding markets, helping to maintain credit availability in our own financial system.
+
+[SECTION]
+
+Like financial conditions generally, the state of the U.S. banking system has also improved significantly since the worst of the crisis. Loss rates on most types of loans seem to be peaking, and, in the aggregate, bank capital ratios have risen to new highs. However, many banks continue to have a large volume of troubled loans on their books, and bank lending standards remain tight. With credit demand weak and with banks writing down problem credits, bank loans outstanding have continued to contract. Small businesses, which depend importantly on bank credit, have been particularly hard hit. At the Federal Reserve, we have been working to facilitate the flow of funds to creditworthy small businesses. Along with the other supervisory agencies, we issued guidance to banks and examiners emphasizing that lenders should do all they can to meet the needs of creditworthy borrowers, including small businesses.1 We also have conducted extensive training programs for our bank examiners, with the message that lending to viable small businesses is good for the safety and soundness of our banking system as well as for our economy. We continue to seek feedback from both banks and potential borrowers about credit conditions. For example, over the past six months we have convened more than 40 meetings around the country of lenders, small business representatives, bank examiners, government officials, and other stakeholders to exchange ideas about the challenges faced by small businesses, particularly in obtaining credit. A capstone conference on addressing the credit needs of small businesses was held at the Board of Governors in Washington last week.2 This testimony includes an addendum that summarizes the findings of this effort and possible next steps.
+
+[SECTION]
+
+Federal Reserve Policy
+The Federal Reserve's response to the financial crisis and the recession has involved several components. First, in response to the periods of intense illiquidity and dysfunction in financial markets that characterized the crisis, the Federal Reserve undertook a range of measures and set up emergency programs designed to provide liquidity to financial institutions and markets in the form of fully secured, mostly short-term loans. Over time, these programs helped to stem the panic and to restore normal functioning in a number of key financial markets, supporting the flow of credit to the economy. As financial markets stabilized, the Federal Reserve shut down most of these programs during the first half of this year and took steps to normalize the terms on which it lends to depository institutions. The only such programs currently open to provide new liquidity are the recently reestablished dollar liquidity swap lines with major central banks that I noted earlier. Importantly, our broad-based programs achieved their intended purposes with no loss to taxpayers. All of the loans extended through the multiborrower facilities that have come due have been repaid in full, with interest. In addition, the Board does not expect the Federal Reserve to incur a net loss on any of the secured loans provided during the crisis to help prevent the disorderly failure of systemically significant financial institutions.
+
+[SECTION]
+
+A second major component of the Federal Reserve's response to the financial crisis and recession has involved both standard and less conventional forms of monetary policy. Over the course of the crisis, the FOMC aggressively reduced its target for the federal funds rate to a range of 0 to 1/4 percent, which has been maintained since the end of 2008. And, as indicated in the statement released after the June meeting, the FOMC continues to anticipate that economic conditions--including low rates of resource utilization, subdued inflation trends, and stable inflation expectations--are likely to warrant exceptionally low levels of the federal funds rate for an extended period.3
+
+[SECTION]
+
+In addition to the very low federal funds rate, the FOMC has provided monetary policy stimulus through large-scale purchases of longer-term Treasury debt, federal agency debt, and agency mortgage-backed securities (MBS). A range of evidence suggests that these purchases helped improve conditions in mortgage markets and other private credit markets and put downward pressure on longer-term private borrowing rates and spreads.
+
+[SECTION]
+
+Compared with the period just before the financial crisis, the System's portfolio of domestic securities has increased from about $800 billion to $2 trillion and has shifted from consisting of 100 percent Treasury securities to having almost two-thirds of its investments in agency-related securities. In addition, the average maturity of the Treasury portfolio nearly doubled, from three and one-half years to almost seven years. The FOMC plans to return the System's portfolio to a more normal size and composition over the longer term, and the Committee has been discussing alternative approaches to accomplish that objective.
+
+[SECTION]
+
+One approach is for the Committee to adjust its reinvestment policy--that is, its policy for handling repayments of principal on the securities--to gradually normalize the portfolio over time. Currently, repayments of principal from agency debt and MBS are not being reinvested, allowing the holdings of those securities to run off as the repayments are received. By contrast, the proceeds from maturing Treasury securities are being reinvested in new issues of Treasury securities with similar maturities. At some point, the Committee may want to shift its reinvestment of the proceeds from maturing Treasury securities to shorter-term issues, so as to gradually reduce the average maturity of our Treasury holdings toward pre-crisis levels, while leaving the aggregate value of those holdings unchanged. At this juncture, however, no decision to change reinvestment policy has been made.
+
+[SECTION]
+
+A second way to normalize the size and composition of the Federal Reserve's securities portfolio would be to sell some holdings of agency debt and MBS. Selling agency securities, rather than simply letting them run off, would shrink the portfolio and return it to a composition of all Treasury securities more quickly. FOMC participants broadly agree that sales of agency-related securities should eventually be used as part of the strategy to normalize the portfolio. Such sales will be implemented in accordance with a framework communicated well in advance and will be conducted at a gradual pace. Because changes in the size and composition of the portfolio could affect financial conditions, however, any decisions regarding the commencement or pace of asset sales will be made in light of the Committee's evaluation of the outlook for employment and inflation.
+
+[SECTION]
+
+As I noted earlier, the FOMC continues to anticipate that economic conditions are likely to warrant exceptionally low levels of the federal funds rate for an extended period. At some point, however, the Committee will need to begin to remove monetary policy accommodation to prevent the buildup of inflationary pressures. When that time comes, the Federal Reserve will act to increase short-term interest rates by raising the interest rate it pays on reserve balances that depository institutions hold at Federal Reserve Banks. To tighten the linkage between the interest rate paid on reserves and other short-term market interest rates, the Federal Reserve may also drain reserves from the banking system. Two tools for draining reserves from the system are being developed and tested and will be ready when needed. First, the Federal Reserve is putting in place the capacity to conduct large reverse repurchase agreements with an expanded set of counterparties. Second, the Federal Reserve has tested a term deposit facility, under which instruments similar to the certificates of deposit that banks offer their customers will be auctioned to depository institutions.
+
+[SECTION]
+
+Of course, even as the Federal Reserve continues prudent planning for the ultimate withdrawal of extraordinary monetary policy accommodation, we also recognize that the economic outlook remains unusually uncertain. We will continue to carefully assess ongoing financial and economic developments, and we remain prepared to take further policy actions as needed to foster a return to full utilization of our nation's productive potential in a context of price stability.
+
+[SECTION]
+
+Financial Reform Legislation
+Last week, the Congress passed landmark legislation to reform the financial system and financial regulation, and the President signed the bill into law this morning. That legislation represents significant progress toward reducing the likelihood of future financial crises and strengthening the capacity of financial regulators to respond to risks that may emerge. Importantly, the legislation encourages an approach to supervision designed to foster the stability of the financial system as a whole as well as the safety and soundness of individual institutions. Within the Federal Reserve, we have already taken steps to strengthen our analysis and supervision of the financial system and systemically important financial firms in ways consistent with the new legislation. In particular, making full use of the Federal Reserve's broad expertise in economics, financial markets, payment systems, and bank supervision, we have significantly changed our supervisory framework to improve our consolidated supervision of large, complex bank holding companies, and we are enhancing the tools we use to monitor the financial sector and to identify potential systemic risks. In addition, the briefings prepared for meetings of the FOMC are now providing increased coverage and analysis of potential risks to the financial system, thus supporting the Federal Reserve's ability to make effective monetary policy and to enhance financial stability.
+
+[SECTION]
+
+Much work remains to be done, both to implement through regulation the extensive provisions of the new legislation and to develop the macroprudential approach called for by the Congress. However, I believe that the legislation, together with stronger regulatory standards for bank capital and liquidity now being developed, will place our financial system on a sounder foundation and minimize the risk of a repetition of the devastating events of the past three years.
+
+[SECTION]
+
+Thank you. I would be pleased to respond to your questions.
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency, Office of Thrift Supervision, and Conference of State Bank Supervisors (2010), "Regulators Issue Statement on Lending to Creditworthy Small Businesses," joint press release, February 5. Return to text
+
+[SECTION]
+
+For more information, see Ben S. Bernanke (2010), "Restoring the Flow of Credit to Small Businesses," speech delivered at "Addressing the Financing Needs of Small Businesses," a forum sponsored by the Federal Reserve Board, Washington, July 12. Return to text
+
+[SECTION]
+
+See Federal Reserve Board of Governors (2010), "FOMC Statement," press release, June 23. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Addendum
+
+[SECTION]
+
+Addressing the Financing Needs of Small Businesses
+Summary of Key Themes for the Federal Reserve System's Small Business Meeting Series
+
+[SECTION]
+
+Introduction
+
+[SECTION]
+
+The Federal Reserve System's Community Affairs Offices hosted more than 40 meetings in 2010 as part of an initiative titled "Addressing the Financing Needs of Small Businesses." 1 The goal was to gather information and perspectives to help the Federal Reserve and other stakeholders address the immediate and intermediate credit needs of small businesses.
+
+[SECTION]
+
+Some of the meetings took the form of small focus groups or listening sessions. Other meetings were on a larger scale, with more formal agendas focusing on a particular aspect of small business financing, such as minority entrepreneurship, the role of Community Development Financial Institutions (CDFIs), or federal guarantee loan programs. Several meetings focused on a specific industry, such as auto suppliers.
+
+[SECTION]
+
+Whether small or large, all of the meetings brought together small business owners, small business trade groups, financial institutions and other private lenders, bank supervision officials, CDFIs, and other small business support service providers to discuss ways to improve credit flow to viable small businesses. Through this initiative, the Federal Reserve sought to deepen its understanding of the dynamics of the supply of and demand for small business credit, to identify specific credit gaps, and to learn of promising practices and suggestions for improvement.
+
+[SECTION]
+
+This summary aims to capture the key issues that emerged from the meetings and offer examples of how those issues were reflected in different parts of the country and in different industries. It is not intended to be a comprehensive compilation of all the ideas and views that were expressed. We have grouped the comments under the categories of credit supply, credit demand, and credit gaps. In addition, we have included key recommendations for potential next steps that were identified by participants at the July 12 capstone event at the Board of Governors as well as throughout the System's series of meetings.
+
+[SECTION]
+
+Factors Impacting the Supply of Small Business Credit
+Small businesses and banks generally reported that lending contracted significantly during the recession for a variety of reasons. These comments are consistent with data indicating that outstanding loans to small businesses dropped from more than $710 billion in the second quarter of 2008 to less than $670 billion in the first quarter of 2010.2 In addition, some banks noted that some of the contraction in lending is related to broader concerns about capital adequacy. Comments related to the supply of credit to small businesses fell into four broad categories: 1) tighter bank underwriting standards; 2) resource constraints on lending; 3) impact of regulatory guidance; and 4) utilization of alternative funding sources.
+
+[SECTION]
+
+Underwriting standards â At most meetings, both small businesses and banks acknowledged that underwriting standards had tightened. Some small businesses reported that underwriting changes made access to credit more difficult, but not impossible, while others found the changes to be a significant hurdle to obtaining credit. Many banks acknowledged that lending standards had become more flexible prior to the economic downturn and that they since have returned to more traditional underwriting practices.
+
+[SECTION]
+
+Recurring issues related to underwriting standards included the following:
+
+[SECTION]
+
+Resource Constraints â In addition to capital challenges, banks pointed to a number of other constraints on their lending resources, such as the following:
+
+[SECTION]
+
+Regulatory Environment â Some banks cited examination-related concerns as an important factor in credit availability for small businesses. In addition to general statements attributing tightened credit to increased regulatory scrutiny in light of recent economic conditions, concerns were raised about examiner assessments and the uncertainty surrounding classification of assets.
+
+[SECTION]
+
+Use of Alternative Funding Sources â Meeting participants noted that small businesses that are denied, or perceive they will be denied, credit by banks have turned to alternative sources of financing, which often carry a higher cost.
+
+[SECTION]
+
+Factors Impacting the Demand for Small Business Credit
+Small businesses and bank participants noted that the economic downturn has diminished sales for many small businesses, weakening balance sheets and asset values and thus dampening small business loan demand. Some financial institutions reported weaker quality in loan applications from small businesses. Comments related to credit demand by small businesses included issues of reduced credit quality, reduced confidence, a need for additional technical assistance, and interest in government contracting and entrepreneurship.
+
+[SECTION]
+
+Reduced credit quality â Banks generally attributed the decrease in overall lending to small businesses to their declining sales and asset valuations. They reported lower overall demand for credit from creditworthy businesses. Some financial institutions also noted that applications for small business credit generally have become weaker as the challenging economic environment continues. Still, as noted previously, many credit unions and CDFIs cited an increase in demand for small business loans from viable small businesses.
+
+[SECTION]
+
+Reduced confidence â A number of small businesses reported that declining sales made them more cautious about seeking credit. Some commented that the danger in waiting too long was that, by the time they sought a loan, their financial position had deteriorated to a point that raised underwriting concerns. Many small businesses expressed uncertainty about business prospects in the near future, affecting current credit and business decisions. Some owners reported making decisions based on the perception of tight credit without having explored credit options.
+
+[SECTION]
+
+Increased demand for technical assistance â Small businesses described the challenges associated with operating under distressed economic conditions. Many described working with reduced staff and the impact of labor reductions on the resources necessary to manage the credit process. Several bankers indicated that small businesses need help locating suitable lenders and technical assistance to prepare business plans and loan applications. Technical assistance providers indicated that a growing portion of their clients are existing businesses and the long-time unemployed who hope to start a business. Meeting participants also noted the need for technical assistance among minority-owned businesses, which face particular challenges in accessing credit.
+
+[SECTION]
+
+Interest in government contracting â Participants at several meetings mentioned that government contracting is an opportunity for minority-owned businesses, yet they need access to credit to fulfill the contracts. Minority-owned businesses often do not have the working capital needed to make up-front purchases or to sustain operations during the significant payment lag with government contracts.
+
+[SECTION]
+
+Interest in entrepreneurship â The high-unemployment environment is generating demand as more individuals who are jobless seek to start their own business.
+
+[SECTION]
+
+Identified Credit Gaps
+A combination of disruptions on the supply and demand sides of the small business credit market, as discussed above, has resulted in notable credit gaps.
+
+[SECTION]
+
+Identified Recommendations
+The following are key recommendations for potential next steps that were identified by participants at the July 12 capstone event at the Board of Governors as well as throughout the System's series of meetings. In addition, the Reserve Banks are planning a variety of efforts for the remainder of 2010 to follow up on the information and recommendations from the previous meetings or to hold further meetings in other locations. Attachment B contains a list of some of these activities.
+
+[SECTION]
+
+Regulatory and Legislative Environment
+
+[SECTION]
+
+SBA-Related Issues
+
+[SECTION]
+
+Lender-Related Issues
+
+[SECTION]
+
+CDFI-Related Issues
+
+[SECTION]
+
+Small Business Support Services
+
+[SECTION]
+
+Research and Data
+
+[SECTION]
+
+Attachment A: List of Federal Reserve System Small Business Meetings
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Attachment B: Planned Reserve Bank Community Affairs Activities on Small Business
+The information below describes key activities that Community Affairs Offices of Federal Reserve Banks are planning for the remainder of 2010 in response to issues that were raised at the Federal Reserve System's regional small business meetings or as a way to expand those meetings to other locations. This does not represent a comprehensive list of all Reserve Bank Community Affairs small business activities in 2010.
+
+[SECTION]
+
+Federal Reserve Bank of Atlanta
+
+[SECTION]
+
+Federal Reserve Bank of Boston
+
+[SECTION]
+
+Federal Reserve Bank of Chicago
+
+[SECTION]
+
+Federal Reserve Bank of Cleveland
+
+[SECTION]
+
+Federal Reserve Bank of Dallas
+
+[SECTION]
+
+Federal Reserve Bank of Kansas City
+
+[SECTION]
+
+Federal Reserve Bank of Minneapolis
+
+[SECTION]
+
+Federal Reserve Bank of New York
+
+[SECTION]
+
+Federal Reserve Bank of Philadelphia
+
+[SECTION]
+
+Federal Reserve Bank of Richmond
+
+[SECTION]
+
+Federal Reserve Bank of St. Louis
+
+[SECTION]
+
+Federal Reserve Bank of San Francisco
+
+[SECTION]
+
+A list of meeting locations, dates, and topics can be found in Attachment A. Return to text
+
+[SECTION]
+
+Data are from the Federal Financial Institutions Examination Council (FFIEC) Consolidated Reports of Condition and Income (Call Report), where loans to small businesses, as reported in the reporting forms FFIEC 031 and 041, schedule RC-C, part II, are defined as loans with original amounts of $1 million or less that are secured by nonfarm nonresidential properties or are commercial and industrial loans. Correction: On July 27, 2010, this footnote was revised to remove "plus loans with original balances of $500,000 or less that are secured by farmland or are for agricultural production."  Return to text
+
+[SECTION]
+
+Relating to this topic, the Federal Reserve and other federal financial institution regulatory agencies issued a policy statement supporting prudent commercial real estate (CRE) loan workouts in October 2009.  The Federal Reserve complemented these issuances with training programs for examiners and outreach to the banking industry to underscore the importance of sound lending practices.  Further, the Federal Reserve recently hosted an "Ask the Fed" session in May 2010, which had participation from more than 1,400 bankers and state bank commissioners, to discuss CRE-related issues, such as credit workouts and troubled debt restructurings.  The Interagency Guidance on Lending to Creditworthy Small Business Borrowers raised a similar topic, stating that examiners will not criticize institutions for working in a prudent and constructive manner with small business borrowers. Return to text
+
+[SECTION]
+
+To address this issue and others relating to small business lending, the Federal Reserve and other federal financial institution regulatory agencies issued a policy statement supporting prudent lending to small business borrowers in February 2010.  The guidance states that lenders should understand the long-term viability of the borrower's business, focus on the strength of a borrower's business plan, and analyze a borrower's performance over a reasonable range of future conditions, rather than overly optimistic or pessimistic cases. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

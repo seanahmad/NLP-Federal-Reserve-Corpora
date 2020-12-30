@@ -1,0 +1,267 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 11, 2014
+
+[SECTION]
+
+Louise L. Roseman, Director, Division of Reserve Bank Operations and Payment Systems
+
+[SECTION]
+
+Submitted to the Subcommittee on Monetary Policy and Trade, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Campbell, Ranking Member Clay, and members of the Subcommittee, thank you for inviting me to submit a statement for the record on behalf of the Board of Governors of the Federal Reserve System for the hearing entitled "The Production and Circulation of Coins and Currency." I welcome the opportunity to update the Subcommittee on activities of the Federal Reserve related to currency developments and management of coin distribution.
+
+[SECTION]
+
+Roles in Currency and Coin Distribution
+       First, it may be helpful to describe briefly the Federal Reserve's role in currency and coin distribution. Each year, the Federal Reserve Board projects the need for new currency, which it acquires from the Bureau of Engraving and Printing (BEP) within the Department of the Treasury, at approximately the cost of production. The Board issues the nation's currency in the form of Federal Reserve notes, which are liabilities on the books of the Reserve Banks. The Reserve Banks distribute currency and coin for general circulation through depository institutions. The Reserve Banks also receive deposits of currency and coin from these institutions. Currently, 28 Reserve Bank cash offices provide cash services to approximately 8,700 banks, savings and loans, and credit unions in the United States. The remaining depository institutions obtain currency and coin from correspondent banks rather than directly from the Federal Reserve. The value of Federal Reserve notes in circulation as of May 29, 2014, was more than $1.2 trillion, which represents, on average, an increase of nearly 8 percent per year over the past five years.1
+
+[SECTION]
+
+The Federal Reserve's role in coin operations is more limited than its role in currency operations. The United States Mint issues circulating coins that the Reserve Banks purchase at face value and record as assets on their balance sheets. The U.S. Mint determines annual coin production; however, the Reserve Banks influence the process by providing the U.S. Mint with monthly coin orders and a 12-month, rolling coin-order forecast. The Reserve Banks distribute new and circulated coin to depository institutions to meet the public's demand and take as deposits coin that exceeds the public's needs. The Reserve Banks store coin in their vaults and also contract with coin terminals to store and distribute coin on their behalf.2 Armored carrier companies operate the coin terminals, which have improved the efficiency of the coin-distribution system. The value of U.S. coins in circulation as of May 29, 2014, was approximately $43 billion, or about 3.5 percent of total currency and coin in circulation.3
+
+[SECTION]
+
+Currency Redesign
+       Maintaining the integrity of and confidence in U.S. currency is a shared responsibility among the Treasury, the BEP, the Federal Reserve, and the United States Secret Service (USSS). These agencies work collaboratively to redesign Federal Reserve notes in order to improve their security and protect the public from counterfeiters. Through an interagency cooperative agreement, these agencies make up the Advanced Counterfeit Deterrence Steering Committee (ACD) and recommend design changes to the Secretary of the Treasury, who has sole statutory authority to approve new currency designs. Although U.S. currency is designed as a family of notes, decisions about each denomination are guided by the ACD's evaluation of the range of counterfeit threats--from digital technology to traditional printing processes--and by advancements in banknote security features.
+
+[SECTION]
+
+The U.S. government redesigns its currency primarily for security reasons. Finding the right set of security features to address specific counterfeiting threats requires years of development work. New features must be innovative and easy for the public to use, but difficult for counterfeiters to simulate. New designs must also include characteristics and features that can be effectively used by banknote equipment manufacturers to denominate and authenticate currency, and must meet specific requirements of the Federal Reserve to guarantee authenticity.
+
+[SECTION]
+
+Beginning in 1996, the United States produced the first major redesign of U.S. currency in 65 years (the Series-1996 design family). This redesign began with the $100 note in March 1996 and concluded with the $5 and $10 notes issued together in May 2000. The 1996-design family incorporated new security features, such as portrait watermarks, embedded security threads, and color-shifting ink to combat the predominant threat of the professional counterfeiter. To address a phenomenon known as "opportunistic counterfeiting," or the use of digital technology by non-professional or casual counterfeiters to simulate notes, the ACD recommended another redesign of the currency, which began with the $20 note in October 2003; followed by the $50 note in 2004; the $10 note in 2006; the $5 note in 2008; and most recently, the $100 note in October 2013.4
+
+[SECTION]
+
+The redesigned $100 note builds on the ACD's efforts to improve security for new notes and includes state-of-the-art features such as the 3-D security ribbon and the color-shifting bell in the inkwell. As of April 30, the Federal Reserve had distributed 2.2 billion redesigned $100 notes--18 percent of the nearly 9.6 billion $100 notes in circulation. The launch of the redesigned $100 note was a partnership between the BEP, the USSS, the State Department, and the Board. Because one-half to two-thirds of the value of U.S. currency--predominately the $100 note--circulates abroad,5 educational seminars and public education events were planned at U.S. embassies and consulates worldwide and were aimed at educating global users about the redesign of the $100 note, the new security features, and how to authenticate them. This educational effort began with issuance of the note and is ongoing.
+
+[SECTION]
+
+The ACD is in the early stages of identifying and developing new security features and processes to address a wide range of ongoing counterfeiting threats from around the world. Developing new security features and integrating them into a banknote design effectively is a complex and time-consuming process. The design of U.S. currency must be resilient to counterfeiting threats, as well as address the needs of a global user base. In addition, our nation's currency must perform reliably in sophisticated authentication and fitness-sorting machines around the world. Finally, there are a growing number of automated transactions, using equipment ranging from bill acceptors at self-checkouts to high-speed sorting equipment at financial institutions and the Federal Reserve. These machines have differing levels of technological sophistication and make use of numerous characteristics in the notes to determine authenticity and fitness.
+
+[SECTION]
+
+U.S. currency needs to be not only highly secure but also accessible for blind and visually impaired persons.6 There are a variety of methods and evolving technologies on the market that could assist with providing meaningful access. The current design family of notes includes large, high-contrast numerals on the reverse side of the notes, and the BEP has developed an application for smartphones that denominates notes quickly and accurately. The Board also supports the BEP's currency reader program, which will provide currency readers to visually impaired individuals free of charge. Additionally, we are working with the BEP to evaluate various tactile features based on usability, durability, cost, and risk. Cost and risk to society are significant with this project, as machine manufacturers may need to adjust transport and sensor systems, and banks and armored carriers may need to increase vault and truck capacity to accommodate thicker notes. Durability is also a challenge because Federal Reserve notes facilitate commerce throughout the world and are subjected to many different climates and uses. The Federal Reserve will continue to work with the BEP and other stakeholders to evaluate and recommend solutions that effectively meet the needs of the blind and visually impaired community.
+
+[SECTION]
+
+Currency Production Quality
+       The Board and the BEP are engaged collaboratively in establishing a quality assurance program at the BEP. The foundation of this initiative is to produce notes more efficiently, integrate security features more effectively, and align note designs more intently with production constraints and circulation needs. Through these and other improvements, we expect to achieve significant cost savings in future years by reducing spoilage and increasing production efficiency. The improvement of the BEP's quality system will more effectively and efficiently produce future currency designs that better meet the needs of the public.
+
+[SECTION]
+
+Management of Coin Distribution
+The Federal Reserve implemented a program to manage coin distribution from a national perspective beginning in 2008, which has improved the efficiency of the Reserve Banks' coin activities. Before the Federal Reserve moved to centralized management of coin distribution, each Reserve Bank made independent ordering and distribution decisions. Today, the Reserve Banks' Cash Product Office (CPO) manages coin nationally for the Federal Reserve, taking into account the Reserve Banks' input regarding local estimates of coin demand. The CPO produces a consolidated monthly coin order on behalf of the Reserve Banks for the U.S. Mint. Along with the order, the CPO provides the U.S. Mint with a 12-month, rolling coin-order forecast for planning purposes. The order and forecast are developed based on expected net payments and Reserve Banks' coin inventory levels and are targeted to ensure sufficient inventories are positioned at each Reserve Bank office and coin terminal to meet the forecasted demand.
+
+[SECTION]
+
+As a result of improved inventory management, the Reserve Banks have been able to use inventories of previously circulated pennies, nickels, and dimes more efficiently to fill orders from depository institutions, rather than new coins.7 Reserve Bank orders for new coins of these denominations are about 38 percent less than the average orders in the six years before the centralized inventory-management program began. The CPO is also testing a new concept of coin exchanges, whereby it identifies participating depository institutions with net supply of or demand for coin based on ordering and depositing patterns, and the Reserve Banks facilitate the transfer of coin directly between those institutions and settle the transactions on the institutions' accounts at the Reserve Banks. If successful, the coin exchanges will reduce transportation and coin handling expenses.
+
+[SECTION]
+
+In a recent report, the Government Accountability Office (GAO) recognized the improvements the Federal Reserve has made to its coin inventory management and its collaboration with supply chain stakeholders.8 To further improve efficiency, the GAO recommended that the Board direct the Reserve Banks to (1) develop a process to assess coin operations costs, (2) establish performance metrics for managing coin inventory, and (3) implement a process to assess the accuracy of forecasts for new coin orders. The Board generally agrees with the report's recommendations to further improve coin management and is working with the CPO to implement them. The CPO is defining new metrics to measure the productivity and cost of Reserve Bank coin operations and is working with its vendor to refine the accuracy of forecasted coin demand.
+
+[SECTION]
+
+Metal Content of Coins
+       As the issuing authority for banknotes, the Federal Reserve appreciates the importance of identifying and incorporating cost-effective materials into the production of our nation's money. Changing the metal content of pennies and nickels, which could change the weight and electronic signature of the coins, would not have a material adverse effect on the operations of the Reserve Banks. In fact, the Reserve Banks stopped routinely weighing penny and nickel deposits a decade ago, after concluding that the small dollar value of the differences found were more than offset by the cost of weighing the coin bags. Instead, the Reserve Banks credit depository institutions' accounts for deposits of coin on a "said to contain" basis. Changing the metal content of dimes, quarters, half-dollars, and $1 coins--if it changes the respective weights--could, however, affect Reserve Bank coin terminal operations. Coin terminal operators generally weigh incoming deposits for these denominations.
+
+[SECTION]
+
+A change in a coin's weight or electronic signature could also affect businesses that use coin-accepting machines or sorting equipment that relies on these characteristics to identify coins by denomination, such as the vending industry, armored carriers, and some commercial banks. Those businesses are in a better position to comment on the extent to which they would be required to modify equipment to recognize coins of the same denomination that have different weights and electronic signatures.
+
+[SECTION]
+
+Conclusion
+       The Federal Reserve will continue to work to meet demand for currency and coin efficiently and effectively and collaborate with our partners at Treasury, the BEP, and the USSS to develop designs and security features that protect the public from counterfeiting.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System (2014), Statistical Release H.4.1, "Factors Affecting Reserve Balances" (May 29). Return to text
+
+[SECTION]
+
+These armored carrier companies do not charge the Reserve Banks a fee for these services. In the 1990s, the Federal Reserve and the armored carrier companies reached a mutually beneficial agreement that the armored carriers would provide coin services to depository institution customers on behalf of the Federal Reserve at no cost in exchange for access at the armored carrier terminals to Reserve Bank coin inventories, which significantly reduced the transportation expenses incurred by the armored carriers in obtaining the coin from Reserve Bank locations. Return to text
+
+[SECTION]
+
+Board of Governors, Statistical Release H.4.1. Return to text
+
+[SECTION]
+
+The Board had previously announced that the redesigned $100 note would begin circulating in February 2011, but had to postpone the introduction because of production problems. Return to text
+
+[SECTION]
+
+See www.federalreserve.gov/paymentsystems/coin_about.htm. Return to text
+
+[SECTION]
+
+The BEP has been working to meet the requirements of a 2008 court order requiring the Secretary of the Treasury to provide meaningful access for individuals who are blind or visually impaired to denominate U.S. currency. The court has accepted the Treasury's recommendation to continue using the large, high-contrast numeral on all redesigned notes, to develop and implement a tactile feature in the next redesign of notes, and to develop a currency reader program. Return to text
+
+[SECTION]
+
+The 50 State Quarters and Presidential $1 Dollar Coin programs resulted in Reserve Banks building significant inventory of coins. Driven by public demand, these inventories could not be reduced to efficient levels as quickly as the other denominations. By the end of 2013, inventories of quarters declined to efficient levels, but Reserve Bank inventories of $1 coins have held steady at about 1.4 billion pieces for the past two years. Return to text
+
+[SECTION]
+
+Government Accountability Office (2013), U.S. Currency: Coin Inventory Management Needs Better Performance Information (Washington: GAO, November 27). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

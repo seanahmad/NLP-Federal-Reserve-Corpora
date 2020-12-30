@@ -1,0 +1,455 @@
+Testimony of Governor Laurence H. Meyer
+Mergers and acquisitions in banking and other financial services
+Before the Committee on Banking and Financial Services,
+U.S. House of Representatives
+April 29, 1998
+
+[SECTION]
+
+I am pleased to appear before this Committee on behalf of the Federal Reserve Board to discuss issues related to mergers among U.S. banking organizations and other financial services firms.  The last two decades have seen a steady and sometimes breathtaking consolidation of our banking system, a process that will likely continue for quite some time.  This ongoing consolidation is in many ways a natural response to our rapidly changing banking environment.  However, the very large mergers and acquisitions of recent years, and those approved or announced in the last few weeks, have raised a number of public policy questions and concerns in the minds of many observers.
+
+[SECTION]
+
+As the Committee knows well, this is not the first time the Board has testified on the subject of bank mergers.  The Board continues to believe that the primary objectives of public policy in this area should be to ensure a safe and sound banking system, preserve the benefits of competition for consumers of financial services, meet the convenience and needs of local communities, and allow U.S. financial services firms to evolve with the needs of the marketplace.  My statement today will discuss how, within the context of existing law, the Federal Reserve is pursuing these goals, and will review the potential economic effects of bank mergers.  I will also argue that the consolidation of the U.S. financial services industry reinforces the need for legislation to modernize our banking and financial systems.
+
+[SECTION]
+
+One of the reasons we are here today is the recent announcements of several large and interesting mergers.  My statement purposely does not include any substantive discussion of specific mergers and acquisitions that have been proposed recently.  Several of the recently announced proposals will require that a company obtain the Board's approval under the Bank Holding Company Act.  Each proposal subject to the Bank Holding Company Act will be thoroughly reviewed by the Board on a case-by-case basis in conformance with current law and under the Board's well-established policies and procedures.   It's important to note, however, that the Bank Holding Company Act does not give the Board unfettered discretion in acting on such proposals.  Instead, the Bank Holding Company Act specifies the factors that the Board must review in these cases, and the Board's power to approve or deny a proposal is significantly limited by these factors.
+
+[SECTION]
+
+These factors include the competitive effects of the proposal, the financial and managerial resources and future prospects of the companies and banks involved in the proposal, and the effects of the proposal on the convenience and needs of the community to be served, including the performance record of the depository institutions involved under the Community Reinvestment Act.  In addition, the Board may enforce compliance with the requirements of the Bank Holding Company Act and must be assured of access to information needed to enforce compliance.  The Bank Holding Company Act also establishes nationwide and individual state deposit limits for interstate bank acquisitions and consolidated home country supervision standards for foreign banks.  In proposals involving the acquisition of a nonbanking company, the Board must consider whether performance of the activity by a bank holding company affiliate can reasonably be expected to produce benefits to the public, such as greater convenience, increased competition, or gains in efficiency that outweigh possible adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests or unsound banking practices.
+
+[SECTION]
+
+The Board is not granted authority under the Bank Holding Company Act to disapprove a proposal that meets all of these statutory factors.  Thus the Board could not deny a proposal because, for example, the Board does not like this particular combination of firms or because it believes that a different combination of companies would be more profitable, efficient or desirable.  The Board must consider the proposal that is presented to the Board and whether the particular companies involved in the application before the Board meet the statutory factors.  Similarly, the Board cannot deny a proposal simply because the companies involved are large, unless the effect of the proposal may be to substantially lessen competition in violation of the standards in the federal antitrust laws or to contravene one of the other factors in the Bank Holding Company Act.  Later in my statement, I will discuss the methodology the Board uses in assessing each of these aspects of a proposed merger.  As an initial matter, I can assure you on behalf of the Board that none of the applicants or potential applicants has been given any prior indication of the Board's views on their proposals or whether their proposals will be approved or disapproved by the Board.
+
+[SECTION]
+
+I.  Trends in Mergers and Banking Structure
+	It is useful to begin a discussion of the public policy and other implications of bank mergers with a brief description of recent trends in merger activity and overall U.S. banking structure.  The statistical tables at the end of my statement provide some detail that may be of interest to the Committee.
+
+[SECTION]
+
+Bank Mergers: There have been over 7,000 bank mergers since 1980.  The pace accelerated from 190 mergers with $10.2 billion in acquired assets in 1980, to 649 with $123.3 billion in acquired assets in 1987.  In the 1990s, the pace of both the number and dollar volume of bank mergers has remained high.  Through March of this year, the rapid pace of merger activity has continued.  For example, if only the five largest mergers or acquisitions approved or announced since December are completed, a total of over $500 billion in banking assets would have been acquired.
+
+[SECTION]
+
+The incidence of "mega-mergers," or mergers among very large banking organizations, is a truly remarkable aspect of current bank merger activity.  But, it is useful to recall that very large mergers began to occur with growing frequency after 1980.  In 1980, there were no mergers or acquisitions of commercial banking organizations where both parties had over $1.0 billion in total assets (table 2).  The years 1987 through 1996 brought growing numbers of such acquisitions and, reflecting changes in state and federal laws, an increasing number of these involved interstate acquisitions by bank holding companies.  The largest mergers in U.S. banking history took place or were approved during the 1990s--including Chase-Chemical, Wells Fargo-First Interstate, NationsBank-Barnett, and First Union-CoreStates.  And while these mergers set size precedents, the recently proposed mergers of Citicorp and Travelers, and NationsBank and BankAmerica, if consummated, would set a new standard for sheer size in U.S. banking organizations.
+
+[SECTION]
+
+National Banking Structure:  The high level of merger activity since 1980, along with a large number of bank failures, is reflected in a steady decline in the number of U.S. banking organizations from 1980 through 1997 (table 3).  In 1980, there were over 12,000 banking organizations, defined as bank holding companies plus independent banks; banks numbered nearly 14,500.  By 1997, the number of organizations had fallen to about 7,100 and the number of banks to just over 9,000.  The number of organizations had declined over 40 percent and the number of banks by over one-third.
+
+[SECTION]
+
+The trends I have just described must be placed in perspective, because taken by themselves they hide some of the key dynamics of the banking industry.  Table 4 shows some other important characteristics of U.S. banking.  While there were about 1,450 commercial bank failures and over 7,000 bank acquisitions between 1980 and 1997, some 3,600 new banks were formed.  Similarly, while over 18,000 bank branches were closed, the same period saw the opening of nearly 35,000 new branches.  Perhaps even more importantly, the total number of banking offices, shown in table 3, increased sharply from about 53,000 in 1980 to over 71,000 in 1997, a 35 percent rise, and the population per banking office declined.  This includes former thrift offices that were acquired by banking organizations.  Fewer banking organizations clearly has not meant fewer banking offices serving the public.
+
+[SECTION]
+
+These trends have been accompanied by a substantial increase in the share of total banking assets controlled by the largest banking organizations.  For example, the proportion of domestic banking assets accounted for by the 100 largest banking organizations went from just over one-half in 1980, to nearly three-quarters in 1997 (table 5).  The increase in nationwide concentration reflects, to a large degree, a response by the larger banking organizations to the removal of state and federal restrictions on geographic expansion both within and across states.  The industry is moving from many separate state banking structures toward a nationwide banking structure that would have existed already had legal restrictions not stood in the way.  The increased opportunities for interstate banking are allowing many banking organizations to reach for the twin goals of geographic risk diversification and new sources of "core" deposits.
+
+[SECTION]
+
+As I will discuss shortly, it may well be that the retail banking industry is moving toward a structure more like that of some other local market industries such as clothing and department store retailing.  As in banking, clothing and department store customers tend to rely on stores located near their home or workplace.  These stores may be entirely local or may be part of regional or national organizations.  Thus, it should perhaps not be surprising that banks, now freed of barriers to geographic expansion, are taking advantage of the opportunity to operate throughout the country as have firms in other retail industries.
+
+[SECTION]
+
+But, it would be a mistake to think that adjustment to a new statutory environment--and the increased opportunities for geographic diversification--were the only reasons for the current volume of bank merger activity.  Each merger is somewhat unique, and likely reflects more than one motivation.  For example, a recent study of scale economies in banking suggests that efficiencies associated with larger size are likely to be exhausted after about $10-$25 billion in assets.  In addition, some lines of business, such as securities underwriting and market-making, require quite large levels of activity to be viable.
+
+[SECTION]
+
+Increased competitive pressures caused by rapid technological change and the resulting blurring of distinctions between banks and other types of financial firms, lower barriers to entry due to deregulation, and increased globalization also contribute to merger activity.  Global competition appears to be especially important for banks that specialize in corporate customers and wholesale services, especially among the very largest institutions.  Today, for example, almost 40 percent of the U.S. domestic commercial and industrial bank loan market is accounted for by foreign-owned banks.
+
+[SECTION]
+
+More generally, greater competition has forced inefficient banks to become more efficient, accept lower profits, close up shop, or--in order to exit a market in which they cannot survive--merge with another bank.  Other possible motives for mergers include the simple desire to achieve market power, or the desire by management to build empires and enhance compensation.  Some mergers probably occur as an effort to prevent the acquiring bank from itself being acquired, or, alternatively, to enhance a bank's attractiveness to other buyers.
+
+[SECTION]
+
+Many of these factors are also motivating mergers between bank and nonbank financial firms.  However, in these cases, a key causal factor is the on-going blurring of distinctions between what were, not very long ago, quite different financial services.  Today, as the Board has testified on many occasions, it is increasingly difficult to differentiate between many products and services offered by commercial banks, investment banks, and insurance companies.  Thus, we should not find it surprising that firms in each of these industries should seek partners in the others.
+
+[SECTION]
+
+Local Market Banking Structure:  Given the Board's statutory responsibility to apply the antitrust laws so as to ensure competitive banking markets, it is critical to understand that nationwide concentration statistics are generally not the appropriate metric for assessing the competitive effects of mergers.  Moreover, the extent to which mergers can increase national concentration is limited by the provisions in the Riegle-Neal Act of 1994 that amended the Bank Holding Company Act and established national (10 percent) and state-by-state (30 percent) deposit concentration limits for interstate bank acquisitions.  States may establish a higher or lower limit, and initial entry into a state by acquisition is not subject to the Riegle-Neal statewide 30 percent limit.
+
+[SECTION]
+
+Beyond this, the Board has a 	statutory responsibility to apply the antitrust laws so as to ensure competitive local banking markets.  Evidence indicates that in the vast majority of cases the relevant concern for competition analysis is competition in local banking markets.  While one can identify specific local markets that have experienced increases in concentration, from 1980 through 1997, in both urban and rural markets, the average percentage of bank deposits accounted for by the three largest firms has remained steady or actually declined slightly, even as nationwide concentration has increased substantially (table 6).  Essentially similar trends are apparent when local market bank concentration is measured by the Herfindahl-Hirschman Index (HHI) the sum of the squares of the market shares.  Because of the importance of local banking markets, I would like to provide somewhat more detail on the implications of bank mergers for local market concentration.
+
+[SECTION]
+
+Metropolitan Statistical Areas (MSAs) and non-MSA counties are often used as proxies for urban and rural banking markets.  The average three-firm deposit concentration ratio for urban markets decreased by three percentage points between 1980 and 1997 (table 6).  Average concentration in rural counties declined by 1.7 percentage points.  Similarly, the average bank deposit-based HHI for both urban and rural markets fell between 1980 and 1997 (table 7).  When thrift deposits are given a 50 percent weight in these calculations, average HHIs are sharply lower than the bank-only HHIs in a given year, but the HHIs trend slightly upward since 1984.  On balance, the three-firm concentration ratios and the HHI data strongly suggest that, despite the fact that there were over 7,000 bank mergers between 1980 and 1996, local banking market concentration has remained about the same.
+
+[SECTION]
+
+Why haven't all of these mergers increased average local market concentration?  There are a number of reasons.  First, many mergers are between firms operating primarily in different local banking markets.  While these mergers may increase national or state concentration, they do not tend to increase concentration in local banking markets and thus do not reduce competition.
+
+[SECTION]
+
+Second, as I have already pointed out, there is new entry into banking markets.  In most markets, new banks can be formed fairly easily, and some key regulatory barriers, such as restrictions on interstate banking, have been all but eliminated.
+
+[SECTION]
+
+Third, the evidence overwhelmingly shows that banks from outside a market usually do not increase their market share after entering a new market by acquisition.  Studies indicate that, when a local bank is acquired by a large out-of-market bank, there is normally some loss of market share.  The new owners are not able to retain all of the customers of the acquired bank.  Anecdotal evidence suggests that some other banks in the market mount aggressive campaigns to lure away customers of the bank being acquired.
+
+[SECTION]
+
+Fourth, it is important to emphasize that small banks have been and continue to be able to retain their market share and profitability in competition with larger banks.  Our staff has done repeated studies of small banks; all these studies indicate that small banks continue to perform as well as, or better than, their large counterparts, even in the banking markets dominated by the major banks.  This may be due, in part, to more personalized service.  But whatever the reason, based on this experience, we expect that there will continue to be a large number of banks remaining in the future.
+
+[SECTION]
+
+Despite a continued high level of merger activity, studies based on historical experience suggest that in about a decade there may be about 3,000 to 4,000 banking organizations, down from about 7,000 today.  Although the top 10 or so banking organizations will almost certainly account for a larger share of banking assets than they do today, the basic size distribution of the industry will probably remain about the same.  That is, there will be a few very large organizations and an increasing number of smaller organizations as we move down the size scale.  It seems reasonable to expect that a large number of small, locally oriented banking organizations will remain.  Moreover, size does not appear to be an important determining factor even for international competition.  Only very recently have U.S. banks begun to appear, once again, among the world's twenty largest in terms of assets.  Yet those U.S. banks that compete in world markets are consistently among the most profitable and best capitalized in the world, as well as being ranked as the most innovative.
+
+[SECTION]
+
+Finally, administration of the antitrust laws has almost surely played a role in restricting local market concentration.  At a minimum, banking organizations have been deterred from proposing seriously anticompetitive mergers.  And in some cases, to obtain merger approval, applicants have divested banking assets and deposits in certain local markets where the merger would have otherwise resulted in
+excessive concentration.
+
+[SECTION]
+
+Overall, then, the picture that emerges is that of a dynamic U.S. banking structure adjusting to the removal of longstanding legal restrictions on geographic expansion, technological change, and greatly increased domestic and international competition.  Even as the number of banking organizations has declined, the number of banking offices has continued to increase in response to the demands of consumers, and measures of local banking concentration have remained quite stable.  In such an environment, it is potentially very misleading to make broad generalizations without looking more deeply into what lies below the surface.  In part for the same reasons that make generalizations difficult, the Federal Reserve devotes considerable care and substantial resources to analyzing individual merger applications.
+
+[SECTION]
+
+II.  Federal Reserve Methodology for Analyzing Proposed Bank Mergers
+	This section of my statement discusses in some detail the Board's policies and procedures for evaluating proposed bank mergers and acquisitions.
+
+[SECTION]
+
+Competitive Criteria Reviewed in Mergers: While competition in the banking industry is, and likely will remain robust despite bank merger activity, some individual bank mergers affect individual local markets.  When considering the competitive effects of a proposed bank acquisition, the Board is required to apply the competitive standards contained in the Sherman and Clayton Antitrust Acts.
+
+[SECTION]
+
+The Board's analysis of competition begins with defining the geographic areas that are likely to be affected by a merger.  Evidence suggests that small businesses and households tend to obtain their financial services in their local area.  With this basic local market orientation of households and small businesses in mind, the staff calculates bank market shares and a local market index of concentration, the HHI, which is widely accepted as a sensitive measure of market concentration.  The resulting market share and both the level and change in the HHI are also key elements of the Department of Justice merger guidelines.  The Board relies on these guidelines as a preliminary screen of proposed mergers.  If the resulting market share and the level and change in the HHI are within Justice Department guidelines, there is a presumption that the merger is acceptable on competitive grounds, but if they are not, a more thorough economic analysis is required.  These guidelines are not applied mechanistically, because there are other factors that may influence competition.  These factors may vary from case to case and market to market.  Some of these factors are described below.
+
+[SECTION]
+
+Potential competition, or the possibility that other firms may enter the market, may be regarded as a significant procompetitive factor.
+
+[SECTION]
+
+Thrift institution deposits are now typically accorded 50 percent weight in calculating market shares and HHIs.  A higher percentage may be applied if thrifts in the relevant market look very much like banks, as indicated by the substantial exercise of their transactions account, commercial lending, and consumer lending powers.
+
+[SECTION]
+
+Competition from other depository and nonbank financial institutions may also be given weight beyond that already given within the framework of the merger guidelines.  Added weight is appropriate if such entities are particularly important in providing substitutes for the basic banking services used by most households and small businesses.
+
+[SECTION]
+
+If the bank being acquired is not a reasonably active competitor in a market, its market share might be given a smaller weight in the analysis of competition than otherwise.
+
+[SECTION]
+
+If the firm to be acquired is located in a declining market, this may be viewed as mitigating adverse structural effects.
+
+[SECTION]
+
+Competitive issues may be reduced in importance if the bank to be acquired has failed or is about to fail.  In such a case, it may be desirable to allow some adverse competitive effects if this means that banking services will continue to be available to local customers rather than be severely restricted or perhaps eliminated.
+
+[SECTION]
+
+A very high level of the HHI could raise questions about the competitive effects of a merger  even if the change in the HHI is less than the Justice Department criterion.
+
+[SECTION]
+
+Economies of scale are considered to be a positive factor in appropriate cases unless the economies could be achieved in a less anticompetitive manner.
+
+[SECTION]
+
+Finally, other factors unique to a market or firm would be considered if they are relevant to the analysis of competition.
+
+[SECTION]
+
+When a merger cannot be justified using any of the criteria I have just outlined, some applications are approved only after the applicant proposes divestiture of offices to remedy competition problems.
+
+[SECTION]
+
+Safety and Soundness Criteria:  In acting upon merger applications, the Board is required to consider financial and managerial resources and the future prospects of the firm.  In doing so, the Board's goal is to promote and protect the safety and soundness of the banking system, and to encourage prudent acquisition behavior.  Indeed, except in very special circumstances, usually involving failing banks, the Board will not approve a merger or acquisition unless the resulting organization is expected to be strong and viable.
+
+[SECTION]
+
+The Board expects that holding company parents will be a source of strength to their bank subsidiaries.  In doing so, the Board generally requires that the holding company applicant and its subsidiaries be in at least satisfactory overall condition, and that any weaknesses be addressed prior to Board action on a proposal.  The holding company applicant must be able to demonstrate the ability to make the proposed acquisition without unduly diverting financial and managerial resources from the needs of its existing subsidiary banks.
+
+[SECTION]
+
+These general principles apply regardless of the size or type of acquisition--banking or nonbanking.  The financial and managerial analysis of an application includes an evaluation of the existing organization, including bank and nonbank subsidiaries, the parent company, and the consolidated organization, as well as an evaluation of the entity to be acquired.  Also included in this analysis are the financial and accounting effects of the transaction, that is, the purchase price, the funding and sources thereof, and any purchase accounting adjustments.  Numerous factors are analyzed for strengths and weaknesses, including earnings, asset quality, cash flow, capital, risk management, internal controls, and compliance with law and regulation.
+
+[SECTION]
+
+Community Reinvestment Act Criteria:  The Community Reinvestment Act (CRA) requires that supervisory agencies assess each insured depository institution's record of safely and soundly meeting the credit needs of its entire community, including low- and moderate-income neighborhoods.  The CRA performance of banking organizations that seek the Board's approval to acquire a bank or thrift is an important part of the "convenience and needs" criteria that must be considered by the Board.
+
+[SECTION]
+
+In making its judgment, the Board pays particular attention to CRA examination findings.  In recent years, these examinations have focused more on hard measures of performance, rather than just efforts, and they provide a key source of information about the institution's record.  The law now requires that these examinations reflect a state-by-state and MSA-by-MSA evaluation, and this will be particularly helpful in judging the performance of large organizations.  In addition, the public may comment during the processing of the application, and this is often an important additional source of insight.  Besides analyzing these comments, our staff prepares extensive documentation concerning the institutions involved, including analysis of projected branch closings, the record of service as reflected in Home Mortgage Disclosure Act data, and other material.
+
+[SECTION]
+
+The Board expects banking organizations that apply for mergers and acquisitions to have policies and procedures that are working well to address their CRA responsibilities.  This is commonly understood by prospective applicants, and large organizations have typically committed substantial resources toward building an acceptable record.  Nevertheless, we scrutinize all the data available to us very carefully, as reflected in the Board's orders which often focus in large part on CRA and related matters.  In short, ensuring that CRA records are consistent with approval is a very significant part of the Board's consideration of these cases.
+
+[SECTION]
+
+III.  The Supervision of Large, Complex Banking Organizations
+	It is clear that mergers of very large financial institutions and future, unknown combinations of large U.S. banking and financial institutions raise questions about how such giant organizations can or will be supervised.  To be sure, supervising large or diversified institutions presents challenges to the Federal Reserve in its oversight of bank holding companies.  More coordination, for instance, has been and will be needed throughout the Federal Reserve System to ensure that such diverse, nationwide institutions receive effective and efficient oversight.  In some cases, we must also do more to coordinate with other supervisory authorities, both banking and nonbanking, domestically and abroad.  These are not unexpected challenges and, indeed, were recognized with the advent of full interstate banking and the continued trend of consolidation within the U.S. and international banking systems.  We have, for example, had in place for some time formal efforts to coordinate state and federal supervisory activities in order to provide more effective oversight of state-chartered banks with interstate activities, and to do so with minimum burden to the supervised institutions.
+
+[SECTION]
+
+The emergence of very large, nationwide and multi-product financial firms also requires that we review and revise our staffing requirements to ensure that personnel are properly located and sufficiently trained.  Developing and maintaining sufficient numbers of examiners and supervisory personnel with expertise in understanding and evaluating derivatives, trading, and other capital market activities, for example, has been and remains a challenge.  These activities can be complex and are becoming ever more important elements of large U.S. banking organizations.  Individuals familiar with them are in wide demand.
+
+[SECTION]
+
+To the extent possible, the Federal Reserve will continue to rely on the supervisory and regulatory activities of other agencies, as we do now with the evolving, yet more traditionally structured, bank holding companies of today.  But, the rapidly changing nature of the U.S. banking and financial system requires that administrative and managerial considerations receive prompt and perhaps heightened attention.  The Board believes that both the existing supervisory structure and the provisions of H.R. 10 would accommodate an adequate supervisory and regulatory process in the environment that is taking shape.
+
+[SECTION]
+
+As this Committee knows, the supervisory practices of the Federal Reserve, and of the other U.S. banking agencies as well, have evolved in recent years toward a "risk focused" approach: one that emphasizes the importance of an institution's risk management policies and procedures, its risk measurement and information systems, and its internal controls.  While reviewing asset quality clearly remains important, less emphasis than before is placed on the current condition of an institution's balance sheet, particularly in the case of large, internationally active organizations.   It places increased reliance and supervisory focus on the role of senior management and boards of directors--that is, on the adequacy of corporate governance and the management and control process.  Indeed, that is properly where the primary responsibility and focus must reside.  Moreover, for many of the new instruments, such as derivatives, we have increasingly relied on market discipline and disclosure, and have been impressed with their effectiveness.  This approach has become necessary, we believe, in response to technological and financial innovations and to the growing complexity, transaction volume, and increased pace in world financial markets today.
+
+[SECTION]
+
+As the Federal Reserve has found in revamping its own supervisory policies and practices, many of the fundamental principles of sound risk management that apply to traditional activities of banks also apply to those of securities firms and to the activities of many other financial and nonfinancial firms.  Joint statements on sound practices issued in recent years by the Basle Committee on Bank Supervision and the International Organization of Securities Commissions help to underscore that point.  Similarly, many of the oversight and capital adequacy concerns of the Federal Reserve and other bank regulators are shared by regulators of other financial institutions. Through efforts of the Joint Forum on Financial Conglomerates, which includes regulators for banking, securities, and insurance industries worldwide, we are working to develop frameworks for adequate supervision and regulation of complex internationally active financial institutions.  By emphasizing critical aspects of risk management through our supervisory process and working with other agencies as well, the Federal Reserve is and can remain sufficiently positioned, we believe, to provide continued "umbrella" oversight to the consolidated activities of banking organizations.
+
+[SECTION]
+
+Importantly, H.R. 10 recognizes the need for consolidated supervision in effectively supervising financial conglomerates.  H.R. 10 also recognizes the effectiveness of the holding company framework in helping to insulate depository institutions and the federal safety net from the risks of new activities, and that the holding company framework better accommodates effective functional regulation of activities that are already heavily regulated.
+
+[SECTION]
+
+H.R. 10 preserves the Board's authority, as the consolidated supervisor, to obtain information from and to examine financial holding companies and their subsidiaries, and to establish capital standards on financial holding companies as appropriate.  The bill also retains the Board's authority to take administrative actions to preserve the safety and soundness of depository institutions in a financial conglomerate and to enforce compliance with the Bank Holding Company Act.
+
+[SECTION]
+
+H.R. 10 does place some limitations on the Board's current authority under the Bank Holding Company Act.  These changes, often grouped under the term "Fed light," are primarily in two areas.  The first changes recognize that insurance companies and securities brokers and dealers are already extensively regulated.  Accordingly, H.R. 10 includes sensible provisions that enhance functional regulation, require the Board to use examination reports of other functional regulators, improve coordination and information sharing among supervisors, and resolve potential conflicts between regulatory schemes.  The bill would retain the Board's authority to take administrative actions, including examining a functionally regulated affiliate, where the Board has reasonable cause to believe that an affiliate is engaged in activities that pose a material risk to an affiliated depository institution.  These provisions in H.R. 10, we believe, strengthen the overall supervisory framework of the new financial services companies permitted under H.R. 10.
+
+[SECTION]
+
+H.R. 10 also reduces somewhat the Board's authority in supervising companies that own only uninsured wholesale financial institutions.  These provisions are based on the premise that reduced supervision of the holding company is appropriate when none of the depository institution subsidiaries of the holding company are federally insured.  Importantly, the Board's supervisory authority is only adjusted, and is not eliminated over this type of holding company, and the Board has full authority to examine and supervise the wholesale financial institution itself in the same manner as any other bank with access to the Board's discount window and payment system.
+
+[SECTION]
+
+There are other important provisions of H.R. 10 that affect supervision.  For example, H.R. 10 expressly grants the Board authority to establish prudential controls on transactions and relationships between a depository institution and any affiliate (other than a subsidiary of a depository institution) where the prudential control may be in the public interest to avoid significant risk to the depository institution, to enhance financial stability, to enhance customer privacy, to avoid conflicts of interest or to promote national treatment among foreign and domestic institutions.  The Board believes that this is a key provision that would enhance the separation afforded by the holding company structure and better limit the expansion of the federal safety net to new nonbank affiliates.
+
+[SECTION]
+
+It is the strong belief that the benefits of the federal safety net and the obligation of the taxpayer should not be extended to new activities that motivates the Board to oppose expanding the new affiliation authority to subsidiaries of depository institutions.  Problems experienced at an affiliate of a depository institution are more readily addressed by prudential controls than problems that arise at a subsidiary of the depository institution.
+
+[SECTION]
+
+A holding company subsidiary is not part of a depository institution.  A subsidiary of a depository institution, on the other hand, has always been considered to be a department of the bank and, more importantly, under generally accepted accounting principles is consolidated into the financial statements of the parent depository institution.  This may seem like a technical point, but it is a very significant difference.  No matter what accounting regime may be included in H.R. 10, generally accepted accounting principles will govern all public reports of depository institutions that seek funding in the market.  Under GAAP, the financial statements and the capital of a parent depository institution must fully reflect the financial condition, capital and losses of its subsidiaries.
+
+[SECTION]
+
+Prudential controls, even if supplemented by capital deductions for purposes of regulatory reporting requirements, are not sufficient to limit the impact of losses at a subsidiary because the capital of the depository institution parent is directly exposed to, and must reflect the losses experienced by its subsidiaries.  Thus, losses experienced by a subsidiary directly jeopardize the financial condition of the parent depository institution.
+
+[SECTION]
+
+Moreover, subsidiaries of depository institutions directly benefit from and place at risk the federal deposit insurance funds and the guarantee of the taxpayer.  The Board believes that it would be a mistake to consider that a subsidiary of a depository institution can be effectively insulated from its parent depository institution in the same way that an affiliate can be separated from the depository institution.  For these reasons, the Board strongly opposes provisions that would broaden the authority of subsidiaries of depository institutions.
+
+[SECTION]
+
+Aside from the issue that bank operating subsidiaries raise with respect to expansion of the nation's sovereign credit, and on which the Board feels strongly, an issue is emerging with respect to our ability to supervise the complex institutions which would arise if the current trend in bank mergers and acquisitions continues, and the operating subsidiary authority is expanded.    In particular, if in the future the central bank did not have the understanding and adequate supervisory authority to engage giant financial institutions during a systemic crisis, the Federal Reserve would be seriously impaired in its ability to meet its statutory responsibility to maintain the stability of the financial system.  Put differently, while the economic desirability and efficiency of large financial institutions is primarily up to their shareholders and customers, the effect of such institutions on systemic stability is very much a public policy concern.  And when it comes to controlling systemic risk, the central bank must be able to play a substantive role.
+
+[SECTION]
+
+More generally, a critical question raised by the creation of very large and diverse banking organizations relates to the potential effect of future banking problems on systemic risk and the federal safety net.  Research supports the view that more geographically diversified firms exhibit, other things equal, less risk.  Geographically diversified firms are less dependent upon the economic fortunes of any one locality, region, industry, or group of industries.  In addition, such firms are not dependent upon a limited area for their core deposits, thereby helping to ensure a more stable source of funds.  But, the issue of systemic risk clearly highlights the importance of developing and maintaining adequate laws, regulations, and supervisory structures that are sufficiently compatible with the banking and financial system we have.  It seems important to emphasize, at this point, that "bail-outs" and concepts of "too big to fail" can be easily misunderstood and misconstrued.
+
+[SECTION]
+
+The point, it seems, relates to one's view of bank failures and bail-outs.  Whom should the safety net protect?  Certainly not shareholders or responsible directors or senior managements.  These individuals should clearly lose their investments or jobs when banks fail.  And, over time, pieces of any organization, no matter how large, can be sold and the total firm reduced in size.  The public policy objectives are to protect the financial system and insured depositors, and to resolve banking problems in an orderly way.  Moreover, with passage of the FDIC Improvement Act of 1991, the Federal Reserve and the FDIC are strictly limited in their abilities to provide liquidity or financial assistance to weak banks and potential acquirers, no matter what their size.  By enacting this legislation, the Congress made clear its intent to ensure that discount window lending extends only to solvent institutions or to weak banks only for relatively short periods of time.  For its part, the FDIC must resolve bank failures using the "least cost" approach.  And, the circumstances under which the least cost approach can be relaxed are rather severe.  In sum, we believe the structure currently in place in the United States to address weak or failing banking institutions provides an adequate balance of discipline and flexibility to resolve future problems.
+
+[SECTION]
+
+IV.  Potential Implications of Bank Mergers
+	The rapid rate of bank mergers has raised a number of questions regarding the potential effects of banking consolidation on those consumers whose demands for banking services are primarily local in nature and on the performance of the merged banks.
+
+[SECTION]
+
+Effects of Mergers on Locally Limited Customers: Historically, banking in the United States has had a distinctly local flavor with many communities served by locally owned institutions.  The prospect of loss of these local ties is troubling to many.  Moreover, this is occurring at the same time as banks are unbundling and explicitly pricing individual services that were not previously priced separately.  The combination of new fees and the specter of more impersonal service has, quite understandably, raised widespread concerns.
+
+[SECTION]
+
+We do not wish to minimize these concerns.  However, there are two reasons to hope the impact will be modest: (1) many mergers have not been between banks operating primarily in the same local banking markets; and (2) the effects of intramarket mergers can be, and thus far have been, limited by both market forces and antitrust constraints on such mergers.  As a consequence, customers should still enjoy the benefits of competition.
+
+[SECTION]
+
+Competition
+	Even in those places where in-market mergers have occurred, evidence to date suggests that the effect on competition has on average not been substantial.  This, of course, does not mean that users of bank services will never be harmed by mergers.  No policy can guarantee that result.  But, the trends in local market concentration I discussed earlier indicate that market forces and the Board's application of antitrust standards to within-market merger applications generally have preserved competition.  In addition, the Board's policies have almost certainly discouraged some potential bank mergers before an application was ever filed.  Moreover, many urban markets could see a relatively large number of in-market mergers before antitrust guidelines would be violated.
+
+[SECTION]
+
+Branch Closings
+	In-market bank mergers often lead to some branch closings, raising concerns that consumer convenience may be harmed.  Indeed, the possibility of branch closings is often one of the more controversial aspects of a proposed merger.  Branch closings and their impact on the convenience and needs of the local community are, of course, one of the key factors reviewed in a bank's CRA examination, and thus are carefully considered by the Board in our evaluation of a proposed merger.  In particular, we review very carefully the impact on low- and moderate-income communities.  In addition, Board staff have recently been examining the effect of bank mergers on office closings more generally, and I would like to summarize some of the key preliminary findings.
+
+[SECTION]
+
+Board staff investigated relationships between bank mergers and changes in the number of banking offices, looking separately at rural and urban markets.  This research indicates that mergers between institutions operating in the same local market have tended to be associated with reductions in the number of banking offices in neighborhoods served by the bank being acquired.  The strongest relationships are observed in neighborhoods where the merging institutions both had offices.  However, these effects were partially offset by office openings by competitors, either de novo or through the acquisition of divested offices of the merged firms.  Moreover, looking at the nationwide data, the observed relationships between mergers and office closings do not appear to be systematically different between low- and moderate-income areas and other localities.
+
+[SECTION]
+
+These results suggest that the issue of office closings is more complex than is frequently portrayed.  Offices in markets served by both of the merging firms tend to be reduced, perhaps in an effort by the merged firms to achieve operational efficiencies.  Low- and moderate-income neighborhoods do not appear to be disproportionately affected by such closings.  Importantly,  new entrants tend to partially offset the merger-induced reduction in banking offices, suggesting that, as new profit opportunities arise, other firms will come in.  Moreover, the exploitation of such opportunities is much easier today than even two years ago before the full implementation of interstate banking.  Put differently, if consumers demand locational convenience, banks of all sizes will need to, and are now able to, respond if they expect to remain viable competitors for retail customers.
+
+[SECTION]
+
+Small Business Lending
+	An often-expressed concern with bank mergers, and especially with mergers involving very large banks, is that small business lending will be impaired.  This concern springs in part from some research which indicates that, on average, large banks devote relatively modest portions of their portfolios to small business loans, and that consolidations involving large banking organizations tend to result in reduced small business lending.
+
+[SECTION]
+
+Such results, however, likely provide a misleading picture of the effects of mergers on small business lending.  A deeper evaluation suggests that it is far from clear that small business lending is, on net and after a transition period, harmed in any significant way.  For example, a study which examined the reactions of other banks in markets where mergers occurred found that increases in the supply of small business lending by these other banks tend to offset much, if not all, of any initial negative effects of mergers on small business lending.  Indeed, when mergers of large banks are announced, it is quite common to read press reports of other in-market banks' expectations of taking business away from the newly formed entity.
+
+[SECTION]
+
+New profit opportunities in small business lending may also encourage the creation of other new banks.  In fact, it is not uncommon for some of the loan officers of an acquired bank to leave and form their own bank.  Further studies suggest that new banks, regardless of why they were formed, tend to lend larger portions of their assets to small businesses than do even other small banks of comparable size.
+
+[SECTION]
+
+Over the long term, at least two factors are likely to improve the prospects for small business finance.  First, rapid technological changes applied to the process of loan evaluation will, in all probability, continue to lower the cost of assessing the creditworthiness of small businesses.  Indeed, we see this process at work today in the increasing use of credit scoring techniques in evaluating the extension of relatively small loans to small businesses.  Significantly, credit scoring technology has the potential to allow banks located outside local markets to compete against within-market institutions for small business lending.  A second important factor is the role of nonbank lenders in small business finance.  Such lenders have traditionally played an important role in small business finance, and in the future, such firms are likely to be an increasingly important source of funds for small businesses.
+
+[SECTION]
+
+Community Lending
+	As yet, there are no studies of the effects of mergers on community lending comparable to the studies done for small business lending.  However, I suspect that mergers--large or small--do not have negative effects on community lending.  Given prior commitments often made by acquirers, mergers may even have a positive effect, and the merger application process provides an opportunity for discussion of community needs.  In addition, if there are profitable opportunities--as I believe there are in community lending--it seems reasonable to expect that those same market forces that provide for small business loans (and new bank offices) would also operate in the market for community lending after mergers.  Moreover, large institutions have the experience, expertise, and resources that enable them to be quite active and innovative in the community development process.  Larger institutions are often at the forefront of efforts to develop affordable home mortgage programs, small business and microenterprise financing programs, and they provide considerable resources to support both local and national nonprofit intermediaries that focus on lower income areas.  In addition, the core of a bank's CRA evaluation is the adequacy of its community-based lending programs, the record of which is reviewed frequently and especially whenever a bank is involved in a merger.
+
+[SECTION]
+
+Bank Fees
+	The level and variety of bank fees is another concern frequently voiced over bank mergers.  We are not aware of any studies that have looked specifically at the effects of mergers on the level of fees that banks charge their customers.  There have been a few findings, however, that have some relevance to the question of how mergers might affect fees.  There is evidence that larger banks charge higher fees than smaller banks, but a study that investigated this issue in more detail found that this differential appeared to be due to the disproportionate presence of larger banks in large urban areas, where costs tend to be higher.  There is substantial evidence that banks that are part of multi-state organizations tend to charge higher fees in general than do banks that are not, and this difference cannot be explained by locational factors.
+
+[SECTION]
+
+Effects of Mergers on Bank Performance:  Federal Reserve System staff and others have conducted numerous studies over many years on the effects of bank mergers and acquisitions on bank performance.  Some of these studies have focused on the effect of mergers on bank profits and prices, while others have looked at the potential for cost savings and efficiencies derived from mergers.
+
+[SECTION]
+
+Of those studies concerned with profits and prices, some have examined the effects of mergers directly, although most studies have approached this issue more indirectly by considering how bank profits and prices differ across banking markets.  Each type of study is relevant to an assessment of the impact of bank mergers on performance.
+
+[SECTION]
+
+Studies of differences in bank profitability across markets with varying degrees of concentration represent the oldest type of study relevant to the issue.  Typically, such studies have found that banks operating in more concentrated markets exhibit somewhat higher profits than do banks in less concentrated markets.  These higher profits may reflect the lesser degree of competition in more concentrated markets.
+
+[SECTION]
+
+Other studies have looked across banking markets for differences in the prices that banks charge or pay their loan and deposit customers.  For the most part, such studies have found that banks located in relatively concentrated markets tend to charge higher rates for certain types of loans, particularly small business loans, and tend to offer lower interest rates on certain types of deposits, particularly transactions accounts, than do banks in less concentrated markets.  In general, these studies support the need to maintain antitrust constraints if locally limited bank customers are to continue to receive competitively priced banking services.
+
+[SECTION]
+
+A related issue is whether mergers lead to greater bank efficiency and thus a healthier, more competitive banking firm.  Studies that are relevant to the effect of mergers on bank efficiency may be divided into those that do and those that do not look directly at the effects of mergers.
+
+[SECTION]
+
+A large number of studies have sought to determine whether larger banking organizations exhibit lower average costs than do small organizations.  Although most earlier studies found weak evidence of scale economies, recent research using data from the 1990s finds that cost advantages of large firms exist for banks up to about $10-$25 billion in assets.  In one study, significant scale economies existed within each of several size classes of banks, from less than $50 million in assets to more than $10 billion.  Thus, simply by achieving larger size, many bank mergers may have the potential to yield greater efficiency.
+
+[SECTION]
+
+In addition to scale economies, there is some evidence that, after mergers, banks may reallocate their internal resources to more profitable activities than smaller banks.  As I indicated earlier, there is also some evidence that geographic diversification by banks is associated with a reduced level of risk, and thus there is the potential for improved safety and soundness.
+
+[SECTION]
+
+Another strand of research has attempted to discover whether there are important differences in the efficiency with which banks use inputs to produce a given level of services.  These studies, which essentially focus on the efficiency effects of management skills, suggest that some banks, both large and small, are just a lot better than others at using their inputs, such as labor and capital, in a productive way.  In addition, they suggest the potential for substantial efficiency gains from mergers if management would move toward best industry practices, although this could presumably be achieved without a merger.
+
+[SECTION]
+
+In the past several years, numerous researchers have sought to determine whether past mergers have resulted in cost savings.  If so, this could be good for bank customers as well.  Many such studies examine expenses before and after the merger and, in some cases, compare them to the same changes observed concurrently in banks that did not participate in mergers.  Other research has examined how the stock market reacted to merger announcements.  Most of these studies have not found evidence of efficiency gains from mergers.  Evidence on the relative efficiency of acquiring and acquired firms is mixed.  Let me emphasize that most of these studies are based on many mergers and thus provide the basis for statistically valid generalizations.
+
+[SECTION]
+
+A fairly recent set of case studies, by Board staff, examined nine bank mergers that were selected for study because they were of the type that seemed most likely to yield efficiency gains.  These involved large banks generally with substantial market overlap, and most occurred during the early 1990s, a time when efficiency was receiving a lot of attention in banking.  The studies found clear evidence of efficiency gains in only four of the nine mergers but significant cost cutting in all nine.  Finally, on the issue of efficiency, in the evolving world of high technology and global markets for corporate banking, there is greater emphasis on efficiency in order to survive.  This factor has probably played a role in the efficiency gains realized in some of the individual recent large mergers.
+
+[SECTION]
+
+V.  The Affiliation of Banks and Nonbanks and the Need for Legislative Reform
+ 	The Bank Holding Company Act also applies to the acquisition of nonbanking companies by bank holding companies.  These provisions have been the focus of much speculation in recent weeks, so I think it is important to take a moment to discuss what these provisions say.  As an initial matter, the Bank Holding Company Act contemplates that companies that are not now bank holding companies and that have made investments that are not permissible for bank holding companies will decide to acquire a bank and thereby become a bank holding company.  To address this situation, the Bank Holding Company Act specifically provides that a company may retain, for a period of two years, any investment that the company has on the day before it becomes a bank holding company.  The Bank Holding Company Act states that the Board may extend this two-year period for up to three one-year periods if, at the time of each extension, the Board finds that an extension "would not be detrimental to the public interest."
+
+[SECTION]
+
+This provision was more commonly relied on in the past, when larger numbers of companies were registering as bank holding companies subsequent to passage of the 1970 amendments to the Bank Holding Company Act.  Nonetheless, it is still the law today.
+
+[SECTION]
+
+Nonbanking provisions of the Bank Holding Company Act highlight one of the key reasons why H.R. 10 is important legislation.  As recently announced proposals are demonstrating, the marketplace believes that consumers and shareholders would benefit from the combination of firms that provide financial services beyond those permitted under the current Bank Holding Company Act.  Indeed, the Board has long supported legislative change that would allow all types of financial service providers to exist under one roof within the holding company framework.
+
+[SECTION]
+
+To be sure, current law permits a wide range of mergers among financial service providers.  The combining of securities and brokerage firms with banks is a prime example.  In this regard, it is noteworthy that since early last year bank holding companies have either purchased or announced their intention to purchase at least twenty four securities firms.
+
+[SECTION]
+
+The fact remains, however, that current law does not permit the combination of all types of financial services providers, and even those deals that have already been announced cannot reach their full potential without legislation that broadens the ability of depository institutions to affiliate with insurance companies, securities firms and other financial services suppliers.  Thus, the Board remains a strong supporter of financial modernization legislation, and urges the Congress to pass H.R. 10.
+
+[SECTION]
+
+H.R. 10 effectively addresses the need for financial modernization by allowing the affiliation of depository institutions, insurance companies, securities firms and other financial services providers.  Critically, H.R. 10 allows broader affiliations within a framework that provides the best insulation of insured depository institutions from the risks of broader affiliations, restrains the expansion of the federal safety net to these new affiliates, and assures a level playing field for companies affiliated with depository institutions and companies that are independent of depository institutions.
+
+[SECTION]
+
+As I discussed at some length earlier in my statement, H.R. 10 also includes key measures that provide for meaningful, but controlled umbrella supervision of financial holding companies, and that preserve and enhance the functional regulation of insurance companies, securities firms, depository institutions and other regulated companies within the financial holding company.  In addition, H.R. 10 includes provisions designed to enhance consumer protection and to improve disclosure of the distinction between insured deposits and uninsured investment products.
+
+[SECTION]
+
+H.R. 10 provides effective limits on the mixing of banking and commerce, all of which should be retained.  Indeed, we would prefer smaller limits for now.  The mixing of commerce and banking has the potential of spreading the federal safety net subsidy over a wide range of activities, and of undermining the safety and soundness of insured banks.  With the prospect of financial services holding companies with greater than $1 trillion in assets on the horizon, the Board continues to urge caution in addressing the removal of the current legal barriers between commerce and banking.  Restricting large financial conglomerates to generating only five percent of their revenues from nonfinancial businesses would still allow such conglomerates the possibility to purchase any one of all but the top 250 nonfinancial companies from the current universe of nonfinancial firms.  A large financial conglomerate could own literally hundreds of nonfinancial entities without hitting the percentage restrictions incorporated in H.R. 10 because such restrictions are simply not very meaningful in a world of giant financial institutions.  Thus, it is critical that H.R. 10 retain its ongoing $500 million cap on the dollar amount of revenues that can be generated by nonfinancial businesses.  The Board strongly believes that now is not the time to modify such a fundamental structural rule as the separation of banking and commerce.  There will be ample opportunity to revisit this issue in the future once the market has adjusted to financial modernization legislation and there has been some assessment of its value.
+
+[SECTION]
+
+VI.  Conclusion
+	The recent wave of large bank mergers and merger announcements reflects to a large degree a natural response to new opportunities for geographic expansion and diversification as legal restrictions are removed.  The industry is moving away from a legally fragmented banking structure toward a nationwide banking structure.  The search for cost economies, pressures brought by increased domestic and international competition, and efforts to respond to the on-going blurring of distinctions between different types of financial services are other important motivating factors for the current merger movement.
+
+[SECTION]
+
+The increased pace of bank mergers since the early 1980s has greatly reduced the number of U.S. banking organizations, and resulted in a substantially higher nationwide concentration of banking assets.  However, concentration in local banking markets, which is normally considered most important for the analysis of possible competitive effects, has remained virtually unchanged.  In addition, there continues to be substantial new bank entry.  In short, the U.S. banking structure is highly dynamic, and sweeping generalizations are extremely difficult to make.
+
+[SECTION]
+
+The dynamic nature of U.S. banking means that analysis of the potential competitive, safety and soundness, convenience and needs, and CRA effects of individual bank merger proposals must be done on a case-by-case, market-by-market basis.  The Federal Reserve devotes considerable resources to this end, and has well-developed policies and procedures within the context of existing law.  However, the rapid pace of change in the American banking and financial systems, and particularly the large size of some institutions, create a number of major challenges.  These challenges are particularly complex in the supervisory area.  In recent years, the Federal Reserve has moved to put increased focus on an institution's risk management and corporate governance practices, as well as discipline imposed by counterparts themselves, and has sought to move supervisory practice forward in the international arena.  While we believe that the current mechanisms for addressing weak or failing banking organizations of any size are adequate, this is clearly an area that will receive continued intense attention.
+
+[SECTION]
+
+To date, the available evidence suggests that recent mergers have not resulted in substantial adverse effects on the vast majority of consumers of banking services.  It is certainly possible that some customers have been disadvantaged by some mergers.  And, mergers can no doubt be very disruptive to bank employees as functions are consolidated and reorganized.  But research on the effects of mergers on branch closings and small business loans suggests that, while mergers may initially result in some branch closings and possibly some reduction in small business loans, market responses tend to offset much, and sometimes all of these effects.
+
+[SECTION]
+
+It seems clear that substantial harm to consumers would occur if mergers were allowed to decrease competitive pressures significantly.  However, market developments and the removal of geographic restrictions on bank entry into new markets have significantly lessened the chances for anticompetitive effects.  In addition, the antitrust standards enforced by the bank regulatory agencies and the Department of Justice have helped to ensure the maintenance of competition.
+
+[SECTION]
+
+The evidence on whether bank mergers result in performance and efficiency gains is mixed.  Greater geographic diversification appears to result in improved performance, including the potential for greater safety and soundness.  And, recent evidence on economies of scale indicates that such economies may be achieved up to banks of moderate, but certainly not giant size.  Some mergers lead to improved efficiency, but others do not.  Research does suggest that the potential for substantial efficiency gains is there if well-managed firms take over, and change the management practices of inefficient banks.  Given the continuing pressures for cost minimization in banking, it seems plausible to argue that some of this potential will be realized in the future.
+
+[SECTION]
+
+The ongoing and rapid pace of change in the banking and financial services industry reinforces the need for financial modernization legislation.  The Board believes that H.R. 10 provides a sound framework for achieving such modernization and urges the Congress to move expeditiously on this matter.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Tables
+
+[SECTION]
+
+Table 1 - Bank Mergers and Acquisitions, 1980-1997
+Table 2 - Number of Large Mergers, 1980-1997
+Table 3 - Number of Banks, Banking Organizations, and Offices, 1980-1997
+Table 4 - Entry and Exit in Banking, 1980-1997
+Table 5 - Shares of Domestic Commercial Banking Assets Held by Largest Banking Organizations, 1980-1997
+Table 6 - Average Three-firm Deposit Concentration Ratio (in percent) based on Insured Commercial Banking Organizations, 1976-1997
+Table 7 - Average Herfindahl-Hirschman Indexes (HHI) of Metropolitan Statistical Areas and Rural (Non-MSA) Counties, 1976-1997
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: April 29, 1998, 11:00 AM

@@ -1,0 +1,273 @@
+Testimony of Vice Chair Alice M. Rivlin
+Role of the Federal Reserve in the payment system
+Before the Subcommittee on Domestic and International Monetary Policy
+of the Committee on Banking and Financial Services,
+U.S. House of Representatives
+September 16, 1997
+
+[SECTION]
+
+I welcome this opportunity to discuss the payments system and the Federal Reserve's role in it.  A convenient, safe, reliable means of making payments is extremely important to all of us in our daily economic lives, but most of us do not think about it very often.  We pay our bills by cash, check, credit or debit card; we have our pay deposited directly in our bank accounts and transfer funds by computer or telephone.  We assume the money will get where it is supposed to go quickly and without complications.  We do not spend time thinking about how that happens.
+
+[SECTION]
+
+Similarly, ensuring the efficiency, reliability and integrity of the nation's payments system is a big part of the responsibility the congress has given to the Federal Reserve, but neither the Congress nor the public usually devotes attention to the Federal Reserve's role in the payments system.  The Federal Reserve's monetary policy role tends to dominate the headlines and the hearings.
+
+[SECTION]
+
+As this Subcommittee is acutely aware, enormous changes are occurring in the U.S. financial services industry.  Breathtaking developments are taking place in computing and communications technology.  Consolidation and interstate banking are changing the structure of the banking industry, and lines are blurring between banking and other types of financial services.  Because these changes could profoundly affect payments mechanisms in the future, it is a timely moment to reexamine the part the Federal Reserve plays in payments and whether that role ought to be altered.  With this in mind, last fall, Chairman Greenspan asked me to chair a Committee on the Federal Reserve in the Payments Mechanism.  Besides myself, the Committee members are Governor Edward W. Kelley and Federal Reserve Bank Presidents William McDonough of New York and Thomas Melzer of St. Louis.  Our mandate is to examine how the payments system is evolving and what part the Federal Reserve might play in the future.  The process is ongoing, but I welcome the opportunity to share with you some of what we have learned and some preliminary conclusions.
+
+[SECTION]
+
+My testimony is in two parts.  The first presents some background on the payments system and the evolution of the Federal Reserve's role in it (a more detailed description of noncash payment instruments and their processing is given in Appendix 1).  The second part of the testimony discusses the work of our committee, especially the scenarios we developed and the reactions we received from participants in a series of forums on the payments system.
+
+[SECTION]
+
+In addition, Appendix 2 provides a description of a small part of the Federal Reserve's check processing operation, the Interdistrict Transportation Service (ITS), in which some members have expressed interest, as well as our views on H.R. 2119.
+
+[SECTION]
+
+Part I
+
+The Federal Reserve's Role in an Evolving Payments System
+
+A large and vibrant economy requires a staggering number of payments.  In the United States, hundreds of millions of payments with a combined value of about $1.7 trillion are made every day.  Although a majority of transactions are made in currency or coin, cash actually accounts for only a tiny fraction -- less than one percent -- of the value of payments.
+
+[SECTION]
+
+Non-cash payments can be roughly divided into two categories: (1) wholesale or large dollar transactions made primarily by banks, businesses, and governments; (2) retail or smaller dollar payments made by individuals, businesses and other participants in the economy.
+
+[SECTION]
+
+Wholesale payments, which have been growing rapidly in recent years, move over two systems: the Fedwire electronic funds transfer system operated by the Federal Reserve and Clearing House Interbank Payments System (CHIPS) operated by the New York Clearing House.  CHIPS is used primarily to make international interbank payments.  The Federal Reserve also operates the Fedwire book-entry securities service, which is used to transfer U.S. Treasury, Federal agency and mortgage-backed securities.
+
+[SECTION]
+
+The security and reliability of these large-value systems is crucial to the functioning and stability of the financial system, both national and international, but the role of the Federal Reserve, as the nation's central bank, in providing for wholesale payments and final settlement is not controversial.  Hence, this testimony, like the work of our committee, focuses entirely on retail payments.
+
+[SECTION]
+
+Retail payments: Check and ACH
+The most common non-cash payment instrument in the United States is the paper check, used much more widely here than in other industrial economies.  Americans love checks.  We wrote 64 billion of them in 1996 with a total value of about $75 trillion dollars.  Pundits have been predicting the replacement of checks by electronic payments for several decades, and, indeed, electronic transactions have been increasing much faster in recent years than checks.  Nevertheless, the volume of checks has continued to increase about 2 percent annually over the last five years.  Growing use of credit and debit cards has slowed the increase in check volume, but so far has not reversed it.  On-line home banking still accounts for a tiny fraction of payments.  Moreover, the customer's bill paying instruction from a home computer often simply results in the bank cutting a check to pay the customer's bill, because many payees are not equipped to receive funds electronically.  Hence, while the volume of checks is likely to plateau and eventually decline as electronic payments become increasingly convenient and familiar, checks are likely to remain a significant part of the payments system for some years to come.
+
+[SECTION]
+
+A rapidly growing number of retail payments are made by electronic funds transfers over an automated clearinghouse (ACH) network.  ACH is typically used for recurring payments, such as direct deposit of payroll and social security or direct payment of recurring bills, such as mortgage, insurance and utility bills.  Almost every depository institution in the United States is equipped to receive ACH payments for its customers, although not all are equipped to send them.  Although the number of ACH transactions is small compared to the number of checks (four billion in 1996, compared to 64 billion checks) that number has been increasing much faster (about 15 percent annually for the last decade) and the average value of ACH transactions is higher than that of checks.
+
+[SECTION]
+
+
+
+[SECTION]
+
+How the Federal Reserve became involved
+
+
+
+
+Although most people now take a reliable payments system for granted, this was not always so.  The severe financial crises that swept the nation periodically in the 19th and early 20th centuries typically disrupted the payments system.  During the financial panic of 1907, payments were largely suspended throughout the country because many banks and clearinghouses refused to clear checks drawn on certain banks.  The refusals led to the failure of otherwise solvent banks and greatly exacerbated the impact of the crisis on businesses and individuals.
+
+[SECTION]
+
+The Congress' desire to avoid another 1907-type failure of the national payments system was one of the important reasons for creating the Federal Reserve System in 1913.  The Federal Reserve Act directed the Federal Reserve to provide an elastic currency--that is, to supply currency in the quantities demanded by the public--and also gave it the authority to establish a nationwide check clearing system.  Congress was also concerned that some banks refused to pay the full amount of the check (nonpar collection) and that some charged certain collecting banks fees to pay checks (presentment fees).  In 1917, it amended the Federal Reserve Act to prohibit banks from charging the Federal Reserve Banks presentment fees.
+
+[SECTION]
+
+Congress modified the Federal Reserve's role in the payments system through the Monetary Control Act of 1980 (MCA).  A primary purpose of the MCA was to promote an efficient nationwide payments system by encouraging competition between the Federal Reserve and private-sector providers of payment services.  The MCA requires the Federal Reserve Banks to charge fees for their payment services, which must, over the long run, be set to recover all direct and indirect costs of providing the services.  In addition, the MCA requires the Federal Reserve Banks to recover imputed costs, such as taxes and the cost of capital, that would have been paid and imputed profits that would have been earned if the services were provided by a private firm.  The MCA also subjected all banks, not just member banks, to reserve requirements and granted them equal access to the Federal Reserve Banks' payment services.
+
+[SECTION]
+
+Congress further expanded the role of the Federal Reserve in the payments system in 1987 when it enacted the Expedited Funds Availability Act.  For the first time, this Act gave the Federal Reserve the authority to regulate check payments that were not processed by the Federal Reserve Banks.  Thus, the EFAA significantly broadened the Federal Reserve's ability to ensure that the nation's check collection system is efficient and that all depository institutions have equitable access to the system.  The Act also limited the time that a bank may hold funds before making them available to customers for withdrawal and directed the Federal Reserve to speed the process of returning unpaid checks to banks of first deposit to reduce the risk that banks face when making funds available to their depositors.
+
+[SECTION]
+
+Thus, by a series of legislative actions, the Congress has clearly placed responsibility on the Federal Reserve to ensure:
+
+ the integrity of the payments system -- its safety and reliability;
+
+ the accessibility of the payments system -- that it is available to all depository institutions so that they can provide for the payments needs of their customers; and
+
+ the efficiency of the system -- that the cost of making payments is reduced as much as possible.
+
+[SECTION]
+
+To accomplish these goals, the Congress has given the Federal Reserve regulatory authority, as well as directed it to encourage efficiency by competing fairly with private-sector suppliers of payment services.  Thus, its payments system missions are a complex and challenging part of the Federal Reserve's responsibilities.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Federal Reserve's role in check clearing
+
+
+Of the roughly 64 billion checks written annually, about a third are "on-us" checks (the payor and payee have accounts at the same bank), but the rest must be cleared and settled in the interbank check collection market.  Most checks are physically transported and presented to the paying bank for payment, although the use of electronic check presentment (ECP) is growing.  Under ECP, the information contained on the check is transmitted to the paying bank, with the actual check often following by slower means.
+
+[SECTION]
+
+Some checks are presented directly by one bank to another.  About a quarter are presented in clearinghouse arrangements under which a group of banks agree on rules for presenting checks to each other simultaneously.  Another quarter of interbank checks are collected by correspondent banks on behalf of other banks.  The Federal Reserve serves as an intermediary for the collection of about a third of interbank checks.  Small banks, especially those in remote locations depend more heavily on the Federal Reserve for check collection than do big banks in larger cities.
+
+[SECTION]
+
+Over the years, competition among providers of check services and advances in technology have made the check collection process much speedier and less costly.  Many of us can remember when it took quite a few days--often more than a week--for a check to clear, especially if drawn on a bank in a remote location.  Now the Federal Reserve is able to collect over 90 percent of the value of all checks deposited with it within one day after they are deposited in the collecting bank.
+
+[SECTION]
+
+The Federal Reserve has used both its regulatory powers and its market presence to encourage technological advance and efficiency in the check market.  Since the early 1980s, Reserve Banks have been able to provide check presentment information to paying banks electronically, which enables their corporate customers to manage the funds in their accounts more effectively.  The Reserve Banks have recently been working with many of their customers to increase the use of ECP.  The Federal Reserve has also invested in this development of new techniques for using digital images in check processing.  The Federal Reserve Banks are implementing an image-enhanced check service for the U.S. Treasury and are offering this service to banks as well.
+
+[SECTION]
+
+The Federal Reserve in the ACH market
+
+While electronic technology offers some scope to make check presentment more efficient, fully electronic payments are both faster and cheaper.  The ACH service, which the Federal Reserve began providing in 1972 at the request of local ACH associations, is now a fully electronic system reaching nearly every depository institution in the United States.  There are currently four ACH operators that process and transmit ACH transactions between depository institutions -- the Federal Reserve and three commercial providers.  The Federal Reserve is by far the largest provider, processing about 80 percent of commercial ACH transactions in 1996 and all of the government ones.  As with check collection, depository institutions rely on the Federal Reserve to deliver ACH transactions to small and remote banks.  The commercial ACH providers serve a limited set of institutions and rely on the Federal Reserve to deliver ACH transactions to banks not served by their networks.  In 1996, the Reserve Banks implemented a new consolidated ACH operating system, which enables transactions to be processed on a flow basis and which operates twenty-four hours a day.  This new operating system has increased the efficiency of ACH processing and reduced operating costs significantly.  These lower costs have been passed along to customers in lower fees.
+
+[SECTION]
+
+Prices and costs
+
+In passing the Monetary Control Act, the Congress intended to promote the efficiency of the payments system by encouraging competition between the Federal Reserve and private-sector providers, and, indeed, private-sector providers have competed vigorously with the Federal Reserve.  Opening access to Federal Reserve payment services to all banks has also contributed to a more equitable payments system and has played a role in spurring competition.  As a result, on average, the cost of payment services has declined and the quality of payment services has increased.
+
+[SECTION]
+
+Over the last ten years, the Federal Reserve has fully recovered the total costs of its priced services, including imputed costs as required by the Monetary Control Act.  In 1996, the Federal Reserve recovered 103.4 percent of the total costs of its priced services.  Moreover, because fees are set to recover not only all actual costs but also imputed costs and a profit margin, the revenues from the Federal Reserve's priced services have exceeded operating costs by almost $1 billion over the last decade.  These net revenues contribute to the amount the Federal Reserve transfers to the Treasury to the benefit of the American taxpayers.
+
+[SECTION]
+
+Shortly after the MCA was enacted, the Board of Governors adopted pricing principles that are more stringent than the requirements of the MCA and that require the Federal Reserve Banks to recover priced service costs, not just in the aggregate, but for each major service category.  Our check service, for example, has fully recovered its costs over the last ten years.
+
+[SECTION]
+
+In setting fees, the Federal Reserve's staff applies the principles of economic theory and considers the practices of private-sector providers of payment services.  For instance, in most cases, the Reserve Banks have implemented fee structures that resemble the cost structure of each priced service.  Because the costs associated with payment services tend to be dominated by fixed costs, the Federal Reserve typically uses a combination of fixed and variable fees to price its services.  Thus, the fee schedule for the check service includes fixed fees, called cash letter fees, for each bundle of checks deposited with a Federal Reserve office and per-check or per-item fees.  In addition, all transaction fees are set to recover at least the marginal or incremental cost of each transaction, which precludes the Reserve Banks from engaging in predatory pricing and promotes competition.
+
+[SECTION]
+
+Allocating costs for the shared parts of the Federal Reserve's operations is a complex and difficult matter, especially when large fixed costs have to be allocated among several activities.  There is no perfect solution to this problem, but the Federal Reserve's methodology has been scrutinized by the GAO and other experts and has been declared "reasonable".  We stand ready to discuss our cost and pricing methodology with the Committee or with outside experts if the Committee would like more detailed information.1
+
+[SECTION]
+
+Part II
+The Committee's Study on the Federal Reserve
+in the Payments System
+
+
+As discussed earlier, Chairman Greenspan created a committee to examine the Fed's role in the payments system.  The Committee believed that the rapid changes occurring in financial services called for a fundamental review of the role of the Federal Reserve in the payments system and a thorough discussion of how alternative roles might enhance or undermine the integrity, efficiency, and accessibility of the system.  We decided to focus on retail payments because they affect so many people and businesses directly and because the case for a continuing role of the central bank in retail payments is more controversial than the case for a role in wholesale payments.
+
+[SECTION]
+
+The Committee did not regard the retail payments system as "broken" or in any kind of crisis.  Almost all users and participants think it functions just fine.  Nevertheless, one anomaly is striking: why does the nation with the most advanced computers in the world rely so heavily on paper to make payments?  Why do Americans write 64 billion paper checks a year -- checks that have to be trucked and flown to their destinations -- when these payments could be made cheaper and faster by electronic means?  How might different roles of the Federal Reserve accelerate or retard movement to electronic payments?
+
+[SECTION]
+
+To spark discussion and analysis of these and other payments system issues, the Committee developed five hypothetical scenarios for the future role of the Federal Reserve in retail payments ranging from exiting check and ACH services altogether to becoming a more vigorous competitor and industry leader.  These scenarios were not designed to be actual policy options, but were intended to serve as catalysts for debate both within the Federal Reserve and among payments system participants.
+
+[SECTION]
+
+One scenario under which the Federal Reserve would withdraw from the check and ACH services was called the Liquidation scenario.  In this scenario, the Federal Reserve would announce its intention to withdraw from the provision of check and ACH services as of a specified date.  During the wind-down period, the Federal Reserve would take steps to provide for a smooth transition.  It would assist its customers in finding alternative private-sector suppliers of payment services and would help potential private-sector providers evaluate the profitability of serving various markets by providing market data to them.
+
+[SECTION]
+
+A second withdrawal scenario envisioned the Federal Reserve's privatizing its check and ACH services.  In the Privatization scenario, the Federal Reserve would first transfer its check and ACH operations to a newly chartered, special purpose "Clearing Bank."  The Clearing Bank would eventually be sold to a private-sector entity with no privileged ties to the Federal Reserve nor any restrictions on the type of payment services that it could provide.
+
+[SECTION]
+
+Three scenarios under which the Federal Reserve would continue to provide retail payment services to banks varied from the Federal Reserve's adopting a passive role in providing check and ACH services to an active role in promoting the conversion of payments to electronic forms.  In the scenario called Continuity and Access, the Federal Reserve would merely ensure that all depository institutions had access to its retail payment services.  For the most part, the Federal Reserve would allow initiatives by private-sector providers to determine the future course of the retail payments system and competition among those providers of payment services would provide the primary catalyst for innovation.  Because the Federal Reserve would not be an aggressive competitor in the retail payments market, adopting this scenario would likely lead to the Federal Reserve's slowly exiting the retail payment services over the long run.
+
+[SECTION]
+
+In the scenario called Promoting Efficiency, the Federal Reserve would use its operational presence, pricing strategies, and influence to enhance the efficiency of the interbank retail payments system.  Under this scenario, the Federal Reserve would also take steps to foster innovation by private-sector providers.  In the final scenario, called Leading Toward Electronic Payments, the Federal Reserve would expedite the movement to an electronic retail payments system.  In this case, the Federal Reserve would fund research and development and make additional capital investments in payments system improvements; develop an expanded national payments infrastructure; provide access to the Federal Reserve's secure interbank communications network to depository institutions at incremental cost; and work with providers and vendors to develop more flexible, convenient, and effective software and systems to facilitate electronic transactions.
+
+[SECTION]
+
+We asked experts at the Federal Reserve to analyze the impact of each scenario on the price, availability and structure of payments services, and then sought input and reactions from a wide range of payments system participants.
+
+[SECTION]
+
+We discussed the scenarios during ten national forums that were held in May and June 1997.  The national forums were moderated by an independent facilitator, and attended by Committee members.  Nearly 100 organizations participated in these forums, including representatives of banks, thrifts, and credit unions of all asset sizes; third-party service providers; clearing associations; trade associations representing banks, thrifts, and credit unions, consumers, and retailers; and academics and consultants, among others.  The discussion at these forums was focussed on how the various scenarios would affect the price and availability of retail payment services and how they would affect market and technological innovation, and public confidence in the payments system.
+
+[SECTION]
+
+In addition, each Federal Reserve Bank held a series of regional forums as well as a number of one-on-one meetings.  Altogether, fifty-two regional forums, which were moderated by senior Reserve Bank staff, were held.  As in the case of the national meetings, a wide range of payments system participants attended the regional forums, representing over 350 institutions.
+
+[SECTION]
+
+The discussions were varied and lively, but consistent themes emerged across the country.  First, although a few participants favored Federal Reserve withdrawal from the check or ACH markets (or both), a large majority, including representatives from all size classes of depository institutions opposed the Federal Reserve's exiting these markets.
+
+[SECTION]
+
+Smaller banks and those located in remote areas were concerned that they would have difficulty obtaining retail payment services, that the prices for those services would rise significantly, and that they might not be able to access new payment services developed in the private sector.  Many participants raised concerns about how they would obtain retail payment services if there were a financial crisis.  For example, how would smaller institutions collect checks if their correspondent bank were to fail and how would they obtain services if their financial condition were deteriorating?
+
+[SECTION]
+
+Some large banks and clearinghouses expressed an interest in picking up new customers as a result of Federal Reserve withdrawal.  Other large banks, however, had withdrawn from the correspondent role and were reluctant to resume what they regarded as a low-profit business.  Some participants expressed fears that the Federal Reserve's withdrawal would mean heavier regulation of the check and ACH markets as Congress sought to protect the access of small institutions to these services.
+
+[SECTION]
+
+Most participants believed that, in the long run, there would be sufficient capacity in both the check and ACH markets to absorb the transaction volumes processed by the Federal Reserve Banks.
+
+[SECTION]
+
+A number of participants, however, were concerned that, if the Federal Reserve withdrew from check and ACH services, there would be short-term service disruptions with few long-term benefits.
+
+[SECTION]
+
+Some participants supported the withdrawal scenarios because they believed that private-sector providers of retail payment services were more efficient than the Federal Reserve and that the Federal Reserve's withdrawal would enhance the efficiency of the payments system over time.  Some participants argued that the likely increases in the price of collecting checks that would follow the Federal Reserve's withdrawal might lead to a greater use of electronic payment services, particularly in remote locations.  A few expressed concern about the conflicts of interest that could arise between the Federal Reserve's role as a payment service provider and its role as regulator of the payments system.  A few of these participants stated that these perceived conflicts of interest had caused delays in addressing the disparity between check presentment times for the Federal Reserve Banks and private depository institutions.  Some thought the Federal Reserve might have taken steps sooner to improve its net settlement service if it did not provide payment services.
+
+[SECTION]
+
+At the same time, many participants believed that private-sector providers might be reluctant to expand their check collection services significantly because of their desire to invest in new technologies, rather than legacy systems that are perceived to have marginal profitability and limited growth potential.  Some of these participants indicated that they were currently faced with many competing priorities, including dealing with mergers and acquisitions, addressing the operational issues raised by the federal government's electronic payments initiative, and ensuring that they were century date change compliant.
+
+[SECTION]
+
+Almost all participants believed that check payments would continue to play an important role in the U.S. payments system for the foreseeable future and that the Federal Reserve and other industry participants should focus on achieving additional efficiencies in the check collection system through the use of electronic check presentment and truncation.
+
+[SECTION]
+
+With respect to the ACH, participants cited shortcomings in the current system, which may be limiting its use.  Participants noted that the ACH was a good vehicle for recurring payments but that its use for purchases at the point of sale was limited.  Moreover, consumers are not generally familiar with how to make ACH payments.  Participants also discussed the problems that businesses receiving ACH payments frequently experience in receiving the information explaining the amount and purpose of payments from their banks.  This issue, of course, is one of the issues facing the banking industry as the federal government implements its all electronic payments initiative and is a critical issue facing the ACH service.  At the same time, a  number of participants believed that a properly funded public education and marketing effort aimed at consumers and businesses could lead to greater acceptance and use of the ACH.
+
+[SECTION]
+
+There was strong support among a wide variety of participants for more "leadership" from the Federal Reserve, especially in moving beyond current payment instruments to more advanced electronic systems of the future.  Not all participants, however, had the same concept of what "leadership" implied.  Community bankers generally supported a more active, innovative Federal Reserve.  Some indicated that the Federal Reserve's investment in technology-driven products enables them to take advantage of electronic services without large, up-front investments that they cannot easily afford.  Participants representing larger banks, however, questioned whether the Federal Reserve, as a provider of payment services, could spur the conversion of payments to electronic forms as well as the private service providers could.
+
+[SECTION]
+
+Nevertheless, the majority of participants agreed that the Federal Reserve should play a stronger leadership role in improving the efficiency of the check collection system and in bringing diverse players in retail payment services together in a collaborative way to identify and to address the impediments preventing a conversion to more economically efficient retail payment services.  Many participants urged the Federal Reserve to work with the payments industry to establish standards for electronic payments, including standards for the authentication of payment instructions, standards for privacy and security of payment information, and standards addressing liability and risks in emerging payment services.  In addition, participants suggested that the Federal Reserve could play an important role in sponsoring public education aimed at encouraging the use of end-to-end electronic payment services.
+
+[SECTION]
+
+The Committee is still weighing what it has learned from the national and regional forums, analytical studies and other sources.  It has not yet brought specific policy options to the Board of Governors or the Conference of Reserve Bank Presidents.  Two general conclusions, however, have emerged from our deliberations.  First, for the next few years at least, the Federal Reserve can best meet the expectations of Congress for a safe and reliable payments system by continuing to provide check and ACH services as efficiently as possible.  Given the concerns expressed to us about the disruptions that would likely occur if the Federal Reserve were to withdraw from the retail payment services, plus the many changes that the banking industry must grapple with over the next several years, it seems prudent not to impose additional disruptions on it that the industry itself is not certain would lead to long-run benefits.
+
+[SECTION]
+
+Second, the Federal Reserve needs to work more closely and collaboratively with the participants and users of the payments system, both to enhance the efficiency of current payment instruments (check and ACH) and to evolve strategies for moving to the next generation of payment methodologies.  We look forward to working closely with the Congress as these strategies begin to unfold, with a continuing focus on ensuring the integrity, efficiency and accessibility of the payments system.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+
+
+[SECTION]
+
+1  Appendix 2 discusses the Interdistrict Transportation System (ITS) and how its costs and fees are set.  It also discusses the implications of H.R. 2119, "The Efficient Check Clearing Act of 1997," for the Federal Reserve's check service.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: September 16, 1997, 1:30 PM

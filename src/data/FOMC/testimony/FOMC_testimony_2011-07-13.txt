@@ -1,0 +1,487 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 13, 2011
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Insurance, Housing, and Community Opportunity, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Introduction
+
+       Chairwoman Biggert, Ranking Member Gutierrez, and Members of the Subcommittee, I appreciate the opportunity to appear today to discuss regulatory actions taken by the Federal Reserve Board to address the recent challenges in the home mortgage market and to enhance consumer protections for homeowners. The Federal Reserve is committed to promoting sustainable homeownership through responsible mortgage lending. While the expansion of the subprime mortgage market increased consumers' access to credit, homeowners and communities suffered from lax underwriting standards and other unfair or deceptive practices that resulted in unsustainable loans.
+
+[SECTION]
+
+Over the past three years, the Board has engaged in a series of rulemakings designed to reform mortgage lending. In addition to direct consumer benefits, protecting borrowers with responsible underwriting standards and other regulatory reforms can provide a broader benefit by enhancing the integrity, consistency, and proper functioning of the mortgage market and, thereby, increasing investor confidence. The Federal Reserve's goal has been to craft clear rules that deter abuses while preserving the ability of responsible lenders to meet the needs of all segments of the market, including traditionally underserved borrowers and communities.
+
+[SECTION]
+
+Specifically, during this time, the Board comprehensively addressed the need for mortgage reform by issuing seven final rules under the Truth in Lending Act (TILA) and Home Ownership and Equity Protection Act (HOEPA) plus five additional proposed rules that will become the responsibility of the Consumer Financial Protection Bureau (the Bureau). These 12 rulemakings cover all stages of the mortgage lending process, including pre-application advertising, loan origination, appraisals, underwriting, disclosures, loan servicing, and assignment of the loan to investors. In my testimony today, I will first summarize the Board's rules to expand the substantive protections for consumer mortgage transactions. I will then discuss the Board's efforts to improve mortgage disclosures and the status of those proposals in light of the upcoming transfer of authority to the Bureau.
+
+[SECTION]
+
+I. The Board's Efforts to Expand Substantive Protections for Consumer Mortgages 
+
+A. The 2008 HOEPA Rulemaking
+
+       Following a series of public hearings, extensive research, and outreach to consumer groups, industry representatives, and other state and federal agencies, in July 2008, the Board used its authority under TILA and HOEPA to issue final rules establishing sweeping new regulatory protections for consumers in the residential mortgage market. Importantly, these rules apply to all mortgage lenders, not just depository institutions supervised by the federal banking and thrift agencies.
+
+[SECTION]
+
+In response to specific problems we saw in the subprime market, some restrictions in the final rules apply only to higher-priced mortgage loans. Other provisions, however, apply to all mortgage loans secured by a consumer's principal dwelling. In addition to rules that protect consumers from unfair or abusive lending and mortgage-servicing practices, these rules also govern mortgage advertisements to ensure they provide accurate and balanced information and do not contain misleading or deceptive representations. Another component of the final rules ensures that for all types of mortgage loans, consumers receive transaction-specific cost disclosures early enough to use while shopping for credit.
+
+[SECTION]
+
+1. Protections for Higher-Priced Mortgage Loans
+
+[SECTION]
+
+The Board's HOEPA rules added four key protections for a newly defined category of "higher-priced mortgage loans." These loans are defined as consumer-purpose loans secured by a consumer's principal dwelling and having an annual percentage rate (APR) that exceeds the average prime offer rate for comparable transactions by at least 1-1/2 percentage points for firstâlien loans, or 3-1/2 percentage points for subordinate lien loans.1
+
+[SECTION]
+
+These four protections for higher-priced mortgage loans are as follows:
+
+[SECTION]
+
+Underwriting Requirements. The July 2008 rules prohibit lenders from making any higher-priced mortgage loan without regard to the borrower's ability to repay the obligation from income and assets other than the home. First, lenders are prohibited from making "stated income" loans. Lenders are required in each case to verify the income and assets they rely upon to determine the borrower's repayment ability. Lenders also must consider and verify the borrower's other debt obligations, such as through the use of a credit report. The final rule is intended to ensure that creditors do not assess repayment ability using overstated incomes or understated payment obligations. The rule is sufficiently flexible to allow lenders to adapt their underwriting process to accommodate a borrower's particular circumstances, such as when the borrower is self-employed.
+
+[SECTION]
+
+Second, lenders are presumed to comply with the ability-to-pay requirement only if they take into account the highest scheduled payment in the first seven years of the loan, rather than the consumer's initial monthly payment. For example, for an adjustable rate mortgage (ARM) with a discounted initial interest rate that is fixed for the first five years, the lender determines repayment ability using the scheduled payment in the sixth and seventh years, which is based on the fully indexed rate.
+
+[SECTION]
+
+I should note that the underwriting requirements legislated in the 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act), which apply to all mortgage loans, are substantially similar, but not identical to the ability-to-repay requirements adopted by the Board in 2008 for higher-priced mortgage loans. I will discuss the Board's proposal to implement the Dodd-Frank Act "ability-to-repay" provisions later in my testimony.
+
+[SECTION]
+
+Restrictions on Prepayment Penalties. Prepayment penalties can prevent borrowers from refinancing their loans to avoid monthly payment increases or if their loan becomes unaffordable for other reasons. Under the final rules, prepayment penalties are prohibited if the loan's monthly payment can change during the initial four years after consummation. For other higherâpriced loans, a prepayment penalty cannot last for more than two years.
+
+[SECTION]
+
+Escrow Accounts. The Board's July 2008 rules also require creditors to establish an escrow account for property taxes and homeowner's insurance for all first-lien mortgage loans above the higher-priced threshold. This addresses the concern that the absence of escrows in the subprime market increases the risk that consumers' borrowing decisions will be based on misleading low payment quotes that do not reflect the true cost of their homeownership obligations. The rule preserves consumer choice by permitting creditors to allow consumers to opt out of the escrow account after 12 months. Subsequently, the Dodd-Frank Act codified the final rules' requirement for establishing escrow accounts, with some modifications and additions. The Dodd-Frank Act escrow provisions are the subject of a proposed rulemaking, which I will describe later in my testimony.
+
+[SECTION]
+
+2. Protections for All Loans Secured by a Consumer's Principal Dwelling
+
+[SECTION]
+
+In addition to the rules for higher-priced loans, the July 2008 final rules adopted the following protections that apply to all mortgage loans secured by a consumer's principal dwelling.
+
+[SECTION]
+
+Appraisal Independence. The final rules include provisions designed to protect the integrity of the appraisal process. These rules seek to ensure that real estate appraisers are free to use their independent professional judgment in assigning home values. Accordingly, the Board's rules prohibit lenders or brokers from coercing, influencing, or otherwise encouraging an appraiser to misstate or misrepresent the value of the property. The rules also prohibit a creditor from extending credit when the creditor has reason to know that the appraiser was encouraged to misstate or misrepresent the value of the dwelling, unless the creditor determines that the appraisal was accurate, or the creditor bases its decision on a separate appraisal that is untainted by coercion.
+
+[SECTION]
+
+Subsequently, the Dodd-Frank Act codified the anti-coercion provisions in the Board's rules, with some modifications and additions, including a provision requiring that independent appraisers receive customary and reasonable compensation for their services. The Board implemented these provisions of the Dodd-Frank Act in an interim final rule, which I will discuss later in more detail.
+
+[SECTION]
+
+Unfair Loan Servicing Practices. The Board also prohibited loan servicers from engaging in certain unfair billing practices. Specifically, the final rules prohibit servicers from failing to credit a payment to a consumer's account as of the date received. The rules also prohibit the "pyramiding" of late fees. Under the rules, servicers may not impose a late fee on a consumer when the consumer's payment was timely and made in full except for its failure to include a previously assessed late fee. In addition, the rules prohibit loan servicers from failing to provide a loan payoff statement on a timely basis after receiving a request from the consumer or any person acting on the consumer's behalf.
+
+[SECTION]
+
+Advertising Rules. The final rules also seek to ensure that mortgage loan advertisements do not contain misleading or deceptive representations. Thus, the rules require that advertisements for both closed-end loans and home equity lines of credit (HELOCs) provide accurate and balanced information about rates, monthly payments, and other features in a clear and conspicuous manner. In addition, the Board used its authority under HOEPA to prohibit several deceptive or misleading advertising practices in advertisements for closed-end mortgage loans.2 For example, an advertisement for a variable rate loan may not use the word "fixed" in referring to the interest rate or payment unless the advertisement includes an equally prominent statement of the time period for which the rate or payment is fixed. The rules also prohibit misrepresentations about government endorsement of the loan program and misleading claims of "debt elimination."
+
+[SECTION]
+
+Earlier Cost Disclosures. To assist consumers in navigating today's complex market for mortgage products, the final rules require lenders to provide consumers with transaction-specific cost disclosures earlier in the application process, so that they can be used by consumers while shopping for a mortgage loan. Under the July 2008 rules, creditors must provide a good faith estimate of the loan costs and scheduled payments within three days after the creditor receives the consumer's application. The rule applies to any closed-end home-secured loan, including home refinance loans and home-equity loans. (Previously, early cost estimates were required only for home-purchase loans.) To ensure that consumers are able to use the information when comparing mortgage loans, consumers cannot be charged any fee until after they receive the early disclosures, except a reasonable fee for obtaining the consumer's credit history.3
+
+[SECTION]
+
+B. The Board's Rules on Loan Originator Compensation
+
+       In September 2010, the Board issued a final rule regulating mortgage originator compensation practices to fulfill its responsibility under HOEPA to prohibit practices in connection with mortgage loans that the Board finds to be unfair or deceptive. The effective date of the rule was delayed until April 2011 to provide sufficient time for creditors and loan originators to make the necessary adjustments to their compensation agreements and practices.
+
+[SECTION]
+
+The final rule addresses the two basic ways in which originator compensation is paid. In so-called "creditor-pay" transactions, the lender makes a payment to the loan originator, which is funded by the consumer's payment of a higher interest rate. In the second model, called "consumer-pay" transactions, the consumer pays the loan originator directly, either from existing funds or from the loan proceeds. The final rule regulates the manner in which loan originators may be compensated, but not the amount. The rule has three major components.
+
+[SECTION]
+
+First, with respect to "creditor-pay" transactions, the Board's rule prohibits loan originators from receiving compensation in an amount "that is based on any of the transaction's terms or conditions," except the amount of credit extended. This rule applies to loan originator compensation that is paid by a bank or other creditor to its loan officer employees as well as to compensation paid by the creditor to a mortgage broker. This portion of the rule is designed to address the concern that loan originators who are paid out of the interest rate in the form of a "yield spread premium" have a conflict of interest in their dealings with consumers because originators have a personal incentive to offer the consumer an interest rate that is higher than the best rate for which the consumer qualified. Under the rule, consumers still have the option of funding their upfront closing costs, including originator compensation, through a higher interest rate, as long as the amount of originator compensation does not vary based on the rate or other loan terms.
+
+[SECTION]
+
+Second, for consumer-pay transactions, the final rule states that if the consumer directly compensates a loan originator, compensation may not be paid to a loan originator by any other person in connection with the transaction. This provision addresses the problem that loan originators were frequently compensated by both the consumer and the creditor in a manner that was not transparent to consumers and that could lead consumers to believe, wrongly, that by paying a loan originator directly, the loan originator would work on their behalf to find the most favorable loan. One consequence of this prohibition is that in consumer-pay transactions, a mortgage brokerage firm that is paid directly by the consumer may not pay a commission specific to that transaction to its loan officer.4 Because the restriction only covers payments that are specific to the particular transaction, a brokerage firm that is paid by the consumer directly can still provide its loan officers with incentive compensation (in addition to salaries or hourly wages) without violating the rule.5
+
+[SECTION]
+
+Finally, the final rule prohibits loan originators from "steering" consumers to consummate a transaction with a particular creditor based on the fact that the loan originator will receive greater compensation from that creditor. This provision responds to concerns that in creditor-pay transactions, a mortgage broker who works with a number of creditors could influence the consumer to consummate a loan with the creditor whose compensation of the loan originator is highest, even though the loan carries a higher interest rate and is not in the consumer's interest. Thus, this aspect of the final rule applies only in creditor-pay transactions.
+
+[SECTION]
+
+In March 2011, two lawsuits were filed by trade associations representing mortgage brokers challenging the Board's September 2010 final rule on loan originator compensation. Brokers' representatives asserted that the Board should not have issued final rules but should have instead allowed the Bureau to address the issue of loan originator compensation in a future rulemaking under the Dodd-Frank Act. The brokers also asserted that consumer disclosures should be sufficient to allow consumers to make informed decisions and that substantive restrictions are not needed. Both lawsuits have been dismissed, and compliance with the Board's rules has been mandatory since April.
+
+[SECTION]
+
+The Board issued the September 2010 final rules after giving much consideration to various alternatives. Concerns had been raised during the mortgage crisis that some consumers obtained unaffordable loans that carried interest rates that were higher than the best rate for which they qualified. In response to increasing mortgage defaults, in 2007 the Board held hearings and solicited public comments on how the Board might use its rulemaking authority to prevent abuses in the subprime lending market while still preserving responsible lending. Commenters raised concerns about the fairness and transparency of creditors' practice of compensating brokers out of the yield spread premium. These commenters noted that consumers generally are not aware of these payments from creditors to brokers, or that such payments increase consumers' interest rates. Commenters also stated that consumers may mistakenly believe that a broker seeks to obtain the best interest rate available for them.
+
+[SECTION]
+
+To address the heightened concerns regarding the conflict of interest presented by mortgage broker compensation, in January 2008, the Board proposed a rule that would require mortgage brokers to disclose clearly and conspicuously to consumers their total compensation (including any portion paid by the creditor as a "yield spread premium") before obtaining the consumer's written agreement. Brokers would also have to disclose that a creditor payment to the broker could influence the broker to offer the consumer loan terms that would not be in the consumer's interest or were not the most favorable terms the consumer could obtain. Representatives of mortgage brokers opposed this disclosure proposal.6 Brokers also opposed disclosures concerning loan originator compensation that were adopted by the Department of Housing and Urban Development (HUD) in 2008 under the Real Estate Settlement Procedures Act (RESPA).
+
+[SECTION]
+
+Based on the results of consumer testing and other information, the Board declined to adopt the proposed disclosures for mortgage broker compensation when the Board issued the July 2008 final rules under HOEPA. The Board had anticipated that the proposed disclosures would increase transparency and increase competition in the market for brokerage services. However, the results of the Board's one-on-one interviews with consumers suggested that the proposed agreement and disclosures would confuse consumers and undermine their decision making rather than improve it.
+
+[SECTION]
+
+Concluding that disclosures alone would not be sufficient to allow consumers to avoid unfair practices related to loan originator compensation, in August 2009, the Board proposed to use its authority under HOEPA to adopt substantive rules that would prohibit certain originator compensation practices that the Board found to be unfair. The September 2010 final rules on originator compensation are substantially similar to the Board's August 2009 proposal.
+
+[SECTION]
+
+In issuing the final rules, the Board considered the recently enacted provisions in Section1403 of the Dodd-Frank Act, which address the same concerns. The Board believed that the rules it proposed in August 2009 were consistent with the provisions in the Dodd-Frank Act. The Board recognized, however, that there were some differences and that, as drafted, the Board's proposal would not fully implement the provisions in Section 1403. Changes to the Board's proposal to implement Section 1403 would have called for the issuance of a new proposed rulemaking.7 The Board determined the best way to effectuate Section 1403's legislative purpose and eliminate, without further delay, the unfair practices that the Congress sought to prohibit was to finalize the 2009 proposal. Going forward, the Bureau will be responsible for issuing rules that fully implement the loan originator provisions in Section 1403.
+
+[SECTION]
+
+C. Rules Implementing Title XIV of the Dodd-Frank Act
+
+       Title XIV of the Dodd-Frank Act constitutes the "Mortgage Reform and Anti-Predatory Lending Act." Among other things, Title XIV amends TILA to establish minimum underwriting standards to implement the statute's requirement that creditors determine that the consumer has a reasonable ability to repay the loan according to its terms. Title XIV also imposes new requirements for loan originators, high-cost mortgages, escrow accounts, and residential real estate appraisals.
+
+[SECTION]
+
+The Board's general rulemaking authority under TILA will transfer to the Bureau on the designated transfer date, which is July 21, 2011. Prior to that date, the Board continues to be responsible for implementing TILA, including the amendments made by Title XIV of the Dodd-Frank Act. Accordingly, following enactment of the Dodd-Frank Act, the Board has continued to fulfill its statutory responsibilities under TILA by issuing regulatory proposals to implement the provisions in Title XIV.
+
+[SECTION]
+
+1. Appraisal Independence
+
+[SECTION]
+
+Independent and credible real estate valuations are critical to prudent residential mortgage lending. The information that appraisals provide on a property's market value also assists consumers in making informed borrowing decisions. Thus, federal banking regulators have stressed to financial institutions the importance of quality appraisals and an independent appraisal process. Federal banking agencies initially adopted prudential appraisal regulations for the institutions they supervise in 1990, and subsequently issued supervisory guidance clarifying the agencies' expectations for institutions' appraisal process.8
+
+[SECTION]
+
+The most recent supervisory guidance, issued by the agencies in 2010, reflects recent changes in industry appraisal practices including lenders' increased use of third-party appraisal management companies (AMCs). These guidelines remind financial institutions that, if a third party performs all or part of their appraisal function, the institutions remain responsible for ensuring that the third party complies with all applicable laws and regulations.
+
+[SECTION]
+
+As I discussed earlier, in July 2008, the Board issued final rules to strengthen the valuation process. These rules prohibited coercion of appraisers by creditors, mortgage brokers, and their affiliates. Subsequently, the Dodd-Frank Act codified the anti-coercion provisions in the Board's July 2008 final rules, while also making some modifications and additions, including a provision requiring that independent appraisers receive customary and reasonable compensation for their services. The Dodd-Frank Act directed the Board to issue interim final rules to implement the act's appraisal independence provisions within 90 days after enactment.
+
+[SECTION]
+
+Consistent with this mandate, in October 2010, the Board issued for public comment interim final rules on appraisal independence. These interim final rules include several provisions that protect the integrity of the appraisal process. As with the Board's 2008 final rules, the interim final rules prohibit coercion and other similar actions designed to cause appraisers to base the appraised value of properties on factors other than their independent judgment. For example, they prohibit a party from withholding or threatening to withhold timely payment from a person that prepares an appraisal because the person did not value the consumer's principal dwelling at or above a certain amount.
+
+[SECTION]
+
+The 2010 interim final rules also prohibit appraisers and appraisal management companies from having a financial or other interest in the property or the credit transaction that is the subject of the appraisal. To facilitate compliance, the interim final rules provide a "safe harbor" for creditors that observe certain restrictions on the selection, supervision, and compensation of appraisers. Under the interim final rules, a creditor or settlement service provider that has information about material misconduct by an appraiser must file a report with the appropriate state licensing authorities.
+
+[SECTION]
+
+To protect the quality of appraisals, the Dodd-Frank Act also requires that a creditor and its agent pay an independent "fee appraiser" at a rate that is that is customary and reasonable for the geographic market where the property is located. To implement this provision, the interim final rules do not establish a minimum fee schedule, but instead provide two alternative methods that creditors or their agents may use to establish an appropriate fee. First, a creditor and its agent are presumed to comply if the fee amount paid to the appraiser is reasonably related to the recent rates paid for appraisal services in the relevant geographic market and the creditor or agent has adjusted the recent rate after taking into account specified factors, such as the type of property, the scope of work, and the appraiser's qualifications and experience.9
+
+[SECTION]
+
+Second, a creditor or its agent is also presumed to comply if it determines the fee by relying on third-party information, such as a government agency fee schedule, an academic study, or an independent private-sector survey. Consistent with the Dodd-Frank Act's requirements, third-party surveys and similar studies must not include fees paid to appraisers by appraisal management companies.
+
+[SECTION]
+
+Compliance with the interim final rules on appraisal independence became mandatory on April 1, 2011. Thus, the rules have only been in effect for a little more than 90 days. During this time, some fee appraisers have reported that the fees offered by appraisal management companies have not increased as they had expected, and therefore, they express concern about whether appraisal management companies are complying with the "customary and reasonable" fee requirement. However, such determinations must be made case-by-case, based on the particular facts and circumstances. The Board has and will continue to review such complaints for the institutions it supervises, while forwarding complaints about other institutions to the appropriate federal or state agency.
+
+[SECTION]
+
+Going forward, the Board and the other federal banking agencies, the Federal Housing Finance Agency, and the Bureau, will share responsibility for jointly issuing permanent rules on appraisal independence. In developing permanent rules, we will consider the public comments received on the October 2010 interim final rules as well as the experience we have gained through the examination process and the handling of the complaints we have received since the interim rules became effective.
+
+[SECTION]
+
+2. Escrow Accounts
+
+[SECTION]
+
+As discussed previously, in July 2008, the Board issued final rules requiring creditors to establish an escrow account for property taxes and homeowner's insurance for all higher-priced first-lien mortgage loans. This requirement addresses the concern that the absence of escrows in the subprime market increases the risk that consumers' borrowing decisions will be based on misleading low payment quotes that do not reflect the true cost of their homeownership obligations. Under these rules, a creditor may allow consumers to opt out of the escrow account after 12 months.
+
+[SECTION]
+
+In March 2011, the Board issued a final rule to implement a provision of the Dodd-Frank Act that increased the annual percentage rate (APR) threshold used to determine whether a mortgage lender is required to establish an escrow account for "jumbo" mortgage loans. Jumbo loans are loans that exceed the conforming loan-size limit for purchase by Freddie Mac, as specified by the legislation. Under the July 2008 final rules, a first-lien mortgage loan is considered a higher-priced mortgage loan if its APR is 1-1/2 percentage points or more above the current average prime offer rate. As amended by the Dodd-Frank Act, the escrow requirement applies to first-lien jumbo loans only if the loan's APR is 2-1/2 percentage points or more above the average prime offer rate. The March 2011 final rule became effective on April 1, 2011.
+
+[SECTION]
+
+Also in March 2011, the Board published proposed rules to implement changes to the escrow account requirement that are mandated by the Dodd-Frank Act. The proposed rules would expand the minimum period for mandatory escrow accounts from one to five years and, under certain circumstances, such as when the consumer is delinquent or in default, for a longer period of time. In addition, the proposal would establish two new disclosures relating to escrow accounts. One disclosure would be required three business days before consummation of a mortgage transaction for which an escrow account will be established. This disclosure would explain, among other things, what an escrow account is and how it works, and would state the risk of not having an escrow account. The Dodd-Frank Act requires such a disclosure for higherâpriced mortgage loans that have mandatory escrow accounts, but the Board proposed to require the same disclosure for all mortgage loans that have escrow accounts.
+
+[SECTION]
+
+The second disclosure would be given to consumers before a mortgage transaction is consummated without an escrow account or before an escrow account on an existing mortgage loan will be cancelled. This disclosure would explain escrow accounts, the risk of not having an escrow account, and the potential consequences of failing to pay home-related costs, such as taxes and insurance, in the absence of an escrow account.
+
+[SECTION]
+
+Under the Dodd-Frank Act, the Board is authorized to exempt certain creditors from the escrow requirements if they operate predominantly in rural or underserved areas and originate a limited number of loans that they hold in portfolio. Creditors would be eligible for the exemption if they annually originate and retain the servicing rights to 100 or fewer loans and do not otherwise maintain escrow accounts for the mortgage loans they service. The proposed rule seeks to exempt creditors that meet the statutory criteria and that cannot cost-effectively establish escrow accounts. The exemption would permit these creditors to continue offering mortgage credit to consumers rather than leave the higher-priced loan market. Consistent with the exemption's purpose, the proposed rule would limit the definition of "rural" to those areas most likely to have only limited sources of mortgage credit.
+
+[SECTION]
+
+3. Dodd-Frank Act Requirements on Ability-to-Repay
+
+[SECTION]
+
+In April 2011, the Board published for public comment proposed rules that would implement provisions of the Dodd-Frank Act that seek to strengthen mortgage underwriting procedures. The statute requires a creditor to make a reasonable and good faith determination that the consumer will have a reasonable ability to make the mortgage payments, including any mortgage-related obligations (such as property taxes). The Board's existing rules prohibit a creditor from making a higher-priced mortgage loan without regard to the consumer's ability to make the loan payments from income or assets other than the home. The Dodd-Frank Act expands the ability-to-repay requirement to cover any consumer credit transaction secured by a dwelling regardless of how the loan is priced (excluding open-end credit plans, timeshare plans, reverse mortgages, and temporary loans).
+
+[SECTION]
+
+Consistent with the act, the Board's proposed rule would provide four options for complying with the ability-to-repay requirement. First, a creditor can meet the general abilityâtoârepay standard by considering and verifying specified underwriting factors, such as the consumer's income or assets. Second, a creditor can make a "qualified mortgage," which provides the creditor with special protection from liability provided the loan does not have certain features, such as negative amortization or balloon payment; the fees are within specified limits; and the creditor underwrites the mortgage payment using the maximum interest rate in the first five years. Third, a creditor operating predominantly in rural or underserved areas can make a qualified mortgage with a balloon payment. This option is meant to preserve access to credit for consumers located in rural or underserved areas where banks originate balloon loans to hedge against interest rate risk for loans held in portfolio. Finally, a creditor can refinance a "nonâstandard mortgage" with risky features into a more stable "standard mortgage" with a lower monthly payment. This option is meant to preserve access to streamlined refinancing.
+
+[SECTION]
+
+Because rulemaking authority for TILA will transfer to the Bureau on July 21, 2011, the Board will not finalize this proposal. Public comments are due on July 22, 2011. Comments received by the Board will be transferred to the Bureau, which will assume responsibility for developing final rules.
+
+[SECTION]
+
+II. The Board's Efforts to Improve Mortgage Disclosures
+
+       The Board issued three regulatory proposed rules as part of its comprehensive review of mortgage disclosures under TILA. The first phase of the review consisted of two proposals issued in August 2009, which would reform the consumer disclosures under TILA for closed-end mortgage loans and HELOCs. A third proposal, issued in September 2010, proposed changes to the disclosures for reverse mortgages, new disclosures for loan modifications, restrictions on certain advertising practices and sales practices for reverse mortgages, and changes to the disclosure obligations of loan servicers. The third proposal also included changes to the disclosures consumers receive explaining their right to rescind certain loans and would have clarified the responsibilities of the creditor if a consumer exercises this rescission right. In response to the three proposals, the Board received more than 5,000 comments expressing divergent views on many substantive and technical issues.
+
+[SECTION]
+
+A. Closed-end Mortgage Disclosures
+
+       To shop for and understand the cost of credit, consumers must be able to identify and understand the key terms of the mortgage. In formulating proposed revisions to Regulation Z, which implements TILA, the Board used the results of consumer testing to ensure that the most essential information is provided at a suitable time using content and formats that are clear and conspicuous. With this in mind, in August 2009, the Board proposed to revise the disclosures for closed-end mortgage loans to highlight potentially risky features such as adjustable rates, prepayment penalties, and negative amortization. The disclosure would also show consumers how much their monthly payment might increase for an adjustable rate loan.
+
+[SECTION]
+
+The Board also proposed to improve the disclosure of the APR so it captures most of the fees and settlement costs paid by consumers. As proposed, lenders would be required to include in the disclosure a graph that illustrates how the consumer's APR compares to the average rate offered to borrowers with excellent credit. The Board also proposed to require lenders to provide final TILA disclosures so that consumers receive them in all cases at least three business days before loan closing, even if there have been no changes from the early estimate provided at application.
+
+[SECTION]
+
+B. HELOC Disclosures
+
+       The Board also proposed in August 2009 an entirely new disclosure regime for HELOCs. The proposal addressed the timing, content, and format of the disclosures creditors provide throughout the life of these open-end credit plans. In addition, the HELOC proposal would strengthen protections for consumers who have their home equity lines suspended or reduced in a declining market.
+
+[SECTION]
+
+Currently, consumers receive lengthy, generic disclosures at application. Under the proposal, consumers would receive at application a new one-page summary containing basic information about HELOCs and the associated risks. Shortly after application, consumers would receive a disclosure that reflects the specific terms of their credit plans. At account opening, lenders would provide final disclosures in the same format to facilitate comparison with the earlier disclosures. Throughout the life of the plan, lenders would provide enhanced periodic statements, showing the total amount of interest and fees charged for the statement period and the year to date.
+
+[SECTION]
+
+In addition, the proposal would prohibit creditors from terminating an account for payment-related reasons unless the consumer is more than 30 days late in making a payment. The Board further proposed to strengthen the consumer protections that apply when a consumer's credit line has been suspended or reduced, such as when property value has declined. Creditors would have to provide additional information about the reasons for the action and about the consumers' right to request reinstatement of the credit line. The rules also would require lenders to promptly investigate and respond to consumers' requests to have their credit lines reinstated.
+
+[SECTION]
+
+C. Reverse Mortgages
+
+       In September 2010, the Board proposed significant changes to enhance consumer protections for reverse mortgage transactions. Under the proposal, the timing, content, and format of reverse mortgage disclosures would be changed to make the disclosures more useful to consumers. Currently, consumers typically receive lengthy disclosures at the time they apply that do not explain the particular features unique to reverse mortgages. As proposed, however, consumers would receive disclosures on or with the application form, using simple language to highlight the basic features and risks of reverse mortgages. Shortly after filling out the application, consumers would receive transaction-specific disclosures that reflect the actual terms of the reverse mortgage being offered.
+
+[SECTION]
+
+In developing the proposal, the Board recognized that disclosures alone may not always be sufficient to protect consumers from unfair practices related to reverse mortgages. Reverse mortgages are complex products available to older consumers, some of whom may be more vulnerable to abusive practices. Concerns existed that some consumers, in order to obtain a reverse mortgage, have been forced to buy financial products that can be costly or may not be beneficial, such as annuities or long-term care insurance. Consequently, the proposal would address these concerns by prohibiting creditors from conditioning a reverse mortgage on the consumer's purchase of another financial or insurance product. Consumers would also be required to receive counseling about reverse mortgages before a creditor could impose nonrefundable fees or close the loan.
+
+[SECTION]
+
+D. Impact of the Dodd-Frank Act
+
+       On February 1, 2011, the Board announced that it did not expect to finalize the three pending mortgage disclosure rulemakings under TILA prior to the transfer of authority for such rulemakings to the Bureau. Under the Dodd-Frank Act, general rulemaking authority for TILA is scheduled to transfer to the Bureau on July 21, 2011. The Dodd-Frank Act also requires that the Bureau issue a proposal within 18 months after the designated transfer date to combine, in a single form, the mortgage disclosures required by TILA and the disclosures required by RESPA. In light of that mandate and the upcoming transfer date, the Board carefully evaluated whether there would be public benefit in proceeding with the disclosure rulemakings initiated with the Board's August 2009 and September 2010 proposals. Because the Board's 2009 and 2010 TILA proposals would substantially revise the disclosures for mortgage transactions, any new disclosures adopted by the Board would be subject to the Bureau's further revision in carrying out its mandate to combine the TILA and RESPA disclosures. In addition, a combined TILAâRESPA disclosure rule could well be proposed by the Bureau before any new disclosure requirements issued by the Board could be fully implemented by creditors.
+
+[SECTION]
+
+For these reasons, the Board determined that proceeding with the 2009 and 2010 proposals would not be in the public interest. Although there are specific provisions of these Board proposals that would not be affected by the Bureau's development of joint TILA-RESPA disclosures, adopting those portions of the Board's proposals in a piecemeal fashion would be of limited benefit, and the issuance of multiple rules with different implementation periods would create compliance difficulties. Accordingly, the Board did not finalize the August 2009 and September 2010 proposals, which will be transferred and become proposals of the Bureau.
+
+[SECTION]
+
+Conclusion 
+
+       The Federal Reserve remains committed to carrying out its responsibilities for consumer protection, which will remain a priority for the Board notwithstanding the upcoming transfer of various rule-writing authorities to the Bureau. The Federal Reserve will retain a significant role in supervising financial institutions for compliance with both consumer protection regulations and the Community Reinvestment Act.
+
+[SECTION]
+
+During the mortgage crisis of the past few years, we have witnessed the importance of effective consumer protection in preserving not only the well-being of particular communities, but more importantly, of the economy as a whole. The effectiveness of consumer regulations depends critically on strong supervision and enforcement, and the Federal Reserve will continue to take seriously its responsibility in these areas.
+
+[SECTION]
+
+Attachment (57 KB PDF)
+
+[SECTION]
+
+The Board derives the average prime offer rates from Freddie Mac's Primary Mortgage Market Survey and publishes these rates on a weekly basis. Based on the available data, the "higher-priced" thresholds adopted by the Board are intended to cover all, or virtually all, of the subprime market. Return to text
+
+[SECTION]
+
+In September 2010, the Board proposed to apply these same prohibitions to advertisements for HELOCs. Return to text
+
+[SECTION]
+
+In July 2008, the Congress enacted the Housing and Economic Recovery Act of 2008, which included the Mortgage Disclosure Improvement Act (MDIA). The MDIA codified the Board's new requirements for providing earlier TILA disclosures within three days after application and also added some additional requirements, including a requirement that these early cost estimates be provided at least seven days before the loan closing. The Board issued final rules implementing the MDIA in May 2009. Return to text
+
+[SECTION]
+
+The Board believed it was necessary to prohibit a brokerage firm from sharing the consumer-paid compensation with its loan officer to prevent the loan officer from influencing whether the firm's compensation will be paid by the creditor or directly by the consumer and, therefore, potentially steering consumers to more expensive transactions. This could occur because in a "creditor-pay" transaction, the loan originator cannot be paid on the basis of the loan's rate or other terms (except the amount of the loan), so the amount of compensation the loan originator may receive is fixed in advance and not negotiated with the consumer. However, this limitation does not apply in a "consumer-pay" transaction, where a loan originator can negotiate any compensation amount that the consumer will accept. Under the Board's rule a loan officer does not receive a portion of the compensation paid directly by the consumer, which eliminates the incentive for steering consumers to a "consumer-pay" loan that is more expensive. Return to text
+
+[SECTION]
+
+For example, a brokerage firm could pay bonuses to loan officers who exceed a threshold number of loans within a specified period. Return to text
+
+[SECTION]
+
+One of the arguments made by the brokers was that the Board should not mandate TILA disclosures concerning the loan originator's compensation in a consumer credit transaction unless the Board is also able to mandate that creditors disclose to consumers the amount the creditor will earn if it sells the loan to a secondary market investor. Return to text
+
+[SECTION]
+
+The Board's 2009 proposal and the final rules were based on the Board's authority under TILA to prohibit unfair or deceptive practices in connection with mortgages. The prohibitions in Section 1403 are intended to be implemented without the need for findings under the "unfair or deceptive" standard that applied to the Board's rulemaking. Return to text
+
+[SECTION]
+
+The 1990 prudential appraisal regulations were developed by the Federal Financial Institutions Examination Council pursuant to Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989. These regulations applied to institutions supervised by the Federal Reserve Board, the Federal Deposit Insurance Corporation, the National Credit Union Administration, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision. Return to text
+
+[SECTION]
+
+In addition, to qualify for this presumption the creditor must not have engaged in any anti-competitive actions in violation of state or federal law that affect the appraisal fee, such as price-fixing or restricting others from entering the market. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

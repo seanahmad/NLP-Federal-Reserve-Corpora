@@ -1,0 +1,229 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 22, 2009
+
+[SECTION]
+
+Patricia White, Associate Director, Division of Research and Statistics
+
+[SECTION]
+
+Before the Subcommittee on Securities, Insurance, and Investment, Committee of Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Reed, Ranking Member Bunning, and other members of the Subcommittee, I appreciate this opportunity to provide the Federal Reserve Board's views on the development of a new regulatory structure for the over-the-counter (OTC) derivatives market. The Board brings to this policy debate both its interest in ensuring financial stability and its role as a supervisor of banking institutions. Today, I will describe the broad objectives that the Board believes should guide policymakers as they devise the new structure and identify key elements that will support those objectives. Supervision of derivative dealers is a fundamental element of the oversight of OTC derivative markets, and I also will discuss the steps necessary to ensure these firms employ adequate risk management.
+
+[SECTION]
+
+Policy ObjectivesMitigation of Systemic RiskThe events of the last two years have demonstrated the potential for difficulties in one part of the financial system to create problems in other sectors and in the macroeconomy more broadly. OTC derivatives appear to have amplified or transmitted shocks. An important objective of regulatory initiatives related to OTC derivatives is to ensure that improvements to the infrastructure supporting these products reduce the likelihood of such transmissions and make the financial system as a whole more resilient to future shocks.
+
+[SECTION]
+
+Centralized clearing of standardized OTC products is a key component of efforts to mitigate such systemic risk. One method of achieving centralized clearing is to establish central counterparties, or CCPs, for OTC products. Market participants have already established several CCPs to provide clearing services for some OTC interest rate, energy, and credit derivative contracts. Regulators both in the United States and abroad are seeking to speed the development of new CCPs and to broaden the product line of existing CCPs.
+
+[SECTION]
+
+The Board believes that moving toward centralized clearing for most or all standardized OTC products would have significant benefits. If properly designed, managed, and overseen, CCPs offer an important tool for managing counterparty credit risk, and thus they can reduce risk to market participants and to the financial system. The benefits from centralized clearing will be greatest if CCPs are structured so as to allow participation by end users within a framework that ensures protection of their positions and collateral.
+
+[SECTION]
+
+Infrastructure changes in OTC markets will be required to move most standardized OTC contracts into centralized clearing systems in a way that ensures the risk-reducing benefits of clearing are realized. Such changes include agreement on the key terms that constitute "standardization" and the development of electronic systems for feeding trade data to CCPs--in other words, building better pipes to the CCPs. For their part, CCPs must have in place systems to manage the risk from this new business. Of particular importance are procedures to handle defaults in OTC products that are cleared, because these products are likely to be less liquid than the exchange-traded products that CCPs most commonly handle.
+
+[SECTION]
+
+Although implementation challenges no doubt lie ahead, the Board will work to ensure that these challenges are addressed quickly and constructively. Major dealers have committed to making improvements in back-office processes such as increased electronic processing of trades and speedier confirmation of trades for equity, interest rate, commodity, foreign exchange, and credit products. These back-office improvements are important prerequisites for centralized clearing, and efforts by supervisors to require dealers to improve these practices have helped lay the groundwork for developing clearing more quickly. Dealers also have committed to clearing standardized OTC products, and they will be expected to demonstrate progress on this commitment even as the broader regulatory reform debate evolves. Clearly there is much to be done, and we are committed to ensuring that the industry moves promptly. An important role of policymakers may be establishing priorities so that efforts are directed first at the areas that offer the greatest risk-reduction potential.
+
+[SECTION]
+
+Some market observers feel strongly that all OTC derivative contracts--not just the standardized contracts--should be cleared. Requiring CCPs to clear nonstandard instruments that pose valuation and risk-management challenges may not reduce risk for the system as a whole. If, for example, the CCPs have difficulty designing margin and default procedures for such products, they will not be able to effectively manage their own counterparty credit risk to clearing members. In addition, there are legitimate economic reasons why standardized contracts may not meet the risk-management needs of some users of these instruments. A flexible approach that addresses systemic risk with respect to standardized and nonstandardized OTC derivatives, albeit in different ways, is most likely to preserve the benefits of these products for businesses and investors.
+
+[SECTION]
+
+That said, however, it is particularly important that the counterparties to nonstandardized contracts have robust risk-management procedures for this activity. Nonstandard products pose significant risk-management challenges because they can be complex, opaque, illiquid, and difficult to value. Supervisors must ensure that their own policies with respect to risk management and capital for firms active in nonstandardized products fully reflect the risks such products create. If supervisors are not comfortable with their ability to set and enforce appropriate standards, then the activity should be discouraged. I will return to a broader discussion of supervision and risk management later.
+
+[SECTION]
+
+Improving the Transparency and Preventing the Manipulation of MarketsThroughout the debates about reform of the OTC derivatives market, a persistent theme has been concern that the market is opaque. Discussions of market transparency generally recognize the multiple audiences that seek information about a market--market participants, the public, and authorities--and the multiple dimensions of transparency itself--prices, volumes, and positions. Participants, the public, and authorities seek different information for different purposes. Transparency is a tool for addressing their needs and, in the process, fostering multiple policy objectives. Transparency to market participants supports investor protection as well as the exercise of market discipline, which has sometimes clearly been lacking. Transparency to the public helps to demystify these markets and to build support for sound public policies. Transparency to authorities supports efforts to pursue market manipulation, to address systemic risk through ongoing monitoring, and, when necessary, to manage crises.
+
+[SECTION]
+
+Substantial progress in improving the transparency of volumes and positions in the credit default swap (CDS) market occurred with the creation of the Depository Trust Clearing Corporation's Trade Information Warehouse, a contract repository that contains an electronic record of a large and growing share of CDS trades. Participation in that repository is voluntary, however, and its present coverage is limited to credit products. Nevertheless, major dealers, who are counterparties to the vast majority of CDS trades, have recently committed to supervisors that they will record all their CDS trades in the warehouse by mid-July.
+
+[SECTION]
+
+The Board supports creating contract repositories for all asset classes and requiring a record of all OTC derivative contracts that are not centrally cleared to be stored in these repositories. The Trade Information Warehouse currently makes aggregate data on CDS contracts public. Aggregate data on volumes and open interest should be made public by other repositories that are created, and more detailed data should be made available to authorities to support policy objectives related to the prevention of manipulation and systemic risk.
+
+[SECTION]
+
+Enhancing price transparency to the broader public through post-trade reporting of transaction details is also an important goal. Even where contracts are not traded on exchanges or on regulated electronic trading systems, the prompt dissemination of information can provide significant benefits to market participants on a range of valuation and risk-management issues. The Board believes that policymakers should pursue the goal of prompt dissemination of prices and other trade information for standardized contracts, regardless of the trading venue.
+
+[SECTION]
+
+Supervision and Risk Management Although the creation of CCPs will provide an important new tool for managing counterparty credit risk, enhancements to the risk-management policies and procedures for individual market participants will continue to be a high priority for supervisors. If the reforms outlined here are implemented, the firms currently most active in bilateral OTC markets will become the firms most active as clearing members of CCPs. As such, the quality of their internal risk management is important to the CCP because sound risk management by all clearing members is critical if centralized clearing is to deliver risk-reducing benefits. Supervisors have recognized that financial institutions must make changes in their risk-management practices for OTC derivatives by improving internal processes and controls and by ensuring that traditional credit risk-management disciplines are in place for complex products, regardless of the form they take. Efforts already under way include improving collateralization practices to limit counterparty credit risk exposures and examining whether the current capital regime can be improved to increase incentives for sound risk management.
+
+[SECTION]
+
+An important parallel process involves ensuring that firms that are large and complex enough to pose risks to the broader system are subject to appropriate oversight and resolution authority, even if they operate outside the traditional regulated banking system. The Board believes that all systemically critical firms should have a consolidated supervisor, as well as be subject to the oversight of any systemic regulator that might be created. The scope of a firm's activities in the OTC derivatives market will likely be an important factor in making that assessment.
+
+[SECTION]
+
+ConclusionPolicy issues associated with OTC derivatives are not limited to the United States. The markets are global. Past work to strengthen OTC derivatives markets has often involved a large measure of international coordination, and the current policy issues are unlikely to be fully and effectively addressed without broad-based input.
+
+[SECTION]
+
+Despite the problems that have been associated with OTC derivatives during the financial crisis, these instruments remain integral to the smooth functioning of today's financial markets. Much work must be done to strengthen the market further. But with effective oversight by supervisors, prudent risk management by end users and dealers, and appropriate changes in the regulatory structure, the systemic risks stemming from OTC derivatives can be reduced, and derivatives can continue to provide significant benefits to the businesses and investors who use them to manage financial market risks.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

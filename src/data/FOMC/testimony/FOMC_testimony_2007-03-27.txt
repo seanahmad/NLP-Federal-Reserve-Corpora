@@ -1,0 +1,592 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 27, 2007
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Madam Chair Maloney, Ranking Member Gillmor, members of the Subcommittee, I appreciate the opportunity to discuss how current subprime practices and products affect homeownership and foreclosures, and the interagency proposed guidance on subprime mortgage lending.  Recent reports on delinquencies and foreclosures in the subprime market underscore the need for clarity regarding these matters and you are to be commended for holding this hearing today.
+
+[SECTION]
+
+My testimony will discuss the recent increases in delinquencies and foreclosures in the subprime mortgage market and some of the developments that may have contributed to these increases.  I will discuss the Federal Reserve Boardâs ongoing efforts as a banking supervisor to ensure that the institutions we supervise are managing their mortgage lending activities in a safe and sound manner, including assessing the repayment capacity of borrowers.  I will also discuss several steps the Board has undertaken to strengthen protections for consumers, including subprime borrowers, and I will discuss those efforts as well as our plans to continue this work in the near and longer term.  Finally, I will highlight our work through our Community Affairs function to support foreclosure prevention through approaches such as education and outreach to troubled borrowers at risk of losing their homes.
+
+[SECTION]
+
+The Growth of the Subprime Market and the Recent Increase in Delinquencies and Foreclosures 
+ Mortgages and the Role of the Capital Markets
+
+[SECTION]
+
+The banking system has changed dramatically since the mid-1970s.  Then, banks and savings and loans used their deposit base and other funding sources to finance, originate, and hold loans to maturity.  These financial institutions were highly exposed to their local community residential markets, and their analysis of credit risk was generally limited to reviews of individual loans.  Home mortgages had fixed rates and there were few alternative products available to consumers.
+
+[SECTION]
+
+Today, the mortgage lending business has changed dramatically with the development of national markets for mortgages, technological changes, and the advent of securitization.  The traditional book-and-hold model of mortgage lending has shifted to an originate-to-distribute model.  While commercial banks still have a significant role in the mortgage origination and distribution process, they are no longer the leading originators or holders of residential mortgages.  Securitization has allowed many financial institutions to use increasingly sophisticated strategies to package and resell home mortgages to investors.  This has resulted in increased competition and a wide variety of mortgage products and choices for consumers, in a market in which mortgage brokers and mortgage finance companies compete aggressively with traditional banks to offer new products to would-be homeowners.
+
+[SECTION]
+
+These innovations mean that insured depository institutions are now able to manage liquidity and control credit concentrations, maturities, and loan balances in portfolios much more than they could in the past through the use of financial instruments such as mortgage-backed securities.  For capital market investors, securitization has reduced transaction costs, increased transparency, and increased liquidity.
+
+[SECTION]
+
+The Growth of the Subprime Market and Increased Opportunities for Homeownership
+
+[SECTION]
+
+One of the products of this new mortgage market is subprime lending.1  Subprime lending has grown rapidly in recent years.  In 1994, fewer than 5 percent of mortgage originations were subprime, but by 2005 about 20 percent of new mortgage loans were subprime.  The expanded access to subprime mortgage credit has helped fuel growth in homeownership.  The national rate of homeownership increased from 1995 through 2006, from 65 percent to nearly 69 percent of all households.  This means that nearly 67 million households now own homes, compared to roughly 64 million 10 years ago.  All major racial and ethnic groups have made gains in homeownership, but in percentage terms the largest increases have been made by minority households.  In particular, from 1995 to 2006 the homeownership rate has increased by 7 percent among white households, 13 percent among African American households, and 18 percent among Hispanic households.  Significantly, the Federal Reserveâs Survey of Consumer Finances indicates that, from 1995 to 2004, census tracts in all income groups experienced gains in homeownership, with rates in lower-income areas growing by 6 percent, somewhat faster than the 4 percent growth rate in higher-income areas.
+
+[SECTION]
+
+Explaining Increased Delinquencies and Foreclosures
+
+[SECTION]
+
+The rise in subprime foreclosures from the multi-year lows they hit in the middle of 2005 is in part a consequence of broader economic conditions including rising interest rates and slowing house price growth.  Until recently, borrowers with adjustable rate mortgages could cope with payment increases by refinancing or in some cases selling, because of rapid house price appreciation.
+
+[SECTION]
+
+In 2006, however, mortgage interest rates hit four-year highs, the volume of home sales declined and the rate of house price appreciation decelerated or in some cases home prices fell, leaving the most recent subprime borrowers vulnerable to payment difficulties.  Subprime borrowers with ARMs have experienced the largest recent increase in delinquency and foreclosure rates, while prime borrowers experienced almost no increase in delinquencies and foreclosures.  Borrowers may not be able to avoid sharp payment increases as they could in earlier years.  Even borrowers with enough equity to refinance their adjustable rate mortgages may face difficulty finding a loan with affordable payments, as interest rates are higher than in earlier years.  However, with long-term rates unusually low relative to short-term rates, this problem is not as acute as it would be under a historically more normal configuration of interest rates.
+
+[SECTION]
+
+Moreover, an unusually large number of subprime loans have defaulted shortly after origination.  In many of these âearly payment defaults,â borrowers stopped making payments before they faced payment shocks, suggesting that in 2006 some lenders may have lowered their underwriting standards in the face of reduced borrower demand for credit.  Because of the rapid expansion of subprime lending in recent years, lenders, investors, and ratings agencies had limited data with which to model credit risk posed by new borrowers or novel mortgage types, and so may have underestimated the risk involved.  Several lenders have already been forced out of the subprime market, in part because of the wave of early payment defaults on mortgages they originated.
+
+[SECTION]
+
+Although there are some indications that the market is correcting itself, we remain concerned that over the next one to two years, existing subprime borrowers, especially those with more recently originated ARMs, may face more difficulty.  They are likely to continue to experience elevated delinquency and foreclosure rates as these loans reach their interest rate reset point and they are faced with larger monthly payments.
+
+[SECTION]
+
+The Boardâs Responses to this Growing Market
+Over the past several years, the Federal Reserve has monitored developments in subprime lending.  At the same time that subprime lending has increased homeownership, it has also been associated with higher levels of delinquency, foreclosure, and, in some cases, abusive lending practices.  While these are serious problems, the Board believes they need to be addressed in a way that preserves incentives for responsible subprime lenders so that borrowers with non-prime credit can become homeowners or access the equity in their homes, or have flexibility in refinancing their mortgages when necessary.  It is important that any actions we might take in response to these market outcomes are well calibrated and do not have unintended consequences.  Constricting the market and returning to a situation where some borrowers have very limited access to credit is not an ideal solution.  We want to encourage, not limit, mortgage lending by responsible lenders.  I would like to discuss how we approach these issues through supervision, examination, guidance and regulation.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Supervisory Activities 
+Examination and Enforcement
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Federal Reserve conducts regular examinations of its institutions for both safety and soundness and compliance with consumer protection laws.  We examine the mortgage businesses of the banks and bank holding companies that we supervise, including subprime residential portfolios.
+
+[SECTION]
+
+Safety and soundness examinations include a review of credit risk-management practices such as underwriting, portfolio risk management, and quality control processes concerning third-party originations.  In addition, examiners review stress testing, economic capital methods, and other quantitative risk-management techniques to ensure that banks are assessing the level and nature of these risks appropriately; asset securitization activity to ensure appropriate risk management and capital treatment; residential lending appraisal practices to ensure appropriate collateral valuation processes; and new product review processes to ensure that disciplined approaches are being brought to new lending products and programs.
+
+[SECTION]
+
+Regular examinations for compliance with consumer protection laws are also conducted by a specially trained cadre of examiners.   The scope of these examinations includes a review of the bankâs compliance with the Truth in Lending Act, the Real Estate Settlement Procedures Act, the Home Mortgage Disclosure Act, the Equal Credit Opportunity Act, the Community Reinvestment Act, and other federal consumer protection laws.
+
+[SECTION]
+
+Where Federal Reserve examiners observe weaknesses or noncompliance in the practices of supervised institutions, examiners document them in a report to bank management.  Corrective action is requested in the examination report and we find that bank management in most cases voluntarily addresses violations or weaknesses without the need for formal enforcement actions.  In those rare instances where the bank is not willing to address the problem, we have a full range of powerful enforcement tools at our disposal to compel corrective action.  I have listed the enforcement actions we have taken in an appendix to my testimony.  These actions may appear to be few in number, but that is because in the overwhelming majority of cases bank management corrects the weakness or problem without our having to compel them to do so.  It is also due to the fact that our institutions are not heavily engaged in subprime lending.
+
+[SECTION]
+
+Guidance and Regulations
+
+[SECTION]
+
+We have issued several pieces of guidance in concert with the other agencies to address weaknesses in underwriting and risk management at the institutions we supervise.  We have also revised regulations to address concerns about abusive practices; those regulations apply broadly throughout the mortgage industry.
+
+[SECTION]
+
+Interagency Guidelines for Real Estate Lending.  The foundation for much of the guidance we have issued throughout the last decade is the 1993 Interagency Guidelines for Real Estate Lending, which was issued pursuant to the Federal Deposit Insurance Corporation Improvement Act of 1991 (FDICIA).  FDICIA required the federal banking agencies to prescribe uniform real estate lending standards.  The final rule requires every depository institution to establish and maintain comprehensive, written real estate lending policies that are consistent with safe and sound banking practices.  A key point in this document is that prudently underwritten real estate loans should reflect all relevant credit factors, including the capacity of the borrower to adequately service the debt.
+
+[SECTION]
+
+Expanded Subprime Guidance.  The 1999 Interagency Guidance on Subprime Lending, originally issued in 1999 and expanded in 2001, discusses essential components of a well-structured risk-management program for subprime lenders.  This guidance emphasizes that lending standards should include well-defined underwriting parameters such as acceptable loan-to-value ratios, debt-to-income ratios, and minimum acceptable credit scores.  It advises that institutions actively involved in the securitization and sale of subprime loans should develop contingency plans that include alternate funding sources and measures for raising additional capital if investors lose their appetite for certain risks.
+
+[SECTION]
+
+The subprime guidance, as amended in 2001, also addresses concerns about predatory or abusive lending practices.  The agencies recognized three common characteristics of predatory lending, including making unaffordable loans based on the assets of the borrower rather than on the borrowerâs ability to repay an obligation; inducing a borrower to refinance a loan repeatedly in order to charge high points and fees each time the loan is refinanced (âloan flippingâ); or engaging in fraud or deception to conceal the true nature of the loan obligation, or ancillary products, from an unsuspecting or unsophisticated borrower.  The guidance advises institutions that higher fees and interest rates, combined with compensation incentives, can foster predatory pricing or discriminatory practices, and that institutions should take special care to avoid violating fair lending and consumer protection laws and regulations.  The agencies expressed the expectation that institutions should recognize the elevated levels of credit and other risks arising from subprime lending activities and that these activities require more intensive risk management and, often, additional capital.  The guidance also states that loans to borrowers who do not demonstrate the capacity to repay the loan, as structured, from sources other than the collateral pledged are generally considered unsafe and unsound.  Where risk-anagement practices are deemed deficient, the guidance advises examiners to criticize bank management and to require corrective actions.
+
+[SECTION]
+
+2001 Revisions to HOEPA Rules.  In 1994, Congress enacted the Home Ownership and Equity Protection Act (HOEPA) as an amendment to the Truth in Lending Act (TILA), in response to testimony before Congress about predatory home equity lending practices in underserved markets, where some lenders were making high-rate, high-fee home equity loans to cash-poor homeowners.  HOEPA identifies a class of highâcost mortgage loans through criteria keyed to the loansâ rates and fees and requires creditors to provide enhanced disclosures of, and to comply with substantive restrictions on, the terms of those loans.  The Board implemented HOEPA through revisions to TILA rules effective in 1995.
+
+[SECTION]
+
+In 2001, the Board revised the HOEPA rules in response to renewed concerns about predatory lending.  The 2001 rule changes, effective in 2002, extended HOEPAâs protections to more high-cost loans and strengthened HOEPAâs prohibitions and restrictions, including by requiring that lenders generally document and verify a consumerâs ability to repay a high-cost mortgage loan.  In addition, the rule changes addressed concerns that high-cost loans were âpackedâ with credit life insurance or other similar products that increased the loanâs cost without commensurate benefit to consumers.
+
+[SECTION]
+
+The Board also increased protections for consumers under discretionary rulemaking authority in HOEPA that authorizes the Board to prohibit unfair or deceptive practices or practices designed to evade HOEPA for all mortgage loans.  Specifically, in 2001 the Board revised the HOEPA rules to prohibit a HOEPA lender from refinancing one of its own loans with another HOEPA loan (âflippingâ) within the first year, unless the new loan is âin the borrowerâs interest.â  We also adopted a prohibition on âdemand notesâ for high-cost, closed-end mortgages to mirror the similar statutory prohibition in TILA for home equity lines of credit.  In addition, the Board prohibited creditors from evading HOEPAâs requirements for closed-end loans by documenting the transaction as an âopen-endâ line of credit when it does not qualify, because there is no expectation of repeat transactions under a reusable line.
+
+[SECTION]
+
+These three revisions to HOEPA are cases where the Board determined that it could write âbright-lineâ rules defining an unfair and prohibited practice.  However, because a determination of unfairness or deception depends heavily on the facts of an individual case, the Board has not issued other rules under this provision.  The Board has undertaken a major review of Regulation Z, the implementing regulation for the Truth in Lending Act, of which HOEPA is a part.  During this review, the Board will determine if there are opportunities to further utilize this authority in an appropriate manner.
+
+[SECTION]
+
+HMDA Loan Price Information and Expanded Coverage of Nondepository Lenders.  The Home Mortgage Disclosure Act (HMDA) requires most mortgage lenders in metropolitan areas to collect data about their housing-related lending activity, report the data annually, and make the data publicly available.  Congress authorized the Federal Reserve Board to issue regulations implementing HMDA.
+
+[SECTION]
+
+In 2002, to bring greater transparency to the subprime mortgage market, the Board made two changes to the HMDA rules: adding a requirement to report loan price information for certain higher priced loans, and extending reporting responsibilities to more independent state-regulated mortgage companies.  These changes first took effect for HMDA data collected in 2004 and disclosed in 2005.
+
+[SECTION]
+
+Based on 2004 and 2005 HMDA data, independent mortgage companies originated slightly more than half of subprime loans.  The new loan price information and the expanded coverage of nondepositories have increased our ability to detect potential problems in the subprime market and to conduct reviews of banksâ fair lending practices.  It has also facilitated the statesâ ability to oversee independent state-regulated mortgage companies.
+
+[SECTION]
+
+Guidance on Unfair or Deceptive Acts or Practices.  In March 2004, the Board and the FDIC issued guidance on Unfair or Deceptive Acts or Practices (UDAP) to state-chartered banks.  The guidance outlines the legal standards the agencies use in carrying out their responsibilities for enforcing the Federal Trade Commission Actâs prohibition of unfair or deceptive acts or practices.  The guidance is based on long-standing Federal Trade Commission policy statements that have been applied by courts.  The guidance outlines strategies for banks to use to avoid engaging in unfair or deceptive acts or practices, to minimize their own risks and to protect consumers.  Among other things, the guidance focuses on credit advertising and solicitations, loan servicing, and managing and monitoring creditorsâ employees and third-party service providers.
+
+[SECTION]
+
+2006 Guidance on Nontraditional Mortgage Product Risks.  In 2005, the Federal Reserve and the other federal agencies observed that lenders were increasingly combining nontraditional or âexoticâ mortgage loans, which defer repayment of principal and sometimes interest, with the risk-layering practices that I talked about earlier.  Of particular concern were the lack of principal amortization and the potential for negative amortization in these products.  Moreover, the easing of underwriting standards and the marketing of these products to a wider spectrum of borrowers, including those purchasing rental properties, held the potential to create larger risks.  The guidance also addresses the concern that borrowers were obtaining these loans without understanding their risks as well as their benefits.
+
+[SECTION]
+
+To address those concerns, the Federal Reserve and the other banking agencies issued guidance on nontraditional mortgage products last September.  The Interagency Guidance on Nontraditional Mortgage Product Risks highlights sound underwriting procedures, portfolio risk management, and consumer protection practices that institutions should follow to prudently originate and manage nontraditional mortgage loans.  A major aspect of this guidance is the recommendation that a lenderâs analysis of repayment capacity should include an evaluation of the borrowerâs ability to repay debt by final maturity at the fully indexed rate, assuming a fully amortizing repayment schedule.  The guidance also reminds institutions that they should clearly communicate the risks and features of these products to consumers in a timely manner, before consumers have applied for a loan.
+
+[SECTION]
+
+To complement the guidance on consumer protection, the agencies issued for comment proposed illustrations that show how institutions might explain the risks and terms to consumers in a clear and timely manner.  The agencies are reviewing the comment letters to develop final illustrations.
+
+[SECTION]
+
+Proposed Guidance on Subprime Mortgage Lending.  Earlier this month, the agencies proposed the Interagency Statement on Subprime Mortgage Lending for public comment.  This proposal specifies the same qualification standard as the nontraditional mortgage guidance and emphasizes the added dimension of risk when these products are combined with other features such as simultaneous second lien loans in lieu of a down payment, or the use of underwriting that involves little or no documentation of income or assets.  However, unlike the nontraditional mortgage guidance, which primarily targeted prime loans with the potential for negative amortization, the proposed guidance is primarily directed to loans targeted to subprime borrowers and covers fully amortizing loans.  The proposed subprime guidance also differs from earlier guidance in that it highlights the need for lenders to underwrite based not only on principal and interest but also on taxes and insurance.  And, the proposed guidance provides that lenders should inform consumers of the need to budget for taxes and insurance if escrows are not required.
+
+[SECTION]
+
+The proposed subprime guidance would apply to all depository institutions, their subsidiaries, and non-depository affiliates, but not to state-regulated independent mortgage companies.  These mortgage companies originated slightly more than half of subprime loans, according to 2004 and 2005 HMDA data.  To protect borrowers in the broader subprime market that is outside our purview, and to ensure a âlevel playing fieldâ for depository institutions and independent mortgage companies, we coordinated the development of the proposed guidance with the Conference of State Bank Supervisors (CSBS).  CSBS has committed to making every effort to encourage the states to consider proposing this guidance for state-regulated lenders.
+
+[SECTION]
+
+Public comments are due on the proposed guidance by May 7, 2007.  The agencies are particularly interested in comments on whether the guidance would unduly restrict the ability of existing subprime borrowers to refinance their loans and avoid payment shock.
+
+[SECTION]
+
+The Boardâs Plans to Make Consumer Disclosures More Effective 
+The Federal Reserve has responsibility for the regulations associated with TILA and its required disclosures.  While consumer disclosures alone cannot solve the problems that lead to foreclosures, disclosures help consumers to understand the terms and features of various mortgage products before entering into a long-term financial obligation.  To that end, the Federal Reserve Board has begun a comprehensive review of Regulation Z, which implements TILA.  Currently, the Federal Reserve is addressing credit card disclosures and expects to address mortgage cost disclosures in the next phase of the review.
+
+[SECTION]
+
+I would like to tell you what we have already done to prepare for the next phase of the TILA review, some intermediate steps we have taken to improve consumer information, and our plans for the review itself.
+
+[SECTION]
+
+The Federal Reserveâs Hearings on Home-Equity Lending: Building Sustainable Homeownership Through Responsible Lending and Informed Consumer Choice
+
+[SECTION]
+
+During the summer of 2006, the Federal Reserve held public hearings addressing sustainable homeownership in four cities.  One of the principal purposes of the hearings was to gather information to inform the Boardâs review of Regulation Z disclosures, including disclosures for ARMs and for nontraditional mortgage products such as payment option ARMs.  A significant portion of the hearings was devoted to discussing ARMs and, in particular, whether consumers receive adequate information about the features and risks associated with mortgages.  The hearings explored consumer behavior in shopping for mortgage loans and included discussions about the challenges involved in designing more effective and informative disclosures.
+
+[SECTION]
+
+At the hearings, lenders cited the strong performance of products such as payment option ARMs.  Industry representatives believed that when loans are prudently underwritten, consumers are able to benefit from the flexibility these products provide without being at risk of default.
+
+[SECTION]
+
+On the other hand, consumer advocates and state officials testified that aggressive marketing and the complexity of ARMs put borrowers at additional risk of obtaining mortgages that they do not understand and might not be able to afford.  Consumer advocates were particularly concerned about mortgage brokers and lenders âpush-marketingâ nontraditional mortgages and ARMs to low-income consumers and borrowers who live on fixed-incomes, without adequate regard for whether the products are appropriate for their particular circumstances.  They expressed concern about marketing that focuses too heavily on low initial payments that are based on discounted rates or âminimum payment optionsâ that quickly expire.  While they supported enhanced disclosures to inform borrowers about worst-case payment scenarios, they questioned whether disclosures alone can protect consumers because the products are so complex.  Accordingly, consumer advocates testified in favor of adopting legal standards that would hold brokers and lenders liable for making unaffordable mortgage loans.
+
+[SECTION]
+
+As I indicated, the Board plans to begin a review of the mortgage cost disclosures this year.  However, because rulemakings take time, the Board took more immediate steps to improve the information consumers receive about ARMs and other alternative mortgages.  These steps included revising the CHARM booklet and publishing a consumer education brochure.
+
+[SECTION]
+
+The CHARM Booklet
+
+[SECTION]
+
+The Board and the Office of Thrift Supervision recently revised the Consumer Handbook on Adjustable Rate Mortgages (CHARM booklet) to include additional information about nontraditional mortgage products, including âhybridâ ARMs that include an initial fixed-rate period.  The CHARM booklet is an effective means of delivering to consumers information about adjustable rate mortgage products because creditors are required to provide a copy of the booklet to each consumer when an application for an ARM is provided.
+
+[SECTION]
+
+The Boardâs Role in Consumer Education
+
+[SECTION]
+
+The Board has taken other steps to increase consumer awareness of the risks of nontraditional mortgage loans.  We provide consumer information, both in print and on the web, on adjustable rate, interest-only, and payment option mortgages.  We published a consumer education brochure titled: Interest-Only Mortgage Payments and Payment-Option ARMs--Are They for You?  The brochure is designed to assist consumers who are shopping for a mortgage loan.
+
+[SECTION]
+
+The Boardâs Review of Mortgage Disclosures under Regulation Z
+
+[SECTION]
+
+To ensure that consumers get timely information in a form that is readily understandable, the Board will study alternatives for improving both the content and format of disclosures, including revising the model forms published by the Board.  As a general matter, in crafting regulations, the Board seeks to gather as much information as possible by conducting outreach to the industry, consumer interest groups, consumers, regulators, and other interested parties.  We use research and survey data, consumer focus groups, and consumer testing to learn how consumers use and process information about financial services.  After regulatory proposals have been published, we obtain input through the public comment process.  In addition, we obtain input from the Boardâs Consumer Advisory Council, comprised of representatives from consumer and community organizations, financial institutions, industry trade groups, academics, and state and local officials from across the country.  And sometimes we hold public meetings such as the home-equity hearings that I mentioned before.
+
+[SECTION]
+
+In considering how to improve disclosures for ARMs and other alternative mortgage products under TILA, the Board will conduct extensive consumer testing to determine what information is most important to consumers, when that information is most useful, what wording and formats work best, and how disclosures can be simplified, prioritized, and organized to reduce complexity and information overload.  To that end, the Board will use design consultants to assist in developing model disclosures that will be effective in communicating information to consumers.  This process will also assist the Board in developing model disclosure forms.  Based on this review and testing, the Board will revise Regulation Z within the existing framework of TILA.  If the Board determines that useful changes to the closed-end disclosures are best accomplished through legislation, the Board will inform the Congress.
+
+[SECTION]
+
+Community Affairs and Foreclosure Prevention Initiatives
+We sought testimony at our home equity hearings last year on what works to help prevent troubled borrowers to avoid foreclosure.  Industry and consumer advocates who testified agreed that the greatest barrier to working with troubled borrowers is in simply making contact with them.  These witnesses told us that lenders can reach troubled borrowers through trusted community advocates, and that local partnerships between community groups and lenders can help reduce the number of homes lost to foreclosure.  One national nonprofit homeownership organization, NeighborWorks America® (NeighborWorks), has been working tirelessly to forge local and regional partnerships dedicated to homeownership preservation in recent years to assist financially troubled borrowers.  The benefit of such outlets is illustrated in an informal survey of borrowers in foreclosure conducted by a NeighborWorks affiliate in Chicago that found that 50 percent of borrowers in foreclosures never sought help or advice about the foreclosure from their lender, primarily because these borrowers believe their lender cannot or will not do anything to help them.  The Federal Reserve Board actively supports NeighborWorks in both its national efforts and regional initiatives.  A Federal Reserve governor serves on the NeighborWorks board of directors, offering strategic direction and input on the corporationâs national programs.  Board staff also serves on a NeighborWorksâ advisory council, providing technical assistance on the development of national homeownership counseling and education standards, with an emphasis on post-homebuyer counseling programs.  Our efforts are intended to provide consistency in the education on the responsibilities and financial management skills necessary for successful homeownership.  In addition, the Federal Reserve Banks throughout the country work with regional affiliates of NeighborWorks, as I will discuss later.
+
+[SECTION]
+
+This information underscores the value of local and regional engagement in addressing mortgage challenges, which stem from many factors and dynamics in local markets.  Given this, the decentralized nature of the Federal Reserve System, and in particular, its Community Affairs Offices, have enabled the Federal Reserve Banks to respond to concerns of mortgage delinquency and foreclosure in ways that are directly responsive to the needs in their markets.  Various initiatives have worked to increase understanding of the issues surrounding troubled borrowers and identify strategies to respond to their needs.  Other efforts have sought to improve data and research on foreclosure to help illuminate issues and communities of concern.  I will offer a few examples of the work of the Federal Reserve Community Affairs Offices (CAOs), and I have provided a more complete list of such initiatives as an addendum to my testimony.
+
+[SECTION]
+
+The Atlanta Federal Reserve District, which includes several southern states--Georgia, Florida, Louisiana, in particular--that are experiencing an increasing number of foreclosures, is part of a state-wide foreclosure prevention taskforce, which is undertaking a series of activities around fraud prevention, consumer education, and training for counseling agencies.  This initiative began in 2005, when foreclosures spiked in Atlanta, with the Federal Reserve Bank partnering with the district office of NeighborWorks America® and the Georgia Department of Community Affairs.  The effort has worked to provide foreclosure prevention training to partnering counseling agencies, to promote the use of homeownership preservation hotlines, and to increase consumer education and awareness of foreclosure prevention resources.  In the Gulf Coast, the Atlanta Federal Reserve Bank has also supported outreach to consumers, including training for counselors and promotion of a hotline and workout arrangements, with a focus on foreclosure prevention.
+
+[SECTION]
+
+Similarly, the Federal Reserve Bank of Clevelandâs Community Affairs Office has responded to the widespread problem of mortgage foreclosures in its District, especially in Ohio where foreclosure rates are among the highest in the country.  To respond to the issue, the Cleveland Federal Reserve Bankâs CAO is working with government, financial institutions and community based organizations in assessing and addressing regional foreclosure issues.  It hosted an Ohio Foreclosure Summit in 2005, which led to the introduction of the NeighborWorks America® foreclosure hotline in Ohio, and addressed issues of financial education, predatory lending, policy, regulation, and enforcement.  A similar event was held in 2006 to continue to engage community, industry and government representatives in discussing issues surrounding foreclosure.
+
+[SECTION]
+
+Other Federal Reserve Banks have worked to address challenges associated with access to data on mortgage delinquency and foreclosure in their Districts.  The Kansas City Federal Reserve Bank has been tracking and posting foreclosure and delinquency data from the Mortgage Bankers Association for each of the states within its District to help identify trends and areas of concern.  Ongoing research efforts will seek to develop a literature review around the possible causes of foreclosure, analyze foreclosure trends by mortgage types, and assess the potential impact in the Kansas City Federal Reserve District.  The Boston Federal Reserve Bank recently published a paper on foreclosure trends in Massachusetts.  The CAO at the Federal Reserve Bank of Minneapolis has worked to acquire local data on foreclosures and share it with audiences throughout the Twin Cities.  In addition, forthcoming research undertaken by staff analyzes foreclosure data in the Twin Cities to identify ways of predicting potential foreclosures, which may be useful as a tool for targeting foreclosure prevention efforts.  These results will be presented at our Community Affairs System Research Conference to be hosted in Washington later this week.
+
+[SECTION]
+
+Conclusion
+
+[SECTION]
+
+Undoubtedly, the impact of mortgage delinquency and foreclosure on consumers and communities is one of great concern to the Federal Reserve, and we have worked to respond to the issue at both the national and regional levels.  One of the many challenges that we confront in this environment is to address concerns regarding mortgage lending practices while preserving the flexibility necessary to allow lenders to help troubled borrowers by employing various foreclosure prevention strategies, including debt restructuring and refinance.  Certainly, we all recognize the importance of preserving the record rate of homeownership, which is to the benefit of both consumers and the economy.  And, a robust and disciplined subprime market is vital to ensuring continued progress in broad access to credit and homeownership.  We look forward to working with the other federal banking and thrift agencies, and to coordinating those efforts with the states through the Conference of State Bank Supervisors, in ensuring that subprime borrowers can obtain mortgage loans that they can afford to repay.  We have much work ahead of us, as there is no one sure and easy âfixâ for delinquencies and foreclosures.  We will continue to pursue opportunities to help borrowers and to preserve access to responsible lending.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+The term âsubprimeâ generally refers to borrowers who do not qualify for prime interest rates because they exhibit one or more of the following characteristics:  weakened credit histories typically characterized by payment delinquencies, previous charge-offs, judgments, or bankruptcies; low credit scores; high debt-burden ratios; or high loan-to-value ratios.  Prime borrowers represent more than 75 percent of the 43 million first-lien mortgage loans outstanding in the United States; subprime borrowers represent about 13 or 14 percent; and the remaining borrowers fall within a somewhat loosely defined category between prime and subprime known as âAlt-A,â or ânear-prime,â which is designed for borrowers with good credit records who do not meet standard guidelines for documentation requirements, debt-to-income ratios, or loan-to-value ratios.   Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Overview of Foreclosure Prevention Initiatives by 
+Federal Reserve Systemâs Community Affairs Offices
+
+[SECTION]
+
+The Federal Reserve Systemâs Community Affairs Offices have been engaged in a variety of activities to respond to the needs of low- and moderate-income communities experiencing an increase in foreclosures.  Some activities by Reserve Banks are building their understanding of the problem and its manifestation in each District.  Others are working with community stakeholders to advance understanding of foreclosure prevention strategies, several of which are in conjunction with the NeighborWorks America® (http://www.nw.org/network/home.aspa), a national nonprofit housing development network.  This listing highlights various initiatives at the Federal Reserve Banks in this area.
+
+[SECTION]
+
+Atlanta
+The Atlanta District includes several of the southern states--Georgia, Florida, Louisiana in particular--where there are an increasing number of foreclosures.  The ongoing challenges of rebuilding the Gulf Coast, when viewed in conjunction with the distribution of poor credit scores in southern states as detailed by the Brookings Institution (http://www.brookings.edu/metro/pubs/20060501_creditscores.pdf) leads many to expect continued increases in foreclosures and defaults in the Sixth District.  In Georgia, the Community Affairs Office is part of a state-wide foreclosure prevention taskforce, which is undertaking a series of activities around fraud prevention, consumer education, and training for counseling agencies.  In the Gulf Coast, the Reserve Bank has supported outreach to consumers, including training for counselors and promotion of a hotline and workout arrangements, with a focus on foreclosure prevention.
+
+[SECTION]
+
+Boston
+The Community Affairs Office has published a paper on foreclosure issues and trends in Massachusetts, including data on foreclosure patterns in the state.  In addition, it has developed a consumer education brochure on mortgages, âKnow Before You Go... To Get a Mortgage A Guide to Mortgage Products and a Glossary of Lending Terms  (http://www.bos.frb.org/consumer/knowbeforeyougo/mortgage/index.htm),â to provide general mortgage information to consumers and to shed some light on the risks associated with todayâs more complex mortgage offerings.
+
+[SECTION]
+
+Chicago
+In the Chicago Federal Reserve District, the Community Affairs Office hosted a symposium in January to highlight non-traditional mortgage products and risks.  In 2006, it published a paper on foreclosure alternatives and an article discussing the benefits and risks of nontraditional mortgage products.
+
+[SECTION]
+
+Cleveland
+The Federal Reserve Bank of Cleveland reports a widespread problem with mortgage foreclosures in weaker housing markets within the 4th District.  Ohio also recently reported the highest rate of foreclosures in the nation.  To address the issue, the Bank is serving as a convener of government, financial institutions and community based organizations in assessing and addressing regional foreclosure issues.  Among the events Cleveland has hosted was an Ohio Foreclosure Summit in 2005 (http://www.clevelandfed.org/CommAffairs/Past_2005.cfm), which led to the introduction of the NeighborWorks 1-800 hotline in Ohio, and addressed issues of financial education, predatory lending, policy, regulation, and enforcement.  In addition, the Bank participated in a 2006 Ohio Foreclosure Summit.  Both summits included community, industry and government representatives.
+
+[SECTION]
+
+Last year, the Cleveland Federal Reserve Bank participated in the launch of the official Financial Partnership of the Miami Valley Website and Directory, www.fepmv.org.  Community-based organizations, non-profit organizations, financial and academic institutions partnered to produce this directory in 2005.  The website and directory are resource guides to assist residents and community-based organizations in finding professional service providers that can provide assistance with basic money management and help in resolving difficult financial situations such as foreclosure.
+
+[SECTION]
+
+The Cleveland Federal Reserve will soon release a research paper examining the data availability and gaps that exist in accurately tracking foreclosures within the district.  The report explains the challenges that exist in assessing the scope and scale of the issue and barriers to address it due to lack of information.
+
+[SECTION]
+
+
+
+[SECTION]
+
+DallasStaff of the Community Affairs Office in Dallas participates in homeownership coalitions composed of financial institutions, non-profit organizations and local government representatives.  In Dallas, the coalition has been meeting since 2004.  They meet regularly to share information about the scope of the problem, and in Dallas have promoted a toll-free number sponsored by the GMAC Mortgage and Homeownership Preservation Foundation to link consumers to resources.  A similar coalition has been recently organized in Houston.
+
+[SECTION]
+
+
+
+[SECTION]
+
+The Federal Reserve Bank of Dallas is also organizing a foreclosure summit scheduled for June in partnership with Fannie Mae, Freddie Mac, National Association of Homebuilders, and the Council of Governments to convene stakeholders from throughout the state to help develop a better understanding of the problems and potential responses to delinquency and foreclosure.
+
+[SECTION]
+
+Kansas City
+The Kansas City Reserve Bank has been tracking and posting foreclosure and delinquency data from the Mortgage Bankers Association by each state within its District.  Ongoing research is taking place to assess similarities or discrepancies in the data.  In addition, a forthcoming paper will include a literature review around the possible causes of foreclosure, an analysis of foreclosure trends by mortgage types, and an assessment of the potential impact to the Tenth Federal Reserve District.
+
+[SECTION]
+
+Minneapolis
+The Community Affairs Office at the Minneapolis Federal Reserve Bank has worked to develop local data on foreclosures by purchasing sheriffâs data and sharing it with audiences throughout the Twin Cities, including a coalition to increase minority homeownership which has ongoing support from Community Affairs.  Researchers have authored a paper analyzing foreclosure data in the Twin Cities to identify ways of predicting potential foreclosures, a potentially useful tool for targeting foreclosure prevention efforts.  The research also makes recommendations regarding the availability of data on default and foreclosure.  Staff also published an article in 2006 on the availability of foreclosure data, and a paper on various state approaches to regulation of mortgage brokers will soon be posted to its website.
+
+[SECTION]
+
+New York
+The Federal Reserve Bank of New York is focused on using data to inform its targeted geographies (Albany, New York City, Rochester, Puerto Rico) for information sharing, highlighting of best practices, and educating both the private and non-profit sectors on the foreclosure challenges and prevention.  Toward this end, the Community Affairs Office sponsored two forums in November 2006.  The first meeting convened mortgage servicers and lenders to discuss foreclosure prevention best practices and strategies, resulting in increased involvement on the part of many lenders, funding for anti-foreclosure programs by foundations, and the establishment of special 1-800 numbers or designated contacts to non-profit housing counselors. The second meeting aimed to educate non-profits about how the mortgage securitization process works, which resulted in providing some housing counselors a common language to facilitate a better understanding of why some work-out strategies are more feasible than others.
+
+[SECTION]
+
+Philadelphia
+The Federal Reserve Bank of Philadelphia published a technical brief on HEMAP (http://www.phfa.org/consumers/homeowners/hemap.aspx), a state-funded program in Pennsylvania that assists homeowners who are in default, but who can be expected to ârecoverâ in a reasonable period of time.  The Community Affairs Officeâs outreach has focused on increasing public awareness on the need to understand mortgage terms.  The program developed a video on debt, which includes a focus on being a knowledgeable mortgagee.
+
+[SECTION]
+
+San Francisco
+The Federal Reserve Bank of San Franciscoâs Community Affairs Office has identified concentrations of subprime lending, using data from a recent report from the Center for Responsible Lending (http://www.responsiblelending.org/) that identifies concentrations in Californiaâs Central Valley (Fresno, Bakersfield, etc.) and in Nevada, primarily Las Vegas.
+
+[SECTION]
+
+The Community Affairs Office is currently planning a series of local roundtables that are bringing together local stakeholders--financial institutions, counseling organizations, local governments and community development practitioners, to identify in their local markets steps to: i) mitigate foreclosures, ii) implement foreclosure prevention strategies, and iii) mitigate the effects on neighborhoods where foreclosures are concentrating.  Those roundtables are currently scheduled for San Francisco, Los Angeles, Phoenix, Las Vegas and Nevada.  In each city, the goal is to seed a working group which will be able to collectively develop an action plan or strategy around issues such as increasing the capacity of local counselors, creation of rescue funds, or providing refinance opportunities.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

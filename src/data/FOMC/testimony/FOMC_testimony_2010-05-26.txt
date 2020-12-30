@@ -1,0 +1,313 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 26, 2010
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Congressional Oversight Panel, U.S. Congress, Washington, D.C.
+
+[SECTION]
+
+Chair Warren and Members of the Panel, thank you for the opportunity to discuss the authority, actions and role of the Federal Reserve with regard to the American International Group, Inc. (AIG). The Federal Reserve, in coordination with the Treasury Department (Treasury), extended credit to AIG, beginning in September 2008, in order to avoid the potentially devastating and destabilizing effects on the economy and the financial system that would have attended the collapse of AIG during a period of tremendous economic instability and financial turmoil.
+
+[SECTION]
+
+To understand the actions of the Federal Reserve at the time and how those actions justified the use of the extraordinary lending authority provided by section 13(3) of the Federal Reserve Act, it is important to understand the context that motivated the Federal Reserve's actions. During the summer and fall of 2008, the U.S. economy and financial system were confronting substantial challenges. Notably, labor markets were weakening and stresses in financial markets were high and intensifying significantly. Falling home prices and rising mortgage delinquencies had led to major losses at many financial institutions, strained conditions in financial markets and the slowdown of the broader economy. Tight credit conditions, the ongoing housing contraction, and elevated energy prices were seen as likely to weigh on economic growth for some quarters.
+
+[SECTION]
+
+To avoid unacceptably large dislocations in the financial sector, the housing market, and the economy as a whole, the Federal Housing Finance Agency in early September had placed Fannie Mae and Freddie Mac into conservatorship and the Treasury had used its authority, granted by the Congress in July 2008, to make financial support available to these two government-sponsored entities. Then, on September 15, 2008, a little over a week after Fannie and Freddie were placed into conservatorship, Lehman Brothers, one of the largest investment banking firms in the United States, collapsed despite efforts by the Federal Reserve, the Treasury and the Securities and Exchange Commission to find a private sector solution to the firm's liquidity and capital problems.
+
+[SECTION]
+
+During the weekend of September 13 and 14, and continuing on Monday, September 15, 2008, AIG was in active negotiations to obtain private sector funding to address its mounting financial difficulties. The failure of Lehman ended any chance of securing a private sector solution for AIG within the time needed to address its critical funding needs. Investors became extremely concerned about their own financial well being and chose not to use their resources to acquire or assist a struggling firm during this period of economic and financial turmoil. Indeed, there was a widespread pull-back from any risky investment and even from safe, fully collateralized lending by the private sector.
+
+[SECTION]
+
+The simultaneous collapse or near collapse of Lehman and AIG, two of the largest financial firms in the United States, both indicates the severity of the financial conditions at the time and contributed to the extraordinarily turbulent conditions in global financial markets. Equity prices dropped sharply, the cost of short-term credit--where available--spiked even further upward, and liquidity dried up in many markets. Losses at a large money market mutual fund caused by Lehman's failure sparked extensive withdrawals from a number of these types of funds. A marked increase in the demand for safe assets--a flight to quality--sent the yield on Treasury bills to virtually zero. By further reducing asset values and potentially restricting the flow of credit to households and businesses, these developments posed a direct threat to economic growth. With the financial system already teetering on the brink of collapse, the disorderly failure of AIG, the world's largest insurance company, would have undoubtedly led to even greater financial chaos and a far deeper economic slump than the very severe one we have experienced.
+
+[SECTION]
+
+Providing credit to AIG was only one of the steps taken by the United States Government during the fall of 2008 to prevent the collapse of the financial system and further damage to the economy. For example, the Federal Reserve established several credit facilities to provide liquidity to broader markets, including money market mutual funds facing heavy redemptions, the commercial paper market, and the markets for student loans, small business loans, credit card loans, and auto loans. To address dollar funding pressures worldwide, we announced a significant expansion of reciprocal currency arrangements with foreign central banks. The extraordinary stresses on the financial system and the economy also encouraged Congress to enact the Emergency Economic Stabilization Act (EESA) on October 3, 2008, to provide Treasury with funds to stabilize the situation and avert what otherwise could have been even more traumatic consequences for our financial markets and for our economy. The Federal Deposit Insurance Corporation, for its part, announced a program to provide deposit insurance without limit for certain transaction accounts at insured depository institutions and to guarantee certain unsecured senior debt of insured depository institutions and their affiliates.
+
+[SECTION]
+
+These were all extraordinary government actions taken to address a very serious financial crisis. It was in this context that, on September 16, 2008, the Federal Reserve acted to provide temporary liquidity to AIG under emergency lending authority provided to the Federal Reserve in section 13(3) of the Federal Reserve Act. This authority was granted by Congress during the Great Depression in 1932 when the unavailability of credit severely undermined the economy and resulted in substantial economic stress and extremely high unemployment. It was enacted precisely to allow the Federal Reserve to provide liquidity to individuals and nonbanking entities to relieve financial pressures that might otherwise lead to a financial disaster. This type of lending authority is common among central banks worldwide and is considered an essential tool of central banks for providing liquidity during times of economic and financial stress in order to mitigate the effects of illiquidity and failure on the broader markets and the economy.
+
+[SECTION]
+
+Section 13(3) is broad and extraordinary authority that empowers the Board to authorize a Federal Reserve Bank to extend credit to any individual, partnership, or corporation. Consequently, section 13(3) contains a number of important restrictions. In particular, section 13(3) requires that:
+
+[SECTION]
+
+As is evident from its terms, section 13(3) provides extraordinary authority, and that is how the Federal Reserve has treated it. Prior to the recent financial crisis, the Federal Reserve had not lent funds under section 13(3) since the 1930s and had only authorized the use of this authority during two brief periods during the late 1960s. As I will explain, each of the conditions established by section 13(3) was met in the case of the credit extended by the Federal Reserve to AIG.
+
+[SECTION]
+
+Revolving Credit Facility. AIG is a very large and widely diversified financial services company that is not regulated by the Federal Reserve. In September 2008, literally millions of individuals and businesses had, and today continue to have, exposure to AIG in some form. These individuals and businesses include insurance policy holders, state and local governments, workers with 401(k) plans, money market mutual funds and other commercial paper investors, as well as banks and investment banks in this country and around the world.
+
+[SECTION]
+
+On September 16, 2008, after AIG's private funding efforts failed, the Board, with its five members voting to approve, and with the full support of the Treasury, authorized the New York Reserve Bank to set up a revolving credit facility for AIG (Revolving Credit Facility), under which the company could borrow on a secured basis up to $85 billion in order to meet its obligations as they became due. In the Board's judgment and given the fragile economic conditions at the time, an AIG default resulting from its inability to meet these obligations would have posed unacceptable risks for our economy. In addition to the direct adverse effects on the extensive range of AIG's counterparties, there was a real risk that the destabilizing consequences of a default would spread unpredictably across broad swaths of the financial markets and financial system. At this time, a loan from the Federal Reserve was the only mechanism available to the government to forestall a potentially catastrophic default by a systemically important financial company.
+
+[SECTION]
+
+The Revolving Credit Facility was a short-term credit facility created to allow for the orderly unwinding of AIG. The credit is secured by a pledge of assets of AIG and its primary non-regulated subsidiaries, including all or a substantial part of AIG's ownership interest in its regulated U.S. and foreign subsidiaries. The proceeds of the sales of certain of these assets will repay the outstanding principal, interest, and fees under the Facility. The initial interest rate charged on the Facility was comparable to the rate being negotiated by private lenders with AIG during mid- September and was approved by the Board. Moreover, given AIG's failure to secure financing from private sources, it was evident that the company could not obtain adequate credit accommodations other than from the Federal Reserve. Thus, the establishment of the Revolving Credit Facility satisfied all of the legal requirements of section 13(3).
+
+[SECTION]
+
+As a condition for the credit, the Federal Reserve required that AIG provide the U.S. Government preferred securities convertible into approximately 79 percent of the voting shares of AIG, substantially diluting the interests of AIG's existing shareholders. The Federal Reserve also worked with AIG to replace its management.
+
+[SECTION]
+
+Securities Lending Facility. Although the Revolving Credit Facility helped AIG satisfy its immediate liquidity needs, the credit markets continued to deteriorate through the fall of 2008. AIG faced increasing and pressing liquidity strains. An important source of these liquidity drains was the securities lending activities conducted by AIG on behalf of several of its insurance subsidiaries. The cash collateral received by AIG in connection with these securities lending arrangements was invested in residential mortgage-backed securities (RMBS) that, because of the market conditions in the fall of 2008, were largely illiquid. As payments came due under the securities lending agreements and other investors pulled away from AIG, AIG was unable to sell the RMBS and was forced to find other sources of liquidity.
+
+[SECTION]
+
+On October 6, 2008, all five Board members voted to authorize the New York Reserve Bank to lend up to $37.8 billion to AIG secured by the investment grade debt securities previously lent by AIG's insurance subsidiary to third parties (the Securities Lending Facility). The proceeds of the loan allowed AIG to return cash collateral to the securities lending counterparties as those counterparties returned the borrowed securities to AIG.
+
+[SECTION]
+
+The interest rate on the Reserve Bank loan, approved by the Board, was 100 basis points above the repo rate on the relevant collateral type. Unusual and exigent circumstances continued to exist, both at AIG and in financial markets generally, and AIG continued to be unable to access the private credit markets. Thus, credit extended under the Securities Lending Facility fully complied with each of the requirements in section 13(3). The maximum amount actually drawn by AIG under this facility was about $20.5 billion.
+
+[SECTION]
+
+The November 2008 Restructuring. Market conditions continued to deteriorate and liquidity pressures on AIG did not abate even with access to these Federal Reserve credit facilities. The severe market turbulence in the fall of 2008 made it difficult for the company to quickly sell its businesses to raise funds. In addition, the size and terms of AIG's borrowings, liquidity drains, and other factors led the credit ratings agencies to consider a downgrade of the company's credit ratings. A further downgrade in the ratings of AIG would have resulted in substantial new liquidity demands, due in part to increased collateral calls and other contractual obligations that would be triggered by a ratings downgrade.
+
+[SECTION]
+
+To address these pressures, in November 2008, the Federal Reserve and the Treasury restructured the government's financial assistance to AIG. A key part of the restructuring efforts was Treasury's investment of $40 billion in preferred stock of AIG under the authority contained in EESA. All of the proceeds of Treasury's investment were used to repay outstanding balances under the Revolving Credit Facility and the maximum amount available under the Facility was reduced from $85 billion to $60 billion. Accordingly, the investment both increased AIG's capital and reduced its leverage.
+
+[SECTION]
+
+For its part, the Board approved new loans under section 13(3) to two special purpose vehicles, Maiden Lane II LLC (ML II) and Maiden Lane III LLC (ML III). ML II was designed to restructure and replace the Securities Lending Facility that had been extended to address AIG's securities lending program. The Board authorized the New York Reserve Bank to extend credit to ML II to partially fund the acquisition, at then-current market prices, of the RMBS held in connection with the subsidiaries' securities lending program. Under this facility, the Reserve Bank extended about $19.5 billion in credit to ML II and AIG provided $1 billion in subordinated financing to ML II. ML II then acquired for an aggregate price of about $20.5 billion RMBS with a par value of about $39.3 billion. AIG's insurance subsidiaries used the proceeds to repay the Securities Lending Facility in full. The effect of this restructuring was to end AIG's securities lending program with its continued need to draw on the Securities Lending Facility and to fix (and thereby limit) the amount of debt AIG could incur as a result of its securities lending program at the fair market value of the collateral supporting that program.
+
+[SECTION]
+
+The second significant source of liquidity drain was a portfolio of credit default swaps (CDS) written by the Financial Products division of AIG. Under these contracts, AIG was required to post collateral to counterparties that had purchased CDS protection from AIG on the value of certain multi-sector collateralized debt obligations (CDOs) comprised largely of RMBS. As the market value of the CDOs declined and as the rating of AIG declined, AIG was required to post additional collateral to ensure its ability to perform its obligation.
+
+[SECTION]
+
+The Board authorized the Reserve Bank to extend credit to ML III to partially fund the purchase of the CDOs and to terminate the CDS contracts. AIG provided $5 billion in subordinated financing to ML III and the Reserve Bank loaned about $24.3 billion to ML III. These funds were used by ML III to acquire CDOs with a par value of about $62 billion for a purchase price of about $29 billion. The purchase of the CDOs from the counterparties enabled AIG to terminate the CDS and the accompanying liquidity drains from the ongoing requirement to post collateral. The cost to AIG was forfeiture of collateral it had already posted against the CDS and the posting of an additional $5 billion in subordinated financing to ML III; for the Federal Reserve, ML III provided CDOs with a par value of $62 billion as security against a loan of about $24 billion.
+
+[SECTION]
+
+In the case of both of the Maiden Lane loans, all the requirements for lending under section 13(3) were satisfied. At the time of these loans, the financial markets in general and AIG in particular continued to experience unprecedented stresses and AIG continued to be unable to raise funds in those markets.2 Five members of the Board voted to authorize the loans and the interest rates on the loans. Each loan is secured by all of the assets held by the respective Maiden Lane entity. At the time of each of the loans, the market value of the assets securing the loans, as determined by an independent valuation expert, exceeded the amount lent, and in each case, the assets are being liquidated in an orderly manner over time to repay the loans. In the case of ML II, the Reserve Bank also is entitled to 5/6ths of any residual proceeds remaining after repayment of principal and interest on the Federal Reserve loan and the AIG subordinated financing; and, in the case of ML III, the Reserve Bank is entitled to 2/3ds of any residual proceeds from the liquidation of the CDO collateral.
+
+[SECTION]
+
+The March 2009 Restructuring. Although the November restructuring helped address AIG's imminent capital and liquidity needs, financial and economic conditions continued to worsen during the fourth quarter of 2008 and in early 2009 and AIG continued to face strong liquidity and capital pressures. In this context, in early March 2009, the Treasury modified its existing preferred stock investment to make it more like common equity and created a new preferred equity capital facility that allowed AIG to draw up to a maximum amount of $29.8 billion.
+
+[SECTION]
+
+At the same time, the Board authorized the New York Reserve Bank to accept non-controlling preferred equity interests in AIG's two major foreign life insurance subsidiaries, the American International Assurance Company (AIA) and the American Life Insurance Company (ALICO), as partial repayment of outstanding balances owed on the Revolving Credit Facility. These equity interests were valued in the aggregate at about $25 billion. Like other lending banks, the Reserve Banks may take reasonably necessary measures to ensure satisfaction of an outstanding debt, including accepting collateral as repayment in satisfaction of the debt. In connection with this restructuring, the maximum amount available under that Facility was reduced by the value of the preferred equity interests received, from $60 billion to $35 billion.3
+
+[SECTION]
+
+Role of the Board
+       In addition to authorizing the New York Reserve Bank's creation of the credit facilities for AIG under section 13(3), the Board oversees the Reserve Bank's ongoing administration of those facilities. During the few days between when the Federal Reserve first learned of the extent of AIG's liquidity crisis and when the Revolving Credit Facility was authorized, Board staff joined staff of the Reserve Bank in analyzing AIG's financial problems and the potential damage to the financial markets from a failure of the company. Since the creation of the Revolving Credit Facility, a team of Board staff has regularly reviewed developments affecting AIG with the team of Reserve Bank staff who are primarily responsible for assuring compliance with the terms of the credit agreements, monitoring AIG's liquidity and financial condition, and reviewing the company's divestiture program. The Board staff team updates Board members and senior agency staff about important AIG developments. Board staff also consults with Treasury officials who are responsible for overseeing Treasury's investments in AIG.
+
+[SECTION]
+
+Repayment of Credit Facilities
+       The Federal Reserve anticipates that the loans under the Revolving Credit Facility, including interest and commitment fees under the modified terms of the Facility, will be fully repaid. AIG has already made significant progress in its plans to sell assets to repay the Facility. Importantly, AIG announced in March 2010 agreements to sell AIA and ALICO to Prudential plc and MetLife, Inc., respectively, for aggregate consideration of about $51 billion. The proceeds of these sales will be used first to redeem the Federal Reserve's preferred interests in AIA and ALICO, along with accrued dividends. The remaining amounts will be used to pay down outstanding balances under the Revolving Credit Facility.
+
+[SECTION]
+
+Similarly, based on analyses by experienced third party advisors, we anticipate that the proceeds of the liquidation of the RMBS and CDOs held by ML II and ML III, respectively, will be sufficient to fully repay principal and interest on the Federal Reserve loans to those entities. The extended maturities of the Federal Reserve loans provide an opportunity to dispose of the assets of each entity in an orderly manner over time and to collect interest on the assets prior to their sale, other disposition, or maturity. Moreover, AIG has a $1 billion subordinated position in ML II and $5 billion subordinated position in ML III, which are available to absorb first any loss that ultimately may be incurred by ML II or ML III, respectively.
+
+[SECTION]
+
+Public Availability of Information on AIG Credit Facilities
+       The Board and the New York Reserve Bank have made available to the public on our websites a substantial amount of information describing the Federal Reserve's actions regarding AIG. Information available to the public includes balance sheet information that is updated weekly to show the repayment and outstanding balance of each credit extended to AIG and the Maiden Lane facilities as well as monthly transparency reports that describe recent developments and financial information relating to the AIG facilities. The fair value of the collateral held by the Maiden Lane facilities is determined quarterly in accordance with GAAP and reported on the weekly balance sheet with the loan amounts. In addition, the New York Reserve Bank recently posted on its website a detailed listing of the assets of ML II and ML III as of March 2010.
+
+[SECTION]
+
+In March 2009, AIG, with the support of the Federal Reserve, disclosed the names of, and amounts paid to, the counterparties that sold CDOs to ML III as well as the counterparties to the securities borrowing facility that resulted in the establishment of ML II. Moreover, these Federal Reserve websites contain reports describing the justification for and the terms of each facility, the agreements with third party advisors to the Federal Reserve, and each report filed with Congress under EESA regarding AIG and the Maiden Lane facilities. These disclosures are part of the Federal Reserve's commitment to provide the public with as much information on our emergency lending facilities as possible, consistent with the need to protect sensitive commercial and financial information and to ensure that the facilities can achieve their goals.
+
+[SECTION]
+
+Lessons Learned
+       Chairman Bernanke has testified that nothing made him angrier during the crisis than the irresponsible decisions at AIG that put our entire financial system and economy at grave risk and left the government with no good options. While the Federal Reserve responded with the only tool available to it, a better option in our view would be a resolution regime that allows the U.S. government to unwind systemically important nonbank financial firms. Had such a regime been in place in September 2008, the U.S. government would have been able to act swiftly and with flexibility to resolve AIG and to impose losses as appropriate on AIG's shareholders and creditors. The resolver would also have been authorized to abrogate contracts and restructure compensation at the firm.
+
+[SECTION]
+
+AIG also illustrates the dangers of a system that allows systemically important financial firms to operate without strong consolidated supervision of the entire entity. A consolidated supervisor of systemically important financial firms is needed to understand, and require the firm to address, risk exposures throughout the entire organization. The consolidated supervisor must be empowered to require the firm to adopt enhanced capital, liquidity, risk management and other standards that address both the risks the firm assumes and the risks it poses to the financial system.
+
+[SECTION]
+
+We are encouraged that Congress is near completion of important landmark legislation that effectively addresses both of these concerns. I appreciate the opportunity to testify before the Panel today.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Fewer than five members may approve a loan under section 13(3) if there are fewer than five Board members in office at the time, or in situations where a financial emergency requires immediate action before five Board members can be contacted. Return to text
+
+[SECTION]
+
+As part of the November restructuring, the Board also reduced the interest rate and undrawn funds fee on the Revolving Credit Facility and extended the Facility's maturity from two to five years. Return to text
+
+[SECTION]
+
+The Board also authorized new section 13(3) loans that would be secured by cash flows from AIG's domestic life insurance companies. AIG has announced that it will not implement this authorization. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

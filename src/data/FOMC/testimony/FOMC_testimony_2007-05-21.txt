@@ -1,0 +1,404 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+May 21, 2007
+
+[SECTION]
+
+Sandra Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Domestic Policy, Committee on Oversight and Government Reform, U.S. House of Representatives, at the Carl B. Stokes U.S. Court House, Cleveland, Ohio
+
+[SECTION]
+
+Chairman Kucinich, Ranking Member Issa, and members of the Subcommittee, I appreciate this opportunity to appear in Cleveland to address a number of issues that are of interest to you and your constituents.  In my comments, I will describe the Federal Reserve Systemâs role in evaluating banksâ performance under the Community Reinvestment Act (CRA), how the Federal Reserve analyzes applications from banking organizations proposing mergers or acquisitions, and matters relating to subprime mortgage lending.
+
+[SECTION]
+
+As you may know, the Federal Reserve System has supervisory authority for state-chartered banks that are members of the Federal Reserve System.  These institutions total approximately 900 banks and represent 12.4 percent of total domestic assets of all U.S. banks and thrifts.  In Ohio, the Federal Reserve has supervisory authority for 33 banks, comprising roughly 6 percent of banking assets in Ohio.  Federal Reserve examiners evaluate and rate these banks for safety and soundness, compliance with banking laws and regulations--including those for consumer protection--and for performance under the CRA.
+
+[SECTION]
+
+As Director of the Division of Consumer and Community Affairs at the Board, I oversee staff who have responsibility for the consumer compliance and CRA examination program, and I coordinate the process of developing policy recommendations to the Board relating to consumer protection laws and regulations, including the CRA.  The Consumer and Community Affairs Division participates in the Boardâs analysis of merger and acquisition applications by state-member banks and bank holding companies by assessing the applicantsâ records of serving the convenience and needs of their communities.  âConvenience and needsâ analysis includes reviewing the institutionâs record of performance with respect to CRA.  We also review its compliance with consumer protection laws and regulations, including fair lending.
+
+[SECTION]
+
+The Division also engages in consumer education and research efforts and oversees the Federal Reserve Banks as they undertake community development and other outreach activities in lower-income and traditionally underserved markets.  Each of the Reserve Banks have Community Affairs Officers (CAO) who are actively engaged with local and regional organizations to identify and address financial services needs in lower-income neighborhoods and among low- and moderate-income individuals.  The CAO of the Federal Reserve Bank of Cleveland, for example, has been a leader in developing collaborative groups to address predatory lending, provide foreclosure intervention, and enhance financial education programming.
+
+[SECTION]
+
+CRA Examinations
+You have asked that I speak about the Community Reinvestment Act.  The CRA applies to insured banks and savings associations and thrifts, but not to companies that own these institutions.  It affirms that federally insured banks and thrifts have an obligation to help meet the credit needs of the entire communities they serve, including low- and moderate-income neighborhoods, in a safe and sound manner.  Under the CRA, it is the responsibility of the federal financial supervisory agencies to evaluate the performance of institutions under their jurisdiction in meeting this obligation.  Neither the statute nor the agenciesâ regulation specifies how depository institutions are to fulfill their obligation to meet the credit needs in the communities they serve.  Instead, the statute directs the federal supervisory agencies to assign a rating of Outstanding, Satisfactory, Needs to Improve, or Substantial Noncompliance to describe an institutionâs performance.  The regulations prescribe the method for assigning an institutionâs rating.  Currently, about 12 percent of all banks and thrifts examined for CRA have an Outstanding rating, 87 percent have earned a Satisfactory rating, and less than .5 percent are assigned either Needs to Improve or Substantial Noncompliance.  These ratings are public, as are the Performance Evaluations prepared by the examining agency that describe the banksâ CRA performance using both data and qualitative descriptions.
+
+[SECTION]
+
+The agenciesâ CRA regulations specify that institutions of different sizes will be subject to different types of examination.  For depository institutions with assets over $1.033 billion, the CRA examination consists of a lending test, an investment test, and a service test.  Under the lending test, an institutionâs practices in lending to low- and moderate-income people and neighborhoods are evaluated on both quantitative and qualitative factors and the outcome is weighted to count for 50 percent of the institutionâs overall CRA rating.  Investments benefiting low- and moderate-income neighborhoods are assessed and services to the entire community, including low- and moderate-income individuals and neighborhoods, are reviewed.  Each account for 25 percent of the bankâs overall rating.  Examiners also weigh the innovativeness of a bankâs community development lending, investment, and service programs and activities.
+
+[SECTION]
+
+Banks and thrifts with assets of $1.033 billion or less are subject to a somewhat different examination.  Those with assets of between $258 million and $1.033 billion are designated as intermediate small institutions and are evaluated on their record of lending in low- and moderate-income areas and to lower-income people in the institutionsâ assessment area.  A community development test is also included in the review of such institutions.  This criterion is designed to encourage institutions to engage in a range of community development lending, investment, and services but provides flexibility in determining the volume and mix of these activities.  The institutions that are highly rated are responsive to needs and opportunities within their assessment areas in ways that are consistent with their capacity and business strategy.
+
+[SECTION]
+
+Small institutions--those with less than $258 million in assets--are evaluated primarily on their lending performance in their communities, including low- and moderate-income areas and populations.  Given their more limited capacity and resources, small institutions are not expected to engage in the more complex community development activities.
+
+[SECTION]
+
+During the CRA examination, a bank or thriftâs performance is assessed within the context of factors such as overall economic conditions in the area and the degree to which there are community development activities in which an institution can participate.  This performance context recognizes that while depository institutions have an affirmative obligation to meet the credit needs of the communities in which they are chartered, they must engage only in activities that are safe and sound.
+
+[SECTION]
+
+The community has a role in the CRA examination process as well.  The public can offer comments on an institutionâs CRA performance and those comments are available to anyone who requests them.  Examiners, of course, review the public comment file and take it into account when evaluating an institutionâs overall CRA performance.  Comments from the public are also taken into account when a banking institution submits an application to its regulator to expand through an acquisition or merger with another institution or to increase the number of its branches.
+
+[SECTION]
+
+Let me now turn to the application review process and how the Federal Reserve considers a bankâs record of meeting the credit and banking needs of the communities it serves.
+
+[SECTION]
+
+The Applications Function 
+As directed by the Bank Merger Act and the Bank Holding Company Act, the Federal Reserve takes into account a number of factors when it reviews applications for expansion.  These include the competitive effects of the proposal in the relevant markets; the financial and managerial resources and future prospects of the bank holding company and its banking subsidiaries; and the convenience and needs of the communities affected.  The public is notified when applications are filed and interested parties may comment on any of the statutory factors.  Sometimes members of the public, advocacy organizations, and other interested parties comment in order to âprotestâ applications when they have concerns that the outcome might be diminished services to communities.  In fact, it is not uncommon for the Federal Reserve to receive several hundred comment letters as part of the applications process when large banking organizations are involved.  Substantive comments are always given a high degree of consideration in the evaluation of the proposal.
+
+[SECTION]
+
+In evaluating a banking application that is the subject of a protest, Federal Reserve staff consider the entire supervisory record of the institutions involved in the proposed transaction.  Applications are evaluated on a case-by-case basis, but in every instance the following information is taken into account:
+
+[SECTION]
+
+The Federal Reserve holds public meetings to gather input from the community when information cannot be effectively obtained from written comments, other sources, or supervisory processes.  Of the thirteen public meetings held since 1990, two involved banking institutions active in the Ohio regional banking market: Banc One Corporationâs acquisition of First Chicago in 1998 and the application for JPMorgan Chase to acquire Bank One Corporation in 2004.1  Transcripts of all public meetings held since 1998 are available on the Federal Reserve Boardâs website.
+
+[SECTION]
+
+In some cases, financial institutions have made lending and/or service commitments to private organizations, such as community groups, to address the needs of the affected communities.  The Board views the enforceability of pledges, initiatives, and agreements with third parties as matters outside the scope of the CRA, and neither the CRA nor the federal banking agenciesâ CRA regulations require depository institutions to make pledges or enter into commitments or agreements with any organization.  An applicant must demonstrate a satisfactory record of performance under the CRA without reliance on plans or commitments for future action.  Therefore, the Federal Reserve System does not track performance of private commitments between financial institutions and interested third parties. Of course, any commitments made to the Board for specific actions or improvements are monitored through appropriate follow-up.
+
+[SECTION]
+
+Since 1988, there have been more than 13,500 applications for the formation, acquisition, or merger of bank holding companies or state-member banks reviewed by the Federal Reserve Board.  Over this time, twenty-five of these applications have been denied, with eight of those failing to obtain Board approval involving unsatisfactory consumer protection and community needs issues.  The low incidence of applications that have not received regulatory approval may be due to the fact that institutions seeking to expand their operations are typically in sound financial and managerial condition and have good supervisory records.  Management of applicant institutions has generally recognized the benefit that strong community investment and relations programs offer.  In addition, the supervisory and public scrutiny that the CRA brings has prompted many banks to create specialized CRA business units within their organizations.  The few cases in which the Board has denied an application on CRA grounds have sent an unmistakable message that it is crucial to have a satisfactory record of CRA performance before applying to expand.  Institutions likely understand that the Board will not allow promises of future corrective action to substitute for inadequate current performance.
+
+[SECTION]
+
+I should note that those who comment often express concern that a bank merger or acquisition will diminish competition and thus reduce access to banking services and/or increase the cost of those services.  Maintaining robust and competitive banking markets is a critical objective in the Federal Reserveâs review of banking applications.  Staff economists evaluate the likely competitive effects of the proposed transaction in all affected banking markets and assess the impact of the proposed transaction pursuant to well established quantitative measures of banking market concentration.
+
+[SECTION]
+
+An examination of these measures in both metropolitan and non-metropolitan areas in Ohio since 1990 reveals that Ohio banking markets are less concentrated than the national average, suggesting that the level of banking competition in Ohio markets is generally greater than in many other communities across the country.  In addition, it is worth noting that although the average number of banks operating in metropolitan areas of Ohio has declined somewhat over the past fifteen years, the number of banking offices per person has been quite stable and has remained well below the national average.  In non-metropolitan communities in Ohio, the average number of banks has remained relatively stable over the same time period and is above the national average, while the average number of banking offices per person has been fairly stable and close to the national average.  These data suggest that, on average, the banking markets in Ohio are at least as competitive as those in other parts of the country, and, over the past fifteen years, there has been no significant decline in competition or consumer access to banking offices in Ohio banking markets.
+
+[SECTION]
+
+Subprime Mortgage Lending     
+As you can see from these comments, promoting the availability of credit through the banking system is an important part of the Federal Reserveâs statutory mandate.  Another part of the Federal Reserveâs responsibilities involves consumer protection, and it is in that role that I would like to address subprime mortgage lending.  As you know, the term âsubprimeâ is used to designate loans to borrowers with minimal or blemished credit records or who may present other factors that suggest an elevated degree of credit risk.  In recent years, the subprime market has grown dramatically because of advances in credit scoring and underwriting technology, which enables lenders to charge different borrowers different prices on the basis of calculated creditworthiness.  These loans are recognized by the higher prices they carry, which reflect the subprime lenderâs decision to seek additional compensation for the credit risk they incur.  In 1994, fewer than 5 percent of mortgage originations were subprime, but by 2006 about 20 percent of new mortgage loans were subprime.
+
+[SECTION]
+
+As the overall mortgage market has grown, many new lenders and distribution channels have developed and most of those are outside the direct jurisdiction of the federal banking agencies.  A review of data provided by mortgage lenders pursuant to the Home Mortgage Disclosure Act reveals that lenders that are not subject to oversight by a federal banking agency originated just over half of the higher-priced conventional mortgage loans reported in 2005.  In Ohio, nearly 47 percent of all higher-priced conventional loans were originated by independent lenders, while in the City of Cleveland 66 percent of higher-priced conventional mortgage loans were extended by independent lenders that do not fall under the jurisdiction of the federal banking agencies.
+
+[SECTION]
+
+While the expansion of the subprime mortgage market over the last decade has increased access to credit, the market has more recently seen increased delinquencies and foreclosures, partly as a consequence of broader economic conditions, including rising interest rates and slowing house price growth.  This increase has also called into question the practices of some lenders, with concerns ranging from imprudent underwriting standards to abusive lending practices and even fraud.  While recent growth in serious delinquencies and foreclosures appear to be predominately in the subprime market, which at 14 percent of all loans is a relatively small percentage of all outstanding mortgage loans, the Federal Reserve System understands the significance of the matter to regional markets, communities, and families.
+
+[SECTION]
+
+Analysis reveals that the majority of subprime foreclosures relate to adjustable rate mortgages (ARM).  These loans are often characterized by a rate that will adjust periodically--as frequently as every six months for some products.  In times of rising interest rates, borrowers can be subject to significant increases in their payments. When housing prices are appreciating, borrowers with ARMs can cope with payment increases by refinancing the loan, or, in some cases, selling their homes at a gain.  In 2006, however, mortgage interest rates hit four-year highs, the volume of home sales declined, and the rate of house price appreciation slowed.  In some markets, home prices fell.  In a rising rate environment, even borrowers with enough equity to refinance their ARMs may face difficulty finding a new loan with affordable payments.  Most recently, an unusually large number of subprime loans have defaulted shortly after origination.  In many of these âearly payment defaults,â borrowers stopped making payments, presumably knowing that they would be unable to meet their ongoing mortgage obligation. This suggests that in 2006 some lenders may have lowered their underwriting standards to maintain volume as borrower demand slackened.  The rapid expansion of subprime lending in recent years and generally rising house values may have led lenders, investors, and ratings agencies to underestimate risks, particularly since they had limited data with which to model credit risk posed by new borrowers or novel mortgage types.  A number of lenders have already been forced out of the subprime market, in part because of the wave of early payment defaults on mortgages they originated.
+
+[SECTION]
+
+Ill-suited loan products or terms are not the only factors that contribute to financial difficulty for borrowers.  There can be numerous trigger events--such as the loss of a job, a medical crisis, or divorce--that can undermine homeownersâ capacity to fulfill their mortgage obligation.  The financial impact of these unfortunate life circumstances is magnified when the leveling or depreciation of housing prices results in a debt obligation exceeding the value of the property.  When confronted with both difficult individual financial circumstances and broader economic challenges, homeowners may be unable to refinance their debt or sell their home to pay off the mortgage.
+
+[SECTION]
+
+As you know, Ohio has experienced delinquency rates on subprime mortgage loans at a higher rate than the national average for the last two years and has one of the highest foreclosure start rates in the country.  Unfortunately, this state has seen a confluence of factors that have made mortgage borrowers more vulnerable to delinquency and foreclosure, as Ohio reports a lower rate of housing appreciation than the national average, unemployment rates that exceed the national average, and a somewhat higher level of subprime mortgages than the national average.
+
+[SECTION]
+
+The issues surrounding each mortgage delinquency or foreclosure vary, as does the solution that is best for helping a particular borrower.  Thus, loss mitigation and foreclosure intervention efforts typically involve customized assistance in order to devise remedies appropriate to the situation.  Fortunately, many community leaders, government officials, and lenders across the country are now collaborating to develop approaches and protocols to help borrowers who are experiencing mortgage delinquencies avoid foreclosure.
+
+[SECTION]
+
+Federal Reserve Activities in Response to Mortgage Lending Concerns
+The Board believes that mortgage market problems need to be addressed in a way that addresses unfair and abusive practices while preserving incentives for responsible subprime lenders.  A robust and responsible subprime market is beneficial to consumers, allowing borrowers with non-prime credit histories or those without a credit history to become homeowners, utilize the existing equity in their homes, or have the flexibility to refinance their loans as needed.  Accordingly, it is important that any actions we take are well calibrated and do not have unintended consequences.  Constricting the market and returning to a situation where some borrowers have very limited access to credit is not acceptable and reduces the flexibility of individuals and communities.  We want to encourage, not limit, mortgage lending to qualified borrowers by responsible lenders.
+
+[SECTION]
+
+Over the past several years, the Federal Reserve System has monitored developments in subprime lending and has taken steps to address emerging problems.  Among those steps are issuance of regulatory guidance in concert with the other federal banking agencies to address weaknesses in underwriting and risk management at the institutions we supervise; revising regulations to address concerns about abusive practices; and publishing materials to help consumers make informed mortgage credit decisions.  The Board has also been actively engaging representatives from the mortgage lending, servicing, and capitalization arena, as well as from borrower and community support organizations, to learn about opportunities for intervention and foreclosure mitigation.  The remainder of my comments provides additional information about these initiatives.
+
+[SECTION]
+
+Supervisory Guidance
+The federal regulatory agencies have the ability to issue supervisory guidance to address their concerns in a relatively expeditious manner and with greater flexibility than rules.  Guidance is a tool to signal areas of practice that will receive scrutiny during examinations.  Over the last fifteen years, the agencies have issued guidance involving depository institutionsâ and their affiliatesâ real estate lending standards and practices to address supervisory concerns that emerged as a result of an evolving mortgage lending market.  Since the early 1990s, the agencies have required these institutions to establish and maintain comprehensive, written real estate lending policies that are consistent with safe and sound banking practices.  Supervisory guidance has also underscored the need for the underwriting standards of depository institutions and their affiliates to reflect all relevant credit factors, including the capacity of the borrower to adequately service the debt.
+
+[SECTION]
+
+Expanded Subprime Guidance
+
+[SECTION]
+
+In 2001, an expansion of Interagency Guidance on Subprime Lending, which was originally issued in 1999, addressed essential components of a well-structured risk-management program for subprime lenders.  The expanded guidance emphasized that lending standards should include well-defined underwriting parameters such as acceptable loan-to-value ratios, debt-to-income ratios, and minimum acceptable credit scores.  It also addressed concerns about predatory or abusive lending practices, such as making unaffordable loans based on the assets of the borrower rather than on the borrowerâs ability to repay an obligation; inducing a borrower to refinance a loan repeatedly (âloan flippingâ); or engaging in fraud or deception to conceal the true nature of the loan obligation, or ancillary products.  The guidance cautioned institutions that higher fees and interest rates, combined with compensation incentives, can foster predatory pricing or discriminatory practices.
+
+[SECTION]
+
+Guidance on Unfair or Deceptive Acts or Practices
+
+[SECTION]
+
+In March 2004, the Board and the FDIC issued guidance on Unfair or Deceptive Acts or Practices (UDAP) to state-chartered banks.  The guidance is based on long-standing Federal Trade Commission policy statements that have been applied by courts.  The UDAP guidance outlines strategies for banks to use to avoid engaging in unfair or deceptive acts or practices, to minimize their own risks and to protect consumers.  Among other things, the guidance focuses on credit advertising and solicitations, loan servicing, and managing and monitoring creditorsâ employees and third-party service providers.
+
+[SECTION]
+
+2006 Guidance on Nontraditional Mortgage Product Risks
+
+[SECTION]
+
+In 2006, the Federal Reserve and the other federal banking agencies issued the Interagency Guidance on Nontraditional Mortgage Product Risks (NTM Guidance).  The NTM guidance covers loans such as interest-only loans and payment-option ARMs, including those with the potential for negative amortization. The NTM guidance highlights sound underwriting procedures, portfolio risk management, and consumer protection practices that institutions should follow to prudently originate and manage nontraditional mortgage loans.  A major aspect of this guidance is the recommendation that a lenderâs analysis of repayment capacity should include an evaluation of the borrowerâs ability to repay debt by final maturity at the fully indexed rate, assuming a fully amortizing repayment schedule.  The guidance also reminds institutions that they should clearly communicate the risks and features of these products to consumers in a timely manner, before consumers have applied for a loan.
+
+[SECTION]
+
+Proposed Guidance on Subprime Mortgage Lending
+
+[SECTION]
+
+In March 2007, the agencies issued a proposed Statement on Subprime Mortgage Lending.  This proposed guidance is directed at ARM loans targeted to subprime borrowers and includes ARMs that are fully amortizing.  The proposed guidance provides that lenders should use the same qualification standards as the NTM guidance.  It emphasizes the added dimension of risk when subprime ARM products are combined with other features such as simultaneous second lien loans in lieu of a down payment, or with the use of underwriting that involves little or no documentation of borrowersâ income or assets.  The proposal differs from earlier guidance in that it highlights the need for lenders to underwrite based not only on principal and interest but also on taxes and insurance. The proposal indicates that lenders should inform consumers of the need to budget for taxes and insurance payments if escrows are not required.
+
+[SECTION]
+
+This proposed subprime guidance would apply to all depository institutions, to their subsidiaries, and to non-depository affiliates.  To protect borrowers in the portion of the subprime market that is outside the purview of the federal banking agencies, and to ensure a âlevel playing fieldâ for depository institutions and independent mortgage companies, we coordinated the development of the proposed guidance with the Conference of State Bank Supervisors (CSBS).  (State-regulated independent mortgage companies originated slightly more than half of subprime loans, according to 2004 and 2005 HMDA data.)  Once the guidance is finalized, we understand that CSBS will strongly encourage the states to adopt similar guidance for state-regulated lenders.
+
+[SECTION]
+
+Statement on Working with Mortgage Borrowers
+
+[SECTION]
+
+Most recently, the agencies issued a policy letter to the industry encouraging financial institutions to work with homeowners who are unable to make mortgage payments, underscoring that prudent workout arrangements are generally in the long-term interest of both the financial institution and the borrower.  Examples of constructive workout arrangements include modifying loan terms, and/or moving borrowers from variable-rate loans to fixed-rate loans.  Bank and thrift programs that transition low- or moderate-income homeowners from higher-cost loans to lower-cost loans may also receive favorable consideration under the CRA.  The policy letter also urges borrowers who are unable to make their mortgage payments to contact their lender or servicer as soon as possible to discuss available options.
+
+[SECTION]
+
+Regulatory Actions
+In addition to guidance, the Board has used its rulewriting authority to address other aspects of concern within the mortgage lending market.
+
+[SECTION]
+
+HOEPA Rules
+
+[SECTION]
+
+In 2001, the Board revised the rules implementing the Home Ownership and Equity Protection Act (HOEPA) in response to renewed concerns about predatory lending.  The revised rules became effective in 2002 and extended HOEPAâs protections to more high-cost loans.  They strengthened HOEPAâs prohibitions and restrictions, including by requiring that lenders generally document and verify a consumerâs ability to repay a high-cost mortgage loan.  In addition, the new rules addressed concerns that high-cost loans were âpackedâ with credit life insurance or other similar products that increased the loanâs cost without providing commensurate benefit to consumers.
+
+[SECTION]
+
+To increase protections for consumers, the Board extended the prohibitions against unfair or deceptive practices for HOEPA loans and revised the rules to prohibit a HOEPA lender from refinancing one of its own loans with another HOEPA loan (âflippingâ) within the first year, unless the new loan is âin the borrowerâs interest.â  In addition, the Board prohibited creditors from evading HOEPAâs requirements and consumer protections for closed-end loans by documenting the transaction as an âopen-endâ line of credit when it does not qualify, because there is no expectation of repeat transactions under a reusable line.
+
+[SECTION]
+
+These revisions addressed cases where the Board determined that it could write âbright-lineâ rules defining an unfair or deceptive practice.  Because a determination of unfairness or deception depends heavily on the facts of an individual case, the Board has not issued other rules under this provision.  However, the Board has undertaken a major review of Regulation Z, the implementing regulation for the Truth in Lending Act (TILA), of which HOEPA is a part.  During this review, the Board will determine if there are opportunities to further address issues related to HOEPA loans.
+
+[SECTION]
+
+The Boardâs Review of Mortgage Disclosures Under Regulation Z
+
+[SECTION]
+
+With the objective of ensuring that consumers get timely information regarding credit transactions in a form that is readily understandable, the Board will study alternatives for improving both the content and format of disclosures for mortgage loans, including revising the model forms published by the Board.  As a general matter, in crafting regulations, the Board seeks to gather as much information as possible by conducting outreach to the industry, consumer groups, consumers, regulators, and other interested parties.  We use research and survey data, consumer focus groups, and consumer testing to learn how consumers use and process information about financial services.  After regulatory proposals have been published, we obtain input through the public comment process.  In addition, we obtain input from the Boardâs Consumer Advisory Council, comprised of representatives from consumer and community organizations, financial institutions, industry trade groups, academics, and state and local officials from across the country.
+
+[SECTION]
+
+At times, the Board also holds public hearings, as it has under HOEPA, to gather information about the subprime mortgage market.  During the summer of 2006, four HOEPA hearings considered (1) predatory lending and the impact of the HOEPA rules and state and local anti-predatory lending laws on the subprime market; (2) nontraditional mortgage products such as interest-only mortgage loans and payment-option ARMs, and reverse mortgages; and (3) how consumers select lenders and mortgage products in the subprime mortgage market.
+
+[SECTION]
+
+A fifth HOEPA hearing in June will be used to gather information on how the Board might use its rulemaking authority to curb abusive lending practices in the home mortgage market, including the subprime sector.
+
+[SECTION]
+
+In considering how to improve disclosures for ARMs and other alternative mortgage products under TILA, the Board will conduct extensive consumer testing to determine what information is most important to consumers, when that information is most useful, what wording and formats work best, and how disclosures can be simplified, prioritized, and organized to reduce complexity and information overload.  The Board will use design consultants to assist in developing model disclosures that will be effective in communicating information to consumers.
+
+[SECTION]
+
+Based on its review of Regulation Z, the Board will revise Regulation Z within the existing framework of TILA or, if it determines that useful changes to the closed-end disclosures are best accomplished through legislation, it will inform the Congress.
+
+[SECTION]
+
+The regulatory review process is necessarily complex and takes time.  So, in the interest of providing improved information to consumers sooner rather than later, the Board, in partnership with the Office of Thrift Supervision, recently revised the Consumer Handbook on Adjustable Rate Mortgages (CHARM booklet) to include additional information about nontraditional mortgage products. The CHARM booklet is an effective means of reaching consumers because creditors are required to provide a copy of the booklet to each consumer when an application for an ARM is provided.
+
+[SECTION]
+
+Consumer Education and Community Engagement
+Consumer education efforts have been another important component of our response to concerns in the subprime lending market.  The Board has sought to increase consumer awareness of the risks of nontraditional mortgage loans by providing consumers with information, both in print and on the web, on adjustable rate, interest-only, and payment-option mortgages.  We recently published a consumer education brochure titled: Interest-Only Mortgage Payments and Payment-Option ARMs--Are They for You?  The brochure is designed to assist consumers who are shopping for a mortgage loan.  These informational brochures complement a host of other financial education resources that can be found at: http://www.federalreserveeducation.org/.
+
+[SECTION]
+
+As I mentioned earlier, the Board has been actively engaging leaders of the various components of the mortgage lending industry, as well as community leaders, to learn about opportunities for loss mitigation and foreclosure intervention.  In April, the Board, along with the other federal banking agencies, cosponsored a forum of secondary market participants to develop a better understanding of the challenges in addressing delinquencies and mitigating foreclosures, such as the unintended consequences of contractual obligations among lenders, servicers, and investors.  Currently, the Board is convening follow-up meetings with key market players to further identify strategies that may provide solutions for working with borrowers who are unable to meet their mortgage obligations.  Engagement of private, public, and nonprofit sector participants is one way that the Federal Reserve seeks to work toward practical solutions for issues that may be beyond our supervisory reach.  Collaborations to further community development and financial education have long been part of the Federal Reserve Systemâs approach to facilitate solutions to matters that may be most effectively addressed at a local or regional level.
+
+[SECTION]
+
+In addition, the Community Affairs Offices throughout the Federal Reserve System have been actively engaged in collaborations with local and regional government agencies, lenders, and nonprofit organizations to identify strategies to assist troubled mortgage borrowers.  Many Reserve Banks have collaborated with NeighborWorks America® organizations in their districts.  This national nonprofit organization, which has a Federal Reserve Board member serving on its board of directors, is dedicated to promoting and sustaining homeownership.  NeighborWorks America® has been on the front line in developing hotlines, counseling, and loan funds to help mitigate foreclosure in many communities throughout the country.  Here in Ohio, the Federal Reserve Bank of Cleveland has been proactive in connecting with lenders, community leaders, government officials, and academics to help bring understanding to the issues and highlight best practices and resources for addressing mortgage delinquencies and foreclosures.  The Reserve Bank is serving as a convener of government, financial institutions, and community-based organizations in assessing and addressing regional foreclosure issues.  Among the events the Reserve Bank has co-hosted was an Ohio Foreclosure Summit in 2005, which led to the introduction of the NeighborWorks 1-800 hotline in Ohio, and addressed issues of financial education, predatory lending, policy, regulation, and enforcement.  In addition, the Reserve Bank helped organize and participated in a 2006 Ohio Foreclosure Summit in Toledo.  Both summits included community, industry, and government representatives.  Last year, the Federal Reserve Bank of Cleveland also hosted high-level panel presentations in their Cleveland and Pittsburgh offices so that representatives from lending institutions, nonprofit organizations, and local governments could present their concerns to senior Federal Reserve Bank officials.  In addition, the Cleveland Federal Reserve convened financial education consortia in Dayton, Cincinnati, and Northeast Ohio that brought together providers and funders to help expand the reach and impact of the many financial education programs designed to help low- and moderate-income consumers.  These consortia have created websites and directories of services and hosted meetings to share best practices.  The website and directories are resource guides for residents and community-based organizations that they can use to find professional service providers to help them with basic money management and resolving difficult financial situations such as foreclosure.  The Federal Reserve Bank is currently working on an analysis of data availability and gaps that exist in accurately tracking foreclosures within the district.  The report explains the challenges that exist in assessing the scope and scale of the issue and barriers that exist due to lack of information.
+
+[SECTION]
+
+In closing, I would like to commend the local leaders and organizations that are collaborating in Ohio to develop creative programs to respond to their constituentsâ needs.  I had the opportunity to meet with several of them earlier this month, and benefited from their analyses of the issues and the strategies they are undertaking to support borrowers through rescue loan programs, intervention and work outs, and financial education and counseling.  As real estate markets are driven by local and regional dynamics, it is essential to have localized efforts that address the underlying problems, not just the symptoms, and to effectively reach individual borrowers to provide assistance in working through their financial crises and avoiding foreclosure.
+
+[SECTION]
+
+One of the many challenges that we confront in this environment is to address concerns regarding mortgage lending practices while preserving the flexibility necessary to allow lenders to help troubled borrowers by employing various foreclosure prevention strategies, including debt restructuring and refinance.  Certainly, we all recognize the importance of preserving the record rate of homeownership, which is to the benefit of both consumers and the economy.  And, a robust and disciplined subprime market is vital to ensuring continued progress in broad access to credit and homeownership.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+At the time of this application, Bank One Corporation had moved its headquarters from Columbus, Ohio, to Chicago, Illinois. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

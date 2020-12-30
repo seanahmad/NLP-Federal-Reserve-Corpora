@@ -1,0 +1,279 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+November 14, 2012
+
+[SECTION]
+
+Michael S. Gibson, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, United States Senate, Washington, D.C.
+
+[SECTION]
+
+Michael S. Gibson presented identical remarks before the the Subcommittees on Insurance, Housing and Community Opportunity and Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives on November 29, 2012.
+
+[SECTION]
+
+Chairman Johnson, Ranking Member Shelby, and members of the Committee, thank you for the opportunity to testify on the proposed interagency changes to the regulatory capital framework for U.S. banking organizations. In today's testimony, I will provide an overview of the proposed changes and the main themes arising from the public comment process, especially as they relate to community banking organizations and depository institution holding companies with insurance activities.
+
+[SECTION]
+
+Overview of Proposed Changes
+       The recent financial crisis revealed that the amount of high-quality capital held by banking organizations in the United States was insufficient to absorb losses during periods of severe stress. The effects of having insufficient levels of capital were further magnified by the fact that some capital instruments did not absorb losses to the extent previously expected. While robust bank capital requirements alone cannot ensure the safety and soundness of the banking system, we believe they play a key role in protecting the banking system and financial stability more broadly.
+
+[SECTION]
+
+As demonstrated during the recent financial crisis, banking organizations with strong capital positions are better equipped to absorb losses from unexpected sources. Furthermore, strong capital positions help to ensure that bank losses are borne by shareholders, rather than taxpayers. The June 2012 interagency proposal to amend the bank regulatory capital framework applies the lessons of the crisis, in part, by increasing the quantity and quality of capital held by banks.1 For all banking organizations, the proposal would introduce a new common equity tier 1 capital requirement, raise existing minimum tier 1 capital requirements, and implement a capital conservation buffer to increase bank resiliency during times of stress. The proposal also updates and harmonizes the existing capital rules with a standardized approach for the calculation of risk-weighted assets, incorporating a more risk-sensitive treatment for certain asset classes to address weaknesses identified in the capital framework in recent years.
+
+[SECTION]
+
+For large, internationally active organizations, the proposal would introduce a supplementary leverage ratio, a countercyclical capital buffer, and would effectively raise the capital requirement by updating aspects of the advanced approaches risk-based capital rule. These amendments, along with other recent regulatory capital enhancements, will require the large, systemically important banking organizations to hold significantly higher levels of capital relative to other institutions. Under the proposal, savings and loan holding companies would, for the first time, be subject to consolidated capital requirements, as required by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). With this proposal, U.S. bank capital requirements would reflect international Basel III agreements reached by the Basel Committee on Banking Supervision as well as relevant domestic legislative provisions, including sections 171 and 939A of the Dodd-Frank Act.
+
+[SECTION]
+
+In developing this proposal, the Federal Reserve sought to strike the right balance between safety and soundness concerns and the regulatory burden associated with implementation, including the impact on community banking. It is important to note that numerous items in this proposal, and in other recent regulatory reforms, are focused on larger institutions and would not be applicable to community banking organizations. These items include the countercyclical capital buffer, the supplementary leverage ratio, enhanced disclosure requirements, the advanced approaches risk-based capital framework, stress testing requirements, the systemically important financial institution capital surcharge, and market risk capital reforms.
+
+[SECTION]
+
+Impact
+       The Federal Reserve has assessed the impact of the changes proposed by this rulemaking on banking organizations and the broader financial system through domestic analyses and through its participation in cost-benefit analyses performed by the Basel Committee on Banking Supervision. The Macroeconomic Assessment Group, a working group of the Basel Committee, found that among internationally active banks, the stronger capital standards proposed under Basel III would significantly lower the probability of banking crises and their associated economic losses, while having only a modest negative effect on gross domestic product and the cost of credit.2 Furthermore, these modest negative effects can be mitigated by the phase in of the standards over time, which is why we have included extensive transition periods for several aspects of the proposal. The Federal Reserve believes that the benefits of the proposed changes, in terms of the reduction of risk to the U.S. financial system and to the broader economy, outweigh the compliance costs to the financial industry and any costs to the macroeconomy.
+
+[SECTION]
+
+In developing the proposal, each of the federal banking agencies prepared an impact analysis of the proposed requirements on banking organizations that currently meet the minimum regulatory capital requirements, based on each agency's own key assumptions using regulatory reporting data. The Federal Reserve's analysis and assumptions are included as an attachment to today's testimony.3 The overall conclusion of these analyses was that the vast majority of banking organizations would not be required to raise additional capital because they already meet, on a fully phased-in basis, the proposed higher minimum requirements. In addition, approximately 90 percent of community banking organizations already have sufficient capital to meet or exceed the proposed buffer, thus avoiding restrictions on capital distributions and certain executive bonus payments. While many of the largest banking organizations do not already meet the proposed new minimums and the buffer on a fully phased-in basis, they are generally making steady progress toward meeting these standards before they are phased in. However, the Federal Reserve is mindful that other burdens exist for banks, such as systems changes and other compliance costs, which were outside the scope of our analysis.
+
+[SECTION]
+
+Public Comments on the Proposed Changes
+       The federal banking agencies released the proposed rulemaking in early June with an extended comment period ending on October 22, giving interested parties more than four months to comment on the proposal rather than the typical two- or three-month comment period. The agencies have received thousands of comment letters from the public, including banking organizations of all sizes, trade groups, academics, public interest advocates, and private individuals.4 Agency staffs are reviewing these letters carefully and will continue to do so in the coming weeks. Comments include general views on the proposal, including concerns regarding overall complexity and burden, as well as suggestions for specific policy changes and technical modifications aimed at better conforming the proposal to market practices.
+
+[SECTION]
+
+The most common specific areas of concern noted by the financial industry, regardless of institution size, relate to the proposed treatments of accumulated other comprehensive income, otherwise known as AOCI, and residential mortgage exposures. The proposed treatment of AOCI would require unrealized gains and losses on available-for-sale securities to flow through to regulatory capital as opposed to the current treatment, which neutralizes such effects. Commenters have expressed concern that this treatment would introduce capital volatility, due not only to credit risk but also to interest rate risk, and affect the composition of firms' securities holdings. The proposed treatment of AOCI is part of the Basel III Accord and is meant to better reflect an institution's actual loss-absorption capacity; however, we are analyzing commenters' concerns and will be assessing potential ways forward in this area as we finalize the rule.
+
+[SECTION]
+
+In light of observed high loss rates for residential mortgages during the crisis, the agencies proposed a modified treatment aimed at better differentiating the risks of these exposures, which are generally assigned preferential risk weights under our current approach. Commenters have expressed concern that the operational burden and compliance costs of the proposed methodology for risk weighting residential mortgage exposures and the higher risk weights for certain types of mortgage products will increase costs to consumers and reduce their access to mortgage credit. The Federal Reserve, along with the other federal banking agencies, will take these and all comments received into consideration as we finalize the rule.
+
+[SECTION]
+
+Community Banks
+       The Federal Reserve believes capital requirements that improve the quantity and quality of regulatory capital would benefit the resiliency of all banking organizations regardless of size. However, as we consider comments from industry participants and other interested parties regarding the proposed regulatory capital requirements, the Federal Reserve, along with the other federal banking agencies, will remain sensitive to concerns expressed by community banking organizations. The Board recognizes the vital role that community banking organizations play in the U.S. financial system. Community bankers typically have deep roots in their communities, allowing them to gain insights on their local economies and to forge strong relationships with customers. As a result, they can provide relationship-based lending to small businesses, families, and others in their local communities in a manner that larger institutions would find difficult to duplicate.
+
+[SECTION]
+
+When the agencies were developing these proposals, we recognized the need to carefully assess their impact on community banking organizations. While we conducted internal analysis to estimate the impact of the proposal (as discussed earlier), the Federal Reserve also recognized the importance of soliciting feedback directly from community banking organizations to understand more specifically the potential effects on their business activities. To facilitate review of the proposal, the agencies provided summaries of the requirements that were most relevant for community banking organizations, provided a tool to help smaller organizations estimate their capital levels under the proposal, and extended the comment period so that interested parties would have more time to assess the proposals and submit their comments. The Federal Reserve also engaged in substantial industry outreach to hear the views of community bankers and encourage submission of comments. For example, we held a series of "Ask the Fed" sessions aimed primarily at banking organizations supervised by the Federal Reserve that provided an overview of the proposals and gave bankers an opportunity to ask us questions. Following these sessions, which were attended by more than 3,000 bankers, we published a summary of answers to frequently asked questions in a new Federal Reserve publication for community bankers.5 Throughout the comment process, Board members and staff also met with various industry associations to clarify and discuss aspects of the proposal.
+
+[SECTION]
+
+Through outreach efforts and as part of the comment process, community banking organizations have expressed concerns about particular elements of the proposed requirements, indicating that they do not adequately take into account the community banking business model and that some aspects would have potential disproportionate effects on their organizations. In particular, they have asserted that the proposed treatment of AOCI would have more of an impact on community banks because they have fewer available strategies to address the resultant capital volatility relative to larger institutions. In addition, they have expressed concern that the relatively higher risk weights assigned to certain mortgage products would penalize loan products that community banking organizations typically provide their customers. We will be mindful of these comments when considering potential refinements to the proposal and will work to appropriately balance the benefits of a revised capital framework against its costs. As we work toward finalizing the rule, we will seek to further tailor the requirements as appropriate for community banking organizations.
+
+[SECTION]
+
+Insurance Holding Companies
+       The proposal would apply consolidated risk-based capital requirements that measure the credit and market risk of all assets owned by a depository institution holding company and its subsidiaries, including assets held by insurance companies. In addition, the proposal would capture the risk of insurance underwriting activities included in the consolidated holding company capital requirements by requiring deduction of the minimum regulatory capital requirement of the relevant state regulator for insurance companies in the consolidated group. Currently, capital requirements for insurance companies are imposed by state insurance laws on a legal entity basis and there are no state-based, consolidated capital requirements that cover the subsidiaries and non-insurance affiliates of insurance companies.
+
+[SECTION]
+
+The proposed capital requirements have been criticized by savings and loan holding companies that are not currently subject to consolidated capital requirements and that have significant insurance activities. Before mentioning some of the concerns raised by the industry, I would like to provide some background regarding the policy rationale for this proposal. The proposed application of consolidated capital requirements to savings and loan holding companies is consistent with the Board's long-standing practice of applying consolidated minimum capital requirements to bank holding companies, including those that control functionally regulated subsidiary insurance companies. Importantly, such an approach eliminates incentives to engage in capital arbitrage by booking individual exposures in the legal entity in which they receive the most favorable capital requirement.
+
+[SECTION]
+
+The proposed requirements are also consistent with the Collins Amendment in section 171 of the Dodd-Frank Act, which requires that the agencies establish consolidated minimum risk-based and leverage requirements for depository institution holding companies (bank holding companies and savings and loan holding companies) that are no less than the generally applicable risk-based capital and leverage requirements that apply to insured depository institutions under the prompt corrective action framework. At the same time, the proposal included provisions assigning specific risk weights to assets typically held by insurance companies but not depository institutions, namely policy loans and non-guaranteed separate accounts. These provisions were designed to appropriately risk weight assets particular to the insurance industry while at the same time ensuring that the proposals complied with section 171 of the Dodd-Frank Act and fulfilled the policy goals for consistent consolidated capital requirements previously described.
+
+[SECTION]
+
+Through the comment process, depository institution holding companies with insurance activities raised overarching concerns that the proposed regulatory capital requirements, which have primarily been developed for banking organizations, are not suitable for the insurance business model. In particular, they assert that the proposal does not appropriately recognize the longer-term nature of their liabilities and their practice of matching asset and liability maturities. They also assert that the proposal would disproportionately affect longer term assets held by many insurance companies, thus causing them to fundamentally alter their business strategy. These holding companies also have requested a longer transition period to implement consolidated capital requirements for the first time. Currently, those savings and loan holding companies that are also insurance companies report financial statements to state insurance regulators according to Statutory Accounting Principles and would have to begin reporting under the Generally Accepted Accounting Principles to comply with consolidated regulatory capital requirements, a change they assert would be unreasonably costly.
+
+[SECTION]
+
+The Federal Reserve takes these comments seriously and will consider them carefully in determining how to appropriately apply regulatory capital requirements to depository institution holding companies with significant insurance activities.
+
+[SECTION]
+
+Timeline
+       Given the breadth of the proposed changes, many industry participants have expressed general concern that they may be subject to a final regulatory capital rule on January 1, 2013, as contemplated in the proposals, and that this would not provide sufficient time to understand the rule or to make the necessary systems changes. Therefore, the agencies clarified on Friday that they do not expect to finalize the proposal by January 2013.6 We are working as quickly as possible to evaluate comments and issue a final rule that would provide the industry with appropriate transition periods to come into compliance.
+
+[SECTION]
+
+Thank you. I would be pleased to take your questions.
+
+[SECTION]
+
+See press release and proposal. Return to text
+
+[SECTION]
+
+See "Assessing the macroeconomic impact of the transition to stronger capital and liquidity requirements (PDF)"  (August 2010); and "An assessment of the long-term economic impact of stronger capital and liquidity requirements (PDF)"  (August 2010). Return to text
+
+[SECTION]
+
+See Attachment A - FRB Impact, Methodology, and Assumptions (PDF) (Accessible version of Attachment A tables). Return to text
+
+[SECTION]
+
+See comment letters. Return to text
+
+[SECTION]
+
+See "Community Banking Connections: A Supervision and Regulation Publication (PDF)" (Third Quarter, 2012). Return to text
+
+[SECTION]
+
+See "Agencies Provide Guidance on Regulatory Capital Rulemakings." Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

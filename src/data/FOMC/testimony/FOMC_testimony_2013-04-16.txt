@@ -1,0 +1,233 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 16, 2013
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Committee on Financial Services, Subcommittee on Oversight and Investigations, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman McHenry, Ranking Member Green, and other members of the Subcommittee, thank you for the opportunity to testify on the provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act) designed to address the increased risks posed by systemically important financial institutions and to ensure that no institution is "too-big-to-fail". The perception that some institutions are too-big-to-fail reduces the incentives of shareholders, creditors, and counterparties of these firms to constrain excessive risk-taking. It also produces competitive distortions by enabling firms perceived as too-big-to-fail to fund themselves more cheaply than other firms. This competitive distortion is not only unfair to smaller firms and damaging to competition, but it also spurs further growth by the largest firms and more consolidation and concentration in the financial industry.
+
+[SECTION]
+
+The Dodd-Frank Act contains a number of provisions that specifically address the risks posed by systemically important financial institutions. The Federal Reserve has been actively engaged in implementing these provisions. Our goal--working with other U.S. regulators and our counterparts around the world--is to produce a well-integrated set of rules and supervisory practices that substantially reduces the probability of failure of our largest, most complex financial firms and that minimizes the losses to the financial system and the economy if such a firm should fail. These steps also force large firms to internalize the costs that their failure would impose on the broader financial system, minimize the advantage these firms enjoy due to market perceptions of their systemic importance, and give the firms regulatory incentives to reduce their systemic footprint. The Federal Reserve has been working intensively for the past few years to accomplish this goal through both rulemakings and firm-by-firm supervisory efforts.
+
+[SECTION]
+
+Because the Federal Reserve is primarily responsible for the supervision and regulation of banks and bank holding companies, my testimony today will focus on the steps we are taking to address too-big-to-fail in the context of banking organizations. However, it is important to note that concepts like "too-big-to-fail" can also apply to nonbank financial companies. Individual nonbank financial companies posed clear risks to financial stability during the 2007â09 crisis. In these sorts of cases, the authority of the Financial Stability Oversight Council (the Council) to designate systemically important nonbank financial companies or financial activities provides another valuable tool.
+
+[SECTION]
+
+Moreover, the Dodd-Frank Act contains provisions designed to facilitate the orderly resolution of systemically important financial institutions. The ability to resolve a firm that is failing--regardless of size or systemic importance--is critical to making clear that no firm is too-big-to-fail.
+
+[SECTION]
+
+Reducing the Probability of Failure of Systemic Firms
+       Strong capital requirements are the cornerstone of prudential bank regulation because capital provides a buffer against losses from any source or activity. A critical way to reduce the distortions associated with too-big-to-fail is for our most systemic banking firms to have substantial capital buffers, sized to reflect their own risk profiles and the damage that would be done to the financial system were such firms to fail. Achievement of this aim requires both improvement of the traditional, firm-based approach to capital regulation, and the development of a macroprudential overlay to ensure that capital requirements applicable to the most systemic banking firms are more stringent than the requirements that apply to other firms.
+
+[SECTION]
+
+With respect to the traditional, firm-based approach, the Basel Committee on Banking Supervision (the Basel Committee) issued in December 2010 the Basel III package of reforms to its framework for minimum bank capital requirements, supplementing an earlier set of changes that increased capital requirements for important classes of trading assets. Last year, the Federal Reserve and the other U.S. banking agencies issued for comment a set of proposals to implement the Basel III capital standards in the United States. To help ensure that all U.S. banking firms maintain strong capital positions, the Basel III proposals would introduce a new common equity capital requirement, raise the existing tier 1 capital minimum requirement, implement a capital conservation buffer on top of the regulatory minimums, and introduce a more risk-sensitive standardized approach for calculating risk-weighted assets. Large, internationally active banking firms would also be subject to a supplementary leverage ratio and a countercyclical capital buffer, and would face higher capital requirements for derivatives and certain other capital markets exposures they hold. The U.S. banking agencies are reviewing comments on this proposal and working toward a final rule now. We are specifically focused on addressing comments that urge the agencies to reduce the burden of the proposal on community banks.
+
+[SECTION]
+
+In addition to this baseline approach to capital, the Federal Reserve has undertaken several initiatives to enhance the capital protection at large firms. In particular, the Federal Reserve conducts an annual supervisory stress test and Comprehensive Capital Analysis and Review (CCAR) for the largest U.S. bank holding companies. In CCAR, the Federal Reserve requires each covered firm to demonstrate that it has rigorous, forward-looking capital planning processes that effectively account for the unique risks of the firm, and maintains sufficient capital to continue to operate through times of extreme economic and financial stress. In the 2012 and 2013 CCAR exercises, the Federal Reserve applied a separate global market shock to the trading books of the six largest U.S. bank holding companies, effectively increasing the amount of capital those firms are required to hold against their trading portfolios. The 2013 CCAR exercise revealed that the aggregate tier 1 common equity ratio--which is the strongest form of loss-absorbing capital--at the 18 firms covered by this stress test has more than doubled, from 5.6 percent at the end of 2008 to 11.3 percent at the end of 2012. That reflects an increase of about $400 billion in tier 1 common equity at these firms since the crisis.
+
+[SECTION]
+
+The Federal Reserve is also working under section 165 of the Dodd-Frank Act to implement enhanced risk-based capital standards for large bank holding companies that would increase in stringency based on the relative systemic footprint of those companies. Consistent with this requirement, the Federal Reserve advanced proposals in the Basel Committee for substantial capital surcharges on the world's largest, most interconnected banking organizations. In December 2011, the Basel Committee reached an agreement on a global framework for such surcharges, and the Federal Reserve will be making forthcoming proposals to implement the capital surcharge framework for systemic U.S. bank holding companies.
+
+[SECTION]
+
+In recognition of the fact that illiquidity at some financial firms played a key role in the financial crisis, the Basel III agreements also introduced for the first time quantitative liquidity requirements for large, internationally active banking firms. One standard, the Liquidity Coverage Ratio (LCR), is designed to help ensure a banking firm's ability to withstand short-term liquidity shocks through adequate holdings of high quality, liquid assets. The other standard, the Net Stable Funding Ratio, is intended to complement the LCR by preventing significant maturity mismatches over longer-term horizons. As with capital, section 165 of the Dodd-Frank Act calls for enhanced, graduated liquidity standards for the largest bank holding companies. The Federal Reserve has already proposed a set of stricter qualitative liquidity standards pursuant to section 165, and we intend to issue a U.S. proposal to implement the LCR later this year.
+
+[SECTION]
+
+In addition to the enhanced capital and liquidity regulations for large bank holding companies as described earlier, the Dodd-Frank Act requires the Board to apply single-counterparty credit limits, risk management and risk committee requirements, and an early remediation framework to large bank holding companies. The Board has issued proposals to implement each of these standards for both large domestic bank holding companies and for large foreign banks operating in the United States. These standards represent a core part of the new regulatory framework for mitigating risk posed by systemically important financial firms and for offsetting benefits these firms may gain from being perceived as too-big-to-fail.
+
+[SECTION]
+
+Improving Resolvability of Systemic Firms
+ An important goal of post-crisis financial reform has been to counter too-big-to-fail by reducing the potential damage to the financial system and the economy from the failure of a major financial firm. To this end, the Dodd-Frank Act created the Orderly Liquidation Authority (OLA), a mechanism designed to improve prospects for an orderly resolution of a systemic financial firm. Since the passage of the Dodd-Frank Act, the Federal Deposit Insurance Corporation (FDIC) has developed a single-point-of-entry preferred resolution strategy under OLA that is intended to effect a creditor-funded holding company recapitalization of the failed financial firm. Key to the ability of the FDIC to execute this approach is the availability of sufficient amounts of unsecured long-term debt at the parent holding company of the failed firm. The Federal Reserve has been working with the FDIC, both as the FDIC develops its OLA framework, and to consider the merits of a regulatory requirement that the largest, most complex U.S. banking firms maintain a minimum amount of parent-level, long-term unsecured debt that would ultimately facilitate a single-point-of-entry approach to OLA. Parent-level, long-term debt could lend greater confidence that the combination of equity owners and long-term debt holders would be sufficient to bear all losses at the consolidated firm, thereby allowing a more orderly resolution of large, complex firms, and counteract the moral hazard associated with the perception that large firms are too-big-to-fail.
+
+[SECTION]
+
+The Dodd-Frank Act also required all large bank holding companies to develop, and submit to supervisors, resolution plans. The Federal Reserve has been working with the FDIC to review resolution plans submitted by the largest U.S. bank holding companies and foreign banks. The largest banking firms submitted their first annual resolution plans to the Federal Reserve and the FDIC in the summer. The initial round has yielded valuable information that is being used to identify, assess, and mitigate key challenges to resolvability under the Bankruptcy Code (Title I plans) and to support development of backup resolution plans under OLA (Title II plans). We believe that, over time, these resolution plans will help firms and the supervisors identify and address structural and other issues that could be impediments to the orderly resolution of the firms.
+
+[SECTION]
+
+Limitations on the Size and Activities of Firms
+       The Dodd-Frank Act also contains several provisions that limit the size and growth of financial firms. For example, sections 163 and 604 of the Dodd-Frank Act require various types of large financial firms to obtain regulatory approval before growing through a merger or acquisition. In each of these cases, the reviewing agency must consider the risk of the transaction to the stability of the United States banking or financial system. In addition, section 622 prohibits a firm from growing through acquisition, with very limited exceptions once the firm reaches a specified size.
+
+[SECTION]
+
+Finally, section 121 of the Dodd-Frank Act authorizes the Federal Reserve, with the consent of two-thirds of the voting members of the Council, to impose a variety of restrictions on large bank holding companies and designated nonbank financial companies if the Board finds that the firm poses a grave threat to the financial stability of the United States. These restrictions include limiting the ability of the company to grow through mergers or acquisitions, requiring the termination of any activity, and imposing conditions on the manner in which the company conducts its activities. In the event that the Federal Reserve determines that these types of actions are inadequate to mitigate the threat the firm poses to the financial stability of the United States, the firm may be required to sell assets.
+
+[SECTION]
+
+Conclusion
+       The Federal Reserve has made significant progress in the past few years toward the goals of making all firms, including large, systemically important firms, more resistant to failure and ensuring that no firm is too-big-to-fail, but more work remains to be done.
+
+[SECTION]
+
+Thank you for your attention. I would be pleased to answer any questions you might have.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

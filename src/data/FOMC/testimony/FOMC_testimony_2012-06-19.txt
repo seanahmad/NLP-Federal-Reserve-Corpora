@@ -1,0 +1,229 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 19, 2012
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Bachus, Ranking Member Frank, and members of the Committee, thank you for the opportunity to testify regarding bank supervision and risk management and the Federal Reserve's response to the trading losses recently announced by JPMorgan Chase & Co. (JPMorgan Chase).
+
+[SECTION]
+
+Prudential Supervision of Large Financial Firms
+       Before discussing JPMorgan Chase's recent trading losses, it may be helpful first to discuss how the Federal Reserve and other supervisors oversee large financial institutions like JPMorgan Chase. The prudential supervision of the largest, most complex financial firms is a cooperative effort, in which the Federal Reserve acts as the regulator and supervisor of bank holding companies, but with most of the principal business activities of such firms typically conducted through subsidiaries supervised by other functional regulators, such as insured depository institutions, broker-dealers, and insurance companies. As the consolidated supervisor of holding companies, the Federal Reserve's supervisory program for such firms generally takes a broad view of the activities, risks, and management of those firms on a consolidated basis, with particular focus on financial strength, including the adequacy of capital and liquidity, corporate governance, and risk-management practices and competencies of a firm as a whole.
+
+[SECTION]
+
+The Federal Reserve has taken a number of steps in recent years to reorient its supervisory structure and strengthen its supervision of the largest, most complex financial firms. Most importantly, we have established the Large Institution Supervision Coordinating Committee (LISCC), which is founded on the principles that large institution supervision should be more centralized; that it should conduct regular, simultaneous, horizontal (cross-firm) supervisory exercises; and that it should be more interdisciplinary than it has been in the past. Thus, the committee includes senior Federal Reserve staff from the research, legal, and other divisions at the Board and from the markets and payment systems groups at the Federal Reserve Bank of New York, as well as senior bank supervisors from the Board and relevant reserve banks. Relative to previous practices, this approach to supervision relies more on quantitative methods for evaluating the performance and vulnerabilities of firms.
+
+[SECTION]
+
+To date, the LISCC has developed and administered various horizontal supervisory exercises, notably the capital stress tests and related comprehensive capital reviews of the nation's largest bank holding companies, and is now extending its activities to coordinate other supervisory processes more effectively.
+
+[SECTION]
+
+JPMorgan Chase's Trading Loss and the Federal Reserve's Response
+       Last month, JPMorgan Chase announced that it had suffered significant trading losses on credit derivative positions entered into by its Chief Investment Office (CIO). The CIO is an organizational unit of JPMorgan Chase that carries out, through the firm's subsidiary national bank, a variety of asset-liability management and other activities. The activities of the CIO are managed and controlled out of JPMorgan Chase's New York headquarters, with a substantial portion of the CIO's activities conducted through the bank's London branch and other overseas branches or offices.
+
+[SECTION]
+
+The trading losses suffered by the CIO arose out of a complex synthetic credit portfolio that the CIO had developed over time, which was primarily composed of both long and short credit default swap positions on a number of different credit assets and indices. Trading in this synthetic credit portfolio was executed through the London branch of JPMorgan Chase's subsidiary national bank. JPMorgan Chase has stated that, because of a combination of risk-management failures and execution errors, and the complexity and illiquidity of the positions involved, the CIO's synthetic credit portfolio gave rise to significant trading risks that resulted in the losses.
+
+[SECTION]
+
+In response to these significant trading losses, the Federal Reserve--in its capacity as consolidated supervisor of the bank holding company--has been working closely with the Office of the Comptroller of the Currency (OCC), the regulator of the national bank, on a number of fronts. First, the Federal Reserve is assisting in the oversight of JPMorgan Chase's efforts to manage and de-risk the portfolio in question. Second, we are working closely with the OCC and Federal Deposit Insurance Corporation (FDIC) to fully assess any risk-management failures, governance weaknesses, or other potential problems that may have given rise to the CIO's losses, and to help ensure that any such shortcomings are promptly and appropriately addressed. This review includes scrutiny of risk-control practices surrounding the CIO's trading, hedging, and investment activities and strategies; in particular, those activities and strategies that led to the CIO's recent losses. Third, the Federal Reserve continues to evaluate whether the governance, risk management, and control weaknesses exposed by this incident may be present in other parts of the firm engaged in similar activities. To date, we have found no evidence that they are, but this work is not yet complete.
+
+[SECTION]
+
+The Importance of Capital
+       The trading losses at JPMorgan Chase have served to remind us of the fundamental importance of capital regulation in our prudential oversight of the largest banking firms. Although the risk-management failures that led to JPMorgan Chase's recent trading losses are a cause for significant supervisory concern, it is important to note that these losses, though large in absolute dollar terms, are not a threat to the safety and soundness of the firm. Every dollar of these losses will be borne by JPMorgan Chase's shareholders, and not by depositors or taxpayers, a result that is a function of the substantial amounts of high-quality capital that JPMorgan Chase holds.
+
+[SECTION]
+
+While robust bank capital requirements alone cannot ensure the safety and soundness of the largest banking firms, and indeed should be buttressed by other effective regulatory tools, they are central to good financial regulation because they ensure that capital is available to absorb all kinds of losses, unanticipated as well as anticipated. For precisely this reason, the Federal Reserve and other federal banking regulators continue to take important steps to strengthen bank capital regulation, especially for the largest, most complex firms. Over the past several weeks, the Federal Reserve, OCC, and FDIC have acted jointly to finalize U.S. implementation of the so-called Basel 2.5 reforms that will materially strengthen the market risk capital requirements of Basel II. We have also requested public comment on changes to the U.S. regulatory capital rules to implement the Basel III reforms and the capital requirements in the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). The proposed changes would improve the quality and quantity of regulatory capital held at our nation's banking organizations. Importantly, many of these regulatory reforms specifically address and strengthen the capital requirements applicable to trading activities and positions, including complex derivatives.
+
+[SECTION]
+
+The Federal Reserve has also advocated internationally for capital surcharges on the world's largest, most interconnected banking organizations based on their global systemic importance. Last year, an international agreement was reached on a framework for such surcharges, to be implemented over a 2016â19 transition period. This initiative is consistent with the Federal Reserve's obligation under section 165 of the Dodd-Frank Act to impose more stringent capital standards on systemically important financial institutions, including the requirement that these additional standards be graduated based on the systemic footprint of the institution.
+
+[SECTION]
+
+The recent improvements to the regulatory capital framework have important supervisory complements inthe Federal Reserve's development of firm-specific stress testing and capital planning requirements. These supervisory tools make capital regulation more forward-looking by testing whether firms would have enough capital to remain viable financial intermediaries if they sustained hypothetical losses in asset values and earnings in an adverse macroeconomic scenario. These tools also help to ensure that a firm's senior management and board of directors have put in place the appropriate processes and procedures to fully understand and manage the capital adequacy of the firm in a variety of economic environments. In this area, the Federal Reserve recently completed our second annual Comprehensive Capital Analysis and Review (CCAR). In the CCAR, the Federal Reserve assessed the internal capital planning processes of the 19 largest bank holding companies and evaluated their capital adequacy under a very severe hypothetical stress scenario that included a peak unemployment rate of 13 percent, a 50 percent drop in equity prices, and a further 21 percent decline in housing prices.
+
+[SECTION]
+
+Notwithstanding the stringency of the stress test used in the 2012 CCAR, 15 of the 19 firms showed they would maintain capital above prescribed standards, even assuming that all proposed dividends and other capital actions went forward during the stress period. Furthermore, the results of the 2012 CCAR process demonstrated that most of the 19 bank holding companies have made considerable progress in their internal capital planning processes. Crucially, the tier 1 common ratio for these firms, which compares high-quality capital to risk-weighted assets, has doubled during the past three years to a weighted average of 10.9 percent from 5.4 percent in the first quarter of 2009.
+
+[SECTION]
+
+Implications for Implementation of the Volcker Rule and Other Regulatory Reforms
+       The trading losses announced by JPMorgan Chase have also focused attention on the regulation of trading activities by large, complex banking firms. In particular, there is considerable attention on the Volcker Rule provision of the Dodd-Frank Act banning proprietary trading. The statute provides an exemption from the general ban on proprietary trading for risk-mitigating hedging activities. The rulemaking agencies have jointly issued proposed rules to implement the Volcker Rule, and that proposal would implement that statutory exemption by incorporating the terms of the statutory exemption. Importantly, the agencies' proposal also adds requirements designed to enhance the risk-monitoring and -management of hedging activities and to ensure that these activities are risk-mitigating. Among the restrictions the agencies proposed to add include a requirement for formal policies and procedures governing hedging activities that includes approved hedging instruments and strategies, a formal governance process, documentation requirements explaining the hedging strategy, an internal audit for compliance with these approved hedging strategies, and requirements that incentive compensation paid to traders engaged in hedging not reward proprietary trading. This multi-faceted approach is intended to limit potential abuse of the hedging exemption and improve risk management of these activities, while not unduly constraining the important risk-management function that is served by a bank entity's hedging activities.
+
+[SECTION]
+
+The Federal Reserve has received a significant number of comments on this aspect of the proposed rule, including a number of more recent comments informed by the trading losses that have occurred within JPMorgan Chase's CIO. We will consider all of these comments carefully as we work with the other rulewriting agencies to finalize the joint agency Volcker Rule proposal.
+
+[SECTION]
+
+Thank you for inviting me to appear before you today. I would be pleased to answer any questions you may have.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

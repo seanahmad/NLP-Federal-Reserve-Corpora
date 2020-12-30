@@ -1,0 +1,243 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+December 16, 2011
+
+[SECTION]
+
+Steven B. Kamin, Director, Division of International Finance
+
+[SECTION]
+
+Before the Subcommittee on TARP, Financial Services, and Bailouts of Public and Private Programs, Committee on Oversight and Government Reform, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Thank you, Chairman McHenry, Ranking Member Quigley, and members of the Subcommittee for inviting me today to talk about the economic situation in Europe and recent actions taken by the Federal Reserve in response to this situation.
+
+[SECTION]
+
+For two years now, the tone of global financial markets has become progressively more entangled with fiscal and financial developments in Europe. The combination of high debt levels and low growth prospects in several European countries using the euro has raised concerns about their fiscal sustainability. Such concerns were initially focused on Greece but have since spread to other euro-area countries, leading to substantial increases in their sovereign borrowing costs. Pessimism about their fiscal situation, in turn, has helped to undermine confidence in the strength of European financial institutions, increasing their cost of raising funds and threatening to curtail their supply of credit. These developments have placed significant strains on global financial markets and have weighed on global economic activity.
+
+[SECTION]
+
+Late last week, European leaders announced new steps to address the crisis, including proposals to strengthen fiscal rules and European fiscal coordination, as well as to enhance and provide additional clarity on the timing and design of a more credible euro-area financial backstop. These steps are a positive development and indicate the commitment of European leaders to alleviate the crisis. However, many key details of their proposed policies have yet to be worked out, and implementing them will be a challenge. Hence, it will be critical for European authorities to follow through on their commitments in the days and weeks ahead.
+
+[SECTION]
+
+Here at home, the financial stresses in Europe are undoubtedly spilling over to the United States by restraining our exports, helping to push down business and consumer confidence, and adding to pressures on U.S. financial markets and institutions. Of note, foreign financial institutions, especially those in Europe, are finding it more difficult to fund themselves in dollars. A great deal of trade and investment the world over is financed in dollars, so many foreign financial institutions have heavy borrowing needs in our currency. These institutions also borrow heavily in dollars because they are active in U.S. markets, purchasing government and corporate securities as well as making loans to households and firms. As concerns about the financial system in Europe have mounted, many European banks have faced a rise in the cost and decline in the availability of dollar funding. Difficulty acquiring dollar funding by European and other financial institutions may ultimately make it harder and more costly for U.S. households and businesses to get loans. Moreover, these disruptions could spill over into the market for borrowing and lending in U.S. dollars more generally, raising the cost of funding for U.S. financial institutions. Although the breadth and size of all of these effects on the U.S. economy are difficult to gauge, the situation in Europe poses a significant risk to U.S. economic activity and bears close watching.
+
+[SECTION]
+
+Swap Lines with Other Central Banks
+To address these potential risks to the United States, the Federal Reserve agreed with the European Central Bank (ECB) and the central banks of Canada, Japan, Switzerland, and the United Kingdom to revise, extend, and expand its swap lines with these institutions. 1  These actions were described in a joint announcement by the Federal Reserve and the other central banks on November 30. The measures were motivated by the need to ease strains in global financial markets, which, if left unchecked, could impair the supply of credit to households and businesses in the United States and impede our economic recovery. At present, such strains are particularly evident in Europe, and these actions were designed to help prevent disruptions in financial markets there from spilling over to the U.S. economy.
+
+[SECTION]
+
+Three steps were described in the November 30 announcement. First, we reduced the pricing of drawings on the dollar liquidity swap lines. The previous pricing had been at a spread of 100 basis points over the overnight index swap rate.2  We reduced that spread to 50 basis points. The lower cost to the ECB and other foreign central banks will enable them to reduce the cost of the dollar loans they provide to financial institutions in their jurisdictions. Reducing these costs should help alleviate pressures in U.S. money markets generated by foreign financial institutions, strengthen the liquidity positions of European and other foreign institutions, and boost confidence at a time of considerable strains in international financial markets. Through all of these channels, the action should help support the continued supply of credit to U.S. households and businesses.
+
+[SECTION]
+
+Second, we extended the authorization for these lines through February 1, 2013. The previous authorization had been through August 1, 2012. This extension demonstrates that central banks are prepared to work together for a sustained period, if needed, to support global liquidity conditions.
+
+[SECTION]
+
+Third, we agreed to establish, as a precautionary measure, swap lines in the currencies of the other central banks participating in the announcement. (The Federal Reserve had established similar lines in April 2009, but they were not drawn upon and were allowed to expire in February 2010.) Once such lines are set up, the Federal Reserve could, if needed, activate one or more of these lines and draw foreign currencies. With such access to foreign currency funds, the Federal Reserve could provide euros, Canadian dollars, Japanese yen, Swiss francs, or British pounds to U.S. financial institutions on a secured basis, much as the foreign central banks provide dollars to institutions in their jurisdictions now. U.S. financial institutions are not experiencing any foreign currency liquidity pressures at present, but we judged it prudent to make arrangements to offer such liquidity should the need arise in the future.
+
+[SECTION]
+
+I would like to emphasize that information on the swap lines is fully disclosed on the Federal Reserve's website--through the weekly balance sheet release and other materials--and information on swap transactions each week is provided on the website of the Federal Reserve Bank of New York.3
+
+[SECTION]
+
+I also want to underscore that these swap agreements are safe from the perspective of the Federal Reserve and the U.S. taxpayer:
+
+[SECTION]
+
+The Federal Reserve has not lost a penny on any of the swap line transactions since these lines were established in 2007, even during the most intense period of activity at the end of 2008. Moreover, at the maturity of each swap transaction, the Federal Reserve receives the dollars it provided plus a fee. These fees have added roughly $6 billion to overall earnings on Federal Reserve operations over the past five years, thereby increasing the amount the Federal Reserve has returned to taxpayers.
+
+[SECTION]
+
+Conclusion
+The implementation of the changes in swap arrangements I have discussed has had some positive effects on dollar funding markets. On the announcement of the changes, several measures of the cost of dollar funding declined. Moreover, at the auctions of three-month dollar funding conducted by our foreign central bank counterparties the following week, the amount of dollars provided escalated substantially.
+
+[SECTION]
+
+That being said, I would underscore that ultimately, the easing of strains in U.S. and global financial markets will require concerted action on the part of European authorities as they follow through on their announcement last week and take new steps, as needed, to address their fiscal and financial difficulties. The situation in Europe is continuously evolving. Thus, we are closely monitoring events in the region and their spillovers to the U.S. economy and financial system.
+
+[SECTION]
+
+Thank you again for inviting me to appear before you today. I would be happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2011), "Coordinated Central Bank Action to Address Pressures in Global Money Markets," press release, November 30. Return to text
+
+[SECTION]
+
+The dollar overnight index swap rate is the fixed rate that one party agrees to pay in exchange for the average of the overnight federal funds rates over the life of the swap. As such, it is a measure of the average federal funds rate expected over the term of the swap. Return to text
+
+[SECTION]
+
+For each week's Federal Reserve balance sheet, see www.federalreserve.gov/releases/h41. For other relevant information and materials on the Federal Reserve's website, see www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm. For weekly information on the Federal Reserve's swap transactions with other central banks, see www.newyorkfed.org/markets/fxswap/fxswap.cfm . Finally, for copies of the agreements between the Federal Reserve and other central banks, as well as other information, see www.newyorkfed.org/markets/liquidity_swap.html . Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

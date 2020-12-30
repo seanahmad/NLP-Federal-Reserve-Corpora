@@ -1,0 +1,313 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 20, 2006
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Housing and Transportation and the Subcommittee on Economic Policy, Committee on Banking, Housing, and Urban Affairs, U.S. Senate
+
+[SECTION]
+
+Chairman Allard, Chairman Bunning, Senators Reed and Schumer, and members of the Subcommittees, I appreciate the opportunity to appear today to discuss how loan cost disclosures provided to consumers under the Truth in Lending Act (TILA) apply to "nontraditional" or "alternative" mortgage products, such as "interest-only" loans and "option-ARMS." As the Subcommittees have requested, I will address only consumer issues related to these disclosures.
+
+[SECTION]
+
+Nontraditional mortgage products have increased the range of financing options available to consumers and have grown in popularity over the past few years. With traditional thirty-year fixed-rate loans, consumers have equal monthly payments that are sufficient to cover the accrued interest and pay down the principal. In contrast, interest-only loans allow consumers to defer the payment of principal and make only interest payments for an initial period. Option-ARMs allow consumers to make "minimum payments" of less than the accrued interest, which causes the loan balance to increase ("negative amortization").
+
+[SECTION]
+
+Some consumers may benefit from these products and the more flexible payment options, for example, consumers with seasonal or irregular income. For consumers who expect their incomes to increase, the initially lower monthly payment with these loans may enable them to purchase homes that they otherwise might not be able to afford. But these loan products are not appropriate for everyone, depending on their individual circumstances. When monthly payments increase, sometimes substantially, consumers may face "payment shock." Thus, it is important for consumers to have the information necessary to understand the features and risks associated with these types of mortgages. The Federal Reserve is committed to doing what it can to improve the information consumers receive, including improving the Truth in Lending disclosures. Because these products are complex, the disclosures describing them are also complex and can be difficult for some consumers to understand. To address this issue, the Federal Reserve will focus its efforts on making Truth in Lending disclosures more readable and easier for consumers to use. TILA is implemented by the Board's Regulation Z. As part of the Federal Reserve's overall review and revision of Regulation Z, which is currently underway, we will consider changes to both the content and format of mortgage disclosures to improve their effectiveness.
+
+[SECTION]
+
+The Federal Reserve plays several roles and engages in various activities to ensure that consumers understand credit terms and the options available to them when they are shopping for mortgage credit. First, in our role as a rulewriter, the Board issues regulations implementing TILA and its required disclosures. These regulations apply to all creditors. But we recognize that required disclosures alone cannot ensure that consumers understand these loan products. Thus, the Federal Reserve also promotes consumer understanding through other means, such as the development of educational materials for consumers. In addition, through the issuance of guidance and recommended practices, we encourage industry to improve its communications with consumers, for example, by developing promotional materials that are complete and balanced in their description of loan features and risks. The financial institutions that we supervise are examined to ensure that they comply with existing disclosure laws. The Federal Reserve also engages in numerous outreach activities and conducts research to help us better understand consumer behavior and to inform our judgment with regard to the best approaches for assisting consumers. Toward this end, we sponsor consumer surveys, hold public hearings, discuss issues with our Consumer Advisory Council, and conduct consumer focus groups and other types of consumer testing, in addition to considering the public comments on proposed rules. In order to address the complex issues associated with nontraditional mortgages, we plan to utilize a number of these approaches. In my testimony, I will first discuss the Truth in Lending disclosures, and the Board's plan to review and revise them. I will then discuss other efforts that we have already undertaken and planned efforts regarding nontraditional mortgages.
+
+[SECTION]
+
+The Truth in Lending ActTILA is the primary federal law governing disclosures for consumer credit, including home mortgage loans. It is implemented by the Board's Regulation Z. TILA has distinct rules for two categories of consumer credit: open-end (revolving) credit plans, such as credit card accounts; and closed-end (installment) transactions, such as home mortgage loans and auto loans.
+
+[SECTION]
+
+TILA's purpose is to assure the meaningful disclosure of credit terms so that consumers can compare more readily the available terms and avoid the uninformed use of credit. This goal is carried out by requiring the uniform disclosure of costs and other terms to consumers. For closed-end loans transactions such as mortgage loans, TILA requires creditors to provide transaction-specific disclosures before the loan closing. For home-purchase loans, these transaction-specific disclosures must be given within three days after consumers apply for the loan. For nearly twenty years, Regulation Z has also required additional extensive disclosures about lenders' adjustable rate mortgage programs.
+
+[SECTION]
+
+Background on the Disclosures for Alternative Mortgage ProductsThe rapid growth of nontraditional mortgages has been largely associated with loan products that have variable-rate features. The Truth in Lending Act did not specifically require the disclosure of variable-rate features. However, in 1977, the Board revised Regulation Z to require creditors to provide basic information for both mortgage and non-mortgage loans with variable-rate features, including: the circumstances under which the interest rate may increase (for example, when the index used to make rate adjustments rises); any limitations on the increase (such as a periodic or overall interest rate cap); and the effect of a rate increase (for example, whether it would result in an increase in the number or amount of payments).
+
+[SECTION]
+
+As adjustable-rate mortgages became more prevalent, and the variety of ARM products became more extensive, the Board grew concerned that the Regulation Z disclosures did not fully meet consumers' needs. Accordingly, in 1987, the Board amended Regulation Z to provide consumers with more information about ARMs. The 1987 amendments to Regulation Z required creditors to provide consumers with detailed, specific information about all major aspects of their variable rate programs. Creditors must provide these "program" disclosures with every ARM application, and are required to do so before consumers pay a nonrefundable fee. This allows consumers to review the information in an unpressured environment before they apply for the loan.
+
+[SECTION]
+
+The 1987 amendments to Regulation Z also required creditors to provide consumers with a copy of the "Consumer Handbook on Adjustable Rate Mortgages" (the "CHARM booklet"), which was created by the Federal Reserve working in concert with the Office of Thrift Supervision (OTS). The CHARM booklet was designed to educate consumers about the features and risks associated with alternative mortgages. Creditors are required to give consumers a copy of the CHARM booklet with each application for an ARM, including any nontraditional mortgage that has a variable rate.
+
+[SECTION]
+
+Revising the Disclosures for Alternative MortgagesAt this point, I would like to describe the information that is currently included in TILA disclosures and highlight some of the issues the Board will study as it reviews and revises these disclosures. TILA provides specific disclosure requirements for variable-rate loans and other disclosure requirements that apply to all mortgage loans. I will focus primarily on the disclosures for variable-rate mortgage loans, as many nontraditional mortgages have adjustable- rate features.
+
+[SECTION]
+
+ARM Program DisclosuresIn ARM program disclosures, creditors are required to state how the interest rate and payment will be determined. They must explain any rules relating to changes in the index, interest rate, and payment amount. The disclosure must also explain any rules relating to changes in the outstanding loan balance, including, for example, an explanation of payment caps, and the possibility of negative amortization if the payment is not sufficient to cover the accrued interest. Regulation Z requires either a 15-year historical example showing how payments for a $10,000 loan would have been affected by interest rate changes during that period, or a "worst case" payment example showing the maximum interest rate and maximum payment for a $10,000 loan.
+
+[SECTION]
+
+Although it is important for consumers to have complete and accurate information about the features of their ARMs, we recognize that "information overload" can impair the effectiveness of consumer disclosures. In addition, describing loan terms in legally precise language can make disclosures difficult to read and can hinder consumers' understanding. In revising Regulation Z, the Board will use consumer testing and work closely with design consultants to try to improve both the format and language of the ARM program disclosures. The goal is to make these disclosures easier to understand and more useful to consumers.
+
+[SECTION]
+
+Transaction-specific DisclosuresFor both variable-rate and fixed-rate mortgage loans, the transaction-specific disclosures provided before loan consummation express the cost of the loan as an annualized rate, the APR, over the full loan term. These disclosures include a payment schedule showing the amount and timing of payments, including any balloon payment. Regulation Z further requires that the transaction-specific disclosures indicate if the loan has a variable-rate feature. Creditors must also specify if a prepayment penalty may be charged.
+
+[SECTION]
+
+The APRFor variable-rate loans, the disclosed APR is based on the rates currently in effect. The APR calculation does not consider the effect of possible future changes to any index used to adjust the interest rate. However, when the loan's initial interest rate has been discounted and is not based on the index used to make later adjustments, the APR is a composite rate based on the discounted rate for as long as it is in effect, and the fully indexed rate in effect at the time the loan is consummated for the remainder of the loan term.
+
+[SECTION]
+
+The Payment ScheduleThe TILA payment schedule, like the APR, is based on the interest rates that are in effect at the time the loan is closed. No assumption is made about possible future changes in the index used to set the rate. Consequently, a consumer's actual payments may be higher than the amount shown in the schedule if interest rates increase due to changes in the index.
+
+[SECTION]
+
+Although the payment schedule disclosures do not assume changes in the interest rate, they must reflect increases in the monthly payment that will be required for interest-only loans or option-ARMs in order to amortize the principal. In general, for option-ARMs, the payment schedule is based on the assumption that the consumer makes only the required minimum payment each month. Accordingly, the payment schedule for an option-ARM should reflect the higher monthly payment that will be required to amortize the new loan balance after the option period ends.
+
+[SECTION]
+
+There has been much discussion about the value of also requiring a worst-case payment disclosure based on the loan's interest rate caps. Some believe that such a disclosure would provide consumers with useful information to assess the affordability of a particular loan. Others assert that disclosing a worst-case payment has "shock value" that would alert the consumer to the loan's inherent risk. Some industry representatives question the usefulness of the disclosure, particularly if the worst-case payment would occur so far in the future that the consumer's payment is unlikely to reach that level before the home is sold or refinanced. Others argue that if the disclosure is provided, individual consumers will be able to evaluate for themselves the relevance of this information in light of their own financial circumstances.
+
+[SECTION]
+
+In 1998, the Board and the Department of Housing and Urban Development (HUD) submitted a joint report to the Congress making recommendations for legislative reform of the mortgage disclosure requirements. The 1998 joint report contained model disclosures which included a proposed disclosure of the maximum interest rate that could be charged on the loan and the resulting payment for that "worst-case" scenario. In reviewing Regulation Z, the Board plans to study this aspect of the disclosures carefully by using consumer testing to determine its usefulness.
+
+[SECTION]
+
+Negative AmortizationThe ARM program disclosures must note the possibility that negative amortization will occur if the consumer's payments are not sufficient to cover the interest due. The transaction-specific disclosures are not required to show how much the consumer's loan balance will increase if the loan has a negatively amortizing payment schedule. Whether or not consumers would find such disclosures useful is something that the Federal Reserve will evaluate through consumer testing during the Regulation Z review.
+
+[SECTION]
+
+Fixed-Rate LoansThere have been recent reports of an increase in the popularity of fixed-rate loans that allow consumers to make interest-only payments or choose to make minimum payments that are less than the accrued interest. With some loans, consumers may start out by making small payments of principal based on a forty-year amortization schedule (or longer), but the required monthly payments subsequently increase so that the loan will be paid off in thirty years. As with ARMs, these fixed-rate alternative mortgages can also result in increasing loan balances and payment shock when consumers' payments increase to fully amortize the loan. Because the interest rate is fixed, however, the increase in payments may be smaller and more predictable. For fixed-rate loans, the payment schedule currently required under TILA will show the consumer's future payment amounts, including any expected increases, assuming that the consumer makes only the required minimum payment.
+
+[SECTION]
+
+Timing of DisclosuresFor home-purchase loans, TILA's transaction-specific disclosures must be provided within three days after a consumer applies for a loan, and additional disclosures must be given before the loan closing if the terms subsequently change. In non-purchase transactions, these disclosures may be provided at or just before the loan closing. The timing of these disclosures for nonpurchase loans presents an issue that the Board will consider during its review of Regulation Z. The Board has previously studied whether TILA disclosures should be provided to consumers earlier in the mortgage shopping process. This issue was discussed in the 1998 joint report to the Congress by the Board and HUD. In considering this issue, a trade-off must be weighed: the value of providing estimated disclosures before the underwriting process is complete, versus the value of later disclosures that are firmer and less likely to change. Consistent with the framework of TILA, the Board will consider whether the transaction-specific TILA disclosures for non-purchase loans should be provided earlier in the loan process, as they currently are for home-purchase loans.
+
+[SECTION]
+
+The Process for Reviewing and Revising Regulation ZThe Board and its staff have reviewed and updated Regulation Z and its interpretations frequently to address new products and issues. Moreover, in December 2004, the Board began a comprehensive review of Regulation Z starting with the publication of an advance notice of proposed rulemaking (ANPR). Although the first phase of the Board's review has concentrated on the rules for credit card accounts, the ultimate goal of the Regulation Z review is to improve the effectiveness and usefulness of all TILA disclosures, including mortgage disclosures. To ensure that consumers get timely information in a form that is readily understandable, the Board will study alternatives for improving both the content and format of disclosures, including revising the model forms published by the Board.
+
+[SECTION]
+
+Although the initial focus has been on credit cards, the Board's staff has already taken steps relative to its review of mortgage disclosures, beginning with the home-equity lending hearings that we held this past summer. Those hearings were particularly focused on the information consumers receive regarding ARMs and other alternative mortgage products. However, because rulemakings and consumer testing take time, the Board is taking more immediate steps to improve the information consumers receive about alternative mortgages. These steps include: revising the CHARM booklet; publishing a consumer education brochure; and issuing interagency guidance to help financial institutions improve their communications with consumers.
+
+[SECTION]
+
+As a general matter, in crafting regulations, the Board seeks to gather as much information as possible by conducting outreach to the industry, consumer interest groups, consumers, regulators, and other interested parties. We use research and survey data, consumer focus groups, and consumer testing to learn how consumers use and process information about financial services. After regulatory proposals have been published, we obtain input through the public comment process. In addition, we obtain input from the Board's Consumer Advisory Council, comprised of representatives from consumer and community organizations, financial institutions, and industry trade groups from across the country. And sometimes we hold public meetings such as the home-equity hearings that were just held.
+
+[SECTION]
+
+In considering how to improve disclosures for alternative mortgage products under TILA, the Board will conduct extensive consumer testing to determine what information is most important to consumers, when that information is most useful, what wording and formats work best, and how disclosures can be simplified, prioritized, and organized to reduce complexity and information overload. To that end, the Board will use design consultants to assist in developing model disclosures that will be effective in communicating information to consumers. The Board will also use consumer testing to assist in developing model disclosure forms. Based on this review and testing, the Board will revise Regulation Z within the existing framework of TILA. If the Board determines that useful changes to the closed-end disclosures are best accomplished through legislation, the Board will inform the Congress.
+
+[SECTION]
+
+Furthermore, in reviewing the disclosure requirements for closed-end credit transactions, the Board will also be mindful that loan products will change over time, and that future products might differ substantially. Thus, any new disclosure requirements relating to features and risks of today's loan products must be sufficiently flexible to allow creditors to provide meaningful disclosures even as these products change over time and new products are developed.
+
+[SECTION]
+
+Interagency GuidanceIn December 2005, the Federal Reserve and other federal bank and thrift regulators issued draft interagency guidance on alternative mortgage products. The proposed guidance addresses both safety and soundness and consumer protection concerns. In particular, guidance is provided to institutions on ensuring that loan terms and underwriting standards are consistent with prudent lending practices, including consideration of a borrower's repayment capacity. With regard to consumer issues, the proposed guidance focuses on the need to provide consumers with clear and balanced information at crucial times, when they are making decisions about the relative benefits and risks of nontraditional mortgage products. Accordingly, the draft interagency guidance describes recommended practices for financial institutions in communicating with consumers while they are shopping, not just when they submit an application or close a loan.
+
+[SECTION]
+
+Specifically, the proposed guidance recommends that institutions' promotional materials and descriptions of these products include information about, among other things, potential increases in consumers' payment obligations ("payment shock") and the potential consequences of increasing principal loan balances and decreasing home equity ("negative amortization"). The proposed guidance also recommends that institutions alert consumers to the amount of any prepayment penalty that may be imposed if the consumer refinances the mortgage. Lenders' communications regarding the features and risks of these products can be enhanced, for example, through the use of illustrations for sample loan amounts and interest rates, based on the products actually being offered by the lender at that time.
+
+[SECTION]
+
+The agencies have considered the public comments received and are currently finalizing the draft guidance. As the public comments recognized, the interagency guidance is directed only at depository institutions and their affiliates. This highlights the importance of the TILA disclosures and CHARM booklet, which must be provided by all lenders.
+
+[SECTION]
+
+The Federal Reserve's Hearings on Home-equity Lending During the summer of 2006, the Federal Reserve held public hearings on the topic of home-equity lending in four cities. One of the principal purposes of the hearings was to gather information to inform the Board's review of Regulation Z disclosures for nontraditional mortgage products, such as option-ARMs. A significant portion of the hearings was devoted to discussing these products and, in particular, whether consumers receive adequate information about the features and risks associated with nontraditional mortgages. The hearings explored consumer behavior in shopping for mortgage loans and included discussions about the challenges involved in designing more effective and informative disclosures.
+
+[SECTION]
+
+At the hearings, lenders testified that they underwrite these loans carefully, and they cited the historically strong performance of these products. Industry representatives believe that when loans are prudently underwritten, consumers are able to benefit from the flexibility these products provide without being at risk of default.
+
+[SECTION]
+
+On the other hand, consumer advocates and state officials testified that aggressive marketing and the complexity of these products put borrowers at additional risk for obtaining mortgages that they do not understand and might not be able to afford. Consumer advocates were particularly concerned about mortgage brokers and lenders "push-marketing" nontraditional mortgages to low-income consumers and borrowers living on fixed-incomes, without adequate regard for whether the products are appropriate for their particular circumstances. They expressed concerned about marketing that focuses too heavily on low initial payments that are based on discounted rates that quickly expire. While they supported enhanced disclosures to inform borrowers about worst-case payment scenarios, they questioned whether disclosures alone can protect consumers because the products are so complex. Accordingly, consumer advocates who testified favored the adoption of legal standards that would hold brokers and lenders liable for making unaffordable mortgages loans.
+
+[SECTION]
+
+Federal Reserve staff is considering carefully the transcripts of the hearings as well as the related public comment letters. Staff will consider this information in developing its plans and recommendations for revising the mortgage disclosure requirements in Regulation Z.
+
+[SECTION]
+
+The Consumer Handbook on Adjustable-Rate MortgagesAs previously noted, nearly twenty years ago, the Federal Reserve, working with the OTS, created the "Consumer Handbook on Adjustable Rate Mortgages." The CHARM booklet is designed to educate consumers about the features and risks associated with alternative mortgages. To enhance the information consumers receive about nontraditional mortgage products, the Board's staff is currently working with staff of the OTS to revise the CHARM booklet to include additional information about these products.
+
+[SECTION]
+
+The CHARM booklet can be an effective means to educate consumers because the Board's Regulation Z requires creditors to give a copy to consumers with each application for an ARM, including nontraditional mortgages such as option-payment ARMs. Because the booklet is provided at this early stage in the process, it is useful in encouraging consumers to ask brokers and lenders the right questions to decide if this type of loan is right for them. The booklet explains such features as payment shock and negative amortization. It also provides numerical examples of how consumers' payments can change and how their loan balances may increase. The agencies plan to publish a revised CHARM booklet later this year that will contain additional information tailored to interest-only and option-ARMs.
+
+[SECTION]
+
+Consumer EducationThe Federal Reserve engages in a number of consumer education activities. For example, we plan to publish a consumer education brochure titled: "Interest-Only Mortgage Payments and Option-Payment ARMs--Are They for You?" The brochure is designed to assist consumers who are shopping for a mortgage loan. We expect to publish the brochure within the next several weeks. It will be available in printed form and on the Board's web site. We are also developing an interactive mortgage calculator for the Internet, which consumers can use to compare the repayment terms for different products.
+
+[SECTION]
+
+ConclusionThe Federal Reserve is actively engaged in efforts to ensure that consumers understand the terms and features of nontraditional mortgage products. Improving federally required disclosures under TILA is one aspect of this endeavor. We are also pursuing other opportunities, such as consumer education publications and interagency regulatory guidance that will include recommended best practices for depository institutions. We expect the Board will continue these efforts over time as mortgage products evolve in response to consumers' changing needs.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

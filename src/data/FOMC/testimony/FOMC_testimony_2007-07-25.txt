@@ -1,0 +1,253 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 25, 2007
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Oversight and Investigations, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Watt, Ranking Member Miller, and members of the Subcommittee, I am pleased to appear before you to discuss the Boardâs efforts to promote fair lending.  It is widely known that there are racial and ethnic gaps in the availability and price of mortgage credit.  These gaps have been highlighted by the Home Mortgage Disclosure Act (HMDA) data, including pricing data required by the Boardâs regulation.  The HMDA data have brought attention to these gaps and spurred a variety of efforts to address them by lenders, consumer and civil rights advocates, the Federal Reserve and other federal and state agencies, and, as indicated by todayâs hearing, the Congress.
+
+[SECTION]
+
+As with racial and ethnic disparities in income, education, employment, and healthcare, gaps in access to credit have long presented our society with moral, legal, social, and economic challenges.  The Federal Reserve shares concerns that credit gaps may result in part from illegal discrimination, and we rigorously enforce compliance with the fair lending laws.  When we find evidence of illegal discrimination, we take strong action.  We recently referred two nationwide mortgage lenders to the Department of Justice (DOJ) because we found evidence that Hispanic and African-American borrowers paid more for their loans than comparable white borrowers.
+
+[SECTION]
+
+In my testimony today, I will first discuss the Federal Reserveâs efforts to ensure that banks maintain effective systems to prevent illegal discrimination; then, I will describe our efforts to detect and remedy violations when they occur.  I will also explain more fully the recent mortgage pricing referrals to DOJ and the targeted pricing reviews on which they were based.  As you have recognized by inviting many other government agencies to testify today, the Board has primary supervisory responsibility for only certain lenders, and my remarks are limited to how we supervise and enforce the law among those lenders.
+
+[SECTION]
+
+An Overview of Fair Lending Supervision and Enforcement at the Federal ReserveThe Board has a long-standing commitment to ensuring that every bank it supervises complies fully with the federal fair lending laws, namely the Equal Credit Opportunity Act (ECOA) and the Fair Housing Act.  This commitment is reflected in our organizational structure:  we have made consumer compliance supervision, including fair lending, a distinct function in the Reserve Banks and at the Board; we have a specialized Fair Lending Enforcement Section at the Board; and we specially train examiners in consumer compliance supervision and have them focus exclusively on that task.  Those examiners prepare a stand-alone consumer compliance examination report bearing a distinct consumer compliance rating for each of the state member banks we supervise. Our commitment to fair lending is also evidenced in how we make it an integral part of every consumer compliance examination we conduct.  Federal Reserve examiners begin every consumer compliance examination by evaluating the institutionâs fair lending risk across all business lines, using the Interagency Fair Lending Examination Procedures.  Examiners have long analyzed HMDA data as part of this process.  Based on this evaluation, examiners identify specific business lines on which to focus, and in every examination at least one product or class of products is evaluated in detail.  Additionally, examiners conduct fair lending reviews outside the usual examination cycle when warranted by heightened fair lending risk.  For example, we conducted targeted mortgage pricing reviews outside the normal supervisory cycle after the first HMDA pricing data were released in 2005.When conducting fair lending examinations, our consumer compliance examiners perform two distinct functions.  First, examiners evaluate the bankâs overall fair lending compliance program.  In essence, examiners make sure that management is committed to fair lending and has put in place the appropriate systems, policies, and staff to prevent violations.  Examiners assess whether the institution devotes a level of resources to consumer compliance that is commensurate with its size, the complexity of its business lines, and the fair lending risk of its business practices.  Of course, the level of resources dedicated to fair lending will vary across institutions, but examiners require that every institution make fair lending a high priority, from the loan officer to the board of directors.  If an institutionâs staff or systems fall short, examiners direct the institution to take corrective action.Second, examiners determine if the bank has violated the fair lending laws.  To that end, they review lending policies and practices to make sure they are not discriminatory.  Examiners also test the institutionâs actual lending record for specific types of discrimination, such as underwriting discrimination in consumer loans, or pricing discrimination in mortgage or automobile lending.  This testing for discrimination may use statistical techniques, manual reviews of loan files, or both.  When examiners find evidence of potential discrimination, they coordinate closely with the Boardâs Fair Lending Enforcement Section, which brings additional legal and statistical expertise to the examination and ensures that fair lending laws are enforced consistently and rigorously throughout the Federal Reserve System. Because the Federal Reserve requires banks to devote significant resources to fair lending and because we examine them routinely for fair lending compliance, we expect fair lending violations--especially those involving a pattern or practice of discrimination--to be rare among the banks we supervise.  Our experience has been that such violations are indeed rare, but when they occur, we do not hesitate to take strong action.  If we have reason to believe that there is a pattern or practice of discrimination under ECOA, the Board, like the other federal banking agencies, has a statutory responsibility under that Act to refer the matter to DOJ, which reviews the referral and decides if further investigation is warranted.  A DOJ investigation may result in a public civil enforcement action or settlement.  DOJ may decide instead to return the matter to the Federal Reserve for administrative enforcement.  When this occurs, we ensure that the institution corrects the problems and makes amends to the victims.  We take our responsibility to refer matters to DOJ seriously.  In the first six months of this year alone, we referred five institutions after concluding that we had reason to believe that they had engaged in a pattern or practice of discrimination:
+
+[SECTION]
+
+Last year, we referred four institutions to DOJ for a wide range of issues after concluding that we had reason to believe they had engaged in a pattern or practice of discrimination.  These issues included pricing discrimination in auto lending, mortgage redlining, and age discrimination:
+
+[SECTION]
+
+We referred an additional five matters in 2004 and 2005.2 One referral involved racial and ethnic discrimination in mortgage underwriting, and the remaining four referrals involved marital status discrimination in auto and commercial lending.  We believe that our referral record, which is publicly documented in our annual reports to Congress, demonstrates the Boardâs long-standing commitment to rigorous fair lending enforcement.
+
+[SECTION]
+
+Our referrals account for two of the three public fair lending enforcement actions that DOJ has brought in the past five years based on agency fair lending referrals. One of these enforcement actions involved redlining in mortgage, consumer, and small business lending; the other involved marital status discrimination in the pricing of automobile loans.3
+
+[SECTION]
+
+If a fair lending violation does not constitute a pattern or practice, the Federal Reserve makes sure that the bank remedies it.  From 2004 through 2006, we cited approximately sixty banks for such violations involving discrimination on a prohibited basis under ECOA.4 Many of these violations involved improperly requiring spousal signatures on loan documents, which discriminates on the basis of marital status.
+
+[SECTION]
+
+Most lenders readily agree to correct fair lending violations.  In fact, lenders often take corrective steps as soon as they become aware of a problem. Thus, the Federal Reserve generally uses informal supervisory tools, such as Memoranda of Understanding between the bankâs Board of Directors and the Reserve Bank, or Board Resolutions, to ensure that violations are corrected.  If necessary to protect consumers, however, we can and do bring public enforcement actions.  In 2004, we publicly assessed a $70 million civil money penalty against CitiFinancial Credit Company and also ordered restitution to borrowers.5
+
+[SECTION]
+
+Fair Lending Enforcement Involving Discrimination in Mortgage Pricing
+
+[SECTION]
+
+I would now like to discuss the Federal Reserveâs supervisory and enforcement activities against mortgage pricing discrimination.  As mentioned earlier, we referred two nationwide lenders this year to DOJ for mortgage pricing discrimination.  The first referral involved two of the fair lending risk factors that the agencies have identified and used for some time:  (1) broad discretion in pricing by loan officers or brokers, and (2) financial incentives for loan officers or brokers to charge borrowers higher prices.  The lending institution gave its loan officers discretion to charge overages and underages, that is, to set loan prices higher or lower than its standard rates.  The institution also paid loan officers more if they charged overages.  We found evidence that African-American and Hispanic borrowers paid higher overages than comparable non-Hispanic whites in multiple Metropolitan Statistical Areas (MSAs).
+
+[SECTION]
+
+The second referral involved loans originated through mortgage brokers where the institution also permitted pricing discretion.  African-Americans and Hispanics paid higher annual percentage rates than comparable non-Hispanic whites in multiple MSAs.  While pricing discretion and financial incentives to charge borrowers more do not always result in fair lending violations, these referrals underscore that it is critical for lenders that permit these practices to have clear policies about their use and to monitor them effectively.
+
+[SECTION]
+
+Evaluating Pricing Discrimination Risk by Analyzing HMDA Data and Other InformationThe two previously mentioned referrals resulted from a process of targeted reviews of institutions for pricing discrimination that the Federal Reserve initiated when the HMDA pricing data first became available in 2005.  We developed, and continue to refine, a HMDA data analysis program that identifies institutions with statistically significant pricing disparities by race or ethnicity.6 Because HMDA data lack many factors that lenders routinely use to make credit decisions and set loan prices, such as information about the borrowerâs creditworthiness and loan-to-value ratios, HMDA data alone cannot be used to determine whether a lender discriminates.  Thus, we analyze HMDA data in conjunction with other supervisory information to evaluate a lenderâs risk for discrimination.
+
+[SECTION]
+
+For the 2005 HMDA pricing data--the most recent year for which the data are publicly available--Federal Reserve examiners performed a pricing discrimination risk assessment for each institution that we identified through our HMDA data analysis.  These risk assessments incorporated not just the institutionâs HMDA data, but also the strength of the institutionâs fair lending compliance program, our past supervisory experience with the institution, consumer complaints against the institution, and the presence of fair lending risk factors such as discretionary pricing.  Based on these comprehensive assessments, we determined which institutions would receive a targeted pricing review.  Depending on the examination schedule, the targeted pricing review could occur as part of the institutionâs next examination, or outside the usual supervisory cycle.  Even if an institution is not identified by our HMDA analysis, examiners may still conclude that the institution is at risk for pricing discrimination and perform a pricing review.  We supervise many institutions that are not required to report data under HMDA.  Also, many of the HMDA-reporting institutions we supervise originate few higher-priced loans and, therefore, report very little pricing data.  For these institutions, examiners analyze other available information to assess pricing discrimination risk and perform a pricing review when appropriate.
+
+[SECTION]
+
+Performing Targeted Pricing Reviews to Detect Mortgage Pricing DiscriminationDuring a targeted pricing review, the Federal Reserve collects additional information, including potential pricing factors that are not available in the HMDA data, to determine whether any pricing disparity by race or ethnicity is fully attributable to legitimate factors, or whether any portion of the pricing disparity may be attributable to illegal discrimination.  To perform these reviews, we use analytical techniques that account for the increasing complexity of the mortgage market.  Two industry changes in particular--the proliferation of product offerings and the increased use of risk-based pricing--have significantly increased the complexity of fair lending reviews.  It is not uncommon for a lender to offer many different products, each with its own pricing based on the borrowerâs credit risk. To effectively detect discrimination in the expanding range of products and credit risk categories, the Federal Reserve increasingly uses statistical techniques.  When performing a pricing review, we typically obtain extensive proprietary, loan-level data on all mortgage loans originated by the lender, including prime loans (i.e., not just higher-priced loans reported under HMDA).  To determine how to analyze these data, we study the lenderâs specific business model, pricing policies, and product offerings.  With respect to product offerings, we take great care in defining the products or class of products we analyze, since each product may have different pricing that must be considered in the analysis.  On the basis of our review of the lenderâs policies, we determine which factors from the lenderâs data should be considered.  We then create a statistical model that takes into account those factors and is tailored to that specific lender.  We typically will test for discrimination in particular geographic markets, such as MSAs.  It is important to look at specific markets because relatively small unexplained pricing disparities at the national level can mask much larger disparities in individual markets.As I mentioned earlier, based on our pricing reviews, we concluded that we had reason to believe that two nationwide lenders had engaged in a pattern or practice of discrimination, and we referred them to DOJ.  After accounting for legitimate factors reflected in the lendersâ specific pricing policies, we found that minorities still paid more for their mortgages than non-Hispanic white borrowers in multiple MSAs.  In the remaining pricing reviews that we have completed, we found that minorities did not pay more than non-Hispanic white borrowers, after taking into account the legitimate factors that the lenders used to price loans.  Insights Related to the Pricing Review ProcessThese reviews have reinforced for the Federal Reserve several important aspects of fair lending supervision and enforcement.  First, HMDA data are most helpful as a fair lending tool when they are used in conjunction with other risk factors and supervisory information to identify institutions that warrant closer review.  In particular, our referrals have confirmed that pricing discretion and incentives to charge more remain significant fair lending risks.  Second, to be accurate, our reviews need to be based on the institutionâs specific pricing policies and product offerings.  Unless we take the time to understand the lenderâs business and tailor our analysis accordingly, we risk either missing violations or erroneously concluding that a lender discriminated when it did not.  Third, it is important to test separately for discrimination in different geographic markets.  A lender may have a relatively small, unexplained pricing disparity across the nation as a whole, but still discriminate in distinct geographic markets, such as individual MSAs.  As we move into our third year of analyzing the HMDA pricing data, we will continue to leverage these data and our examination resources to effectively enforce the fair lending laws.  ConclusionThe Federal Reserve is committed to addressing racial and ethnic gaps in the availability and affordability of credit.  With our supervisory and enforcement authority, we ensure that banks we supervise comply fully with the fair lending laws and take strong action in the rare cases when they do not.  More broadly, our regulation requiring lenders to report data on mortgage pricing has helped shine a brighter light on racial and ethnic pricing disparities and spurred efforts from all quarters to address them.  This hearing is an important example of those efforts, and we are pleased to have this opportunity to work with you to ensure that consumer credit markets are free from illegal discrimination.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+
+
+[SECTION]
+
+One of our 2005 referrals was included in our 2006 annual report because of a change in reporting periods.  The referral had not been reported in the 2005 annual report, which only included referrals made through June 2005.  Additionally, one referral was inadvertently omitted from the 2005 annual report. Return to text
+
+[SECTION]
+
+See United States v. First American Bank, Civil Action No. 04C 4585 (N.D. Ill. July 13, 2004), and United States v. Compass Bank, Civil Action No. 07-H-0102-S (N.D. Ala. January 12, 2007). Return to text
+
+[SECTION]
+
+In total during this time period, we cited almost 400 banks for all types of Regulation B violations, including violations that do not involve discrimination.  In addition, during this time, we cited almost 300 banks for violations of HMDA. Return to text
+
+[SECTION]
+
+The Federal Reserve alleged that CitiFinancial violated ECOA by improperly requiring spousal signatures and that it engaged in unsafe and unsound lending practices.  See In the Matter of CitiGroup Inc. and CitiFinancial Credit Company, Order to Cease and Desist and Order of Assessment of a Civil Money Penalty Issued Upon Consent (May 27, 2004). Return to text
+
+[SECTION]
+
+Our HMDA analysis program was originally developed to analyze denial data and examiners continue to use this analysis when they decide the focus of a fair lending examination.  Detecting underwriting discrimination remains an important part of the examination process.  In 2005, for example, we referred an institution to DOJ because it had rejected several minority applicants for âinsufficient collateralâ without ordering an appraisal, but it had not rejected any white applicants for this reason without first ordering an appraisal.  Because of a change in reporting periods, this referral appears in our 2006 annual report.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

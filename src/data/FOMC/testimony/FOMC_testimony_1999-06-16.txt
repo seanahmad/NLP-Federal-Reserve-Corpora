@@ -1,0 +1,178 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Madame Chairwoman, Mr. Vento, and Members of the Subcommittee, I welcome this opportunity to discuss the Federal Reserve's views on recent developments  relating to the allowance for loan losses.
+
+[SECTION]
+
+As a supervisor of banking organizations, the primary focus of the Federal Reserve is on promoting a safe and sound financial system.  Conservative allowance levels contribute to safety and soundness by ensuring that insured depository institutions maintain strong balance sheets and capital levels that reflect the collectibility of the loan portfolio.  Accordingly, the Federal Reserve and the other banking agencies have long encouraged institutions to maintain strong loan loss allowances.  As a reminder of the importance of conservative allowance levels, we need look only to recent experiences in certain foreign countries and to the problems in the banking and thrift industries in the last decade.
+
+[SECTION]
+
+In its role as a securities regulator, the SEC focuses primarily on the transparency of financial statements and reported earnings to investors.  The Federal Reserve also recognizes the importance of transparent financial statements and has been working to enhance transparency domestically and abroad.  Improved transparency can enhance market discipline and thus reinforce supervisory efforts to promote sound risk management and contribute to a safe and sound financial system.
+
+[SECTION]
+
+Indeed, banking organizations have long been expected to follow generally accepted accounting principles (GAAP) in their published financial statements and in regulatory financial statements filed with the banking agencies--an approach supported by Congress in the FDIC Improvement Act of 1991.
+
+[SECTION]
+
+Background and Efforts To Work Together with  
+the Other Federal Banking Agencies and the SEC
+
+In the fall of 1998, the SEC announced an initiative to address earnings manipulation by registrants in a number of industries.  Following the announcement of this initiative, the SEC raised concerns regarding the loan loss reserve practices of some banking organizations, requiring one banking organization to reduce its reserves by $100 million.  The federal banking agencies were concerned about these actions from a safety and soundness standpoint.  The agencies' involvement led to the issuance of a November 1998 interagency statement, which set forth a framework for the banking agencies and SEC to begin working together on loan loss allowance issues.
+
+[SECTION]
+
+Subsequent to the issuance of the November statement, further questions arose regarding bank loan loss reserves, including concerns about the possibility that the SEC would take further actions against some banks that were perceived as having excessive reserve levels.  In addition, around this time, the SEC issued letters to a number of banking organizations regarding their loan loss allowance disclosure practices.  Taken together, these developments generated additional uncertainty in the banking industry and may have created a perception that loan loss allowances would have to be reduced.
+
+[SECTION]
+
+In order to address any misunderstandings, the federal banking agencies and the SEC issued another joint letter on March 10, 1999 reiterating the agencies' agreement to work together and announcing a number of joint efforts.  The joint letter announced new initiatives of the agencies and the accounting profession to develop enhanced guidance on loan loss allowances over a one to two year period.   In addition, the agencies stated that they would support and encourage the processes of the accounting standards setters as they seek to clarify key loan loss allowance accounting issues.  Most importantly, the letter indicated that the agencies will meet together periodically to discuss important matters that affect bank transparency and will focus on enhancing allowance practices going forward.  The spirit of the March 10 joint letter was to put into place a process for resolving issues related to loan loss allowances going forward, and permit the agencies to work together in this process to resolve allowance matters and avoid significant changes in methodology that would encourage a decline in allowances before this process had run its course.
+
+[SECTION]
+
+The Federal Reserve Board has been pleased to host a number of the meetings announced in the March 10 letter between the banking agencies and the SEC to discuss important loan loss reserve issues, and the other agencies have been active in supporting these discussions as well.  The banking agencies and the SEC formed a new Joint Working Group, comprised of senior accounting policy representatives of each of the agencies, to review sound practices used by institutions for documenting and supporting their loan loss allowances.  The agencies intend to issue parallel guidance in this important area in the next year.
+
+[SECTION]
+
+The Joint Working Group is also developing enhanced disclosures related to the allowance for loan losses and the credit quality of institutions' portfolios.  This effort is intended to improve the transparency of loan loss allowance amounts and improve market discipline.  A key aspect of these efforts will be obtaining input from the banking industry and the accounting profession on allowance issues.
+
+[SECTION]
+
+The federal banking agencies and the SEC are also participating as observers in the work of the American Institute of Certified Public Accountants (AICPA) to improve guidance with respect to loan loss allowances.  The AICPA, through its Allowance for Loan Losses Task Force, is aiming to develop guidance over the next two years that improves the application of current accounting guidance regarding the allowance.  Important areas that the Task Force intends to address include:  1) how to distinguish between inherent losses, which are included in the allowance under existing GAAP pronouncements, from future losses, 2) guidance clarifying certain provisions of FASB Statement No. 114, including which loans should have an allowance measured under that statement, 3) measurement issues in estimating the allowance, including the use of loss factors and credit risk models, and 4) disclosure and documentation issues with respect to the allowance.
+
+[SECTION]
+
+I might note that the March 10 joint agency letter was widely supported by the banking industry.  Specifically, financial institutions and their auditors applauded the fact that the banking agencies and the SEC were committing to work together, and that the agencies' focus would be on enhancing allowance practices going forward.
+
+[SECTION]
+
+In April 1999, after a limited comment process that the banking agencies participated in, the FASB issued clarifying guidance, through an article in its "Viewpoints" publication, to banking organizations and other creditors on certain issues that arise in establishing loan loss allowances in accordance with GAAP.  In particular, the article addresses the application of FASB Statements No. 5 and 114 to a loan portfolio and how these standards interrelate.  The article also provides a general overview of existing accounting principles that pertain to the allowance.
+
+[SECTION]
+
+In response to questions received from accounting firms and creditors, the SEC announced on May 20 that registrants should follow the FASB guidance in developing their loan loss allowance estimates.  Furthermore, registrants that would be materially affected by the FASB issuance were provided transition guidance by the SEC that should be implemented in the second quarter of 1999.  At the same time, the SEC indicated that it had no view, one way or the other, with respect to the need for transition by institutions.  This announcement was made at a public meeting of the FASB's Emerging Issues Task Force--an important group that issues accounting guidance on how GAAP should be applied.
+
+[SECTION]
+
+We understand that, as they became aware of the planned announcement, many banks and auditors were confused as to its meaning, in view of the joint initiatives discussed by the agencies in the March 10 interagency letter and the expectation that those initiatives would result in guidance being developed in the next two years.  Moreover, some banks felt that the implied message of this announcement was that banks should reduce their allowance levels in the second quarter.  The Federal Reserve was concerned that this uncertainty might result in an overreaction by the banking industry that could have reduced loan loss allowance levels in the second quarter, contrary to our safety and soundness objectives.
+
+[SECTION]
+
+Recent Guidance on Loan Loss Reserves
+Given the possibility of an overreaction, the Federal Reserve issued a supervisory letter (SR 99-13) on May 21 interpreting these developments in the broader context of the initiatives announced on March 10.   We worked closely with the other federal banking agencies and the SEC in developing this guidance.
+
+[SECTION]
+
+The guidance provides information on certain understandings among the Federal Reserve, SEC, and FASB staffs on important allowance accounting matters that had not yet been published.   For example, the policy letter clarified that:
+
+[SECTION]
+
+The allowance involves a high degree of management judgment and results in a range of estimated losses.
+
+Institutions should continue to maintain conservative allowance levels within a reasonable range of estimated credit losses, and banks can reserve at the high end of the range if it is management's best estimate. In this regard, it is acceptable for allowance estimates to reflect a margin for imprecision that can be appropriately supported.
+
+Banks may have unallocated allowances, provided they reflect an estimate of inherent credit losses determined in accordance with GAAP.  
+
+While the FASB article addresses certain technical issues, it is not intended to be complete.  Guidance on more important issues affecting allowance practices is under development and will be published within two years by the agencies and the accounting profession.
+
+[SECTION]
+
+Moreover, our letter explains certain concepts mentioned in the FASB article in a way that is intended to help institutions to better understand how their reserve estimates can be enhanced, and in certain cases, increased.
+
+[SECTION]
+
+This guidance provided helpful background information to assist institutions and their auditors in understanding the SEC announcement and FASB article in the broader context of other accounting initiatives underway.  It also highlighted emerging points of agreement between the SEC and the Federal Reserve on allowance accounting matters.  In this regard, the letter encouraged the banking industry to maintain conservative reserving practices consistent with management's best estimates.  Furthermore, the guidance is intended to convey our understanding that the agreement reached on March 10 maintains existing acceptable allowance practices during the period in which we are working to resolve allowance policy issues with the SEC and the accounting profession and develop enhanced guidance. Given the clarifying guidance in the supervisory letter and the work underway on important issues, we expect that changes in allowance levels, if any, as a result of the FASB guidance will be substantially limited.  Banking organizations supervised by the Federal Reserve are expected to comply with the supervisory letter when establishing their allowances for credit losses in regulatory financial reports filed by banks and bank holding companies with the Federal Reserve.
+
+[SECTION]
+
+The guidance included in the letter is consistent with GAAP.  In this regard, the SEC staff has indicated that it very much supports the fundamental concepts in our letter, and the FASB and the SEC have included this Federal Reserve letter with the official GAAP guidance on loan loss allowances.  Accordingly, based on assurances from the SEC staff, bank holding companies can follow this balanced guidance when reporting allowances in their published financial statements filed with the SEC.  This should help reduce bankers' uncertainty and provide a calming message that reduces the possibility of an overreaction by the banking industry and its auditors to the SEC announcement and FASB article.
+
+[SECTION]
+
+Looking Forward
+Looking forward, we believe that it is very important that the agencies strengthen their commitment to the letter and spirit of the March 10 joint agreement, including the process for resolving issues related to allowance practices and the need to let this process run its course before significant changes, if any, are made to allowance levels.  Likewise, it is important for the banking agencies to work together in issuing guidance to banking organizations.  It is also important that SEC actions at all levels remain consistent with the March 10 agreement.
+
+[SECTION]
+
+We intend to continue to work together with the SEC and the other federal banking agencies in order to improve guidance on the allowance for loan losses.  Given the important missions of the banking agencies and the SEC, any guidance must ensure that allowances are calculated in a conservative manner and that financial statements and reported earnings are transparent.
+
+[SECTION]
+
+We believe that it is imperative that the banking agencies and the SEC develop this guidance in a collaborative manner and reach agreement about how the guidance is to be applied in practice.  A collaborative approach is particularly important at both the principal and staff levels because it will contribute to stability in banking industry practices.  In contrast, when communication breaks down regarding policy goals and implementing measures, either within an agency or between the agencies, misunderstandings can abound.  For example, the industry may become confused if it is perceived that any participant in an interagency discussion is communicating with banks and auditors in a manner that is not consistent with the spirit of the March 10 joint letter.  We also believe it is very important that any new guidance developed by the SEC and banking agencies be well understood by field staff, including agency staff members that have responsibility for assessing whether the allowance estimates of individual institutions are appropriate.
+
+[SECTION]
+
+Recent discussions between the principals and senior staff of the SEC and the Federal Reserve Board and the other banking agencies have been seeking to continue and enhance this collegial approach going forward.  In this regard, I was pleased that Chairman Levitt stated in a recent speech and in his letter to me dated May 24, "Some have interpreted our efforts on bank reserves to suggest that the SEC thinks reserves are too high and should be lowered.  That couldn't be further from the truth . . . I want to emphasize--it is not our policy that institutions artificially lower reserves or ever have inadequate reserves."1
+
+[SECTION]
+
+Under existing GAAP pronouncements, the allowance for loan losses includes probable losses that are inherent in the loan portfolio, but not future losses.  As we look to the future of accounting standards for loan loss allowances, we believe that an expected loss approach, taking a more prospective notion for the allowance, may enhance the quality of reserve estimates when compared with the inherent loss approach now promulgated in GAAP.  This is more consistent with evolving credit risk management techniques used by financial institutions.  Going forward, the Federal Reserve will work with the other banking agencies and the accounting standards-setters to explore the appropriate basis for establishing loan loss allowances, including consideration of the expected loss approach, in a manner consistent with important safety and soundness and transparency objectives.
+
+[SECTION]
+
+Conclusion
+The adequacy of the allowance for loan losses is a critical issue both for the safety and soundness of banks and the transparency of financial statements.  Given the differing missions and perspectives of bank and securities regulators, the Federal Reserve and the other banking agencies have agreed to work closely with the SEC to provide clear and consistent guidance on this important issue.  We continue to look forward to working together.
+
+[SECTION]
+
+We hope these efforts will lead to enhanced policies and practices for loan loss allowances under GAAP that will be consistent with the objectives of both safety and soundness and transparency of financial information.
+
+[SECTION]
+
+Thank you for your interest in this important matter.  Attached for your additional information are answers to the specific questions on loan loss allowance policies that were directed to us by the Subcommittee.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnote
+
+[SECTION]
+
+1
+Remarks of Arthur Levitt, SEC Chairman, to the Committee for Economic Development, New York, N.Y., May 19, 1999.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: June 16, 1999, 10:00 AM

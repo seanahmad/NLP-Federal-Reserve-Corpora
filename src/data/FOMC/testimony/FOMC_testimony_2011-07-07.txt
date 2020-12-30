@@ -1,0 +1,218 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 07, 2011
+
+[SECTION]
+
+Statement for the Record
+
+[SECTION]
+
+Submitted to Subcommittees on Financial Institutions and Consumer Credit and Oversight and Investigations, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Introduction
+       Chairman Capito, Chairman Neugebauer, Ranking Member Maloney, Ranking Member Capuano, and members of the Subcommittees, thank you for inviting the Federal Reserve Board to submit a statement for the record on the role of federal regulators in addressing the ongoing mortgage-servicing issues and the development of new national mortgage-servicing standards. This statement focuses on the results of the horizontal review of 14 large mortgage servicers conducted by the Federal Reserve Board and the other banking regulators in 2010, the enforcement orders that the Federal Reserve, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation issued as a result of those reviews, and the steps the Federal Reserve has taken in leading an interagency effort to develop new uniform national servicing and foreclosure-processing standards.
+
+[SECTION]
+
+Results of the Horizontal Servicer Review
+       The Federal Reserve System, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation (the "agencies") completed in the fourth quarter of 2010 a review of mortgage servicing and foreclosure processing at 14 federally regulated mortgage servicers.1 The review found critical weaknesses in foreclosure-governance practices, foreclosure-documentation processes, and oversight and monitoring of third-party law firms and other vendors. Moreover, on-site examiners found deficiencies in loan files, inadequate staffing and training, as well as an undue emphasis on quantitative production and timeliness instead of quality and adequate workload monitoring. The reviews revealed a need for substantial improvement in controls. The policies and procedures at many of the servicers were weak and needed expansion to provide effective monitoring of servicing activities. The reviews revealed heavy reliance on outsourcing arrangements with third party vendors without adequate oversight of these arrangements. Furthermore, internal audits and self assessments failed to identify specific weaknesses and process gaps. These weaknesses involved unsafe and unsound practices and violations of federal and state laws and demonstrated a pattern of misconduct and negligence. The Interagency Review of Foreclosure Policies and Practices -- issued in April 2011 by the Federal Reserve Board, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision -- provides a summary of the review findings and is attached.
+
+[SECTION]
+
+Enforcement Actions
+       Based on the findings from the review, the agencies issued enforcement actions by consent against the 14 mortgage servicers in April 2011 to address the significant deficiencies in mortgage-servicing and foreclosure practices.2 The Federal Reserve also indicated, at the time the enforcement actions were issued, that it believes monetary sanctions in these cases are appropriate and plans to announce monetary penalties. The Federal Reserve and the other agencies noted that the deficiencies and weaknesses required immediate attention to ensure that customers are treated fairly and the servicers' processes are safe and sound as well as fully compliant with all applicable laws. The orders require the servicers, among other things, to:
+
+[SECTION]
+
+The Federal Reserve is monitoring, on an ongoing basis, the corrective measures that are being taken by the servicers and bank holding companies it supervises, as required by the enforcement actions. More specifically, at this time, the Federal Reserve is assessing the plans, programs, policies, procedures, and engagement letters that the servicers and bank holding companies must submit to implement those corrective measures and fully address the identified deficiencies, each of which must be approved by the Federal Reserve. The Federal Reserve will closely monitor and review the servicers' and bank holding companies' progress to ensure that the plans are implemented as approved and to ensure that the changes are effective. Each servicer is also required to submit quarterly reports to the Federal Reserve detailing the measures it has taken to comply with the action and the results of those measures. The Federal Reserve will take appropriate supervisory action to address any inadequacies or violations of the enforcement actions.
+
+[SECTION]
+
+Although these enforcement actions do not expressly mandate loan modifications, the actions' "single-point-of-contact" requirements are designed to improve communications between the mortgage servicers and consumers in loss-mitigation and foreclosure. These requirements should also lead to less confusion among consumers about what they need to do to keep their homes. In addition, the improvements required by the enforcement actions will strengthen the integrity, fairness and legal compliance of the foreclosure process. Finally, the improvements that mortgage servicers make in their overall operations are expected to reduce legal uncertainty about foreclosures. All of these actions should lead to a more efficient loan modification process.
+
+[SECTION]
+
+It was necessary for the Federal Reserve Board and the other agencies to ensure that the serious deficiencies uncovered during the agencies' horizontal reviews were corrected promptly. This required immediate action by the agencies and is separate from the settlement discussions between the state Attorneys General and the largest servicers related to their servicing practices. The Department of Justice ("DOJ") is coordinating with the state Attorneys General toward a comprehensive solution to problems uncovered in the servicing of mortgage loans. The Federal Reserve Board is in close contact with the DOJ regarding those discussions.
+
+[SECTION]
+
+It is important to emphasize that the enforcement actions taken by the Federal Reserve Board complement the actions under consideration by the state Attorneys General and they do not preempt or preclude action by other federal or state agencies. Indeed, the enforcement actions specifically state, for example: "The provisions of this Order shall not bar, estop, or otherwise prevent the Board of Governors, the FDIC, the Reserve Bank, or any other federal or state agency from taking any further or other action â¦"
+
+[SECTION]
+
+National Servicing Standards
+       The enforcement actions taken by the Federal Reserve and the other agencies apply only to the servicers subject to them. Another initiative, which is ongoing, is the inter-agency development of uniform national mortgage-servicing and foreclosure-processing standards that would apply to all servicers. The Federal Reserve Board, Treasury, U.S. Department of Housing and Urban Development, Federal Housing Administration, Office of the Comptroller of the Currency, Federal Deposit Insurance Corporation, Office of Thrift Supervision and Federal Housing Finance Agency are collaborating to develop a set of uniform servicing standards for banks and other mortgage servicing organizations.3 These standards are expected to address the proper handling of both performing and non-performing loans, including loss-mitigation procedures and foreclosure processing, and should lead to improved customer treatment and better transparency and oversight of mortgage servicers' processes. The intent of the initiative is to hold servicers to the same standards regardless of their regulator and regardless of whether the loans being serviced are held on the originator's books, have been sold, or have been securitized. By having a common set of standards for the mortgage-servicing industry, the financial regulatory agencies will support the adoption of servicing practices that promote the best interests of borrowers and the broader housing market. This initiative will also draw upon the findings of the horizontal review to systematically address the weaknesses that the review uncovered and the enforcement actions and their related action plans to guide proposals for specific standards.
+
+[SECTION]
+
+Conclusion
+ The Federal Reserve has taken a number of approaches towards mitigating the harm to consumers and to markets caused by problems in mortgage servicing and foreclosure processing. We will continue to monitor and assess the corrective actions taken by the servicers and the holding companies, as required by the enforcement actions, and take further action when necessary to address failures. The Federal Reserve Board's enforcement actions will remain in place until weaknesses and deficiencies have been corrected. Likewise, the Federal Reserve Board will remain in close contact with the DOJ regarding the settlement discussions between the state Attorneys General and the largest servicers. Additionally, the Board supports the development of a uniform set of national mortgage-servicing and foreclosure-processing standards to promote accountability and appropriate practices in dealing with consumers. Thank you for the opportunity to submit this statement on the role of the federal regulators in the ongoing mortgage-servicing issues and the development of uniform national mortgage-servicing standards.
+
+[SECTION]
+
+The 14 servicers were selected based on the high concentration of their mortgage-servicing and foreclosure processing activities. Return to text
+
+[SECTION]
+
+The Federal Reserve issued enforcement actions against the four mortgage servicers it supervises. In addition to the actions against the servicers, the Federal Reserve and the Office of the Thrift Supervision have issued formal enforcement actions against parent holding companies of servicers subject to the Agencies' enforcement actions to require that they enhance on a consolidated basis their oversight of mortgage-servicing activities, including compliance, risk management, and audit. Return to text
+
+[SECTION]
+
+Representatives of the Consumer Financial Protection Bureau also are participating as observers, with the expectation that once the Bureau becomes operational they will be a full participant. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

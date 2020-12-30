@@ -1,0 +1,14 @@
+# Large Files
+src/data/GloVe/*
+src/data/FOMC.zip
+src/data/result/*
+src/data/preprocessed/*
+src/data/archive/*
+src/data/train_data/*
+references/*
+
+# Other
+archive/*
+desktop.ini
+.ipynb_checkpoints
+.idea

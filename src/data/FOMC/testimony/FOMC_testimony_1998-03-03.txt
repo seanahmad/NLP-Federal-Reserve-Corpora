@@ -1,0 +1,121 @@
+Testimony of Governor Laurence H. Meyer
+The payment of interest on demand deposits and on required reserve balances
+Before the Committee on Banking, Housing and Urban Affairs,
+United States Senate 
+March 3, 1998
+
+[SECTION]
+
+I welcome the opportunity to testify on behalf of the Federal Reserve Board on proposals in S. 1405 to allow the payment of interest on demand deposits and on the required reserve balances of depositories at the Federal Reserve.  The Federal Reserve strongly supports these measures.  We have commented favorably on such proposals on a number of previous occasions over the years, and the reasons for those positions still hold today.  We also believe the legislation should include a provision to allow the Federal Reserve to pay interest on excess reserves.
+
+[SECTION]
+
+These legislative proposals are important for economic efficiency:  Unnecessary restrictions on the payment of interest on demand deposits and reserve balances distort market prices and lead to economically wasteful efforts to circumvent them.
+
+[SECTION]
+
+Because of recent financial market innovations, the proposals are also important for monetary policy.  Balances that depository institutions must hold at Federal Reserve Banks to meet reserve requirements pay no interest.  Reserve requirements are now 10 percent of all transaction deposits above a threshold level.  Requirements may be satisfied either with vault cash or with balances held in accounts at Federal Reserve Banks.  Depositories have naturally always attempted to reduce such non-interest-bearing balances to the minimum.  For over two decades, some commercial banks have done so in part by sweeping the reservable transaction deposits of businesses into nonreservable instruments.  These business sweeps not only avoid reserve requirements, but also allow firms to earn interest on instruments that are, effectively, equivalent to demand deposits.
+
+[SECTION]
+
+In recent years, developments in computer technology have allowed depositories to begin sweeping consumer transaction deposits into nonreservable accounts.   In consequence, the balances that depositories hold at Reserve Banks to meet reserve requirements have fallen to quite low levels.  These consumer sweep programs are expected to spread further, threatening to lower required reserve balances to levels that may begin to impair the implementation of monetary policy.  Should this occur, the Federal Reserve would need to adapt its monetary policy instruments, which could involve disruptions and costs to private parties as well as to the Federal Reserve.  However, if interest were allowed to be paid on required reserve balances and on demand deposits, changes in the procedures used for implementing monetary policy might not be needed.
+
+[SECTION]
+
+The prohibition of the payment of interest on demand deposits was enacted in the depression atmosphere of the mid-1930s.  At that time, Congress was concerned that large money center banks might have earlier been bidding deposits away from country banks to make loans to stock market speculators, in the process depriving rural areas of financing.  It is unclear whether the rationale for this prohibition was ever valid, and it is certainly no longer applicable today.  Funds flow freely around the country, and among banks of all sizes, to find the most profitable lending opportunities, using a wide variety of market mechanisms, including the federal funds market.  The absence of interest on demand deposits is no bar to the movement of funds from depositories with surpluses--whatever their size or location--to the markets where the funding can be profitably employed.  In fact, small firms in rural areas are able to bypass their local banks and invest in money market mutual funds with transaction capabilities.  Indeed, smaller banks complain that they are unable to compete for the deposits of businesses precisely because of their inability to offer interest on demand deposits.
+
+[SECTION]
+
+The prohibition of interest on demand deposits distorts the pricing of transaction deposits and associated bank services.  In order to compete for the liquid assets of businesses, banks set up complicated procedures to pay implicit interest on what are called compensating balance accounts.  These accounts, which represent a sizable fraction of demand deposits, earn credits that can be used to pay for a firm's use of other bank services.  Banks also spend resources--and charge fees--for sweeping the excess demand deposits of businesses into money market investments on a nightly basis.  To be sure, the progress of computer technology has reduced the cost of such systems over time.  However, the expenses are not trivial, particularly when substantial efforts are needed to upgrade such automation systems or to integrate the diverse systems of merging  banks.  Such expenses waste the economy's resources--they would be unnecessary if interest were paid on both demand deposits and the reserve balances that must be held against them.
+
+[SECTION]
+
+The prohibition of interest on demand deposits also distorts the pricing of other bank products.  Because banks cannot attract demand deposits through the payment of explicit interest, they often try to attract these deposits, aside from compensating balances, through the provision of services at little or no cost.  When services are offered below cost, they tend to be overused--an additional waste of resources attributable partly to the prohibition of interest on demand deposits.
+
+[SECTION]
+
+However, the potential gains in economic efficiency cannot be fully realized by paying interest on demand deposits alone.  As has been demonstrated in the case of the consumer checking accounts, on which interest is paid, the absence of interest on the reserve balances that must be held against such transaction deposits has in itself provided strong enough incentive for banks to start sweep programs.  The costs that banks incur to design and maintain the automation systems needed to implement such sweep programs are another instance of economic waste.  The payment of interest on required reserve balances could remove the incentives to engage in such reserve avoidance practices.
+
+[SECTION]
+
+In light of depositories' use of resources to try to circumvent reserve requirements, the reason for having such requirements might be questioned.  Indeed, reserve requirements have been eliminated in a number of other industrialized countries.  Let me review with you for a few moments the historical and current purposes served by reserve requirements.
+
+[SECTION]
+
+Although the English word "reserves" might imply an emergency store of liquidity, required reserves cannot actually be used for this purpose, since they represent a small and fixed fraction of a bank's transaction deposits.  Reserve requirements have at times been employed as a means of controlling the growth of money.  In the early 1980s, for example, the Federal Reserve used a reserve quantity procedure to control the growth of M1.  For the most part, however, the Federal Reserve has looked to the price of reserves--the federal funds rate--rather than the quantity of reserves, as its key focus in implementing monetary policy.
+
+[SECTION]
+
+While reserve requirements no longer serve the primary purpose of monetary control, they continue to play an important role in the implementation of monetary policy in the United States.  They do so by helping to keep the federal funds rate close to the target rate set by the Federal Open Market Committee.  They perform this function in two ways:  First, they provide a predictable demand for the total reserves that the Federal Reserve needs to supply through open market operations in order to achieve a given federal funds rate target.  Second, because required reserve balances must be maintained only on an average basis over a two-week period, depositories have some scope to adjust the daily balances they hold in a manner that helps stabilize the federal funds rate.  For instance, if the funds rate were higher than usual on a particular day, depositories could choose to hold lower reserve balances, and their reduced demand would help to damp the upward pressure on the funds rate.  Later in the two-week period, they could make up the shortfall in their average holdings of reserve balances.
+
+[SECTION]
+
+Depositories hold balances in their accounts at Federal Reserve Banks for reasons other than satisfying their two-week average requirements.  Some balances are needed as a precaution against the chance that payment orders late in the day might leave a depository with an overdraft on its account, and the Federal Reserve strongly discourages overdrafts.  On days when payment flows are particularly heavy and uncertain, or when the distribution of reserves is substantially displaced from normal, depositories tend to hold balances for precautionary purposes well above required levels.
+
+[SECTION]
+
+Unlike the two-week average demands, these daily precautionary demands cannot help smooth the funds rate from one day to the next.  They are also difficult to predict, making it harder for the Federal Reserve to determine the appropriate daily quantity of reserves to supply to the market.  In the absence of reserve requirements, or if reserve requirements were very low, the daily demand for balances at Reserve Banks would be dominated by these  precautionary demands, and as a result, the federal funds rate could often diverge markedly from its intended level.
+
+[SECTION]
+
+An example of the volatility that can arise in the federal funds market because of a low level of required reserve balances occurred in early 1991.  The Federal Reserve had reduced certain reserve requirements in late 1990 as a means of easing funding costs to banks during the credit crunch period.  The cut in requirements reduced required balances at Reserve Banks for many depositories to below the balances needed for precautionary purposes, and the federal funds rate consequently became very volatile.  On a typical day in that period, the funds rate strayed over a range of about 8 percentage points and missed the target for the average of daily rates by 1/2 percentage point.  After a couple of months, stability returned to the federal funds market because depositories made improvements in their reserve management and because strong growth in deposits again boosted the level of required reserve balances above precautionary demands for many institutions.
+
+[SECTION]
+
+Since that time, depositories have become much more adept at managing their reserve positions, and their need for precautionary balances on a typical day has declined considerably.  In fact, they are now managing to operate with lower aggregate required balances at Reserve Banks than they had in early 1991, and the federal funds rate is nevertheless much more stable.  A number of measures taken by the Federal Reserve have helped to foster stability, including improvements in the timeliness of account information provided to depositories, more frequent open market operations geared to daily payment needs, and improved procedures for estimating reserve demand.  Another measure now being considered by the Federal Reserve Board is a shift to lagged reserve requirements, which would also contribute to some reduction in uncertainty about reserve demand.
+
+[SECTION]
+
+The additional improvements in reserve management in recent years have been needed because required reserve balances have dropped substantially--from about $28 billion in late 1993 to about $9 billion in late 1997.  This decline has not occurred because of further cuts in required reserve ratios by the Federal Reserve, but because of the new retail sweep programs implemented by depositories.  These programs  use computerized systems to sweep consumer transaction deposits, which are subject to reserve requirements, into personal savings accounts, which are not.  The spread of such retail sweep programs has not yet fully run its course, and considerable uncertainty shrouds its eventual outcome.  We expect that the effects of future declines in required reserve balances on the volatility of the federal funds rate  will not necessarily proceed gradually; the rather modest effects on volatility seen so far may not preclude a more outsized reaction as reserve balances fall even lower.
+
+[SECTION]
+
+Heightened volatility in the federal funds rate is of concern for a number of reasons.  To be sure, the transmission of volatility in the funds rate to volatility in longer-term rates is likely to be muted because of the averaging out of upticks and downticks in the overnight rate.  However, even in the absence of much transmission to longer-term rates, increased volatility in the federal funds rate would affect other overnight interest rates, raising funding risks for most large banks, securities dealers, and other money market participants.  Suppliers of funds to the overnight markets, including many small banks and thrifts, would face greater uncertainty about the returns they would earn.  Market participants concerned about unexpected losses would incur additional costs in managing their funding to limit the heightened risks.
+
+[SECTION]
+
+Countries that have eliminated reserve requirements do not generally experience a great deal of volatility in overnight interest rates because they are able to use alternative procedures for the implementation of monetary policy.  One type of procedure, for instance, establishes a ceiling and a floor to contain movements of the overnight interest rate.  The ceiling is set by a penalty interest rate on loans provided freely by the central bank through what is called a Lombard facility.  The floor is established in effect by the payment of interest on excess reserves because no bank would lend to a private party at an interest rate below the rate it could earn on a risk-free deposit at the central bank.  For the Federal Reserve to be able to set a similar interest rate floor, it would need authority to pay interest on excess reserves.  As regards a ceiling on the funds rate, a change in the Federal Reserve's approach to the discount window would be necessary, as we have no penalty interest rate and instead subject borrowing applications to an administrative review.  Alternative means of establishing a ceiling could be considered.
+
+[SECTION]
+
+If interest were allowed to be paid on both demand deposits and required reserve balances, adjustments in the procedures for implementing monetary policy might not be needed.  Such interest payments would likely boost the level of transaction deposits substantially, as some business and household sweep programs were unwound, and as banks became more able to compete for the liquid funds of businesses.  The increased transaction deposits could ensure that required reserve balances would remain above the level of daily precautionary needs for many institutions, thus helping to stabilize the federal funds rate, while also improving economic efficiency as previously noted.
+
+[SECTION]
+
+The magnitude of the prospective responses to these measures is uncertain, however.  Some corporations may not find the interest paid on demand deposits high enough to induce them to shift out of other liquid instruments.  Also, some banks may retain consumer sweep programs in order to seek higher investment returns than the Federal Reserve would pay on reserve balances.  If interest were allowed on required reserve balances, the Federal Reserve would likely pay a rate close to the rate available on an overnight repurchase agreement.  Higher yields are of course available on investments of greater risk and longer maturities.
+
+[SECTION]
+
+Because of the uncertainties involved, the Federal Reserve needs to be able to pay interest on excess reserves as well as on required reserve balances, and at differential rates to be set by the Federal Reserve.  The ability to pay interest on excess reserves would provide an additional tool that could be used for monetary policy implementation, but one that might not need to be used, if interest on required reserve balances and demand deposits resulted in a sufficient boost to the level of those balances.  Even if not used immediately, it is important that the Federal Reserve have the full range of tools available to other central banks, given the inventiveness of our financial markets and the need for the Federal Reserve to be prepared for potential developments that may not be immediately visible.
+
+[SECTION]
+
+The payment of interest on reserve balances would tend to reduce the revenues received by the Treasury from the Federal Reserve, while the payment of interest on demand deposits would increase those revenues.  Treasury revenues would be directly reduced by the payment of interest on existing reserve balances.  However, there would be some offset to this direct revenue loss.  The level of reserve balances would rise because of the interest payments, and the Federal Reserve would therefore be able to increase its holdings of government securities.  The Federal Reserve on average would earn a higher yield on those securities than the rate it would pay on required reserve balances.  On net, Treasury revenues are still likely to fall with the payment of interest on required reserve balances, but the recent declines in such balances have reduced that revenue loss to an historic low, roughly $100 million anually starting next year, according to a recent estimate by the Congressional Budget Office.  Similarly, interest payments on demand deposits would increase the level of demand deposits, as well as the reserve balances held against them on which the Federal Reserve would also earn a positive interest rate spread.  The size of this further offset to the Treasury's revenue loss on required reserve balances is subject to considerable uncertainty.
+
+[SECTION]
+
+In the long run, the benefits of the proposed legislation will likely be distributed rather widely among bank customers.  The biggest winners should be small businesses that currently earn no interest on their checking accounts.  They will gain from the interest earned and from being able to relax procedures used to hold to a minimum the size of their checking account deposits.  Larger firms will benefit as well, in part by saving on some sweep fees.
+
+[SECTION]
+
+For banks, interest on demand deposits will increase costs, at least in the short run.  Larger banks and securities firms may also lose some of the fees they currently earn on sweeps of business demand deposits.  The higher costs to banks will be partially offset by interest on reserve balances, and over time, these measures should help the banking sector attract liquid funds in competition with nonbank institutions and direct market investments by businesses.  Small banks in particular should be able to bid for business demand deposits on a more level playing field vis-a-vis both nonbank competition and large bank sweep programs.  Moreover, large and small banks will be strengthened by fairer prices on the services they offer and by the elimination of unnecessary costs associated with sweeps and other procedures currently used to try to minimize the level of reserves.
+
+[SECTION]
+
+In the early 1980s, the Congress decided to deregulate interest rates on all household deposits and to allow money market deposit accounts for businesses.  It is now time to extend the benefits of deposit interest rate deregulation to the ordinary checking accounts of businesses.  Eliminating price distortions on demand deposits and on required and excess reserve balances would spare the economy wasteful expenditure, increase the efficiency of our financial markets, and facilitate the conduct of monetary policy.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: March 3, 1998, 10:00 AM

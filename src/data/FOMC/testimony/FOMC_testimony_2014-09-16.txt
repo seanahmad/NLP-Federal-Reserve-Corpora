@@ -1,0 +1,360 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 16, 2014
+
+[SECTION]
+
+Maryann Hunter, Deputy Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Introduction
+Chairman Johnson, Ranking Member Crapo, and other members of the committee, I appreciate the opportunity to testify on the Federal Reserve's approach to regulating and supervising small community banks and their holding companies. Having started my career as a community bank examiner at the Federal Reserve Bank of Kansas City and eventually becoming the officer in charge of bank supervision at the Reserve Bank, I have experienced firsthand how important community banks are to their communities and how critical it is that the Federal Reserve supervises these institutions effectively and efficiently. In my testimony, I will discuss some of the ways the Federal Reserve ensures that regulations, policies, and supervisory activities are tailored to address the risks and activities of community banks without imposing undue burden. The Federal Reserve recognizes the important role that community banks play in providing financial services to their local economies and seeks to supervise these banks in a way that fosters their safe and sound operation without constraining their capacity to support the financial needs of their communities.
+
+[SECTION]
+
+Current State of Community Banking Organizations
+       The Federal Reserve supervises approximately 800 state-chartered community banks, the large majority of which are small community banks with total assets of $1 billion or less, that are members of the Federal Reserve System (referred to as state member banks).1 In addition, the Federal Reserve supervises over 4,000 bank holding companies and more than 300 savings and loan holding companies, most of which operate small community banks and thrifts.
+
+[SECTION]
+
+During the recent financial crisis, most community banks remained in sound condition. But a large number faced challenges as economic conditions weakened, particularly those that had developed large commercial real estate loan concentrations and funded their activities with nontraditional funding sources. In recent years, many of these banks have recovered, and by the second quarter of 2014 the number of banks on the Federal Deposit Insurance Corporation's "Problem List" had fallen to 354, far fewer than the peak of 888 reported at the end of the first quarter of 2011.2 Despite this decline, the current number of problem banks is still roughly seven times the number of problem banks at the end of 2006, before the crisis began in 2007-08.3
+
+[SECTION]
+
+However, capital levels and asset quality at small community banks have improved since the financial crisis.4 At year-end 2013, the aggregate tier 1 risk-based capital ratio for community banks was 15.3 percent, up from a low of 12.7 percent at year-end 2008, and the aggregate leverage ratio was 10.4 percent, up from a low of 9.4 percent at year-end 2009. Noncurrent loans and net charge-offs have decreased over the past four years. After several years of declining loan balances at small community banks, we are starting to see a slow increase in loan origination. In addition, earnings have improved in the past couple of years, largely from reductions in provision expenses for loan losses. Yet, despite these promising financial indicators, small community banks continue to experience considerable pressure from low net interest margins, and many report concerns about their prospects for continued growth and profitability.
+
+[SECTION]
+
+Supervision of Community Banking Organizations
+       The Federal Reserve strives to scale its supervisory expectations based on the size, risk profile, condition, and complexity of a banking organization and its activities and recognizes that a one-size-fits-all approach to community banks is often not appropriate. For example, the Federal Reserve has employed a risk-focused approach to supervision of community banks since the mid-1990s.5 In the intervening years, we have adjusted this approach to better calibrate the work conducted relative to the complexity and risk of each bank.
+
+[SECTION]
+
+If a bank is engaging in nontraditional or higher-risk activities, our supervision program typically requires greater scrutiny and a higher level of review of specific transactions. Conversely, if a bank's activities are lower risk, we adjust our expectations for examiners to a lower level of review. In this way, we alleviate examination burden on community banks with histories of sound performance and modest risk profiles. Last year, we began a process to enhance the ongoing updating of our examination procedures to reflect key lessons of the crisis. Overall, these adjustments should enhance our supervisory efficiency by targeting more intensive examination work at bank activities that proved to be higher risk and reducing some examination testing at community banks that performed well throughout the crisis.
+
+[SECTION]
+
+The Federal Reserve adopted a new consumer compliance examination framework for community banks in January 2014.6 While we have traditionally applied a risk-focused approach to consumer compliance examinations, the new program more explicitly bases examination intensity on the individual community bank's risk profile, weighed against the effectiveness of the bank's compliance controls. As a result, we expect that examiners will spend less time on low-risk compliance issues at community banks, increasing the efficiency of our supervision and reducing regulatory burden on many community banks. In addition, we revised our consumer compliance examination frequency policy to lengthen the time frame between on-site consumer compliance and Community Reinvestment Act examinations for many community banks with less than $1 billion in total consolidated assets.
+
+[SECTION]
+
+In addition to our efforts to refine our risk-focused approach to supervision, we have been increasing the level of off-site supervisory activities, which can tangibly reduce burden on community banking organizations. For example, last year we conducted a pilot program under which we conducted some aspects of the loan review process off-site, relying on the bank's electronic records to evaluate loan quality and underwriting practices. Overall, community bankers that were part of the pilot were very supportive of this approach, which reduced the amount of time examiners needed to spend on-site at bank offices. As a result, we plan to continue using this approach in future examinations at banks that maintain electronic loan records.
+
+[SECTION]
+
+While off-site loan review has benefits for both bankers and examiners, some bankers have expressed concerns that increasing off-site supervisory activities could potentially reduce the ability of banks to have face-to-face discussions with examiners regarding asset quality or risk-management issues. In that regard, we will continue to work with community banks that may prefer their loan reviews to be conducted on-site. In short, the Federal Reserve is trying to strike an appropriate balance of off-site and on-site supervisory activities to ensure that resources are used more efficiently while maintaining high-quality supervision of community banking organizations.
+
+[SECTION]
+
+The Federal Reserve has invested significant resources in developing various technological tools for examiners to improve the efficiency of both off-site and on-site supervisory activities. The expanded use of technological tools has assisted in completing community bank examination work off-site while ensuring the quality of supervision is not compromised. For instance, the Federal Reserve has automated various parts of the community bank examination process, including a set of tools used among all Reserve Banks to assist in the pre-examination planning and scoping. This automation can save examiners and bank management time, as a bank can submit requested pre-examination information electronically rather than mailing paper copies to the Federal Reserve Bank. These tools also assist Federal Reserve Bank examiners in the continuous, off-site monitoring of community banking organizations, enabling examiners to determine whether a particular community banking organization's financial condition has deteriorated and warrants supervisory attention between on-site examinations.
+
+[SECTION]
+
+Tailoring Regulations for Community Banking Organizations
+       As Governor Tarullo testified before this committee last week, we recognize that the burden community banks encounter when attempting to understand and implement a new regulation may be disproportionate to the level of risk to which these institutions are exposed.7 To address this, we work within the constraints of the relevant statutory mandate to draft rules so as not to subject community banks to requirements that would be unnecessary or unduly burdensome to implement. When a proposed rule is issued to the public for comment, we gather critical information regarding the benefits and costs of the proposal from those we expect to be affected by the rule as well as from the general public.
+
+[SECTION]
+
+These feedback channels have been instrumental to our efforts to appropriately scale rules and policies to the activities and risks at community banks. For example, in developing the final capital guidelines that were issued in July 2013, the federal banking agencies included in their final rules several changes from the proposed rules to respond to comments and reduce the regulatory burden on community banks.8 As a result, many of the requirements will not apply to community banks. In addition, the Federal Reserve and the other federal banking agencies developed a streamlined supplemental Community Bank Guide to assist noncomplex community banks and holding companies in understanding the possible impact of the new rules on their operations.9
+
+[SECTION]
+
+Many recently established rules have been applied only to the largest, most complex banking organizations. For example, the Federal Reserve and the other federal banking agencies have not applied large-bank stress testing requirements to community banks. The Federal Reserve has continued, through public statements and examiner training, to explain clearly the requirements, expectations, and activities relating to Dodd-Frank Act stress testing (DFAST) and the Federal Reserve's Comprehensive Capital Analysis and Review (CCAR) exercise and to reinforce that DFAST and CCAR requirements, expectations, and activities do not apply--either explicitly or implicitly--to community banking organizations.10
+
+[SECTION]
+
+Clarifying Expectations for Community Banks
+       The Federal Reserve has made a concerted effort to explain to both community bankers and Federal Reserve examiners which entities are subject to new rules and policies. In addition to tailoring regulations, as discussed previously, one significant way we clarify the applicability of guidance to community banks is to provide a statement at the top of each Supervision and Regulation letter and Consumer Affairs letter. These letters are the primary means by which the Federal Reserve issues supervisory and consumer compliance guidance to bankers and examiners. This additional clarity allows community bankers to focus efforts on the supervisory policies that are applicable to their banks. Moreover, it is important to note that we work closely with our colleagues at the state banking agencies and the other federal regulatory agencies to ensure that our supervisory approaches and methodologies are consistently applied to all community banks.
+
+[SECTION]
+
+While it is important that our written guidance and regulations clearly convey supervisory expectations and identify the applicable audience, we know that some of the most important communications are not necessarily those that come out of Washington, D.C., but rather the formal and informal conversations that take place between examiners and bankers during on-site examinations. These conversations are fundamental in ensuring that the Federal Reserve's policies are communicated to and correctly interpreted by community bankers. These discussions provide for clear communication of issues identified during the examination process, and community bankers also tell us that they appreciate learning from examiners about where they stand relative to comparable banks. There is a risk that these conversations, however, may inadvertently suggest that practices at larger banks should be adopted by community banks, when that is not actually the Federal Reserve's intent.
+
+[SECTION]
+
+To ensure that supervisory expectations are communicated appropriately, therefore, the Federal Reserve is making its longstanding program for training examiners more robust. For example, we are currently modernizing our longstanding examiner commissioning program for community bank examiners, and a key part of this effort is reviewing the curriculum to ensure that supervisory expectations for larger banks do not make their way into the curriculum. In addition, when new supervisory policies are issued, we typically arrange a teleconference to explain the new policy to examiners, including whether and to what extent the policy is applicable to community banks. By effectively training our examination staff, and providing channels for keeping them informed of newly issued policies in a timely manner, examiners are better equipped to understand the supervisory goals of regulations and guidance for community banks and to provide guidance to community banks.
+
+[SECTION]
+
+To help ensure that examiners implement supervisory policies consistently across community banks, Federal Reserve Board staff analysts monitor bank supervision activities and sample recently completed examination reports to assess whether policies are implemented appropriately and whether examiner conclusions are adequately supported. These analysts also conduct periodic reviews of specific examination activities carried out by Reserve Bank examiners to assess their implementation of supervisory policies and standards at community banks. Periodically, we become aware of particular concerns being raised by the industry with regard to community banks being held to inappropriate standards. We take these concerns seriously and focus our reviews of examination activities to confirm that examiners are appropriately implementing supervisory policies and reaffirming policy objectives when necessary.
+
+[SECTION]
+
+In addition to the examination process, the Federal Reserve Board has established additional mechanisms to ensure that supervisory policies for community banks are appropriately tailored and to provide other avenues of discussion for community bankers to share their perspectives with the Board and senior Reserve Bank officials. For example, the Federal Reserve established a Community Depository Institution Advisory Council (CDIAC) at each of the 12 Federal Reserve Banks and at the Board.11 Members are selected from representatives of banks, thrift institutions, and credit unions in each Federal Reserve District, with a representative from each of these 12 local CDIACs serving on a national council that meets with the Federal Reserve Board twice each year. These meetings provide the Federal Reserve Board with valuable insight regarding the concerns of community depository institutions, which often include issues relating to regulatory burden and examination practices.
+
+[SECTION]
+
+The Board of Governors also has a community and regional bank subcommittee of its Committee on Bank Supervision.12 This subcommittee reviews policy proposals to ensure they are appropriately tailored for community banks. The subcommittee also meets with Federal Reserve staff to hear about key supervisory initiatives at community banks and ongoing research in the community banking arena.
+
+[SECTION]
+
+On this latter point, one of the great strengths of the Federal Reserve as the central bank of the United States is its role in conducting and fostering economic research. With this in mind, the Board's community bank subcommittee has been encouraging more research about community banking issues to better understand the role of community banks in the U.S. economy and the effects that regulatory initiatives may have on these banks. That initiative to encourage more high-quality research on community banking issues ultimately led to an inaugural community banking research and policy conference, "Community Banking in the 21st Century," jointly hosted by the Federal Reserve System and the Conference of State Bank Supervisors (CSBS) in 2013 at the Federal Reserve Bank of St. Louis.13 Later this month, the Federal Reserve and the CSBS will host a second community banking research conference, again at the Federal Reserve Bank of St. Louis.14 Among other topics, the conference will cover community bank formation, behavior, and performance; the effect of government policy on bank lending and risk taking; the effect of government policy on community bank viability; and the future of community banking.
+
+[SECTION]
+
+We have also developed several platforms to improve our communication with community bankers and to enhance our industry training efforts. For example, we have developed two programs--Ask the Fed and Outlook Live--that have become quite popular with community bankers who are interested in learning more about topics of importance to both banks and supervisors. Ask the Fed is a program for officials of state member banks, bank and savings and loan holding companies, and state bank regulators that provides an excellent opportunity for bankers and others to ask Board and Reserve Bank staff policy questions outside of an examination context, primarily on safety-and-soundness and related issues. Outlook Live, which is a companion program to the Federal Reserve's quarterly Consumer Compliance Outlook publication, is a webinar series on consumer compliance issues that is led by Federal Reserve staff.15
+
+[SECTION]
+
+We are also now using periodic newsletters and other communication tools to highlight information in which community bankers may be interested and to provide information about how examiners will assess compliance with Federal Reserve policies. In addition to Consumer Compliance Outlook, in 2012 the Federal Reserve System established the Community Banking Connections website and quarterly newsletter to focus on supervisory issues that are of practical interest to community bankers and bank board members.16 The Federal Reserve also launched a series of special-purpose publications called FedLinks.17 These publications highlight key elements of specific supervisory topics and discuss how examiners will typically review a particular bank activity and the related risk-management practices. The common goal for all of these outreach efforts is to build and sustain an ongoing dialogue with community bankers through which supervisory expectations are helpfully conveyed and clarified.
+
+[SECTION]
+
+Reducing Regulatory Burden for Community Banks
+       The Federal Reserve continues to explore ways to reduce regulatory burden for community banks. In analyzing regulatory burden on community banks and other institutions, the Federal Reserve tries to strike the appropriate balance between, on the one hand, achieving its longstanding responsibilities of fostering a safe and sound financial system and compliance with relevant consumer regulations and, on the other hand, ensuring that our supervision and regulation are calibrated appropriately for smaller institutions. Whenever the Federal Reserve contemplates possible regulatory changes, we conduct a thorough analysis of the effects of such changes on the ability of institutions to manage their operations in a safe and sound manner as well as the ability of Federal Reserve examiners to identify risks that may pose a threat to individual institutions or to the financial system more broadly.
+
+[SECTION]
+
+An example of the how the Federal Reserve and the other federal banking agencies consider a variety of factors when reviewing regulations for burden is the Economic Growth and Regulatory Paperwork Reduction Act of 1996 (EGRPRA) review. The agencies have recently started their second EGRPRA review by requesting public comment to identify potentially outdated, unnecessary, and burdensome regulations imposed on insured depository institutions. The comment period for the EGRPRA review for the first set of regulations ended early in September. The Federal Reserve and the other agencies plan to engage in discussions with bankers and interested parties regarding the EGRPRA review and will post relevant information from these meetings on the EGRPRA website once finalized.18
+
+[SECTION]
+
+Conclusion
+       Although the financial condition of community banks has been improving, we recognize that many community banks continue to face challenges. The Federal Reserve has a long history of tailoring supervisory practices for community banks, and we will continue to modify and refine our supervisory programs to not impose undue burden while still ensuring that community banks operate in a safe and sound manner. We will continue to solicit the views of smaller institutions in Federal Reserve and interagency rulemaking processes and welcome their feedback on community banking issues more generally.
+
+[SECTION]
+
+Thank you for inviting me to share the Federal Reserve's views on these matters affecting community banking organizations. I would be pleased to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+For supervisory purposes, the Federal Reserve uses the term "community banking organization" to describe a state member bank and/or holding company with $10 billion or less in total consolidated assets. Return to text
+
+[SECTION]
+
+See Federal Deposit Insurance Corporation, Quarterly Banking Profile, Second Quarter 2014, available at www2.fdic.gov/qbp/2014jun/qbp.pdf. Return to text
+
+[SECTION]
+
+See Federal Deposit Insurance Corporation, Quarterly Banking Profile, Fourth Quarter 2006, available at www2.fdic.gov/qbp/2006dec/qbp.pdf. Return to text
+
+[SECTION]
+
+Figures are based on quarterly Call Report data filed by commercial banks and savings associations. See www.ffiec.gov/ffiec_report_forms.htm. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (1997), "Risk-Focused Framework for the Supervision of Community Banks," Supervision and Regulations Letter SR 97-25 (October 1). In addition, the Board of Governors first approved a risk-focused consumer compliance supervision program on September 18, 1997. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Division of Consumer and Community Affairs (2013), "Community Bank Risk-Focused Consumer Compliance Supervision Program," Consumer Affairs Letter CA 13-19 (November 18); and "Consumer Compliance and Community Reinvestment Act (CRA) Examination Frequency Policy," Consumer Affairs Letter CA 13-20 (November 18). Return to text
+
+[SECTION]
+
+Daniel K. Tarullo (2014), "Dodd-Frank Implementation," statement before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, September 9. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2013), "Federal Reserve Board Approves Final Rule to Help Ensure Banks Maintain Strong Capital Positions," press release, July 2. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation (FDIC), and Office of the Comptroller of the Currency (OCC) (2013), New Capital Rule: Community Bank Guide (PDF) (Washington: Board of Governors, FDIC, and OCC, July). Return to text
+
+[SECTION]
+
+For more information, see Board of Governors of the Federal Reserve System, FDIC, and OCC (2012), "Statement to Clarify Supervisory Expectations for Stress Testing by Community Banks (PDF)," May 14. Return to text
+
+[SECTION]
+
+For more information on the CDIAC, see www.federalreserve.gov/aboutthefed/cdiac.htm. Return to text
+
+[SECTION]
+
+For more information on the Board's committees, including membership, see http://www.federalreserve.gov/aboutthefed/bios/board/default.htm. Return to text
+
+[SECTION]
+
+Abstracts of research papers discussed at the 2013 conference are available at www.stlouisfed.org/banking/community-banking-conference/abstracts.cfm . Return to text
+
+[SECTION]
+
+For more information on the 2014 conference, see www.stlouisfed.org/banking/community-banking-conference-2014/ . Return to text
+
+[SECTION]
+
+Consumer Compliance Outlook is available at www.philadelphiafed.org/bank-resources/publications/consumer-compliance-outlook/ , and Outlook Live is available at www.philadelphiafed.org/bank-resources/publications/consumer-compliance-outlook/outlook-live/ . Return to text
+
+[SECTION]
+
+Community Banking Connections is available at www.communitybankingconnections.org/ . Return to text
+
+[SECTION]
+
+FedLinks is available at http://www.cbcfrs.org/fedlinks.cfm . Return to text
+
+[SECTION]
+
+For more information on EGRPRA and the regulatory review process, see http://egrpra.ffiec.gov/index.html. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

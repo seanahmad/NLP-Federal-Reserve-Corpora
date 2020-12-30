@@ -1,0 +1,141 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairman Bennett and Members of the Subcommittee, I am pleased to have this opportunity to participate in today's panel on our recent experience with the so-called "I love you," or "Love Bug," computer virus.  First, Mr. Chairman, I had the pleasure of working with you when I served as Chair of the Financial Sector Group of the President's Council on Year 2000 Conversion.  I am grateful for the leadership and support you provided to the work of the Financial Sector Group and the President's Council.  Clearly the public-private sector partnership you helped forge was key to our nation's successful conversion to the new century.
+
+[SECTION]
+
+As you know, the Love Bug virus was launched from the Far East, and it attacked computers around the world running Microsoft Outlook for Windows.  To review what we know, the Love Bug virus, or in the taxonomy of computer science, the "worm," entered computers through e-mail messages.  Once a message was opened, the virus was able to reproduce itself by finding address lists stored by the computer's owner and then sending itself to the addressees.  If an addressee opened the attachment, a similar replication occurred, enabling the virus to spread rapidly.  We understand that the virus was designed to steal Internet passwords.  The virus was able to modify operating system files as well as certain sound and picture files residing in the infected computers.  It had the effect of degrading network performance by inundating e-mail server systems and some web pages.  Variants of the virus in some cases had a major impact on the data and program files of some computer networks, although we did not experience that in the Federal Reserve.
+
+[SECTION]
+
+Like many organizations, the Federal Reserve System received hundreds of Love Bug e-mail messages.  However, the virus had no impact on our critical business functions or information systems.  Indeed, the delivery of key financial and central bank services by the Federal Reserve was unaffected.  In the weeks following May 4, we contacted industry trade organizations as well as a number of the institutions we supervise, and they reported the virus did not impair critical retail or wholesale banking services.  Indeed with the help of various public- and private-sector information-sharing programs, the virus was quickly detected, isolated, and immunized through a variety of standard operating procedures that have been implemented by the Federal Reserve and financial institutions.
+
+[SECTION]
+
+May 4 Love Bug Attacks
+Because the virus started in the Far East, it was identified before most U.S. public and private institutions opened for business.  The Federal Reserve became aware of the virus on the morning of Thursday, May 4, through reports from Microsoft.  By approximately 8:30 a.m., major news wire services also contained fairly accurate details about how to identify the virus, although the type of damage inflicted on computer hardware and files and the manner in which the virus spread were still unclear.  Throughout the day, we also received reports from the FBI's National Infrastructure Protection Center (NIPC),1   from InfraGard,2  and from anti-virus software vendors.
+
+[SECTION]
+
+Financial institutions that have foreign offices, particularly those with operations in Asia, had the earliest warning and were able to take steps to inform employees worldwide and to shield their e-mail systems, in many cases before opening for business.  As a precaution, many institutions shut down external, and in some instances internal,    e-mail systems.  These institutions also quickly alerted industry trade organizations and business partners about what they knew of the virus.  The global nature of commerce helped many financial institutions learn about the virus before many of the monitoring services issued an alert.
+
+[SECTION]
+
+At the Federal Reserve, we immediately began to implement our standard virus incident response procedures.  The fact that our employees were already trained to recognize and report suspicious e-mail messages, such as those that typically are virus carriers, was a tremendous asset in limiting the spread of the virus internally - only a handful of messages were opened.  As a preventive measure, at about 9:30 a.m., we shut down our e-mail systems to incoming mail from the Internet, and subsequently through our intranet, until we received and installed an anti-virus patch, or antidote, from our software vendors.  (An antidote cannot be produced until the particular virus is analyzed, and systems are at risk until an antidote is installed.)
+
+[SECTION]
+
+In accordance with Federal Reserve System policy, line management responsible for information security convened Systemwide conference calls to discuss the virus and to coordinate actions to contain it.  During the day, the CERT3  and other virus-response centers provided information about how the virus spread and measures to contain the virus.  We began installing anti-virus patches in the afternoon, and as an example, the Board of Governors re-opened its e-mail systems to outside mail by 5:00 p.m.  Financial institutions reported they were able to reopen e-mail systems at various times during the day, and most e-mail systems were open by the beginning of business the following morning.
+
+[SECTION]
+
+Federal Reserve's Procedures for Responding to Viruses and Other Malicious Attacks on Our Information Systems
+
+When the Love Bug struck, the Federal Reserve had state-of-the-art procedures and controls in place for responding to and managing cyber-related incidents including computer viruses.  The procedures were effective in managing this incident and limiting the spread of the Love Bug virus.
+
+[SECTION]
+
+In addition to training our employees in how to identify and deal with suspicious messages, the Federal Reserve has implemented several layers of security protections.  These include incident response teams, virus-detection software that screens e-mail messages and mailboxes for viruses, and, on some systems, we are operating "integrity checking tools" that detect changes in operating systems and software.  We have an ongoing communications program with senior executives regarding the operational risks associated with information systems.  Effective lines of communication are also in place linking IT professionals across the Federal Reserve System to each other and with our vendors and organizations, such as the FBI and CERT.
+
+[SECTION]
+
+Impact of Love Bug Virus on Federal Reserve and Financial Institutions
+
+Other than impeding office communications and diminishing productivity because of the temporary halt in receiving and sending e-mail messages, the virus had minimal impact on the Federal Reserve's business operations and no impact on our critical financial and central bank services.  Our electronic payment services are protected from e-mail viruses because they do not operate on the automation systems that support our Internet and electronic mail services.  Our payment systems operate on proprietary software systems and use a closed network rather than the public Internet.  Fedwire - our large-value funds transfer application - and our other key payment systems are accessible only through dedicated devices and require specific hardware, software, and communications facilities to process transactions.  Moreover, all of these communication systems are fully encrypted.  If for some reason the Love Bug virus was able to operate on a device linked to one of our payment system applications, the device might, at worst, be temporarily disabled.  An infected terminal, however, could be recovered by using contingency procedures.
+
+[SECTION]
+
+The Federal Reserve did experience some negative effects from the Love Bug attack.  While our e-mail systems were disconnected, we used fax machines and telephones to complete routine communications.  This proved to be inconvenient for some employees.  In addition, our Information Technology staff had to devote time to communicating with employees and business partners about appropriate screening and containment measures and to perform work to apply software patches to immunize our   e-mail systems and recover machines that had been infected by the virus.  In short, a virus of this nature can be disruptive to an organization's electronic communications and knowledge-sharing activities.
+
+[SECTION]
+
+The financial institutions we supervise reported a similar experience.  Word about the virus spread almost as quickly around the globe as did the virus, and companies were able to alert employees and to shield e-mail systems early in the business day.  Even when e-mail systems became infected, the virus was not able to spread to critical banking systems.  Financial institutions conducted business as usual, and ATMs and other retail and wholesale payment and settlement systems were unaffected.
+
+[SECTION]
+
+Although there were some minor disruptions in commerce, we have not identified any measurable effect on the economy - in large part because commercial transactions are not generally conducted using e-mail-based information systems.  Various news services have estimated the cost of the virus - in terms of lowered productivity and labor costs to manage the virus and recover from damage - in the range of $5 billion to $15 billion worldwide.  At this time, however, we view those numbers as "guestimates."4
+
+[SECTION]
+
+Lessons Learned
+Although the Federal Reserve's detection and response procedures were adequate and worked well, we see the incident as an opportunity to identify lessons learned so that we can continue to improve our virus response processes.  Our information-security program is based on a process of continuous improvement and a post incident review is standard practice in the Federal Reserve.  We want to ensure that we operate in the most secure environment possible and that we are prepared to respond to cyber-related incidents in a consistent, coordinated manner.
+
+[SECTION]
+
+With respect to the financial institutions we supervise, the Federal Reserve is integrating our information technology examination program into safety and soundness assessments to ensure the inherent business risks created by technology are properly managed.  One benefit of Y2K is that senior executives and board of directors of financial institutions have a better understanding of the linkage between operations risk and credit, market, liquidity, reputational, legal, and other forms of risk.  This will serve the industry well in addressing new operational risks posed by rogue software, such as viruses.
+
+[SECTION]
+
+In addition, we are committed to participating in initiatives that promote information-system security and that assist in the rapid identification and analysis of new viruses and other forms of cyber attacks.  The Federal Reserve is an active participant in numerous public- and private-sector activities to protect the critical infrastructure.  For example, we receive information from the NIPC and we will also be participating in the financial services information sharing and assessment center.  We also plan to work more closely with our anti-virus software vendors to convey the urgency of producing antidotes to new viruses in an even more timely manner.
+
+[SECTION]
+
+Our financial institutions report a renewed commitment to training, particularly institutions in which virus-screening capabilities are somewhat limited because of lessor reliance on e-mail systems.  Moreover, to avoid having to shut down e-mail systems even briefly, some larger institutions plan to investigate more robust filters that can be 
+deployed in the period following the spread of a virus and before their anti-virus software vendors produce an antidote patch.  As a result of the Love Bug virus, there is an increased awareness in the financial sector that today's most commonly used desktop products (web browsers, e-mail, and the like) are generally not designed to resist future virus strains.  Financial institutions also believe that the software industry needs to take additional steps to ensure that their products are appropriately secure.  It is essential that desktop products used to support critical business functions are secure and engender confidence in their use.  In the future, we anticipate that desktop products will increasingly be employed to deliver retail financial services over the Internet.
+
+[SECTION]
+
+Conclusion
+Computer viruses and other malicious attacks by software hackers present an ongoing threat.  Although the Love Bug virus was limited in the damage that it caused, future viruses may be more difficult to contain.  Because viruses put us into a defensive mode, good information security processes and controls are critical - and those employed by the Federal Reserve were effective in detecting and responding to the Love Bug virus.
+
+[SECTION]
+
+In my opinion, if electronic commerce is to flourish, there must be a high degree of confidence by all parties to transactions that the systems and networks are as secure as possible.  There is a need to focus on measures that can be implemented to contain viruses while antidotes are being developed.  These include measures to share information more effectively, to analyze new viruses quickly, to distribute fixes more efficiently, and to recognize new, innovative viruses as they occur.  Finally, public- and private-sector information-security initiatives, including early warning, analysis, information on, and containment, should be supported and broadened.
+
+[SECTION]
+
+Up to this point, much of the focus on new threats to computer systems has focused on national security and criminal aspects of the problem.  From my perspective, the discussion should be expanded to include the broader risks presented by the growth of electronic commerce.  One of the reasons our nation's Year 2000 efforts were so successful was that leaders in the public and private sectors recognized that technology issues presented significant business risks and they worked together to meet the challenge.  The work of the Department of the Treasury in supporting the goals of Presidential Decision Directive 63 is a good step in helping the financial sector to address new forms of operations risk.  Finally, in my view, the model implemented to address Y2K could be helpful in strengthening programs to address the risks to the public infrastructure on which the financial services industry relies: telecommunications, power, water, transportation, and public safety.
+
+[SECTION]
+
+Mr. Chairman, this concludes my statement, and thank you for asking me to appear today.  I would be happy to answer any questions you or Members of the subcommittee may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+ANSIR (Awareness of National Security Issues and Response) is the NIPC center that provides automated, unclassified advisory, alert, and warning information concerning physical and cyber threats to private-sector security professionals.
+
+[SECTION]
+
+2
+  InfraGard is an FBI initiative to provide a private- and public-sector information-sharing mechanism in support of critical infrastructure protection.  The FBI plans to open InfraGard chapters in all fifty-six FBI field districts.
+
+[SECTION]
+
+3
+The CERT (Computer Emergency Response Team) coordination center was chartered in 1988 by the U.S. Department of Defense to work with the Internet community to respond to computer security problems, raise awareness of computer security issues, and prevent security breaches.  CERT/CC is part of the Networked Systems Survivability Program in the Software Engineering Institute, a federally funded research and development center at Carnegie Mellon University.
+
+[SECTION]
+
+4
+See, for example, APBnews.com, "The Bug that Ate $10 Billion" (May 8, 2000); Kathleen Ohlson, Computer World, " 'Love' Virus Costs Approaching $7 Billion" (May 9, 2000); Jesse J. Holland, Associated Press writer, "Computer Virus Hits Fed Agencies" (May 11, 2000).
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2000 Testimony

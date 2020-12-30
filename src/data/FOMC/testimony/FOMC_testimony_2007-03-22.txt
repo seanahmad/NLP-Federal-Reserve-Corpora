@@ -1,0 +1,449 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 22, 2007
+
+[SECTION]
+
+Roger T. Cole, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs
+
+[SECTION]
+
+IntroductionChairman Dodd, Ranking Member Shelby, members of the Committee, I appreciate the opportunity to discuss mortgage lending, the recent rise in mortgage delinquency and foreclosure rates, particularly in the subprime sector, and the Federal Reserveâs supervisory response.
+
+[SECTION]
+
+The Federal Reserve is concerned about recent developments in mortgage markets and has been closely monitoring the effects of these developments on the financial health of mortgage borrowers and lending institutions.  Regarding safety and soundness of the banking system, less than half of subprime loans have been originated by federally regulated banking institutions.  To date, the deterioration in housing credit has been focused on the relatively narrow market for subprime, adjustable-rate mortgages, which represent fewer than one out of ten outstanding mortgages.  Borrower performance deterioration in the subprime market has been concentrated in loans made very recently, especially those originated in late 2005 and 2006, and problems in those loans started to become apparent in the data during the latter half of 2006.
+
+[SECTION]
+
+As in past credit cycles, market investors and lenders have begun to implement more appropriate underwriting standards and to change their risk profiles.  Some borrowers are clearly experiencing significant financial and personal challenges, and more subprime borrowers may join these ranks in the coming months.  We are mindful that any action we take should not have the unintended consequence of limiting the availability of credit to borrowers who have the capacity to repay.  I will shortly offer some suggestions to address these challenges, including the potential for lenders to work with troubled borrowers.
+
+[SECTION]
+
+We know from past cycles that credit problems in one segment of the economy can disturb the flow of credit to other segments, including to sound borrowers, creating the potential for spillover effects in the broader economy.  Nevertheless, at this time, we are not observing spillover effects from the problems in the subprime market to traditional mortgage portfolios or, more generally, to the safety and soundness of the banking system.
+
+[SECTION]
+
+Subprime lending has grown rapidly in recent years and has expanded homeownership opportunities for many individuals.  It is important to ensure that these gains are not eroded by the recent increase in delinquencies and foreclosures in the subprime market.  It is especially important to preserve homeownership for the many low- and moderate-income borrowers who have only recently been able to achieve the goal of owning a home.
+
+[SECTION]
+
+Later in my testimony, I will discuss the recent activity in mortgage markets and the possible causes for the increases in delinquencies and foreclosures in the subprime market.  I will discuss the Federal Reserveâs ongoing efforts as a banking supervisor to ensure that the institutions we supervise are managing their mortgage lending activities in a safe and sound manner, including assessing the repayment capacity of borrowers.  In particular, I will discuss existing guidance that has been issued over the past several years that addresses many of these issues and the general scope and findings of examinations at the lending institutions we supervise.
+
+[SECTION]
+
+I will also discuss our efforts in the area of consumer protection, including guidance to ensure that lenders provide consumers with clear and balanced information about the risks and features of loan products at a time when the information is most useful, before a consumer has applied for a loan.  The Federal Reserve Board has significant responsibilities as a rulewriter for several consumer protection laws, and I will discuss our efforts to date to improve the effectiveness of our regulations in this area as well as our plans to continue this work in the near and longer term.
+
+[SECTION]
+
+Mortgages and the Role of the Capital MarketsThe banking system has changed dramatically since I first joined the Federal Reserve Bank of Boston in the mid-1970s.  Back then, banks and savings and loans used their deposit bases and other funding sources to finance, originate, and hold loans to maturity.  These financial institutions were highly exposed to any problems that might emerge in residential markets, and their analysis of credit risk was generally limited to making sure that each loan was underwritten properly.  Home mortgages had fixed rates and few bells and whistles.
+
+[SECTION]
+
+Today, the mortgage lending business has changed dramatically.  With the remarkable growth we have seen in securitization, that simple book-and-hold model has evolved to incorporate an alternative and more complex originate-to-distribute model.  While commercial banks still play a significant role in the mortgage origination and distribution process, they are no longer the only originators or holders of residential mortgages.  Securitization has had profound effects in financial centers, where investment bankers use a broad array of approaches to package and resell home mortgages to willing investors, and in local communities, where mortgage brokers and mortgage finance companies compete aggressively with banks to offer new products to would-be homeowners.
+
+[SECTION]
+
+These innovations in housing finance have brought many benefits to lenders, investors, and borrowers.  Much more so than in the past, insured depository institutions are now able to manage liquidity and control risks by adjusting credit concentrations and maturities through the use of financial instruments such as mortgage-backed securities.  For capital market investors, securitization has reduced transaction costs, increased transparency, and increased liquidity.  The market has become very proficient at segmenting cash flows of mortgage portfolios into risk tranches targeted at investors with differing risk appetites.
+
+[SECTION]
+
+Homebuyers have also benefited in this environment of financial innovation and market liquidity.  More lenders are actively competing in the mortgage market, product offerings have expanded greatly, the underwriting process has become more streamlined, borrowing spreads have decreased, and obtaining a mortgage loan has become easier.  In short, securitization has helped to expand homeownership, which recently reached a record 69 percent.1  Not surprisingly, there have also been significant gains in homeownership for low- and moderate-income individuals.  The development of the subprime mortgage market has been an integral factor in creating these homeownership opportunities for previously underserved borrowers.
+
+[SECTION]
+
+Recent Trends in the Subprime Market The term âsubprimeâ generally refers to borrowers who do not qualify for prime interest rates because they exhibit one or more of the following characteristics:  weakened credit histories typically characterized by payment delinquencies, previous charge-offs, judgments, or bankruptcies; low credit scores; high debt-burden ratios; or high loan-to-value ratios.  Prime borrowers represent more than 75 percent of the 43 million first-lien mortgage loans outstanding in the United States; subprime borrowers represent about 13 or 14 percent; and the remaining borrowers fall within a somewhat ill-defined category between prime and subprime known as âAlt-A,â or ânear-prime,â which includes borrowers with good credit records who do not meet standard guidelines for documentation requirements, debt-to-income ratios, or loan-to-value ratios.2
+
+[SECTION]
+
+While still only a relatively small part of outstanding mortgages, the subprime sector grew rapidly over the past three years and accounted for an outsized share of originations in 2006.  The roots of this increase can be traced back to the low levels of market interest rates that existed in the early part of this decade which, in turn, spurred significant volumes of mortgage refinancing, as well as new originations.  To meet this demand, financial institutions significantly increased their mortgage origination and securitization infrastructures.  New entrants in the mortgage industry, including independent mortgage brokers and finance companies, also ramped up their origination capacity.  With the rise in short-term market interest rates beginning in 2004, the cost burden of such infrastructures came under increasing pressure as both mortgage refinance and new origination volumes declined.
+
+[SECTION]
+
+In this environment of high liquidity, rising home prices, and competition, some lenders that had an originate-to-distribute model responded to the capital marketâs demand for new products by easing their credit standards and increasing risks through ârisk-layeringâ practices such as simultaneous second liens, no- or low-income documentation, and high loan-to-value ratios.  Some borrowers were actually investors utilizing the ease in terms to purchase investment and rental properties.  In the latter part of 2005 and in 2006, risk-layered loans were originated in greater numbers and, increasingly, to borrowers with lower credit scores.  An additional layer of risk was embedded in the subprime market since subprime borrowers are more likely to use adjustable-rate mortgages, or ARMs, because these loans generally carry lower interest rates at origination, particularly if a promotional or âteaserâ rate is offered for the loanâs introductory period.  While these loans contribute to more manageable payments early in the life of the mortgage loan, borrowers can be exposed to payment shock when rates adjust.  ARMs account for only about one in eight prime mortgages, but they account for between one-half and two-thirds of subprime mortgages.
+
+[SECTION]
+
+During the years of exceptionally strong growth in housing prices and low, stable interest rates, most borrowers did not face large payment shocks and many of those that did could later take advantage of home price appreciation to refinance.  These conditions changed in 2006, when mortgage interest rates hit four-year highs, the volume of home sales declined, and the rate of house price appreciation decelerated, leaving the most recent subprime borrowers vulnerable to payment difficulties.  Subprime borrowers with hybrid ARMs have experienced the largest recent increase in delinquency and foreclosure rates.3  Meanwhile, an unusual number of subprime loans have defaulted shortly after origination; these âearly payment defaultsâ are further evidence of laxer underwriting standards by subprime lenders, especially during 2006.  Based on anecdotal evidence, it seems possible that fraud has also been a factor in the recent increase in early payment defaults.
+
+[SECTION]
+
+Undiversified subprime finance companies have been hit especially hard by early payment defaults, and many have been forced under the terms of their securitization contracts to repurchase these loans.  The costs associated with these repurchases have further reduced earnings, pushing some lenders into bankruptcy and forcing the sale or operational shutdown of others.  This consolidation in the subprime sector of the mortgage finance industry began several months ago and has likely not yet run its course.  These changes in market conditions may assist the industry as investors become more focused on risk-reward tradeoffs and as lenders become more prudent.  However, over the next one to two years existing subprime borrowers, especially those with more recently originated hybrid ARMs, may continue to face challenges.
+
+[SECTION]
+
+Supervisory GuidanceOver the past several years, the Federal Reserve has been monitoring these developments and has adjusted our supervisory activities accordingly.  Banking supervisors expect our regulated institutions to be mindful of the risks posed by new and expanding business activities.  The principles of sound lending have been with us for generations and most of the guidance we issue is to remind bankers what they should already be doing.
+
+[SECTION]
+
+In our routine on-site examinations over the past several years, most banking practices that we have observed have reflected sound risk management.  However, at a few institutions, we have observed weaknesses in risk management and consumer protection practices.  We have addressed issues involving these individual institutions through the examination process with requirements that management take appropriate corrective actions.  We have also responded by issuing guidance, with the other federal regulators, on subjects such as real estate lending, subprime lending, home equity lending, nontraditional mortgages, and securitization.
+
+[SECTION]
+
+Since the early 1990s, the Federal Reserve and the other banking agencies have issued a number of guidance statements on residential real estate lending that focus on sound underwriting and risk-management practices, including the evaluation of a borrowerâs repayment capacity and collateral valuation.
+
+[SECTION]
+
+Interagency Guidelines for Real Estate LendingThe foundation for much of this guidance is the 1993 Interagency Guidelines for Real Estate Lending, which was issued pursuant to the Federal Deposit Insurance Corporation Improvement Act of 1991 (FDICIA).  FDICIA required the federal banking agencies to prescribe uniform real estate lending standards.  The final rule requires every depository institution to establish and maintain comprehensive, written real estate lending policies that are consistent with safe and sound banking practices.  A key point in this document is that prudently underwritten real estate loans should reflect all relevant credit factors, including the capacity of the borrower to adequately service the debt.
+
+[SECTION]
+
+Interagency Guidance on Subprime LendingThe 1999 Interagency Guidance on Subprime Lending, as expanded in 2001, discusses essential components of a well-structured risk-management program for subprime lenders.  This guidance emphasizes that lending standards should include well-defined underwriting parameters such as acceptable loan-to-value ratios, debt-to-income ratios, and minimum acceptable credit scores.  It advises institutions actively involved in the securitization and sale of subprime loans to develop contingency plans that include alternate funding sources and measures for raising additional capital if investors lose their appetite for certain risks.
+
+[SECTION]
+
+The subprime guidance, as amended in 2001, also addresses concerns about predatory or abusive lending practices.  The agencies recognized three common characteristics of predatory lending, including making unaffordable loans based on the assets of the borrower rather than on the borrowerâs ability to repay an obligation; inducing a borrower to refinance a loan repeatedly in order to charge high points and fees each time the loan is refinanced; or engaging in fraud or deception to conceal the true nature of the loan obligation, or ancillary products, from an unsuspecting or unsophisticated borrower.  The guidance advises institutions that higher fees and interest rates, combined with compensation incentives, can foster predatory pricing or discriminatory practices and that institutions should take special care to avoid violating fair lending and consumer protection laws and regulations.  The agencies expressed the expectation that institutions should recognize the elevated levels of credit and other risks arising from subprime lending activities and advised that these activities require more robust risk management and, often, additional capital.  The guidance also states that loans to borrowers who do not demonstrate the capacity to repay the loan, as structured, from sources other than collateral are generally considered unsafe and unsound.  Where risk-management practices are deemed deficient, the guidance advises examiners to criticize bank management and to require corrective actions.
+
+[SECTION]
+
+Interagency Guidance on Nontraditional Mortgage Product RisksIn 2005, the Federal Reserve and the other federal agencies observed that lenders were increasingly combining nontraditional or âexoticâ mortgage loans, which defer repayment of principal and sometimes interest, with the risk layering practices that I talked about earlier.  In particular, the agencies were concerned about the lack of principal amortization and the potential for negative amortization in these products.  Moreover, we were concerned that the easing of underwriting standards and the marketing of these products to a wider spectrum of borrowers, including investors purchasing rental properties, might create higher embedded risks.  To address those concerns, the Federal Reserve and other agencies issued guidance on nontraditional mortgage products last September.  The Interagency Guidance on Nontraditional Mortgage Product Risks highlights sound underwriting procedures, portfolio risk management, and consumer protection practices that institutions should follow to prudently originate and manage nontraditional mortgage loans.  A major aspect of this guidance is the recommendation that the analysis of repayment capacity should include an evaluation of borrowersâ ability to repay debt by final maturity at the fully indexed rate, assuming a fully amortizing repayment schedule.  The agencies were also concerned that borrowers were obtaining these loans without understanding the risks as well as the benefits.  The guidance also reminds institutions that they should clearly communicate the risks and features of these products to consumers in a timely manner, before consumers have applied for a loan.
+
+[SECTION]
+
+To complement the guidance on consumer protection, the agencies issued for comment proposed illustrations that show how institutions might explain the risks and terms to consumers in a clear and timely manner.  Currently, the agencies are reviewing the comment letters on that proposal.
+
+[SECTION]
+
+Proposed Guidance on Subprime Mortgage LendingEarlier this month, the agencies proposed the Interagency Statement on Subprime Mortgage Lending for public comment.  This proposal specifies the same qualification standard as the nontraditional mortgage guidance and emphasizes the added dimension of risk when these products are combined with other features such as simultaneous second lines and little or no documentation of income or assets.  However, unlike the nontraditional mortgage guidance, which targeted prime and subprime loans with the potential for negative amortization, the proposed guidance covers fully amortizing loans.
+
+[SECTION]
+
+The proposed subprime guidance would apply to all depository institutions, their subsidiaries, and non-depository affiliates, but not to state-regulated independent mortgage companies.  To protect borrowers in the broader subprime market that is outside our purview, and to ensure a âlevel playing fieldâ for depository institutions and independent mortgage companies, we coordinated the development of the proposed guidance with the Conference of State Bank Supervisors (CSBS).  CSBS has committed to making every effort to encourage the states to consider proposing this guidance for state-regulated lenders.
+
+[SECTION]
+
+Supervisory ActivitiesRegulators became concerned in the late 1990s about certain subprime lending activities that had become the primary or sole business activity of some institutions.  As regulators increased their scrutiny, it became clear that risk-management practices were deficient at some institutions.  We understood that concentrations in subprime lending, if not properly managed, could result in significant safety and soundness concerns.  Supervisors took actions to address identified deficiencies, including formal enforcement actions, but a few of these institutions were unable to resolve their credit problems and ultimately failed.  The agencies issued the first Interagency Statement on Subprime Lending in 1999 to address such situations.
+
+[SECTION]
+
+Between 1999 and 2003, in implementing the guidance, the Federal Reserve focused on those institutions that had concentrations in subprime lending or were operating large subprime programs to ensure that risk-management practices were appropriate and that the activity was conducted in a safe, sound, and prudent manner.  As examiners identified additional issues and concerns, the agencies recognized the need for additional guidance and issued the 2001 expanded subprime guidance.
+
+[SECTION]
+
+As the larger mortgage lenders under our supervision began to expand their subprime lending activities in recent years, examiners increased their scrutiny of risk-management practices, including lending policies, underwriting standards, portfolio limits and performance, and management information systems.  Examiners also began to evaluate institutionsâ advanced risk-management techniques to make sure bank managers understood the ramifications of a possible downturn.
+
+[SECTION]
+
+We also evaluated institutionsâ securitization activities, particularly with respect to subprime lending, to determine if residual interests were properly valued and if there were any capital implications for implicit recourse.
+
+[SECTION]
+
+More recently, we have conducted a number of examinations on the subprime businesses of the banks and bank holding companies that we supervise, including subprime residential mortgage portfolios.  These examinations have included the review of credit risk-management practices such as underwriting, portfolio risk management, and quality control processes concerning third-party originations.  In addition, examiners have conducted reviews of stress testing, economic capital methods, and other quantitative risk-management techniques to ensure that banks are assessing the level and nature of the risks associated with subprime lending and nontraditional mortgages; residential lending appraisal practices to ensure appropriate collateral valuation processes; and new product review processes to ensure that disciplined approaches are being brought to new lending products and programs.
+
+[SECTION]
+
+Where Federal Reserve examiners observe weaknesses in the practices of supervised institutions, we ensure that these institutions take appropriate corrective action.  In our examination reports to individual institutions, as needed, we highlight weaknesses in real estate lending practices, including residential mortgage activities, both from a safety and soundness and from a consumer protection perspective, and direct management to take recommended actions.  Our ability to describe findings at specific institutions in this forum is limited because examination reports are, by their nature, highly confidential.
+
+[SECTION]
+
+For illustrative purposes, I will describe a few recent examples that involved supervised institutions.  In one case, following the examination of a banking organizationâs mortgage banking activities, examiners identified weaknesses in its risk management and controls and recommended that the institution improve its real estate appraisal processes, mortgage servicing asset valuations, and management information systems for tracking performance in specific product portfolios.  Another institution, in which examiners discovered weaknesses in policies and procedures, was required to strengthen and amend practices to avoid further supervisory action.
+
+[SECTION]
+
+Regulatory Action to Protect ConsumersThe Federal Reserve also has significant rule-writing responsibilities for consumer protection laws such as the Truth in Lending Act (TILA) and for laws designed to assist in consumer protection efforts such as the Home Mortgage Disclosure Act (HMDA) of 1975.
+
+[SECTION]
+
+HMDA Loan Price InformationHMDA requires most mortgage lenders in metropolitan areas to collect data about their housing-related lending activity, report the data annually, and make the data publicly available.  Congress authorized the Federal Reserve Board to issue regulations implementing HMDA.
+
+[SECTION]
+
+During the 1990s, the early growth of the subprime mortgage market raised concerns that some consumers lacked the information they needed to negotiate the best terms, or to protect themselves from unfair or deceptive practices.  There were also concerns that wide price differences in these markets may reflect unlawful discrimination rather than legitimate risk- and cost-related factors.
+
+[SECTION]
+
+In 2002, to bring greater transparency to the subprime mortgage market, the Federal Reserve made two changes to the HMDA rules: adding a requirement to report loan price information for certain higher priced loans and extending reporting responsibilities to more independent state-regulated mortgage companies.  These changes first took effect for HMDA data collected in 2004 and disclosed in 2005.
+
+[SECTION]
+
+Based on 2004 and 2005 HMDA data, independent mortgage companies originated slightly more than half of all subprime loans.  The new loan price information and the expanded coverage of nondepositories have increased our ability to detect potential problems in the subprime market and to conduct reviews of banksâ fair lending practices.  The changes have also facilitated the statesâ oversight of independent state-regulated mortgage companies.
+
+[SECTION]
+
+The Boardâs Review of the Truth in Lending DisclosuresThe Federal Reserve also has responsibility for the regulations associated with the TILA and its required disclosures.  While consumer disclosures alone cannot solve the problems that lead to foreclosures, disclosures help consumers to understand the terms and features of various mortgage products before entering into a long-term financial obligation.  To that end, the Federal Reserve Board has begun a comprehensive review of Regulation Z, which implements TILA.  Currently, the Federal Reserve is addressing credit card disclosures and expects to address mortgage cost disclosures beginning later this year.
+
+[SECTION]
+
+Rulemakings take time, however, and in the meantime the Board has taken steps to address concerns that consumers are not getting sufficient information to help them understand the risks and features of ARMs and nontraditional mortgage products.
+
+[SECTION]
+
+The CHARM BookletThe Board and the Office of Thrift Supervision recently revised the Consumer Handbook on Adjustable Rate Mortgages (CHARM booklet) to include additional information about nontraditional mortgage products, including hybrid ARMs.  The CHARM booklet is an effective means of delivering to consumers information about ARMs because creditors are required to provide a copy of the booklet to each consumer when an application for an ARM is provided.
+
+[SECTION]
+
+Consumer Brochure on Nontraditional Mortgage ProductsThe Board has taken other steps to increase consumer awareness of the risks of nontraditional mortgage loans.  We published a consumer education brochure, Interest-Only Mortgage Payments and Option-Payment ARMs-Are They for You?  The brochure is designed to assist consumers who are shopping for a mortgage loan, and is available in printed form and in electronic form on the Boardâs website.
+
+[SECTION]
+
+Responding to the ChallengeThe Federal Reserve believes that the availability of credit to subprime borrowers is beneficial and that subprime loans can be originated in a safe and sound manner.  We continue to focus on institutionsâ sound underwriting and risk-management practices and to promote clear, balanced, and timely consumer disclosures.
+
+[SECTION]
+
+The proposed Interagency Statement on Subprime Mortgage Lending specifies that an institutionâs analysis of a borrowerâs repayment capacity should include an evaluation of the borrowerâs ability to repay the debt by its final maturity at the fully indexed rate, assuming a fully amortizing repayment schedule.  In proposing the guidance, the agencies specifically asked whether the subprime guidance would unduly restrict the ability of subprime borrowers to refinance their loans in order to avoid payment shock.  We are mindful of unintended consequences that may affect credit availability to otherwise sound borrowers and are prepared to make changes in response to constructive comments.
+
+[SECTION]
+
+Lenders and investors should take an active role in working through the current problems in the subprime market.  They should not manage subprime and nontraditional mortgage portfolios in the same way as they manage more traditional portfolios that do not contain the same level of risks.  Lenders, portfolio managers, and mortgage servicers should be examining how interest rate increases, real estate price fluctuations, and future payment resets can affect delinquencies, default rates, foreclosures, and losses.  Strategies should be developed to minimize the effect of deteriorating conditions on segments of the portfolio identified as at-risk.  Lenders should be assessing how severely a stressed environment may affect the credit quality of their portfolios, especially with respect to the large volume of subprime adjustable-rate mortgages underwritten in the last year or so.  As the supervisor of some of these institutions, the Federal Reserve will continue to closely monitor our institutionsâ practices and the trends in this market.
+
+[SECTION]
+
+Although a rising number of borrowers are having difficulty meeting their obligations, regulated institutions do not face additional supervisory scrutiny if they pursue reasonable workout arrangements with these borrowers.  Existing regulatory guidance does not require institutions to immediately foreclose on the underlying collateral when a borrower exhibits repayment difficulties.  Working constructively with borrowers is typically in the long-term best interests of both financial institutions and the borrowers.  Capital markets investors in securitizations have the same motivation as direct lenders in maximizing recoveries on defaulted loans.  Thus, mortgage servicers will have an important role to play in working with delinquent borrowers.  Established and well-rated loan servicers are usually given a range of options by investors in workout situations.  These options could include modification of interest rates, payment restructuring, and extension of maturities.  Working together, the federal regulatory agencies will continue to use their supervisory authority to ensure that regulated institutions have policies and procedures designed to treat borrowers fairly, both when seeking new credit and when working through financial difficulties.
+
+[SECTION]
+
+In conclusion, I would like to commend you, Chairman Dodd, Ranking Member Shelby, and the Committee for holding this hearing today.  The issues you have raised pertaining to the subprime mortgage markets will serve as an important reminder to both borrowers and lenders of the risks that can be inherent in complex financial products designed to make credit more widely available.  As I mentioned previously, the principles of sound lending have been with us for generations.  From a supervisory perspective, the Federal Reserve believes those principles need to be part of any risk-management approach to new and emerging products such as subprime lending and risk-layered loans, as well as the securitization of such loans.  We also believe that consumer education efforts to explain both the benefits and risks of new financial products are important, including disclosures that borrowers who are not fully conversant with financial products can easily understand.  I am prepared to answer any questions you may have.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+United States Census Bureau. Return to text
+
+[SECTION]
+
+Estimates based on data from LoanPerformance Corp. and the Mortgage Bankers Association. Return to text
+
+[SECTION]
+
+Delinquency rates on subprime variable-rate mortgages rose during 2006 from 6.3 to 10.9 percent, according to data from LoanPerformance (data from the Mortgage Bankers Association show a similar pattern; delinquency rates are for loans 90 days or more past due or in foreclosure).  Delinquencies in the Alt-A sector have increased at rates comparable to subprime loans, but the overall delinquency level is far lower.  For example, Alt-A loans 60 days or more past due represented between two and three percent of all Alt-A loans in January 2007.  Because, at most, one in ten borrowers has a subprime variable rate mortgage, and because delinquency rates on other types of loans have remained relatively low and stable, the overall delinquency rate on all loans drifted up only slightly during 2006. Return to text
+
+[SECTION]
+
+1990 and 1994 - Poor real estate appraisal practices were identified as a contributing factor to real estate lending problems at failed institutions in the late 1980s and early 1990s. Pursuant to the Financial Institutions Reform, Recovery and Enforcement Act of 1989, the agencies adopted real estate appraisal regulations to establish appropriate standards for regulated institutions' real estate appraisal practices. In 1994, the agencies amended their appraisal regulations and issued Interagency Appraisal and Evaluation Guidelines to further promote sound appraisal practices.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

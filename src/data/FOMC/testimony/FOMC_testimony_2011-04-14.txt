@@ -1,0 +1,239 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 14, 2011
+
+[SECTION]
+
+J. Nellie Liang, Director, Office of Financial Stability Policy and Research
+
+[SECTION]
+
+Before the Subcommittee on Oversight and Investigations, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Neugebauer, Ranking Member Capuano, and other members of the subcommittee, thank you for the opportunity to testify on the Federal Reserve Board's role as a member of the Financial Stability Oversight Council (FSOC). The Federal Reserve is committed to working with the other Council members to advance the objectives that the Congress established for the Council and, more broadly, to implement effectively the regulatory reform measures set forth in the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act).
+
+[SECTION]
+
+Financial Stability Oversight Council
+       The Dodd-Frank Act created the FSOC and charged it with the important tasks of identifying and mitigating risks to the stability of the U.S. financial system, among other duties. The FSOC members represent a number of regulatory agencies that oversee a broad range of participants in U.S. financial markets. The Council is composed of 10 voting members and 5 nonvoting members. The Chairman of the Board of Governors of the Federal Reserve System is a voting member.1  I am here testifying on behalf of the Chairman, as the director of the Board's recently created Office of Financial Stability Policy and Research.
+
+[SECTION]
+
+As stated by the act, the purpose of the FSOC is "(A) to identify risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected bank holding companies or nonbank financial companies, or that could arise outside the financial services marketplace; (B) to promote market discipline, by eliminating expectations on the part of shareholders, creditors, and counterparties of such companies that the Government will shield them from losses in the event of failure; and (C) to respond to emerging threats to the stability of the United States financial system."2 In carrying out its duties to mitigate risks, the FSOC is well-placed to address risks that do not fall clearly within the jurisdiction of a single agency. The FSOC also is expected to monitor domestic and international financial regulatory developments, as well as to advise the Congress and make recommendations to enhance the integrity, efficiency, competitiveness, and stability of the U.S. financial markets.
+
+[SECTION]
+
+The FSOC has made meaningful progress in a number of areas since the act was passed less than a year ago. It has taken a number of important steps to promote interagency collaboration and has established the organizational structure and processes necessary to execute its duties. Importantly, the FSOC's internal organizational structure has been designed to leverage the expertise of the member agencies, and to promote a shared responsibility among the agencies for executing the duties of the FSOC. Special consideration has been given to promoting the sharing of information to help identify risks that could have the potential to become systemic, and facilitating coordination among the member agencies with respect to policy development, rulemaking, examinations, reporting requirements, and enforcement actions.
+
+[SECTION]
+
+The FSOC's internal organizational structure consists of a Deputies Committee, which is composed of staff from all of the voting and nonvoting members, and six other standing committees, each charged with carrying out specific duties of the FSOC. The duties of these committees include: identifying nonbank financial firms and financial market utilities that could pose a systemic risk, making recommendations to financial regulatory agencies regarding heightened prudential standards for financial firms, making recommendations to enhance the prospects for orderly resolution of systemically important financial firms, collecting data and improving data reporting standards, and monitoring the financial system to identify potential threats to the financial stability of the United States. The Deputies Committee, under the direction of the FSOC members, coordinates and oversees the work of the other committees and aims to ensure that the FSOC fulfills its duties in an effective and timely manner.
+
+[SECTION]
+
+In meeting its responsibilities under the Dodd-Frank Act, the FSOC and its member agencies have completed studies on limits on proprietary trading and investments in hedge funds and private equity funds by banking firms (the Volcker rule), on financial sector concentration limits, on the macroeconomic effects of risk retention, and on the economic effects of systemic risk regulation. It also has made progress toward establishing an analytical framework and processes to identify nonbank financial firms that could pose a threat to financial stability, including through the issuance of advance notices of proposed rulemakings on the designation of nonbank financial institutions and financial market utilities.
+
+[SECTION]
+
+Additionally, the FSOC currently is working on preparing the inaugural FSOC annual financial stability report, scheduled to be publicly released later this year. As required by the statute, the annual report will discuss major financial and regulatory developments, potential risks to the financial system, and recommendations to mitigate potential risks.
+
+[SECTION]
+
+Implementation of Regulatory Reform at the Federal Reserve
+       In addition to the Federal Reserve's role as a member of the FSOC, the Dodd-Frank Act gives the Federal Reserve other new important responsibilities. These responsibilities include supervising nonbank financial firms that are designated as systemically important by the Council, supervising thrift holding companies, and developing enhanced prudential standards--including those for capital, liquidity, stress tests, single-counterparty credit limits, and living will requirements--for large bank holding companies and systemically important nonbank financial firms designated by the Council.
+
+[SECTION]
+
+The Federal Reserve is working assiduously to meet its obligations under the Dodd-Frank Act. The act requires the Federal Reserve to complete more than 50 rulemakings and sets of formal guidelines as well as numerous reports and studies. We also have been assigned formal responsibilities to consult and collaborate with other agencies on a substantial number of additional rules, provisions, and studies. In order to meet our obligations in a timely manner, we are drawing on expertise and resources from across the Federal Reserve System in the areas of banking supervision, economic research, financial markets, consumer protection, payment systems, and legal analysis.
+
+[SECTION]
+
+Members of the Federal Reserve's staff are working closely with the FSOC and the other regulators to strengthen systemic oversight. We are assisting the Council in the development of its analytical framework and procedures under which it will identify systemically important nonbank firms and financial market utilities and its systemic risk monitoring and evaluation processes. We are contributing to numerous studies and rulemakings. We are helping the new Office of Financial Research to develop potential data reporting standards to support the duty of the FSOC to monitor and evaluate systemic risk factors. We also are meeting regularly with staff of the other FSOC member agencies to discuss emerging risks to financial institutions and markets.
+
+[SECTION]
+
+The Federal Reserve has made some internal changes to better carry out its responsibilities. Prior to the enactment of the Dodd-Frank Act, we had begun to reorient our supervisory structure to strengthen supervision of the largest, most complex financial firms, through the creation of the Large Institution Supervision Coordinating Committee, a centralized, multidisciplinary body. Relative to previous practices, this body makes greater use of horizontal, or cross-firm, evaluations of the practices and portfolios of firms. It relies more on additional and improved quantitative methods for evaluating the performance of firms, and it employs the broad range of skills of the Federal Reserve staff more efficiently. In addition, we have reorganized to more effectively coordinate and integrate policy development for and supervision of systemically important financial market utilities. As the act recognizes, supervision should take into account the overall financial stability of the United States, in addition to the safety and soundness of each individual firm. Our revised internal organizational structure facilitates our implementation of this macroprudential approach to oversight.
+
+[SECTION]
+
+More recently, we created an Office of Financial Stability Policy and Research at the Federal Reserve Board. This office contributes to the Federal Reserve System's multidisciplinary approach to the supervision of large, complex institutions. It helps identify and analyze potential risks to the broader financial system and the economy stemming from, among other things, potential asset price misalignment, excessive leverage, outsized financial flows, and structural vulnerabilities in financial markets. In addition, the office helps evaluate policies to promote financial stability.
+
+[SECTION]
+
+It is also important that U.S. financial reforms be implemented in coordination with international efforts to establish consistent and complementary standards and to ensure effective oversight of internationally active firms and markets. We continue to work actively with our international counterparts on enhanced prudential standards for large financial institutions, to ensure that efforts to implement the Dodd-Frank Act are well aligned with efforts of the Group of Twenty, the Financial Stability Board, and the Basel Committee on Banking Supervision.
+
+[SECTION]
+
+In closing, the Congress has given the FSOC an important mandate to identify and mitigate systemic risks. The Federal Reserve will work closely with our fellow regulators, the Congress, and the Administration to help the FSOC execute its responsibilities and promote financial stability in the United States.
+
+[SECTION]
+
+The U.S. Secretary of the Treasury serves as the FSOC chairman. Other voting members include the heads of the Office of the Comptroller of the Currency, the Securities and Exchange Commission, the Federal Deposit Insurance Corporation, the Commodity Futures Trading Commission, the Federal Housing Finance Agency, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and an independent insurance expert appointed by the President. The latter two seats are in the process of being filled.
+
+[SECTION]
+
+The five nonvoting seats are represented at present by participants from the Missouri Department of Insurance, Financial Institutions, and Professional Registration; the California Department of Financial Institutions; the North Carolina Department of the Secretary of State, Securities Division; the Federal Insurance Office; and the Office of Financial Research. Return to text
+
+[SECTION]
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1394 (2010), available at www.gpo.gov/fdsys/pkg/PLAW-111publ203/pdf/PLAW-111publ203.pdf (2.2 MB PDF). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

@@ -1,0 +1,157 @@
+Testimony of Chairman Alan Greenspan
+The Financial Services Competition Act of 1997
+Before the Subcommittee on Finance and Hazardous Materials of the Committee on Commerce,
+U.S. House of Representatives
+July 17, 1997
+
+[SECTION]
+
+Mr. Chairman, I appreciate the opportunity to present the views of the Board of Governors on the Financial Services Competition Act of 1997.  The Banking Committee is to be commended for addressing the complex issues associated with financial modernization.  The Committee has taken a major step forward in permitting affiliations of banking, securities, and insurance organizations within an appropriate framework for consolidated oversight.  We believe such affiliations would improve the efficiency and competitiveness of the financial services industry, and result in more choices and better services for consumers.  However, in addressing financial modernization the bill encompasses a large number of far ranging provisions.  The Board has difficulty with the way some of the issues are resolved in the bill before you.  Thus, while reemphasizing our support for much of the general thrust of the bill, I would like today to highlight our major concerns.
+
+[SECTION]
+
+Banking and Commerce
+The need to respond to the effects of technology is one of the major reasons we are here today.  Technology has already eroded many of the previous distinctions between banking and nonbank finance, thereby supporting the desirability, if not the necessity, of permitting the merging of all financial activities.
+
+[SECTION]
+
+It seems clear that the same forces are in the process of blurring the boundaries between financial and nonfinancial businesses.  Most of us are aware of software companies interested in the financial services business, but some financial firms, leveraging off their own internal skills, are also seeking to produce software for third parties.  Shipping companies' tracking software lends itself to payment services.  Manufacturers have financed their customers' purchases for a long time, but now increasingly are using the resultant financial skills to finance noncustomers.  Moreover, many nonbank financial institutions are now profitably engaged in nonfinancial activities.
+
+[SECTION]
+
+Current facts and future trends, in short, are creating market pressures to permit the common ownership of financial and nonfinancial firms.  The Board, in fact, has concluded that it is quite likely that in future years it will be close to impossible to distinguish where one type of activity ends and another begins.  Nonetheless, the Federal Reserve Board also has concluded that it would be wise to move with caution in addressing the removal of the current legal barriers between commerce and banking, since the unrestricted association of banking and commerce would be a profound and surely irreversible structural change in the American economy.
+
+[SECTION]
+
+Were we fully confident of how emerging technologies would affect the evolution of our economic and financial structure, we could presumably develop today the regulations which would foster that evolution.  But we are not, and history suggests we cannot.  We thus run the risk of locking in a set of inappropriate rules that could adversely alter the development of market structures.  Our ability to foresee accurately the future implications of technologies and market developments in banking, as in other industries, has not been particularly impressive.  As Professor Rosenberg of Stanford University has pointed out, 
+". . . mistaken forecasts of future structure litter our financial landscape."  Consider the view of the 1960s that the "cashless society" was imminent.   Nonetheless, the public preference for paper has declined only gradually.  Similarly, just a few years ago conventional wisdom argued that banks were dinosaurs that were becoming extinct.  The reality today is far from it.  Even more recently, it was argued that banks and nonfinancial firms had to merge in order to save the capital-starved banking system.  Today, as you know, virtually all of our banks are very well capitalized.
+
+[SECTION]
+
+All these examples, and more, suggest that if we dramatically change the rules now about banking and commerce under circumstances of great uncertainty about future synergies between finance and nonfinance we may well end up doing more harm than good.  And, as with all rule changes by government, we are likely to find it impossible to correct our errors promptly, if at all.  Modifications of such a fundamental structural rule as the separation of banking and commerce accordingly should proceed at a deliberate pace in order to test the response of markets and technological innovations to the altered rules in the years ahead.
+
+[SECTION]
+
+Excessive delay would doubtless produce inequities.  Expanded financial activities for banking organizations require, and the Banking Committee's Financial Services Competition Act provides, that those firms operating in markets that banks can enter, in turn, be authorized to engage in banking.  However, some securities and insurance firms, as well as some thrifts, already  own--or are owned by--nonfinancial entities.  Continuing the commerce and banking prohibitions would thus require the divestiture or grandfathering of all nonfinancial activities by those organizations that wanted to acquire or establish banks.
+
+[SECTION]
+
+But, the fact is that we do not--and the Board's view is that we need not--have to make today as sweeping a banking and commerce decision as the Competition Act proposes.  That bill would permit both banks and nonfinancial corporations each to originate up to 15 percent of their revenue from the other's activities.  While there is some limit on the original size of each nonfinancial firm acquired by a bank holding company and on the original size of the one bank that a nonfinancial company could purchase, the subsequent growth is only constrained by the 15 percent revenue limit.  This constraint may be more apparent than real, given the ongoing growth and consolidation of the financial services industry.  In our judgment, these baskets are far larger than what is needed either as a controlled experiment or to permit unfettered consolidation with banks of those financial firms that have commercial affiliates.  Moreover, the Banking Committee bill would permit additional bank and commercial affiliations beyond these holding company affiliate baskets and permit some affiliation within the bank or a bank subsidiary.  Any commercial (or financial) activity that had been authorized by the Office of Thrift Supervision for thrifts or by the Federal Reserve Board's regulation for overseas operations of U.S. banks would be permitted to banks in the United States by the Banking Committee bill.  Thus, over and above the basket, U.S. banks could create subsidiaries that invest up to 3 percent of the bank's assets in the equity of OTS-approved commercial enterprises.  In addition, applying the Board's foreign market rule to domestic operations would mean that banks themselves could invest in the equity of individual nonfinancial firms.  The Board's foreign market rule, authorized by statute, was promulgated to assist American banks to achieve a level playing field with their foreign competitors in foreign markets.  We see no compelling need to apply that rule to American banks' domestic operations.  We are also concerned that the grandfather date for savings and loan holding companies continues to shift with the date of enactment of the bill, thereby encouraging an increase in the number of commercial firms that seek to affiliate with insured savings associations before new rules come into effect.
+
+[SECTION]
+
+The Competition Act, in the Board's view, goes well beyond what both commercial banks and nonfinancial firms need to meet the requirements of today, as well as in the foreseeable future.  The Board believes it would be virtually impossible to reverse such a change in the legal framework without major damage to established business relationships.  Thus, any errors from larger-than-needed initial authorizations could result in significant problems.  Moreover, the authorization of commercial activities through banks and their subsidiaries directly extends the subsidy of the safety net over a much wider range of activities, not to mention potentially undermining the safety and soundness of insured banks.
+
+[SECTION]
+
+Operating Subsidiaries
+
+Mr. Chairman, a number of observers have argued that there is no subsidy associated with the federal safety net for depository institutions--deposit insurance, and direct access to the Federal Reserve's discount window and payment system guarantees.  The Board strongly rejects this view.  In saying this, the Board fully agrees that mandated government supervision and regulation impose significant costs on banks, costs which, in many cases, can and should be reduced.  But given that these costs cannot be avoided by a bank, no rational bank manager would ignore the opportunity to take advantage of the lower cost of funds, or equivalently, the lower capital ratio, that access to the safety net demonstrably provides.  While it is true that the safety net does increase the possibility of loss to taxpayers, a far larger public policy concern is that it provides banks with a government-sanctioned competitive advantage over nonbank firms.  In the Board's view, unless Congress explicitly desires to expand access to the safety net and tilt the competitive playing field further, a core component of any prudent financial modernization strategy should be to minimize the chances that safety net subsidies will be expanded into new activities and beyond the confines of insured depository institutions.
+
+[SECTION]
+
+Because the subsidy created by the federal safety net grants access to the "sovereign credit" of the United States, bank creditors are willing to accept a lower risk premium on bank liabilities and capital than otherwise would be the case.  For fully insured deposits this risk premium is reduced essentially to zero.  But other debt instruments also benefit, and the capital ratio demanded by the market is lower. The end result is that banks enjoy a lower total and marginal cost of funding, including lower capital ratios, than would otherwise be required by the market.
+
+[SECTION]
+
+While some benefits of the safety net are always available to banks, it is critical to understand that the value of the subsidy is smallest for very healthy banks during good economic times, and greatest at weak banks during a financial crisis.  What was it worth in the late 1980s and early 1990s for a bank with a troubled loan portfolio to have deposit liabilities guaranteed by the FDIC, to be assured that it could turn illiquid assets to liquid assets at once through the Federal Reserve discount window, and to tell its customers that payment transfers would be settled on a riskless Federal Reserve Bank?  For many, it was worth not basis points but percentage points.  For some, it meant the difference between survival and failure.  In contrast today, when the economy is performing well and the banking industry has just experienced its fifth straight year of record profits, it is perhaps too easy to ignore the value of the safety net and see only its costs.  The Board believes that prudent public policy should take a longer view.
+
+[SECTION]
+
+In the Board's judgment, the bank holding company organizational form has, by the record, proved to be an effective means for limiting the safety net subsidy primarily to banks.  There is clear evidence that market participants understand that regulatory policy is focused on the bank, and thus markets distinguish between the bank and its holding company parent and affiliates.  Given this success, the holding company structure should, in the Board's view, not be abandoned.  Indeed, our strong preference is for the holding company format to be retained for new activities that will under expanded authorities benefit from direct access to the federal safety net.  Thus, we would recommend that the Financial Services Competition Act's provisions that allow expanded activities to be conducted either in a holding company subsidiary or in a direct operating subsidiary of a bank be amended to require that new activities be conducted only in a holding company subsidiary.
+
+[SECTION]
+
+Consolidated Oversight
+The Board supports the provisions of the Banking Committee's Competition Act that continue consolidated oversight of the bank holding company.  In our judgment, it is essential that these provisions be retained and not weakened.  The historical experience in supervising bank holding companies has shown that knowledge of the financial strength and risks inherent in a consolidated holding company can be critical to protecting an insured subsidiary bank and resolving problems once they arise.  Examples are easy to recall:  BCCI, Continental Illinois, Barings PLC, thrifts, and Texas banks all exhibited problems that spread quickly among their affiliates, or required a consolidated approach to resolve the problems at least cost and disruption to the overall financial system.
+
+[SECTION]
+
+Moreover, continued gains in technology and in innovative risk management techniques permit organizations of all kinds to manage and control their activities on an increasingly centralized basis, with less attention paid to the individual legal entities that make up the organization.  In that environment, it seems to the Board that oversight on a consolidated basis of an organization's broad-based activities has become more crucial in recent years, not less.  Bank supervisors throughout the world recognize this point, and have adopted consolidated oversight as a fundamental principle.  The Congress also recognized the necessity of consolidated oversight for the U.S. banking system, by requiring, as a condition for a foreign bank's entry into this country, that the bank be subject to consolidated home country supervision.  What is necessary for foreign banks entering the United States is surely just as necessary for U.S. banks and the U.S. banking system.
+
+[SECTION]
+
+Crisis Management and Systemic Risk.
+Mr. Chairman, we believe that the Federal Reserve needs to continue to have consolidated oversight authority, especially for organizations in which the bank is large enough that its failure could cause disruptions in financial markets sufficient to affect economic activity.  Critically, the central bank has the responsibility to forestall financial crises (including systemic disturbances in the banking system) and to manage such crises once they occur.
+
+[SECTION]
+
+Supervisory and regulatory responsibilities afford the Federal Reserve both the insight and the authority to use crisis management techniques that are less blunt than open market operations, and more precisely calibrated to the problem at hand.  Such tools not only improve our ability to manage crises but, more importantly, help us to avoid them.   Indeed, we measure our degree of success in this area not by the number of crises we assist in containing, but rather in the number of crises which could have erupted but did not.  The use of crises management techniques requires both the authority that comes with supervision and regulation and the understanding of the linkages among supervision and regulation, prudential standards, risk-taking, relationships among banks and other financial market participants, and macroeconomic stability.  The objectives of the central bank in crisis management are to contain financial losses and prevent a contagious loss of confidence so that difficulties at one institution do not spread more widely to others.  The focus of its concern is not to avoid the failure of entities that have made poor decisions or have had bad luck, but rather to see that such failures--or threats of failures--do not have broad and serious impacts on financial markets and the national, and indeed the global, economy.
+
+[SECTION]
+
+The Federal Reserve's ability to respond expeditiously to any particular incident does not necessitate comprehensive information on each banking institution.  But it does require that the Federal Reserve have in-depth knowledge of how institutions of various sizes and other characteristics are likely to behave, and what resources are available to them in the event of severe financial stress.  We currently gain the necessary insight by having a broad sample of banks subject to our supervision and through our authority over bank holding companies.
+
+[SECTION]
+
+Payment and Settlement Systems. 
+A key element of avoiding systemic concerns is management of the payment system.  Virtually all of the U.S. dollar transactions made worldwide--for securities transfers, foreign exchange and other international capital flows, and for payment for goods and services--are settled in the United States banking system.  A small number of transactions that comprise the vast proportion of the total value of transactions are transferred over large-dollar payment systems.
+
+[SECTION]
+
+A critical component of these systems is the Federal Reserve's wire transfer network, Fedwire.  Fedwire and a very small number of private clearinghouses are arguably the linchpin of the international system of payments that relies on the dollar as the major international currency for trade and finance.  Disruptions and disturbances in the U.S. payment system thus can easily have global implications.
+
+[SECTION]
+
+In all of these payment and settlement systems, commercial banks play a central role, both as participants and as providers of credit to nonbank participants.  Day-in and day-out, the settlement of payment obligations and securities trades requires significant amounts of bank credit.  In periods of stress, such credit demands surge just at the time when some banks are least willing or able to meet them.  These demands, if unmet, could produce gridlock in payment and settlement systems, exposing financial markets to dangerous stress.  Indeed, it is in the cauldron of the payment and settlement systems, where decisions involving large sums must be made quickly, that all of the risks and uncertainties associated with problems at a single participant become focused as participants seek to protect themselves from uncertainty.  Better solvent than sorry, they might well decide, and refuse to honor a payment request.  Observing that, others might follow suit.  And that is how crises often begin.
+
+[SECTION]
+
+Limiting, if not avoiding, such disruptions and ensuring the continued operation of the payment system requires broad and indepth knowledge of banking and markets, as well as detailed knowledge and authority with respect to the payment and settlement arrangements and their linkages to banking operations.  This type of insight and authority--as well as knowledge about the behavior of key participants--cannot be created on an ad hoc basis.  It requires broad and sustained involvement in both the payment infrastructure and the operation of the banking system.  Supervisory authority over the major bank participants is a necessary element.
+
+[SECTION]
+
+Changing Role of Consolidated Oversight.
+The modernizing of our financial system--especially the combining of banks, securities firms, and insurance companies, as well as possibly banking and commerce--requires that the role of consolidated oversight also be reviewed.
+
+[SECTION]
+
+The necessity to understand and review centralized risk management and control mechanisms, and similarly to review intra-organizational fund transfers involving the insured depositories, does not require bank-like supervision of nonbank affiliates.  The Competition Act appropriately recognizes this.  It would require that the banking agencies rely to the fullest extent possible on examination reports and other information collected by supervisors of other regulated entities.  In addition, the bill would require the banking agencies to defer to the Securities and Exchange Commission in interpretations and enforcement of the federal securities laws and to the state insurance commissioners and to state insurance laws.  The bill continues to allow the Federal Reserve Board to establish capital adequacy guidelines at the holding company level.  However, the bill sets important limits on these holding company guidelines.  For example, the consolidated supervisor may not impose capital requirements on any nonbank subsidiary that is in compliance with applicable capital requirements of another federal or state agency.  In addition, holding company capital guidelines must take full account of the capital position of these regulated nonbank subsidiaries when establishing consolidated capital guidelines, and full account of capital levels in unregulated subsidiaries when those levels are consistent with industry norms.  The bill requires the Federal Reserve Board to address the use of double leverage (that is, the use of debt at the holding company to fund equity and subordinated debt at a regulated institution), but prohibits the establishment of a capital ratio that is not risk weighted.  In addition, the bill requires that the consolidated supervisor consult with other supervisors, including in particular, supervisors of nonbanking entities, prior to establishing capital guidelines for holding companies.
+
+[SECTION]
+
+All of these--the capital and examination rules--are extremely important provisions both for existing bank holding companies and for securities firms and insurance companies that wish to affiliate with banks.  Such provisions would greatly enhance the "two-way street" by eliminating unnecessary burden and red tape.
+
+[SECTION]
+
+Mr. Chairman, the Board believes that bank holding companies need to continue to have consolidated oversight in order both to protect the safety net and to limit the transference of the safety net subsidy.  We believe that the Federal Reserve must not have its ability impaired to monitor banking organizations in order to respond effectively to systemic crises, to manage the risk in the payment system, and to ensure the safety and stability of our financial system.
+
+[SECTION]
+
+Conclusion
+Mr. Chairman, to summarize:
+
+[SECTION]
+
+The Board supports the overall thrust of the Banking Committee bill that is now being reviewed by this Committee.  We strongly support the bill's approach to affiliations of banking, securities, and insurance organizations.
+
+[SECTION]
+
+We are, nonetheless, concerned that the bill goes unnecessarily far at this time in mixing commerce and banking.  There is no reason not to proceed in incremental steps; first to integrate banking and finance with the minor and quite limited combinations of banking and commerce that this requires, and only later, as these developments mature, assess the desirability of fully dismantling the barriers between banking and commerce.
+
+[SECTION]
+
+In addition, we think it unwise to permit banks to conduct new activities in their own subsidiaries because of the extension of the safety net subsidy directly to those subsidiaries.  We have concluded that the holding company framework provides the best insulation against the transference of that subsidy beyond the bank, and creates the most level playing field for affiliations of banks and other financial firms.
+
+[SECTION]
+
+Consolidated oversight of bank holding companies is critical both to protect the safety net and to minimize its transference.  We believe that the central bank's role in the prevention and containment of financial crises and as guarantor of the payment system requires that we continue to have consolidated oversight responsibility for most holding companies.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: July 17, 1997 10:00 AM

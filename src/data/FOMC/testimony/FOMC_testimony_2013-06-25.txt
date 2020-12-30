@@ -1,0 +1,279 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 25, 2013
+
+[SECTION]
+
+Todd Vermilyea, Senior Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Johnson, Ranking Member Crapo, and other members of the committee, thank you for the opportunity to testify at today's hearing. First, I will discuss recent student loan market trends and the portfolio performance of both government-guaranteed and private student loans. I will then address the Federal Reserve's approach to supervising financial institutions engaged in student lending and close by briefly discussing the implications of rising student debt levels and default rates on other forms of lending.
+
+[SECTION]
+
+Background
+       The Federal Reserve has supervisory and regulatory authority for bank holding companies, state-chartered banks that are members of the Federal Reserve System (state member banks), savings and loan holding companies, and certain other financial institutions and activities. We work with other federal and state supervisory authorities to ensure the safety and soundness of the banking industry and foster the stability of the financial system.
+
+[SECTION]
+
+Student Loan Market
+       The student loan market has increased significantly over the past several years, with outstanding student loan debt almost doubling since 2007, from about $550 billion to over $1 trillion today. Balances of student loan debt are now greater than any other consumer loan product with the exception of residential mortgages, and it is the only form of household debt that continued to rise during the financial crisis. Outstanding education loan debt is now greater than credit card debt, home equity lines of credit, or auto debt on consumers' balance sheets.
+
+[SECTION]
+
+Since 2004, both the number of student loan borrowers, and the average balance per borrower, has steadily increased, according to data compiled by the Federal Reserve Bank of New York. In 2004, the share of 25-year-olds with student debt was just over 25 percent; today, that share has grown to more than 40 percent. At the end of 2012, the number of student loan borrowers totaled almost 40 million and the average balance per borrower was slightly less than $25,000. In 2004, the average balance was just over $15,000. In 2012, roughly 40 percent of all borrowers had balances of less than $10,000; almost 30 percent had balances between $10,000 and $25,000; and fewer than 4 percent had balances greater than $100,000.
+
+[SECTION]
+
+This sharp increase in student loan borrowing likely reflects a number of factors. Demand for student loans has risen in line with the increasing cost of higher education; increasing enrollment in post-secondary education; a relative decline in household wealth brought about by the financial crisis and the ensuing recession; and more favorable terms on government-guaranteed loans.
+
+[SECTION]
+
+The rising cost of higher education and the decline in wealth coincided with a difficult job market, which may have encouraged more people to enroll in higher education, or stay in school to pursue advanced degrees immediately after graduation. Notably, enrollment in degree-granting institutions increased at an annual rate of about 5 percent between 2007 and 2010, compared with a historical increase of 3 percent since 1970. It is also important to note that underwriting standards and terms of federal student loans have been favorable relative to other borrowing alternatives over the past few years. As a result, households likely substituted student loans for other sources of education financing, such as home equity loans, credit card debt, or savings. All of these factors have contributed to the rapid rise in student loan debt levels and seem likely to have been influenced by the financial crisis.
+
+[SECTION]
+
+The student loan market is bifurcated into government-guaranteed loans and private student loans that are not guaranteed.1 Government-guaranteed loans represent approximately 85 percent of total student debt outstanding, and private loans represent just 15 percent. While federal student loan originations have continued to increase each year, private loan originations peaked in 2008 at roughly $25 billion and have since dropped sharply to just over $8 billion. New government-guaranteed student loan originations topped $105 billion in 2012, comprising 93 percent of all new loans.
+
+[SECTION]
+
+Terms and conditions of government-guaranteed loans are generally set by a federal formula established by the Congress. Although a credit check is not required for most types of government-guaranteed loans, borrowers may be turned down if they are delinquent on an existing student loan. Private loan standards are set by the lending institutions and generally require full underwriting, including a credit check. Private loans also increasingly require a guarantor. Most government-guaranteed and private student loans provide the borrower with a six-month grace period after leaving school before payments begin.
+
+[SECTION]
+
+Performance of Student Loan Portfolios
+       In line with the rapid growth in student loans outstanding, the number of student loans--private and guaranteed--that are currently delinquent has risen sharply as well, standing at 11.7 percent of all outstanding student loans in 2012.2 However, some 44 percent of student loan balances are not yet in their repayment periods, and if these loans are excluded from the data pool, the effective delinquency rate of loans in repayment roughly doubles to 21 percent. By comparison, in 2004, only 6.3 percent of student loans were in delinquency.
+
+[SECTION]
+
+According to the Consumer Financial Protection Bureau (CFPB), of the $1 trillion in total outstanding student loan debt, $150 billion consists of private student loans. It is important to note that the private student loan market includes loans made not only by banks, but also loans made by credit unions, state agencies, and schools themselves. The rate of delinquency among these loans is roughly 5 percent, according to the CFPB, less than half of the delinquency rate for all outstanding loans.
+
+[SECTION]
+
+There are likely a number of factors underlying the difference between the performance of the government-guaranteed and private student loan portfolios. For instance, underwriting standards in the private student loan market have tightened considerably since the financial crisis. Almost 90 percent of these loans now require a guarantor or cosigner, usually a parent or legal guardian.
+
+[SECTION]
+
+Federal Reserve Supervision of Student Loan Market
+       The Federal Reserve has no direct role in setting the terms of, or supervising, the student loan programs. The Department of Education is responsible for administering the various federal student loan programs, which, as noted earlier, comprise about 85 percent of the student loan market. The Federal Reserve does, however, have a window into the student loan market through our supervisory role over some of the banking organizations that participate in the market. We share this role with the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
+
+[SECTION]
+
+Federal Reserve supervision of participants in the student loan market is similar to our supervision of other retail credit markets and products. Institutions subject to Federal Reserve supervision--including those with significant student loan portfolios--are subject to on-site examinations that evaluate the institution's risk-management practices, including the institution's adherence to sound underwriting standards, timely recognition of loan deterioration, and appropriate loan loss provisioning, as well as (to a limited degree) compliance with consumer protection standards.
+
+[SECTION]
+
+In addition to our work at specific institutions, the Federal Reserve also takes a horizontal view of the student loan market across multiple firms during the Comprehensive Capital Analysis and Review (CCAR) exercise, an important supervisory tool that the Federal Reserve deploys, in part, to enhance financial stability by assessing all exposures on bank balance sheets. CCAR was established to ensure that each of the largest U.S. bank holding companies: (1) has rigorous, forward-looking capital planning processes that effectively account for the unique risks of the firm; and (2) maintains sufficient capital to continue operations throughout times of economic and financial stress. The CCAR exercise collects data on banks' student loan portfolios, delineated by loan type (federal or private), age, FICO Score, delinquency status, and loan purpose (graduate or undergraduate).
+
+[SECTION]
+
+The banks submitting student loan data for CCAR held just over $63 billion in both government-guaranteed and private student loans at year-end 2012, of which $23.6 billion represented outstanding private student loans.3 At the end of 2012, CCAR banks reported that just over 4 percent of private student loan balances were in delinquency, but more than 21 percent of government-guaranteed student loan balances were delinquent. Nevertheless, the delinquency rate for government-guaranteed student loans has shown improvement over recent quarters, dropping from a high of more than 23 percent.  Likewise, the delinquency rate for private loans at CCAR firms trended upward through mid-2009 but has since moved down, which is comparable to the performance of the overall private student loan market.4
+
+[SECTION]
+
+The Federal Reserve and the other federal banking agencies that are members of the Federal Financial Institutions Examination Council (FFIEC) have jointly developed guidance outlining loan modification procedures: the Uniform Retail Credit Classification and Account Management Policy (SR 00-08). This guidance discusses how banks should engage in extensions, deferrals, renewals, and rewrites of closed-end retail loans, which include private student loans. According to that guidance, any loan restructuring should be based on renewed willingness and ability to repay, and be consistent with an institution's sound internal policies.
+
+[SECTION]
+
+In keeping with this guidance, the Federal Reserve encourages its regulated institutions to work constructively with borrowers who have a legitimate claim of hardship. The aim of such work should be the development of sustainable repayment plans while also preserving the safety and soundness of the lending institutions and maintaining compliance with supervisory guidance and accounting regulations. When conducted in a prudent manner, modifications of problem loans, including student loans, are generally in the best interest of both the institution and the borrower, and can lead to better loan performance, increased recoveries, and reduced credit risk. Moreover, Federal Reserve examiners will not criticize institutions that engage in prudent loan modifications, but rather will view such modifications as a positive action when they mitigate credit risk. As supervisors, our goal is to make sure that lenders work with borrowers having temporary difficulties in a way that does not contradict principles of sound bank risk management, including reflecting the true credit quality and delinquency status of the loan portfolios.
+
+[SECTION]
+
+Implications for Other Forms of Lending
+       The benefits of higher education are widely recognized and have been supported by public policy initiatives for some time through a variety of state and federal programs. The fact that annual median earnings are significantly higher for those with higher levels of education is well documented.
+
+[SECTION]
+
+However, post-secondary education is becoming increasingly expensive. With continued increases in student debt, and high levels of unemployment, recent graduates are finding it more difficult to repay their obligations, resulting in elevated delinquency and charge-off rates.
+
+[SECTION]
+
+Younger borrowers with high student loan balances have reduced their other debt obligations, including credit card, auto, and mortgage debt. This reduction likely reflects in part a decline in demand due to the burden of servicing existing student loans as well as the possibility that access to credit might be curtailed due to high student debt. Borrowers who are delinquent on student debt may face difficulty obtaining other forms of credit. Further, student loan delinquency is also associated with higher delinquency rates on other types of debt. More than 15 percent of delinquent student loan borrowers also have delinquent auto loans, 35 percent have delinquent credit card debt, and just over 25 percent are delinquent on mortgage payments.
+
+[SECTION]
+
+Conclusion
+       Higher education plays an important role in improving the skill level of American workers, especially in the face of rising gaps in income and employment across workers with varying education levels. Due to increasing enrollment and the rising cost of higher education, student loans play an important role in financing higher education. The rapidly increasing burden of student debt underscores the importance of the topic of today's hearing. This concludes my prepared remarks, and I would be happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+In July 2010, the federal government stopped guaranteeing student loans made through private lenders. Return to text
+
+[SECTION]
+
+Delinquency status is defined as more than 90 days past due. Return to text
+
+[SECTION]
+
+Of the 19 banks participating in CCAR, seven submitted student loan data. Sallie Mae, the largest holder of private student loan debt (with $37 billion), is not included in the CCAR data set. Return to text
+
+[SECTION]
+
+For all private loans, the delinquency rate increased from 2005 to 2009, and started to decrease during 2010, according to data from Moody's. Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

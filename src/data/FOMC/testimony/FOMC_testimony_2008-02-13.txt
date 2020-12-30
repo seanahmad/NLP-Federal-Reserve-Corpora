@@ -1,0 +1,381 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+February 13, 2008
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Chairman Frank, Ranking Member Bachus, and members of the Committee, I want to thank you for this opportunity to discuss the Community Reinvestment Act (CRA).  Enacted in 1977, the CRA states that federally insured banks and thrifts have an obligation to help meet the credit needs of the communities in which they are chartered, including low- and moderate-income neighborhoods, consistent with safe and sound operations.  The act also directs the federal bank and thrift regulatory agencies, including the Federal Reserve, to implement the CRA through regulations, and to examine banks and thrifts to determine whether they meet their CRA obligations.
+
+[SECTION]
+
+I serve as Director of the Federal Reserve Board's Division of Consumer and Community Affairs.  The division administers the Board's responsibilities for rulewriting and examinations for federal laws involving consumer protection in financial services, including the CRA.  We oversee and provide policy direction for consumer compliance and CRA examinations of state member banks conducted by Federal Reserve examiners.  Through our national Community Affairs Program, we share knowledge about successful approaches to community development with bankers and other CRA stakeholders.  We also analyze and report to the Board on CRA issues that arise in connection with certain applications by financial entities to expand their businesses.
+
+[SECTION]
+
+In my remarks today, I will provide some historical context about the CRA, discuss the Federal Reserve's CRA examination program, describe how CRA is considered when evaluating applications, and outline some key challenges we face in ensuring that the CRA remains effective and relevant.Historical Context of the CRAConcerns about the deteriorating condition of America's cities, particularly lower-income neighborhoods, led to the enactment of the Community Reinvestment Act in 1977.  Many advocates for the passage of this new law believed that this deterioration was fueled by, among other things, limited credit availability.  Some blamed the lack of credit availability on mainstream depository institutions, and charged that they were willing to accept insured deposits from households and small businesses in lower-income neighborhoods but unwilling to lend or invest in those same neighborhoods despite the presence of creditworthy consumers.
+
+[SECTION]
+
+A number of factors, including an undeveloped secondary mortgage market, the lack of a comprehensive national credit reporting system, more costly credit evaluation methods, and unlawful redlining were all put forward to explain why credit to lower-income neighborhoods was limited at the time of the CRA's passage.  At the time, state and federal rules prohibited interstate branching and acquisitions, and even intrastate branching in some cases.  These factors reduced competition and the ability of lenders to diversify geographic risk and, taken together, contributed to the concern that banking institutions were not adequately serving the credit needs of some residents of their communities.
+
+[SECTION]
+
+In passing the CRA, Congress reaffirmed the long-standing principle that insured depository institutions must serve "the convenience and needs" of the communities in which they are chartered to do business, which included meeting their credit needs.  The Bank Holding Company Act of 1956 already required the Federal Reserve Board, when reaching decisions on proposed acquisitions by banks or bank holding companies, to evaluate how well the institutions involved were meeting community needs, consistent with the requirements of safety and soundness.  Some argued that this CRA obligation was a quid pro quo for privileges such as the protection afforded by federal deposit insurance and access to the Federal Reserve's discount window.
+
+[SECTION]
+
+The CRA is actually one of several laws intended to reduce credit-related discrimination, expand access to credit, and shed light on lending activity.  The CRA itself focuses on the provision of credit to low- and moderate-income communities.  On the other hand, the Equal Credit Opportunity Act (1974) and the Fair Housing Act (1968) explicitly prohibit discrimination on the bases of race, sex, or other personal characteristics.  The Home Mortgage Disclosure Act (1975), which requires the disclosure of mortgage lending and application data, was enacted to increase transparency and to support public and private investment activity.
+
+[SECTION]
+
+The debate surrounding the passage of the CRA was contentious, with critics charging that the law would distort credit markets, create unnecessary regulatory burden, lead to unsound lending, and cause the governmental agencies charged with implementing the law to allocate credit.  Partly in response to these concerns, the act adopted by Congress included little prescriptive detail.  Instead, the CRA simply requires the Federal Reserve and the other federal financial supervisory agencies:
+
+[SECTION]
+
+The law gives the agencies considerable discretion and flexibility to fashion programs and procedures to carry out the purposes of the law, to issue implementing regulations that include measures of performance, and to modify those regulations in response to changing markets.  This flexibility has contributed to CRA's relevance and adaptability through times of rapid economic and financial change, and widely differing economic circumstances among neighborhoods.
+
+[SECTION]
+
+CRA Regulations and ExaminationsCRA examinations have been at the core of our efforts to encourage state member banks to help meet the credit needs of their communities since the first set of CRA regulations was adopted in 1978.  We have adjusted the CRA examination process over the years on our own initiative and in response to statutory changes, some of which have been significant.
+
+[SECTION]
+
+The 1978 CRA regulations focused CRA examinations on factors related to the process used by institutions to determine the credit needs of their community and to their responses to those needs.  The evaluation of an institution's performance was based on the application of twelve assessment factors, including the ascertainment of community credit needs, marketing and the types of credit offered, the geographic distribution of loans, the record of opening and closing branches and providing services, participation in local community development projects, and the financial and legal capability of the institution.  To avoid allocating credit, and to allow for creativity by institutions in meeting the varying credit needs of their localities, these regulations did not require specific products to be offered or attempt to prescribe any particular required level of lending.  Further, all covered institutions were subject to the same set of rules and assessment factors, without differentiating based on size or location.
+
+[SECTION]
+
+Until the passage of the Financial Institutions Reform, Recovery and Enforcement Act (FIRREA) in 1989, CRA examinations culminated in a confidential examination report and rating that was provided only to the bank or thrift.  FIRREA amended the CRA to require the agencies to publicly issue CRA ratings and written performance evaluations describing institutions' CRA performance using facts and data to support the agencies' conclusions.  This requirement makes CRA examinations unique among other supervisory activities, which are confidential matters.  In the absense of any statutory authority for the agencies to address poor CRA performance through enforcement actions, public disclosure of CRA ratings and evaluations may well serve to motivate an institution to improve a weak CRA record, or encourage an institution to maintain an otherwise favorable record.
+
+[SECTION]
+
+Also in FIRREA, Congress amended the CRA to require the current four-tiered CRA examination rating system with descriptive performance levels of Outstanding, Satisfactory, Needs to Improve, or Substantial Noncompliance in place of the five-tiered system in use by the agencies at the time.  In response to these statutory changes, the agencies amended the CRA regulations and examination procedures accordingly to prescribe the method for assigning an institution's rating, and preparing and issuing public evaluations.  Each rating encompasses a wide range of potential performance outcomes.  For state member banks evaluated by the Federal Reserve over the past six years, 15.8 percent received an Outstanding rating, 83.7 percent earned a Satisfactory rating, and .5 percent were assigned either Needs to Improve or Substantial Noncompliance CRA ratings.
+
+[SECTION]
+
+The CRA regulations were substantially revised again in 1995, in response to a directive to the agencies from President Clinton to review and revise the CRA regulations to make them more performance-based, and to make examinations more consistent, clarify performance standards, and reduce cost and compliance burden.  This directive addressed criticisms that the regulations, and the agencies' implementation of them through the examination process, were too process-oriented, burdensome, and not sufficiently focused on actual results.  The agencies also changed the CRA examination process to incorporate these revisions.
+
+[SECTION]
+
+Examination ApproachesSince 1995, the agencies' CRA regulations have tailored the examination approach to the institution's size or its business operations.  Currently, for depository institutions with assets greater than $1.061 billion1 CRA performance is evaluated based on a lending test, an investment test, and a service test.  Under the lending test, an institution's lending performance is evaluated on both quantitative and qualitative factors, and the outcome is generally weighted to count for 50 percent of the institution's overall CRA rating.  An institution with a Needs to Improve or Substantial Noncompliance rating on the lending test cannot be assigned an overall passing grade for CRA.
+
+[SECTION]
+
+Under the investment and service tests, investments benefiting low- and moderate-income individuals and neighborhoods, or distressed or underserved rural areas are assessed, and services to the entire community, including low- and moderate-income individuals and neighborhoods, are reviewed.  An institution's performance in making investments and providing services each accounts for 25 percent of the institution's overall rating.  Examiners also weigh the innovativeness of the institution's community development lending, investment, and service programs and activities.
+
+[SECTION]
+
+Institutions with assets between $265 million and $1.061 billion are designated as "intermediate small institutions" and are evaluated on their record of lending in low- and moderate-income areas and to lower-income people in the institutions' assessment areas.  A community development test is also included in the review of these institutions.  This test encourages institutions to engage in a range of community development lending, investment, and services but provides them flexibility to target their resources where they will produce the most community benefit.  The designation of "intermediate small institutions" was the product of a regulatory change that followed from a 2002 interagency review of the effectiveness of the 1995 regulatory changes.
+
+[SECTION]
+
+Currently, institutions with assets less than $265 million are evaluated primarily on their lending performance in their communities, including low- and moderate-income areas and populations.  Given their more limited capacity and resources, small institutions are not expected to engage in more complex community development activities.
+
+[SECTION]
+
+The regulations also provide a different evaluation method for institutions designated as "wholesale" or "limited purpose."  This examination method focuses on evaluating an institution's community development lending, services, and investments.  In addition, any institution can opt to develop a CRA "strategic plan" and be evaluated under that plan, if it is approved.
+
+[SECTION]
+
+During the CRA examination, examiners assess an institution's performance within the context of all relevant factors, such as its business strategy, capacity and constraints, the overall economic conditions and credit needs in its assessment area2, and the availability of community development activities appropriate to the institution.  This performance context recognizes that while insured depository institutions have an affirmative obligation to meet the credit needs of the communities in which they are chartered, they must engage only in activities that are safe and sound.
+
+[SECTION]
+
+Public InvolvementTo ensure a broad and balanced CRA assessment, examiners routinely conduct interviews with local business people, government officials, housing and consumer advocates, realtors, trade association representatives, and many others.  The purpose of these interviews is to obtain information about, among other things, general credit needs of the community, the availability or the lack of availability of credit, and how different institutions respond to those credit needs.  The comments of these individuals are factored into the examiners' CRA rating.
+
+[SECTION]
+
+The community also has other opportunities to participate in the CRA evaluation process.  The public can offer comments on an institution's CRA performance and those comments are publicly available.  Examiners review the institution's public comment file and take comments into account when evaluating an institution's overall CRA performance.  To assist the public, and to encourage public comments, the agencies inform the public every calendar quarter of upcoming CRA examinations.
+
+[SECTION]
+
+Illegal Lending DiscriminationUnder the CRA regulations, the Federal Reserve's evaluation of a bank's CRA performance takes into account evidence of illegal lending discrimination or other illegal credit practices.3  Federal Reserve examiners conduct a fair lending review concurrently with, or close in time to each CRA evaluation, and the findings from that review are factored into the CRA evaluation.
+
+[SECTION]
+
+The public CRA performance evaluation summarizes a bank's record of complying with the fair lending laws, and states whether violations were found and, if so, whether they negatively affected the bank's overall CRA rating.  Pursuant to the CRA regulations, various factors relating to the violations will be considered when determining the bank's assigned CRA rating, including the nature and extent of discriminatory practices, the policies and procedures in place to prevent such practices, and corrective action taken by the bank.  A finding of discrimination could result, for example, in a downgrade of the rating otherwise earned to either Needs to Improve or Substantial Noncompliance, or from Outstanding to Satisfactory.  However, if the discrimination was isolated, or occurred despite the existence of generally effective internal controls to prevent such practices, the existence of the violation may be reported in the public CRA performance evaluation without actually lowering the bank's CRA rating.  This reflects the fact that each CRA rating category encompasses a range of conduct and performance.  An inadvertent or isolated violation may not be sufficient to move the bank's overall performance assessment out of that range and into a lower rating category.
+
+[SECTION]
+
+ImplementationOne of the implementation issues faced by the agencies in the examination process has been addressing questions from examiners and the industry alike about the specific dollar level of lending or investments that an institution needs to qualify for a particular CRA rating.  The agencies have not provided that level of specificity for several reasons.  First, introducing specific quantitative expectations into the CRA evaluation would constitute credit allocation, which is not a part of the statute.  Second, any prior attempts by the agencies to introduce ratios, percentages, or market share comparisons into the CRA evaluation process have been met with strong opposition from the industry and consumer advocates alike about whether to stipulate such a benchmark and, if so, the appropriate figure,4 and widely divergent views from covered institutions of different sizes operating in different markets.  Third, specifying numerical targets could serve as a strong disincentive by an institution to do more, even when the institution has the capacity.  Fourth, numerical targets could be contrary to the safe and sound operation of the institution.  Instead, the agencies have historically evaluated each institution's record in the context of its individual circumstances, and the circumstances of the community it serves.
+
+[SECTION]
+
+The frequency of CRA examinations is determined by, and in some cases limited by, an institution's size and prior CRA rating.  The Federal Reserve conducts CRA examinations of state member banks with assets greater than $250 million and favorable ratings on a two-year cycle; a one-year cycle applies if the rating is less than satisfactory.  By statute, the examination cycle is significantly longer for banks with assets less than $250 million and ratings of Satisfactory or Outstanding.  Under the CRA, the agencies are prohibited from examining these entities for CRA purposes any more frequently than every four or five years if the bank is rated Satisfactory or Outstanding, respectively, for CRA.  Congress added this limitation to the statute as part of the Gramm-Leach-Bliley Act in 1999 as a way to reduce regulatory burden.  We may, however, examine these banks on shorter cycles if the rating is below satisfactory, and under other very narrow and limited exceptions.
+
+[SECTION]
+
+The Federal Reserve has had a dedicated consumer compliance and CRA examination program in place since the late 1970s.  The program is staffed with specialized examiners at each Federal Reserve Bank who are responsible for conducting consumer compliance and CRA examinations.  These examiners receive special training in CRA at schools administered by the Board, and in regional or Reserve Bank classes, which sets them apart from examiners solely concerned with safety and soundness matters.
+
+[SECTION]
+
+CRA and the Application ProcessUnder the Bank Merger Act and the Bank Holding Company Act, the Federal Reserve is required to take into account a number of factors when it reviews banking organizations' applications for expansion.  These include the competitive effects of the proposal in the relevant markets; the financial and managerial resources and future prospects of the bank holding company and its banking subsidiaries; and the convenience and needs of the communities affected.  The public is notified when applications are filed and interested parties may comment on any of the statutory factors.  Sometimes members of the public, advocacy organizations, and other interested parties comment in order to "protest" applications when they have concerns that an approval might diminish services to communities.  In fact, the Federal Reserve sometimes receives numerous comment letters on applications by large banking organizations.  Substantive comments are always considered in the evaluation of the proposal.  The Board expects an applicant to have a solid program for meeting its CRA responsibilities in place and working well when it files an application.
+
+[SECTION]
+
+In evaluating a banking application that is the subject of a protest, Federal Reserve staff consider the entire supervisory record of the institutions involved in the proposed transaction.  Applications are evaluated on a case-by-case basis, but in every instance the following information is taken into account, as applicable:
+
+[SECTION]
+
+When information cannot be effectively obtained from written comments, other sources, or supervisory processes, the Federal Reserve holds public meetings to gather input from the community.  Transcripts of all public meetings held since 1998 are available on the Federal Reserve Board's website.
+
+[SECTION]
+
+Since 1988, there have been more than 13,500 applications for the formation, acquisition, or merger of bank holding companies or state-member banks reviewed by the Federal Reserve Board.  Over this time, twenty-five applications have been denied, with eight of those failing to obtain Board approval involving unsatisfactory consumer protection or community reinvestment issues.  The low incidence of denied applications  is attributable to the fact that institutions seeking to expand their operations are typically in sound financial and managerial condition and have good supervisory and CRA records.  Management of applicant institutions has generally recognized the benefit that strong community investment programs offer.  Further, institutions with poor records that have nonetheless submitted an application have generally withdrawn their application after discussions with Board staff.
+
+[SECTION]
+
+The supervisory and public scrutiny that the CRA brings has prompted many banks to create specialized CRA business units within their organizations.  The cases in which the Board has denied an application on CRA grounds have sent an unmistakable message that it is crucial to have a satisfactory record of CRA performance before applying to expand.  Institutions likely understand that the Board will not allow promises of better future performance to compensate for inadequate current performance.
+
+[SECTION]
+
+Current CRA ChallengesThe thirty years since the CRA's enactment have been marked by dramatic changes in the financial services markets.  The banking industry and, more broadly, the financial services industry have undergone a great deal of structural change, some with important implications for the potential effectiveness of the CRA.  Since 1979, consolidations and mergers have decreased the number of banks and thrifts subject to the CRA by nearly 10,470, or 51 percent, with a loss of more than 3,120 institutions since 1995.  At the same time, the surviving larger organizations generally experienced an expanded CRA footprint since they became responsible for CRA activities in the geographies previously covered by the institutions that were acquired.  Even with all the consolidation, the banking industry remains diverse and robust.  Although larger institutions hold a dominant share of the assets of the banking industry, many thousands of small and locally based institutions continue to serve the credit and deposit needs of their communities.  Moreover, the banking industry continues to have room for new participants--approximately 1,870 banking institutions have entered the market since 1995.
+
+[SECTION]
+
+As banks have significantly expanded their role in the broader financial services industry, overall competition in the marketplace has increased, and the lines between banks and nonbanks have blurred.  Unlike in 1977, banks and holding companies now engage in interstate banking and nontraditional lines of business and thus provide consumers more choices from which to obtain financial services.  Nonbanks offer many traditional banking services, including a full range of credit services, while banks have become sources for securities and insurance products.  Further, mortgage banking has evolved into an industry in which a very large number of lenders operate independently from banking organizations and rely on worldwide capital markets for their funding.
+
+[SECTION]
+
+Simultaneously, advances in technology have redefined nearly every aspect of the industry--from loan underwriting to product delivery--with computers changing these and many other processes in ways unimaginable two decades ago.  For example, the Board's August 2007 Report to the Congress on Credit Scoring and Its Effects on the Availability and Affordability of Credit discusses the revolutionary role played by one such technology, credit scoring.  Credit scoring has provided a mechanism for realizing loan-processing and production efficiencies, and engaging in systematic risk-based pricing.  Similarly, the Internet has enabled the collection of deposits and the disbursement of loans from and to virtually any location without bricks-and-mortar premises and allowed many consumers to save time and effort in credit shopping.
+
+[SECTION]
+
+CRA-related activities of covered institutions have benefitted their communities, especially lower-income neighborboods.  For example, overall mortgage loans to borrowers in lower-income neighborhoods by CRA covered institutions in their CRA assessment areas has increased from 13.4 percent of their assessment area mortgage loans in 1994 to 16.2 percent in 2006.  This change suggests a greater focus on CRA-related lending by covered institutions.  Research by Federal Reserve staff has found that such gains in lending appear to have had a tangible beneficial effect on local communities.  The research found that the gains in homeownership rates from 1990 to 2000 were higher for neighborhoods deemed to be lower income under the CRA rules than similar neighborhoods that were not.5  Further, Federal Reserve research suggests that CRA covered institutions have been able to extend such loans profitably and that the performance of such loans is about the same as that of other mortgage loans.6
+
+[SECTION]
+
+But, we still face difficult and complex challenges relating to the CRA's continued relevance.  I'd like to talk about a couple of them today.
+
+[SECTION]
+
+One issue involves the coverage of the law itself.  Because of changes in the industry, and the fact that many financial transactions are now being offered by nonbank service providers and other types of financial entities, some have suggested extending the coverage of the CRA beyond insured banks and thrifts.  On the one hand, insured banks and thrifts institutions remain the primary conduit for many financial services, including the full range of deposit account services, and continue to provide capital to communities.  For example, the Federal Reserve's 2004 Survey of Consumer Finances reveals that 77 percent of all households with at least one financial relationship identified a commercial bank or a thrift institution as their primary source for financial services, with 93 percent of those respondents acquiring services from a local bank or thrift--that is, one that is located within thirty miles of where they live.  Further, the Federal Reserve's 2003 Survey of Small Business Finances indicate that 88 percent of all small businesses identified a commercial bank or thrift as their primary source for financial services, again with 96 percent of those respondents acquiring these services from a local bank or thrift.
+
+[SECTION]
+
+On the other hand, institutions not covered by the CRA have become more active over time in the financial services market.  Federal Reserve-sponsored surveys of small businesses and consumers document the increased use of nondepository institutions for financial services by small businesses and households.  Small businesses surveyed between 1993 and 2003 reported a 14 percent increase in the use of nondepository institutions, and the percentage of households surveyed between 1992 and 2004 that used a nondepository institution nearly doubled to more than 60 percent.
+
+[SECTION]
+
+However, expanding CRA's coverage to nondepository financial institutions would raise several issues.  CRA is based on a fundamental quid pro quo; the insured banks and thrifts covered by the CRA receive special benefits, such as deposit insurance, and as a consequence are expected to help meet the credit needs of their local communities, including the low- and moderate-income areas.  Determining which, if any, additional types of entities to cover and why, and what the scope of their responsibilities should be given that there is no area from which they take deposits, would need to be carefully studied and considered.  A determination would also need to be made about an appropriate rating and public evaluation scheme for any newly covered entities, and how the law would be administered and by whom.  The nexus between deposit-taking in geographic areas and lending in those areas, and the quid pro quo discussed above, have given the statute a strong conceptual underpinning.  It would seem desirable that any expanded coverage have foundations of similar strength.
+
+[SECTION]
+
+The agencies have grappled with the issue of the CRA and nondepositories when presented with the question of how to consider loans, investments and services offered by affiliates within a bank's corporate structure that are not covered by the CRA.  At present, loans, investments, and services provided by a holding company affiliate are considered at the discretion of an affiliated bank as part of its CRA evaluation, even though the affiliate itself has no CRA obligation.  The agencies' regulations prevent a bank from "cherry-picking" only the most favorable affiliate loans or investments.7  However, the CRA does not provide the agencies with the authority to impose a CRA obligation on entities that are not insured depository institutions.  On the other hand, refusing to consider activities done by an affiliate or subsidiary, simply because of the choice of corporate structure, raises its own problems.
+
+[SECTION]
+
+Another issue concerns whether the traditional notion of community needs to be revisited to ensure we have an appropriate CRA evaluation model for addressing how business is conducted today.  The local geographical and deposit-taking rubric of the CRA statute was reflective of, and consistent with, the way financial markets operated in the 1970s.  Local institutions with a brick-and-mortar presence did business in relatively confined geographic areas and generally made loans to local residents and businesses.  Branching, both intrastate or interstate, was generally restricted, limited, or prohibited altogether.  Thus, an institution's assessment area for CRA purposes was relatively easy to identify, and consistent with the community it served.
+
+[SECTION]
+
+Today, many institutions do business regionally and nationally, and use multiple avenues--brokers, mail, Internet transactions, and loan production offices for instance--to make loans in, and sometimes to solicit deposits from many communities without maintaining traditional, full-service deposit-taking branches that trigger CRA responsibilities there.  The implication is that these institutions may have a significant presence in some communities through means other than branches or ATMs but are not required to meet the needs of low- and moderate-income areas in those communities.  Expanding the concept of "community" beyond geographies containing deposit-taking offices and ATMs, however, would require reexamining the CRA's original purpose.
+
+[SECTION]
+
+The agencies have made some adjustments on a case-by-case basis, consistent with their authority, to enable institutions that do a substantial portion of their lending outside their assessment areas through nontraditional channels to have that lending considered for CRA purposes.  For example, an institution's loans to low- and moderate-income persons and small business and small farm loans outside of its assessment area(s) will be considered, but only if it has adequately addressed the needs of borrowers within its assessment area(s).  Moreover, such loans will not compensate for poor lending performance inside the assessment area(s).8  At the present time, the assessment area construct appears adequate to delineate the relevant communities of most institutions.  Limitations of the CRA's current local geographic framework may become more acute as the market continues to evolve more toward the use of nontraditional product delivery methods and the contours of what are considered local communities become blurred.
+
+[SECTION]
+
+ConclusionThe CRA is one of several laws enacted to ensure that consumers and communities have access to financial services and products regardless of location or demographics.  Congress sought to achieve that goal not by imposing rigid, prescriptive rules but by charging regulators to use flexible standards that could change, as needed, over time.  The agencies look to market developments, learn from data and research as they emerge, and solicit input from financial institutions, consumers, and advocates when assessing how their CRA regulations and examination process should evolve.  At the same time, while the agencies have a responsibility to update their CRA regulations and examination procedures as needed, the agencies must respect the boundaries on their authority established by Congress in the language, structure, and purposes of the statute.
+
+[SECTION]
+
+I appreciate this opportunity to appear before the Committee and welcome any questions you may have.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+As part of regulatory changes made in 2005, the agencies adjust the asset size thresholds for small and large institutions annually on the basis of changes in the Consumer Price Index.  The asset sizes in this statement reflect the thresholds in effect for 2008.  See 12 CFR 228.12(u). Return to text
+
+[SECTION]
+
+Under the CRA regulations, a bank must delineate an assessment area or areas that correspond to commonly recognized metropolitan areas or political subdivisions that surround its main office, branches and deposit-taking ATMs in which the bank has originated or purchased a substantial portion of its loans.  See 12 CFR 228.41.  The assumption underlying this approach is that branches, and certain ATMs, serve as the deposit-taking arm of the institution and, therefore, define its community for reinvestment purposes.  The assumption also encompasses one of Congress' findings in passing the CRA--that regulated financial institutions are required by law to demonstrate that their deposit facilities serve the convenience and needs of the communities in which they are chartered to do business. See 12 USC 2901. Return to text
+
+[SECTION]
+
+In addition to findings involving discrimination in violation of the Equal Credit Opportunity Act and the Fair Housing Act, other violations that affect the evaluation of a bank's CRA performance include:  violations of Section 32 of the Home Ownership and Equity Protection Act (HOEPA), which addresses "high cost" mortgages; violations involving kickbacks and unearned fees under Section 8 of the Real Estate Settlement Procedures Act (RESPA); violations of the Truth in Lending Act's (TILA) provisions regarding a consumer's right of rescission; and unfair or deceptive practices in violation of Section 5 of the Federal Trade Commission Act. Return to text
+
+[SECTION]
+
+For example, the agencies' 1993 proposal to revise the CRA regulation introduced a performance test that called for a "reasonable" loan-to-deposit ratio for small institutions with assets below $250 million, and provided a rebuttable presumption that 60 percent would be considered reasonable.  The public comments received on that part of the proposal argued for either higher or lower values, or none at all.  This led the agencies to ultimately conclude that setting a precise number would not only be daunting but, more importantly, counter-productive.  The final regulations contain a loan-to-deposit test for small institutions, but do not specify a numerical proxy for "reasonable."   Return to text
+
+[SECTION]
+
+Robert B. Avery, Paul S. Calem and Glenn B. Canner, "The Effects of the Community Reinvestment Act on Local Communities (88.6 KB PDF)," paper presented at the Federal Reserve System Conference titled "Sustainable Community Development:  What Works, What Doesn't and Why," March 2003. Return to text
+
+[SECTION]
+
+The Performance and Profitability of CRA-Related Lending Report by the Board of Governors of the Federal Reserve System (152 KB PDF), submitted to the Congress pursuant to section 713 of the Gramm-Leach-Bliley Act of 1999, July 17, 2000. Return to text
+
+[SECTION]
+
+Under the CRA regulations, if a bank elects to have the agencies consider loans within a particular lending category made by one or more of the bank's affiliates in a particular assessment area, the bank shall elect to have the Board consider all the loans within that lending category in that particular assessment area made by all of the bank's affiliates.  See 12 CFR 228.22(c) and Federal Financial Institutions Examination Council Interagency Questions and Answers Regarding Community Reinvestment; §___.22(c)(2)(ii) â 1, 66 Federal Register 36634.   Return to text
+
+[SECTION]
+
+See 12 CFR 228.22(c)(2) and Federal Financial Institutions Examination Council Interagency Questions and Answers Regarding Community Reinvestment; § ___.22(b)(2) and (3) â 4. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

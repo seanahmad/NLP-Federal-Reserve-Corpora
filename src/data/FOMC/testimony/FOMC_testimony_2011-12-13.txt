@@ -1,0 +1,255 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+December 13, 2011
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Submitted to the Subcommittee on Housing, Transportation, and Community Development, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Introduction
+       Chairman Menendez, Ranking Member DeMint, and members of the Subcommittee, thank you for inviting me to submit a statement for the record for the hearing entitled "Helping Homeowners Harmed by Foreclosures: Ensuring Accountability and Transparency in Foreclosure Reviews." I welcome the opportunity to update the Subcommittee on the Federal Reserve's progress in implementing the foreclosure review process as well as its progress in implementing the requirements of the enforcement actions that the Board issued in April 2011 against 10 banking organizations. Those actions were taken in response to patterns of misconduct and negligence related to deficient practices in residential mortgage loan servicing and foreclosure processing.1 Those deficiencies were identified by examiners during reviews conducted from November 2010 to January 2011 and represented significant and pervasive failures as well as unsafe and unsound practices at those 10 institutions. Corrective actions and other measures were required by the formal enforcement actions.
+
+[SECTION]
+
+This statement focuses on the most significant requirements of these orders and on the implementation and execution of those requirements. More specifically, this statement addresses the implementation of the requirements in the Federal Reserve's enforcement actions that each banking organization with servicing operations supervised by the Federal Reserve (a) retain one or more independent consultants acceptable to the Federal Reserve to conduct an independent review of residential mortgage foreclosure actions (the "Foreclosure Review") to determine whether borrowers suffered financial injury as a result of errors, misrepresentations, or other deficiencies in the foreclosure process; (b) submit an engagement letter acceptable to the Federal Reserve that describes how each independent consultant retained by the institution and approved by the Federal Reserve will conduct the Foreclosure Review; (c) establish, in connection with the Foreclosure Review, a process for the receipt and review of borrower claims and complaints (the "Borrower Outreach Program"); and (d) submit specific plans acceptable to the Federal Reserve designed to correct practices that resulted in servicer errors and to prevent future abuses in the loan modification and foreclosure processes. This statement also addresses the requirements in the Federal Reserve's enforcement actions that parent holding companies submit plans acceptable to the Federal Reserve to improve holding company oversight of residential mortgage loan servicing and foreclosure processing conducted by bank and nonbank subsidiaries.
+
+[SECTION]
+
+The Foreclosure Review and Independent Consultants
+ The Federal Reserve's enforcement actions require the servicers to retain one or more independent consultants acceptable to the Federal Reserve to conduct the Foreclosure Review to determine whether borrowers suffered financial injury as a result of errors, misrepresentations, or other deficiencies in the foreclosure process. Where financial injury is found, the servicers must compensate the injured borrowers pursuant to a remediation plan that is acceptable to the Federal Reserve.
+
+[SECTION]
+
+In determining the acceptability of consultants, the Federal Reserve closely scrutinized their independence. Importantly, the Federal Reserve reviewed whether the consultant currently provides or had previously provided advice to the banking organization regarding its foreclosure practices, opinions, or actions that may have contributed to the deficiencies identified by examiners during their reviews conducted from November 2010 to January 2011. This determination was made to ensure that the consultant would not review any action or opinion previously recommended by the consultant to the banking organization. We will continue to oversee the Foreclosure Review process to make sure that the consultants who were accepted act independently.
+
+[SECTION]
+
+The Federal Reserve orders require the servicers to review the files of borrowers whose primary residence was in the foreclosure process of the servicer in 2009 or 2010, whether or not the foreclosure was completed.
+
+[SECTION]
+
+At this time, we are requiring the independent consultants to include in the review all files for particular categories of borrowers who we have determined present a significant risk of being financially injured in the foreclosure process. Any borrower who falls into any one of those categories must receive an independent foreclosure review. The categories for mandatory review include all mortgages in the mortgage foreclosure process in 2009 or 2010 involving members of the military who were covered by the Servicemembers Civil Relief Act. It also includes all borrowers who had previously filed complaints with the servicers about foreclosure actions that were pending during 2009 or 2010. High risk files involving borrowers in bankruptcy will also be reviewed. Other files outside of these categories must be reviewed on a sampling basis to detect if errors, misrepresentations, or deficiencies occurred. Going forward, we may determine that additional file reviews are appropriate.
+
+[SECTION]
+
+The Borrower Outreach Program
+       The Federal Reserve's enforcement actions require that each banking organization with servicing operations supervised by the Federal Reserve implement, in connection with the Foreclosure Review, a process for the receipt and review of borrower claims and complaints. We view this Borrower Outreach Program and the submission by borrowers of requests for review as critical to ensuring that borrowers who suffered financial injury are identified and appropriately compensated for financial injury they suffered as a result of errors, misrepresentations, or other deficiencies in the foreclosure process.
+
+[SECTION]
+
+The Borrower Outreach Program was first announced on November 1, 2011, and is intended to make eligible borrowers aware of the opportunity they have to have their foreclosures independently reviewed as part of the Foreclosure Review. Borrowers are eligible to request that their files be reviewed if their primary residence was in the foreclosure process in 2009 or 2010, whether or not the foreclosure was completed. Borrowers are eligible to request a review even if they previously filed a complaint with their servicer about their foreclosure.
+
+[SECTION]
+
+Information about the review process, including how to request a review as part of the Foreclosure Review, is being provided in mailings to borrowers who may be eligible for a review. The servicers initiated mailings on November 1 and have represented that they should be completed by the end of the year. In connection with those mailings, the servicers are required to take measures, such as skip tracing (collecting information about an individual from various sources to determine the individual's location), to identify borrowers who may have moved. The servicers also have established a tollâfree number that borrowers can call and a website that borrowers can access to get more information about the review.2 Additionally, servicers are required to conduct an advertising campaign to make borrowers aware of the opportunity to request reviews of their foreclosures as part of the Foreclosure Review. The Federal Reserve is overseeing the servicers it supervises to make sure they are effectively doing everything they can to find borrowers who are potentially eligible for the Foreclosure Review.
+
+[SECTION]
+
+The Federal Reserve is working closely with the Office of the Comptroller of the Currency in overseeing the development and operation of the Borrower Outreach Program, and with the independent consultants, servicers, and community groups to increase awareness of this program and promote participation by borrowers. We emphasize that any borrower whose primary residence was in the foreclosure process in 2009 or 2010, can have his or her file included in the Foreclosure Review simply by submitting a claim or complaint pursuant to that program.
+
+[SECTION]
+
+The Engagement Letters
+       The Federal Reserve's enforcement actions require the servicers to each submit an engagement letter to the Federal Reserve for approval that describes how the independent consultants retained by the servicer and approved by the Federal Reserve will conduct the Foreclosure Review. The Federal Reserve is nearing completion of its review and finalization of those engagement letters. Because our review of the letters contemplates more extensive criteria for conducting the Foreclosure Review than those that apply to the national bank servicers, finalization of the engagement letters has required more time to complete.
+
+[SECTION]
+
+We believe that the actions taken by the Federal Reserve and the banking organizations it supervises to implement the enforcement actions should be accessible by the public to the maximum extent possible. To that end, we expect to disclose significant portions of the final engagement letters, consistent with the need to protect proprietary financial information and personal privacy.
+
+[SECTION]
+
+The Action Plans
+       The Federal Reserve's enforcement actions require that each banking organization with servicing operations supervised by the Federal Reserve submit specific plans acceptable to the Federal Reserve designed to correct practices that resulted in servicer errors and prevent future abuses in the loan modification and foreclosure process. Each servicer regulated by the Federal Reserve must, among other things, submit specific plans acceptable to the Federal Reserve that
+
+[SECTION]
+
+In addition, the enforcement actions issued in April require the parent holding companies to submit plans acceptable to the Federal Reserve to improve holding company oversight of residential mortgage loan servicing and foreclosure processing conducted by bank and nonbank subsidiaries.
+
+[SECTION]
+
+We continue to review and approve plans required by the Board's enforcement actions to ensure they meet the Federal Reserve's supervisory expectations, and we will be working to ensure that words are followed through with the required actions. Consistent with our approach with regard to the engagement letters, we expect to disclose significant portions of the documentation related to the final action plans, consistent with the need to protect proprietary financial information and personal privacy.
+
+[SECTION]
+
+The Federal Reserve will continue to monitor, on an ongoing basis, the corrective measures that are being taken by the servicers and bank holding companies it supervises, as required by the orders. Additionally, each institution is required to submit quarterly reports to the Federal Reserve detailing the measures it has taken to comply with the enforcement action and the results and progress toward meeting those measures. The Federal Reserve will closely review the servicers' and bank holding companies' progress reports and will also conduct examinations to ensure that the plans are implemented as approved and that the changes are effective. The Federal Reserve will take appropriate supervisory action including a cease and desist order or monetary penalties to address any inadequacies or violations of the enforcement actions.
+
+[SECTION]
+
+As we have previously stated, the Federal Reserve believes monetary sanctions in these cases are appropriate and plans to announce monetary penalties. These monetary penalties will be in addition to the compensation provided to borrowers in the independent review process. The Federal Reserve continues to work with other federal and state agencies to resolve these matters.
+
+[SECTION]
+
+Conclusion
+       The Federal Reserve takes seriously its responsibility to oversee the implementation and execution of the requirements of its April 2011 enforcement actions, including the Foreclosure Review and other requirements described above. We understand that implementing and executing those requirements effectively is critical to ensuring that the deficiencies identified by examiners during reviews conducted from November 2010 to January 2011 are corrected; that future abuses in the loan modification and foreclosure process are prevented; and that borrowers are compensated for financial injury they suffered as a result of errors, misrepresentations, or other deficiencies in the foreclosure process.
+
+[SECTION]
+
+Thank you for the opportunity to submit this statement on the status of the Foreclosure Review process and other progress made in implementing the enforcement actions that the Federal Reserve issued in April 2011.
+
+[SECTION]
+
+The 10 banking organizations included four organizations with residential mortgage servicing operations supervised by the Federal Reserve, as well as the parent holding companies of banks with servicing operations supervised by the Office of the Comptroller of the Currency. Return to text
+
+[SECTION]
+
+To apply for a review, individuals may call 888-952-9105, Monday through Friday from 8 a.m. to 10 p.m. (ET) and Saturday from 8 a.m. to 5 p.m. The servicers' website is www.IndependentForeclosureReview.com . Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

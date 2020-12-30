@@ -1,0 +1,91 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman and other members of the Committee, 
+I appreciate this opportunity to present a progress report on the studies that are being conducted by the President's Working Group on Financial Markets.  As you know, two separate studies are under way--one on the implications of the operations of firms such as Long-Term Capital Management (LTCM) and their relationships with their creditors, and the other on the oversight of over-the-counter (OTC) derivatives transactions.  The studies are separate because the issues are, in fact, quite distinct.  The central public policy issue raised by the LTCM episode is how financial leverage can be constrained most effectively in our market-based economy.  To be sure, in some cases LTCM achieved substantial leverage through use of OTC derivatives, but in other cases it relied on exchange-traded derivatives, securities loans, and securities repurchase agreements.  
+The regulation of OTC derivatives raises a much wider range of issues, many of which are unrelated to the LTCM episode.  Indeed, the LTCM episode has no obvious bearing on what are arguably the central issues in the OTC derivatives study--whether or in what circumstances government oversight is appropriate to deter fraud or market manipulation and how best to provide legal certainty regarding the enforceability of OTC derivative contracts.
+
+[SECTION]
+
+Leveraged Institutions and Their Relationships with Their Creditors
+
+		In our market-based economy, the primary mechanism that regulates firms' risk-taking is the discipline provided by creditors and counterparties.  If a firm seeks to achieve greater leverage, its creditors and counterparties will ordinarily respond by increasing the cost or reducing the availability of credit to the firm.  The rising cost or reduced availability of funds provides a powerful economic incentive for firms to restrain their risk-taking.  In the case of LTCM, however, private market discipline seems to have largely broken down.  The key questions that must be addressed by the Working Group are how to improve and ensure the effectiveness of private market discipline and whether it needs to be supplemented by additional government oversight.
+
+[SECTION]
+
+The Working Group has made considerable progress toward developing a common understanding of LTCM's relationships with its counterparties and of the weaknesses in those counterparties' risk management practices that allowed LTCM to achieve such an extraordinary degree of leverage.  The most important counterparties were banks and securities firms subject to prudential oversight by banking regulators or by the Securities and Exchange Commission (SEC).  The Federal Reserve, the Comptroller of the Currency, and the SEC all have carefully reviewed the practices that entities they oversee have employed to manage counterparty risks vis-a-vis LTCM and other highly leveraged firms.  They have shared their findings with the other agencies that participate in the Working Group's discussions.
+
+[SECTION]
+
+Although the Working Group has not completed its analysis of the creditors' risk management practices, some tentative conclusions can be identified.  LTCM appears to have received very generous credit terms, even though it took an exceptional degree of risk.  Moreover, the weaknesses in risk management practices that were evident in the counterparties' relationship with LTCM were also evident, albeit to a lesser degree, in their dealings with other highly leveraged firms.  In LTCM's case, counterparties obtained information from LTCM that indicated that it had securities and derivatives positions that were very large relative to its capital.  However, few, if any, seem to have really understood LTCM's risk profile, especially its very large positions in certain illiquid markets.  Instead, they appear to have made credit decisions primarily on the basis of LTCM's past performance and the reputation of its partners.
+
+[SECTION]
+
+LTCM's counterparties also appear to have placed too much reliance on their collateral agreements with LTCM.  Those agreements generally provided for the timely collateralization of credit exposures at the current market values of the collateral and, in the case of derivatives, the current market values of the derivatives.  However, they required little or no collateral to cover the potential for future increases in exposures from changes in market values.  More important, LTCM's counterparties appear to have significantly underestimated those potential future exposures.  Their estimates simply did not make adequate allowance for the extreme volatility and illiquidity of financial markets that surfaced in August and September.  Furthermore, they failed to take into account the potential for credit exposures to increase dramatically if LTCM had defaulted and they and other counterparties had attempted to liquidate collateral and replace derivatives contracts in amounts that in some instances would have been very large relative to the liquidity of the markets in which the transactions would have been executed.  Because the counterparties did not take these risks into account, they granted LTCM huge trading lines in a variety of products, and LTCM took advantage of those lines to achieve its exceptional degree of leverage.
+
+[SECTION]
+
+These weaknesses in risk management practices clearly need to be addressed.  The counterparties themselves should bear primary responsibility for designing and implementing the necessary improvements.  It is in their clear self-interest, as their experience with LTCM has demonstrated.  Furthermore, notwithstanding deficiencies in their current practices, these firms are the world leaders in risk management.  Their combination of technical expertise and their understanding of financial markets is unsurpassed in the private sector and unmatched in government.
+
+[SECTION]
+
+Nonetheless, prudential overseers have a responsibility to ensure that the processes that banks and securities firms utilize to manage risk are commensurate with the size and complexity of their portfolios and responsive to changes in financial market conditions.  Moreover, prudential overseers can and should promote the adoption of sound practices throughout the financial sector through issuance of supervisory guidance.  In the case of U.S. banks, the Federal Reserve and the other banking regulators have already made considerable progress in identifying sound practices for dealing with highly leveraged firms and, more generally, in distilling the lessons learned during the recent episodes of market volatility and incorporating those lessons in supervisory standards and procedures.
+
+[SECTION]
+
+For its part, the Federal Reserve is well along in developing supervisory guidance to promote the needed improvements in risk management.  Among the areas to be addressed are: (1) the credit approval process and ongoing monitoring of credit quality, including the availability of information on counterparties and its use in making credit decisions;(2) procedures for estimating potential future credit exposures, including stress testing to gauge exposures in volatile and illiquid markets;(3) approaches to setting limits on counterparty credit exposures; and (4) policies regarding the use of collateral to mitigate counterparty credit risks.  The Federal Reserve is also reviewing its own examination procedures, particularly those relating to the assessment of the risks posed by potential future credit exposures.
+
+[SECTION]
+
+Improvements in creditors' risk management capabilities, developed at their own initiative and reinforced by the actions of prudential supervisors, should significantly strengthen the effectiveness of market discipline and thereby place more effective constraints on leverage and risk-taking.  The Working Group also has begun discussing whether additional government oversight could effectively supplement private market discipline.  The types of oversight under discussion include proposals intended to provide creditors, investors, or the general public with additional information on risk-taking by highly leveraged institutions.  Also under discussion are proposals for more direct regulation of leverage through broader application of capital requirements or margin requirements.  These discussions are still at a early stage and at this point it is not yet clear whether the Working Group's members will support additional government oversight or, if so, what specific forms of oversight will be supported.
+
+[SECTION]
+
+Oversight of OTC Derivatives 
+		The Working Group's study of the appropriate oversight of OTC derivatives is at an earlier stage than its study of the implications of the LTCM episode.  Nonetheless, the Working Group's staff have reached agreement on the organization of the study and the analytical approach that will be employed.
+
+[SECTION]
+
+In brief, the purpose of the study will be to assess the need for government oversight to promote public policy objectives with respect to financial markets.  The policy objectives that seem relevant and that will be addressed in the study include:  (1) deterring market manipulation; 
+(2) deterring fraud and protecting certain counterparties to financial transactions; (3) promoting the financial integrity of markets by limiting potential losses from counterparty defaults; (4) providing legal certainty with respect to the enforceability of contracts; (5) regulatory parity, i.e., avoiding significant competitive disparities across financial markets and institutions; (6) appropriately limiting systemic risk; and, (7) harmonizing regulations internationally.
+
+[SECTION]
+
+Whether government oversight of a particular financial market is necessary to achieve those objectives depends critically on the characteristics of the market and the participants in the market.  The Working Group's staff is developing a common understanding of OTC derivatives and the markets in which they are traded, drawing on the existing knowledge and expertise of its constituent agencies.  Information is being developed on the instruments traded and the size of their markets, the types of participants and the roles that they play, the market infrastructure (trading and settlement arrangements), and the existing forms of government oversight of participants and instruments.
+
+[SECTION]
+
+Even with a common understanding of the public policy objectives and the characteristics of OTC derivatives, the Working Group may encounter difficulty reaching consensus on the need for government oversight. Ultimately, judgments about the need for oversight will be determined to an important degree by the views of the principals as to the most effective role government can play in our market economy, and those views may well differ.  Nonetheless, the Working Group's study of OTC derivatives will prove of considerable value to Congress if, as anticipated, it lays out clearly the reasons for any differences of opinion.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility |  
+Contact Us
+
+Last update: December 16, 1998, 9:00 AM

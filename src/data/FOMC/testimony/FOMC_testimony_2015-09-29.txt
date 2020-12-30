@@ -1,0 +1,225 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 29, 2015
+
+[SECTION]
+
+Thomas Sullivan, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Housing and Insurance, Committee on Financial Services, U.S. House of Representatives , Washington, D.C.
+
+[SECTION]
+
+Introduction
+Chairman Luetkemeyer, Ranking Member Cleaver, and other members of the subcommittee, thank you for inviting me to testify on behalf of the Federal Reserve.
+
+[SECTION]
+
+The Federal Reserve welcomes the opportunity to participate in today's hearing, and I am pleased to be joined by my colleagues from the Federal Insurance Office (FIO) of the U.S. Treasury, the National Association of Insurance Commissioners (NAIC), and the independent insurance member of the Financial Stability Oversight Council (FSOC). While we each have our own unique authority and mission, we remain committed to working collaboratively on a wide range of insurance supervisory and regulatory issues.
+
+[SECTION]
+
+The Federal Reserve's Role in the Supervision of Certain Insurance Holding Companies
+      With the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act), the Federal Reserve assumed expanded responsibility as the consolidated supervisor of a significant number of insurance holding companies. As a result of the Dodd-Frank Act, the Federal Reserve is responsible for the consolidated supervision of insurance holding companies that own an insured bank or thrift, as well as insurance holding companies designated for Federal Reserve supervision by the FSOC. The insurance holding companies for which the Federal Reserve is the consolidated supervisor hold about $3 trillion in total assets and one-third of U.S. insurance industry assets. These insurance holding companies vary greatly in terms of size, the types of products they offer, and their geography.
+
+[SECTION]
+
+After the passage of the Dodd-Frank Act, the Federal Reserve moved quickly to develop a supervisory framework that is appropriate for insurance holding companies that own depository institutions and promptly assigned supervisory teams to handle day-to-day supervision of those insurance holding companies. We have also acted promptly to commence supervision of the three insurance holding companies designated by the FSOC for Federal Reserve supervision. Our supervisory teams for insurance holding companies are a combination of experienced Federal Reserve staff as well as newly hired staff with insurance expertise. We currently have approximately 90 full-time equivalent employees devoted to the supervision of insurance firms. Many of our supervisors are individuals with substantial prior experience in state insurance departments or the insurance industry. We plan to continue to add staff, as appropriate, at both the Board and the Reserve Banks, to ensure we have the proper depth and experience to carry out our mandate.
+
+[SECTION]
+
+Our supervisory efforts to date have focused on strengthening firms' internal controls; corporate governance; and risk identification, measurement, and management. Our principal supervisory objectives for insurance holding companies are protecting the safety and soundness of the consolidated firms and their subsidiary depository institutions while mitigating any risks to financial stability.1
+
+[SECTION]
+
+The Federal Reserve's Development of Domestic Capital Standards for Insurance Holding Companies
+      Last year, Congress enacted the Insurance Capital Standards Clarification Act of 2014 (S. 2270), which amended the provision of the Dodd-Frank Act that had required the minimum capital standards for banks be applied to any insurance holding company that controls an insured depository institution or is designated for Federal Reserve supervision by the FSOC. Using the greater adaptability provided by this amendment to the Dodd-Frank Act, the Federal Reserve is now focusing on constructing a domestic regulatory capital framework for our supervised insurance holding companies that is well tailored to the business of insurance.
+
+[SECTION]
+
+We are exercising great care as we approach this challenging mandate. The Federal Reserve is investing significant time and effort into enhancing our understanding of the insurance industry and the firms we supervise, and we are committed to tailoring our framework to the specific business lines, risk profiles, and systemic footprints of the insurance holding companies we oversee. We have increased our staffing and have been engaging extensively with other insurance supervisors, independent experts, regulated entities, and market participants to solicit feedback on various potential approaches to the development of an appropriate consolidated group-wide capital regime for insurance holding companies that would be consistent with federal requirements.
+
+[SECTION]
+
+We also play a role, along with our colleagues from the FIO and the NAIC, as members of the International Association of Insurance Supervisors (IAIS). In partnership with the NAIC and the FIO, we advocate for the development of international standards that best meet the needs of the U.S. insurance market. While we view the development of international standards as important to helping improve financial stability and to providing a competitive playing field in an industry that is continuing to develop on a global basis, no standards recommended or developed by the IAIS (or any other international body) apply in the United States unless they are consistent with applicable U.S. law and are adopted in accordance with U.S. law.
+
+[SECTION]
+
+In particular, we are committed to developing our insurance capital framework through a transparent rulemaking process that allows for an open public comment period on a concrete proposal. We will continue to engage with interested parties as we move forward.
+
+[SECTION]
+
+Cooperation and Coordination among U.S. Supervisors and the Industry
+      Our primary role in supervision is as the group-wide supervisor for insurance holding companies. Our consolidated supervision and capital requirements will supplement existing legal-entity supervision with a perspective that considers the risks across the entire firm, including risks that emanate from non-insurance subsidiaries and other entities within the group. Our role as the consolidated supervisor does not seek to lessen the critical importance of supervising individual insurance legal entities by the states. We do not regulate the manner in which insurance is provided by these companies or the types of insurance that they provide. Those important aspects of the actual business of providing insurance are the province of the relevant state insurance supervisors.
+
+[SECTION]
+
+We conduct our consolidated supervision efforts in a manner that is complementary to, and coordinated with, other insurance regulators. We leverage the work of state insurance regulators where possible and continue to look for opportunities to further coordinate with them. We do this both informally and through formal mechanisms such as supervisory colleges. We also enter into agreements with institutions that allow us to share confidential information with state supervisors. We continue to meet with state insurance departments to discuss supervisory plans and findings for the insurance firms for which we have consolidated supervisory responsibility. In addition to working with the states, we also coordinate with other international and domestic regulators. We have hosted multiple crisis management groups that included participation from other parties such as the state insurance departments, the FIO, and the Federal Deposit Insurance Corporation. Among the topics discussed in these groups was resolution planning for systemically important entities in order to protect policyholders and to mitigate risks to financial stability without putting taxpayer money at risk.
+
+[SECTION]
+
+An example of our collaboration with the states is in evaluating companies' Own Risk and Solvency Assessments (ORSAs). Many states have recently enacted legislation that requires state regulated insurers to produce this assessment on a group-wide basis. While we recognize that the ORSA process belongs to the NAIC and the states, it is potentially a useful and valuable tool for us as well because it is fashioned on a group-wide basis. It has helped us to understand some institutions' processes for monitoring, measuring, controlling, and managing risk in a way that avoids unnecessary duplication in our oversight function. We have been meeting with state insurance departments to discuss views on ORSA submissions, and we have appreciated their perspective on these subjects. We will continue our active collaboration with state regulators.
+
+[SECTION]
+
+Mr. Chairman, thank you for inviting me here today. I look forward to an active dialogue on these issues with you and other members of the committee.
+
+[SECTION]
+
+1. Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2014), "Incorporation of Federal Reserve Policies into the Savings and Loan Holding Company Supervision Program," Supervision and Regulation Letter SR 14-9 (November 7). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

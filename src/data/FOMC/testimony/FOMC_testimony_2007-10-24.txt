@@ -1,0 +1,296 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+October 24, 2007
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Domestic Policy, Committee on Oversight and Government Reform, U.S. House of Representatives
+
+[SECTION]
+
+
+
+[SECTION]
+
+In my testimony today, I will first provide an overview of the Federal Reserve Systemâs Consumer Compliance Supervision Program, and then address the examination processes for both fair lending and the CRA.  Finally, I will describe how we consider fair lending violations when we evaluate a bankâs CRA performance.
+
+[SECTION]
+
+An Overview of Consumer Compliance Supervision The Board has a long-standing commitment to ensuring that every bank it supervises complies fully with federal financial consumer protection laws, including the fair lending laws, and that every bank meets its obligations under the CRA.  This commitment is rooted in the Boardâs mission, which specifically calls for the effective implementation of statutes designed to inform and protect the consumer.  The Federal Reserve fulfills this mission in four complementary ways.  The first is regularly examining supervised financial institutions for compliance with consumer protection laws and regulations.  This includes taking supervisory action as appropriate to enforce the laws and resolve any consumer complaints.  The second is rulewriting--issuing regulations, either separately (as with the Equal Credit Opportunity Act) or jointly with other federal agencies (as with the CRA), to implement consumer financial services and fair lending laws.  The third is promoting consumer education through publications and through partnerships with other organizations.  And the fourth is promoting community development and fair access to credit by conducting outreach and educational activities directed toward lower-income communities and traditionally underserved markets.
+
+[SECTION]
+
+Consumer compliance supervision, which includes the administration of the CRA and fair lending laws, has been a distinct function at the Board and the Federal Reserve Banks for more than thirty years.  The Boardâs Division of Consumer and Community Affairs (DCCA) is staffed with approximately 100 professionals, including attorneys, analysts, and economists who have responsibility for carrying out the Boardâs programs relating to rulemaking, policy development, community affairs, consumer education, examiner training, fair lending enforcement, and oversight of the supervisory and consumer complaint functions at the Reserve Banks.  A specialized Fair Lending Enforcement Section within the division works closely with Reserve Bank staff to provide guidance on fair lending matters and to ensure that the fair lending laws are enforced consistently and rigorously throughout the Federal Reserve System.
+
+[SECTION]
+
+The Federal Reserve Banks are instrumental in carrying out the Boardâs mission of consumer protection through their supervision of the approximately 900 state member banks for which the System has regulatory responsibility.  As of June 30, 2007, the twelve Federal Reserve Banks had a professional staff of 287 specializing in consumer compliance.  Federal Reserve consumer compliance examiners focus exclusively on consumer compliance supervision and are required to complete a comprehensive training program that includes specialized, intensive coursework on CRA and fair lending.  The examination force is complemented by supervisory staff and management at each Reserve Bank who also dedicate their energies to consumer compliance activities.
+
+[SECTION]
+
+One objective of our consumer compliance examination program is to identify and control compliance risks before they harm consumers.  In conducting a consumer compliance examination at a state member bank, examiners review the commitment and ability of bank management to comply with consumer protection laws and the bankâs actual compliance with such laws.  Examinations follow a risk-focused approach tailored to fit the risk profile of the bank.  This approach directs supervisory attention and resources to the products, services, and areas of the bankâs operations that pose the greatest risk to consumers.  Our examiners prepare a stand-alone consumer compliance examination report bearing a distinct consumer compliance rating for each state member bank we supervise.  These confidential reports include an evaluation of the bankâs compliance management program, a summary of the fair lending review, and a discussion of identified violations of laws and regulations.
+
+[SECTION]
+
+When examiners identify banks with weak and ineffective compliance programs, they take appropriate supervisory action, including documenting the weaknesses in the examination report.  Banks with a poor record of compliance1 are examined more frequently than those with favorable records.2  To ensure that banks with performance deficiencies give appropriate attention to supervisory concerns, we may require them to enter into informal enforcement actions, such as a Memorandum of Understanding.  When necessary to obtain compliance with consumer protection laws, we can use formal, public enforcement actions, such as civil money penalties, Written Agreements, or Cease and Desist Orders.  However, most banks voluntarily address any violations and weaknesses in compliance management programs that our examiners identify.
+
+[SECTION]
+
+Examiners also prepare a separate CRA public performance evaluation that describes a bankâs record of helping to meet the lending, service, and investment needs of their communities.  The public performance evaluation includes a CRA rating that reflects the institutionâs overall CRA performance as dictated by the statute.3  The interagency CRA regulations and examination procedures also stipulate that examiners will take any adverse findings from the fair lending review conducted as part of the consumer compliance examination, as well as findings of other illegal credit practices, into consideration when assigning a CRA rating.
+
+[SECTION]
+
+Fair Lending Supervision Central to the fair lending laws and the strength of our economy is the principle that each individual should have equal access to credit, without suffering discrimination based on race, ethnicity, national origin, gender, or certain other factors not related to creditworthiness.  The Board takes a multi-pronged approach to promoting fair access to credit.  We rigorously enforce the fair lending laws through the examination function.  We also promote fair lending through rulemaking, consumer education, economic and consumer research, and the investigation of individual consumer complaints.  My remarks today will focus on our fair lending examination responsibilities.
+
+[SECTION]
+
+Evaluating a bankâs compliance with the fair lending laws, namely the Equal Credit Opportunity Act (ECOA) and the Fair Housing Act (FHA), is an integral part of every consumer compliance examination conducted by the Federal Reserve.  Following the Interagency Fair Lending Examination Procedures, each fair lending examination includes an assessment of the bankâs fair lending risk across its business lines.  Based on this assessment of risk, examiners identify specific business lines on which to focus, and in every examination they evaluate in detail at least one product or class of products.
+
+[SECTION]
+
+When conducting these evaluations, consumer compliance examiners perform two distinct functions.  First, examiners evaluate the bankâs overall fair lending compliance program.  They make sure that management is committed to fair lending and has the appropriate systems, policies, and staff in place to prevent violations.  They also assess whether the bank devotes a level of resources to consumer compliance that is commensurate with its size, the complexity of its business lines, and the fair lending risk posed by its business practices.  Examiners require that every bank makes fair lending a high priority, from the loan officer up to the board of directors.  If a bankâs staff or systems fall short, examiners direct the bank to take corrective action.
+
+[SECTION]
+
+Second, examiners determine if the bank has, in fact, violated the fair lending laws.  They review lending policies and practices to make sure they are not discriminatory.  Examiners also test the institutionâs actual lending record for specific types of discrimination, such as underwriting discrimination in consumer loans, or pricing discrimination in mortgage or automobile lending.  This testing for discrimination may use statistical techniques, manual reviews of loan files, or both.  When examiners find evidence of potential discrimination, they coordinate closely with the Boardâs Fair Lending Enforcement Section, which brings additional legal and statistical expertise to bear.
+
+[SECTION]
+
+Because the Federal Reserve expects the banks we supervise to devote significant resources to fair lending, and because we examine them routinely for fair lending compliance, we expect fair lending violations--especially those involving a pattern or practice of discrimination--to be rare among the banks we supervise.  Our experience has been that such violations are indeed rare, but when they do occur, we do not hesitate to take strong action.  If we have reason to believe that an institution has engaged in a pattern or practice of discrimination under ECOA, the Board, like the other federal banking agencies, has a statutory responsibility under that Act to refer the matter to the Department of Justice (DOJ), which reviews the referral and decides if further investigation is warranted.  A DOJ investigation may result in a public civil enforcement action or settlement.  The DOJ may instead return the matter to the Federal Reserve for administrative enforcement.  When this occurs, we ensure that the institution corrects the problems and makes appropriate amends to the victims.
+
+[SECTION]
+
+We take our responsibility to refer matters to the DOJ seriously.  To date in 2007, we have referred six institutions after concluding that we had reason to believe that they had engaged in a pattern or practice of discrimination.  These referrals involved: 
+
+ethnic and racial discrimination in mortgage pricing, 
+racial discrimination in the pricing of automobile loans, 
+restrictions on lending on Native American lands, 
+restrictions on row house lending that discriminated on the basis of race, 
+discrimination against unmarried people in the underwriting of consumer loans, and 
+discrimination on the basis of marital status by improperly requiring spousal signatures.In 2006, we referred four institutions to the DOJ for a wide range of issues after concluding that we had reason to believe they had engaged in a pattern or practice of discrimination.  These issues included pricing discrimination in auto lending, mortgage redlining, and age discrimination.
+
+[SECTION]
+
+Our referral record, which is publicly documented in our annual reports to Congress, demonstrates the Boardâs strong commitment to rigorous fair lending enforcement.  Our referrals account for two of the three public fair lending enforcement actions that the DOJ has brought in the past five years based on agency fair lending referrals.  One of these enforcement actions involved redlining in mortgage, consumer, and small business lending; the other involved marital status discrimination in the pricing of automobile loans.4
+
+[SECTION]
+
+Even if a bankâs fair lending violations do not constitute a pattern or practice, the Federal Reserve makes sure they are remedied by the bank.  For example, when we find isolated violations where a bank has illegally required spousal signatures on loan documents, constituting discrimination on the basis of marital status, we direct the bank to offer to release the spouse from any obligation for repayment of the debt.  As discussed in more detail below, we consider any findings of fair lending violations--whether or not they constitute a pattern or practice--when we evaluate a bankâs CRA performance.
+
+[SECTION]
+
+CRA ExaminationsThe CRA affirms that federally insured banks and thrifts have an obligation to help meet the credit needs of the entire communities they serve, including low- and moderate-income neighborhoods, in a safe and sound manner.  The statute requires the federal financial supervisory agencies to evaluate the performance of depository institutions they supervise in meeting this obligation, and directs the agencies to assign one of four ratings--Outstanding, Satisfactory, Needs to Improve, or Substantial Noncompliance--to describe an institutionâs performance.  Each rating encompasses a range of performance outcomes that are further detailed in the interagency regulations and examination procedures.  The statute requires that an institutionâs CRA evaluation, its rating, and supporting quantitative and qualitative data, be made public.
+
+[SECTION]
+
+During a CRA examination, examiners assess the bankâs performance within the context of all relevant factors, such as its business strategy, capacity, and constraints, the overall economic conditions and credit needs in its assessment area, and the availability of community development activities appropriate to the institution.  Our attention to the performance context also reflects the obligation of federally insured depository institutions to help meet the specific credit needs of the particular communities in which they are chartered in a safe and sound manner.  Thus, we do not apply a single performance template to all depository institutions and all communities.
+
+[SECTION]
+
+The community also has a role in the CRA examination process.  The public can offer comments on an institutionâs CRA performance.  Our examiners review the bankâs public comment file and take any comments into account when evaluating its overall CRA performance.
+
+[SECTION]
+
+The agenciesâ CRA regulations specify different performance expectations, and therefore different evaluation methods, depending on an institutionâs size and its operations.  A large institution, one with assets of $1.033 billion or more, is examined according to performance criteria under three separate tests.  These tests measure the institutionâs performance with respect to making and purchasing loans, providing qualified investments, and supplying services in its local community.  A small institution, one with assets of less than $258 million, is examined under a streamlined method that focuses primarily on its lending performance.  An institution with assets of at least $258 million, but less than $1.033 billion, is reviewed according to performance under a lending test and a community development test.  In addition, wholesale and limited purpose institutions are subject to a community development test, which focuses on community development lending, investments, and services.  Alternatively, any institution, regardless of its size, may elect to have its CRA performance evaluated under a strategic plan tailored to the needs of its community.  The strategic plan is developed with community input, and must be approved by the institutionâs primary regulator.
+
+[SECTION]
+
+Discrimination and other illegal credit practices are contrary to meeting the credit needs of a community and, as I will discuss, will adversely affect a bankâs CRA evaluation.  There are, however, important differences between the CRA and the fair lending laws.  The fair lending laws prohibit discrimination on specific bases, such as the applicantâs race, national origin and sex, but do not impose affirmative obligations on banks to serve low- or moderate-income communities.  The CRA, on the other hand, recognizes that insured depository institutions have an affirmative obligation to help meet the credit needs of their entire communities, including low- and moderate-income areas, and requires the relevant supervisory agencies to evaluate their performance.  The statute, however, does not address the distribution of credit with respect to the prohibited bases contained in the relevant fair lending laws.
+
+[SECTION]
+
+A bankâs CRA performance is evaluated, therefore, primarily on the distribution of its lending within its assessment area across borrowers and neighborhoods of different income levels.  For residential mortgage lending products, CRA evaluations consider the distribution of loans across low-, moderate-, middle-, and upper-income borrowers and areas, with a special focus on lending to low- and moderate-income borrowers and areas.  For small business lending products, CRA evaluations consider the distribution of small loans (loans of $1 million or less) across businesses with differing levels of revenue, with a particular focus on loans to firms with annual revenues of $1 million or less.  For institutions of appropriate size, CRA evaluations also focus on their record of making investments in their communities, and of meeting the needs of their assessment areas through the provision of retail and community services.
+
+[SECTION]
+
+A bankâs CRA performance is evaluated within its assessment area.  Under the CRA regulations, a bank must delineate an assessment area or areas that correspond to commonly recognized metropolitan areas or political subdivisions that surround its main office, branches and deposit-taking ATMs in which the bank has originated or purchased a substantial portion of its loans.  The assumption underlying this approach is that branches, and certain ATMs, serve as the deposit-taking arm of the institution and, therefore, define its community for reinvestment purposes.  The assumption also encompasses one of Congressâs findings in passing the CRA--that regulated financial institutions are required by law to demonstrate that their deposit facilities serve the convenience and needs of the communities in which they are chartered to do business.
+
+[SECTION]
+
+A bank is permitted to limit its assessment area to the portion of a political subdivision it can reasonably be expected to serve.  But, the assessment area may not reflect illegal discrimination and may not arbitrarily exclude low- or moderate-income geographies, taking into account the bankâs size and financial condition.  Although the assessment area is not separately evaluated as an aspect of CRA performance, the delineation is reviewed for compliance with the assessment area requirements of the regulation at the outset of the CRA examination.  An assessment area that is not in compliance with regulatory requirements will be redrawn by the examiners and the CRA evaluation will be based on this new delineation.
+
+[SECTION]
+
+Pursuant to the CRA regulations, the evaluation of a bankâs CRA performance takes into account evidence that a bank engaged in illegal lending discrimination or other illegal credit practices that are inconsistent with helping to meet community credit needs.5  Federal Reserve examiners conduct a fair lending review concurrently with, or close in time to each CRA evaluation, and the findings from that review are factored into the CRA evaluation.
+
+[SECTION]
+
+The public CRA performance evaluation summarizes a bankâs record of complying with the fair lending laws, and states whether violations were found and, if so, whether they negatively impacted the bankâs overall CRA rating.  Pursuant to the CRA regulations, various factors relating to the violations will be considered when determining the bankâs assigned CRA rating, including the nature and extent of discriminatory practices, the policies and procedures in place to prevent such practices, and corrective action taken by the bank.  A finding of discrimination could result, for example, in a downgrade of the rating otherwise earned to either Needs to Improve or Substantial Noncompliance, or from Outstanding to Satisfactory.  However, if the discrimination was isolated, or occurred despite the existence of internal controls to prevent such practices, the violation may be reported in the written CRA Performance Evaluation without actually lowering the bankâs CRA rating.  This reflects the fact that each rating encompasses a range of conduct and performance.  An inadvertent or isolated violation may not be sufficient to move the bankâs overall performance assessment out of that range.  I would like to give examples to illustrate different outcomes in CRA examinations.
+
+[SECTION]
+
+The 2001 CRA performance evaluation for First American Bank, Carpentersville, Illinois, provides an example of a bank whose CRA rating was downgraded as a result of fair lending violations.  The public CRA performance evaluation explains that the examinersâ review of the bankâs delineated assessment areas raised substantive concerns, leading to the delineation of a new assessment area.  The examiners then evaluated the bankâs CRA record based on the revised assessment area.  The CRA performance evaluation notes that the bank would have received a CRA rating of Needs to Improve, but that the rating was downgraded to Substantial Noncompliance, the lowest possible rating, as a result of substantive fair lending violations.  As documented in the DOJâs publicly filed complaint, the Federal Reserve concluded that there was reason to believe that the bank had engaged in illegal redlining, in violation of the ECOA, and referred the matter to the DOJ.  The Federal Reserveâs referral led to an investigation by the DOJ, which was ultimately resolved in a consent decree filed in July 2004.
+
+[SECTION]
+
+First State Bank of Porter, Porter, Indiana, provides an example of a situation where examiners did not downgrade the bankâs CRA rating based on identified fair lending violations for the reasons articulated in the 2006 public CRA performance evaluation, which states:
+
+[SECTION]
+
+Thus, as the examples illustrate, fair lending violations are taken into account in the CRA performance evaluation and can affect the overall CRA rating.
+
+[SECTION]
+
+ConclusionThe Federal Reserve is committed to safeguarding consumer rights in financial services.  Key to this commitment is ensuring that every bank the Federal Reserve supervises meets its CRA obligation and complies fully with the federal fair lending laws.  It is essential that every bank fulfills its obligation to help meet the credit needs of the communities that it serves, including low- and moderate-income-neighborhoods, while not discriminating on any prohibited basis in granting credit to individuals.  Our supervisory process evaluates each bankâs compliance with the fair lending laws and takes that record into account when evaluating its CRA performance.  Finally, our record of referrals to the DOJ demonstrates our firm commitment to enforcing the fair lending laws.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

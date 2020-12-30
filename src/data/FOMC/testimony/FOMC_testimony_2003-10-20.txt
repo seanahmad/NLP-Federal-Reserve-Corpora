@@ -1,0 +1,351 @@
+Testimony of Governor Mark W. Olson
+Power outages and the financial system 
+        Before the Subcommittee on Oversight and Investigations of the Committee 
+        on Financial Services, U.S. House of Representatives
+        October 20, 2003
+
+[SECTION]
+
+Introduction
+        Chairwoman Kelly, Ranking Member Gutierrez, and members of the Subcommittee, 
+        thank you for the opportunity to discuss the impact of the power outage 
+        experienced by several states on August 14 and 15, and the impact of Hurricane 
+        Isabel, which struck areas of the east coast--primarily the District of 
+        Columbia, Virginia, North Carolina and Maryland--on September 18 and 19. 
+        The Federal Reserve and the financial system, more generally, weathered 
+        the power outage with few difficulties and critical operations were largely 
+        unaffected. Markets and consumers remained calm. Hurricane Isabel did 
+        not have a noticeable effect on the operation of the financial system, 
+        although affected areas did experience a loss of power with collateral 
+        effects similar to the power outage.
+
+[SECTION]
+
+Let me begin by emphasizing that it is no accident that the financial 
+        sector performed well in responding to the outages. Throughout its history, 
+        the banking industry has had many experiences with disruptions to normal 
+        business operations and has learned from experience the need to provide, 
+        maintain, and test appropriate backup facilities. This understanding has 
+        been enhanced by the preparations leading up to the year 2000 concerns 
+        about the resilience of our technology infrastructure and by the industry's 
+        response to the terrible tragedy of September 11, 2001. From these experiences, 
+        the industry has learned some lessons about providing sufficient backup 
+        for power and the likely collateral effects of experiences such as the 
+        recent outage. Moreover, because financial institutions rely on power 
+        to run mission critical information systems, events such as the power 
+        outage also underscore the need for institutions to integrate the risk 
+        of a wide-scale disruption into their enterprise-wide risk management 
+        strategies. Indeed, evaluating an institution's emergency preparedness 
+        is an important component of the Fed's bank examination procedures.
+
+[SECTION]
+
+Impact on Financial Markets and Depository Institutions
+        The August 14 power outage occurred just after the close of most U.S. 
+        securities and futures markets. A rapid switch to backup power enabled 
+        market utilities to complete end-of-day processing and settlement activities 
+        without any material disruptions. Uncertainty was minimized when the markets 
+        announced early Thursday evening that they would open on Friday. With 
+        only one exception, the markets were able to open and close smoothly on 
+        Friday. Also, some financial institutions in Manhattan closed early on 
+        Friday to accommodate the limited availability of public transportation. 
+        Otherwise, the markets, clearing and settlement organizations and market 
+        participants were well prepared to operate on backup power at their offices 
+        or from more remote backup sites. In terms of market volatility, there 
+        was some limited--and understandable--volatility in energy-related futures 
+        contracts and securities prices on Friday.
+
+[SECTION]
+
+The financial system did not experience any widespread or cascading liquidity 
+        dislocations, in large part because payment and settlement systems operated 
+        normally. The outage disrupted the federal funds market because most of 
+        the volume in that market typically takes place late in the day, and the 
+        market tightened considerably on Thursday afternoon. As a result, a small 
+        number of banking organizations had to turn to the Federal Reserve's discount 
+        window for overnight funds, and the Federal Reserve extended a larger 
+        volume of discount window loans on Thursday than is usual. The federal 
+        funds rate was volatile again on August 15, and borrowing remained somewhat 
+        elevated. Conditions in the federal funds market returned to normal after 
+        the weekend.
+
+[SECTION]
+
+I note that, if the outage or collateral effects had rendered a Federal 
+        Reserve Bank inoperable, which it did not, the Federal Reserve has robust 
+        contingency arrangements in place under which another Federal Reserve 
+        Bank would have handled loan requests by depository institutions in the 
+        affected District.
+
+[SECTION]
+
+Most depository institutions had backup power at their main offices, 
+        larger branches, data centers and operations facilities. As a result, 
+        the business of banking largely proceeded without interruption, although 
+        retail banking (taking deposits, making loans and dispensing cash) was 
+        disrupted at affected branch offices. It was also necessary to close some 
+        retail branches whose security monitoring systems were impacted by the 
+        outage in order to assure the security of cash, other assets, and personnel. 
+        Most ATMs in the affected areas stopped working, although a few had backup 
+        batteries that enabled them to function for a short period. Shortly after 
+        the power went out, the Comptroller of the Currency signed an order authorizing 
+        national banks, at their discretion, to close. Governors in a number of 
+        affected states made similar proclamations for state-chartered depository 
+        institutions. Probably not more than a few dozen depository institutions, 
+        predominantly small, regional and community organizations and foreign 
+        banking organizations, had to close all operations. In many instances, 
+        critical personnel spent Thursday night in their offices to assure continuity 
+        of operations on Friday. A number of organizations required only critical 
+        staff to report to the office on Friday due to limited availability of 
+        public transportation.
+
+[SECTION]
+
+I must say that we are extremely proud that the financial markets and 
+        banking organizations were able to meet the various operational challenges 
+        of the outage without any systemic effects or loss of confidence in our 
+        financial system.
+
+[SECTION]
+
+Impact on Consumer Confidence
+        The outage, which lasted less than 48 hours for most of the affected areas, 
+        had no discernable effects on consumer confidence. Consumers were patient 
+        and able to cope with the situation, including the temporary loss of access 
+        to local branches and ATM machines. There was no sense of panic and there 
+        were no unusual currency demands. We believe the public acted calmly in 
+        large part because the government was quickly able to determine and announce 
+        that the outage was not an act of terrorism. Moreover, consumers have 
+        access to a broad range of retail financial services that are highly redundant 
+        and substitutable. For example, even though consumers could not withdraw 
+        cash from ATMs, they still could use checks. In many cases, they also 
+        were able to access bank call centers to effect transactions and obtain 
+        information. Electronic payments--deposits of paychecks and consumer transfers 
+        of money, such as mortgage payments--were not disrupted.
+
+[SECTION]
+
+Impact on Federal Reserve Facilities and Operations
+        The Federal Reserve System has always placed a high priority on business 
+        continuity planning for its operations and services. The robust resilience 
+        that has been established was demonstrated during the August power outage 
+        and Hurricane Isabel. Throughout both of these recent events, the Federal 
+        Reserve was able to continue critical operations, provide services without 
+        interruption, and respond to market needs.
+
+[SECTION]
+
+The August power outage affected Federal Reserve Bank offices in New 
+        York City; East Rutherford, New Jersey; Utica, New York; Cleveland; and 
+        Detroit. Despite the loss of utility power, these offices were able to 
+        continue operations without disruption using backup generators. Some of 
+        the affected offices heightened security as a precaution, but no incidents 
+        occurred. All Reserve Bank financial services operated normally during 
+        the outage, and for some services, the Reserve Banks extended their operating 
+        hours to meet the needs of depository institutions. For example, the Fedwire 
+        funds transfer service, our large dollar payment system, continued operations 
+        without interruption on the first day of the outage and opened on time 
+        the next day. The Fedwire funds transfer closing time was extended on 
+        both Thursday and Friday to accommodate Fedwire participants that were 
+        experiencing outage-related problems and late exchanges of fed funds. 
+        Similarly, the Fedwire securities service was unaffected on the first 
+        day of the power outage, and it opened normally the next day. The closing 
+        time for the securities service was extended on Friday to accommodate 
+        participants affected by outage-related connectivity problems.
+
+[SECTION]
+
+In general, although extensions of Fedwire closing times were required 
+        as a result of the power outage, there were no widespread problems among 
+        Fedwire participants. Most Fedwire participants in affected areas shifted 
+        quickly to backup power and were able to connect to Fedwire and continue 
+        processing transactions. A few participants, particularly some foreign 
+        banking organizations, experienced connectivity or processing problems. 
+        The Reserve Banks provided support to these organizations through their 
+        normal telephone-based, off-line processing service.
+
+[SECTION]
+
+Federal Reserve Bank check processing centers in the affected areas operated 
+        on backup power, allowing check processing to proceed without interruption. 
+        The volume of check processing was slightly lower than normal on Thursday. 
+        Reserve Banks' inventories of currency were sufficient to meet depository 
+        institution demand during and after the outage. Consumers did not seek 
+        to withdraw unusually large amounts of cash during the outage--apparently 
+        continuing to use the normal mix of retail payment methods, including 
+        check and debit or credit cards at merchants that had backup power or 
+        were outside of the affected area. The Federal Reserve was not asked to 
+        provide currency outside of normal operating hours (after hours or weekend), 
+        but was prepared to provide extra cash shipments to depository institutions, 
+        if necessary. The Federal Reserve's Automated Clearinghouse retail electronic 
+        payment system was unaffected by the blackout.
+
+[SECTION]
+
+There was no notable increase in the use of Federal Reserve intraday 
+        credit on the days of the power outage. Average System aggregate and peak 
+        intraday credit extensions were within reasonable levels. In addition, 
+        there was no notable increase in either the size or number of overnight 
+        overdrafts by banks across the Federal Reserve System.
+
+[SECTION]
+
+Regarding the Board of Governors, we believe that a power failure in 
+        Washington, D.C., similar to the August outage, would have only a minimal 
+        impact on the Board. We recently completed upgrades to our backup electrical 
+        service to provide 100 percent of the power requirements for the Board's 
+        two main buildings. The Board also maintains adequate supplies of water 
+        to maintain operations. Priority contracts to deliver additional fuel 
+        and water are in place. By yearend, backup generators will be installed 
+        to provide hot water and heat in the event the Board's steam service is 
+        disrupted. In the event of a wide-scale power outage, our biggest challenge 
+        would be transportation. If the Metro or if traffic lights and street 
+        lights were out, it is likely that we would ask only emergency and critical 
+        staff to come to the Board's offices. Many of our professional staff can 
+        "dial-in" to the Board via their personal computers and work from home. 
+        In addition, the Board is reserving accommodations at hotels that have 
+        emergency power systems for Board members and our most senior staff to 
+        assure that they can get to the Board's offices in the event of a significant 
+        transportation disruption. Finally, the Board has established a number 
+        of business resumption and information technology backup sites within 
+        and well outside of Washington, D.C., that could be activated if necessary.
+
+[SECTION]
+
+During Hurricane Isabel, the federal government was closed on Thursday, 
+        September 18, and Friday, September 19, to assure the safety of employees 
+        and accommodate the closure of public transportation systems. Emergency 
+        and critical employees were able to report to the Board during those days 
+        and over the weekend. Although much of the Washington, D.C., area lost 
+        power for as long as eight days, the Board was not affected and our critical 
+        business functions continued to operate.
+
+[SECTION]
+
+Agency Coordination
+        The federal financial agencies have had a great deal of experience in 
+        coordinating their activities during various financial crises, natural 
+        disasters causing infrastructure disruptions, and terrorist attacks. None 
+        of the agencies experienced operational problems from the outage. On Thursday 
+        afternoon, the agencies immediately activated crisis communication protocols. 
+        The Federal Banking Information Infrastructure Committee, made up of the 
+        federal and state financial regulators and a representative from the Homeland 
+        Security Council, held periodic conference calls throughout the day. The 
+        Federal Financial Institutions Examination Council, made up of the federal 
+        regulators of depository institutions, also held a series of calls regarding 
+        the status of supervised institutions. Each of the agencies followed internal 
+        crisis communication protocols across their organizations. As in the past, 
+        the ability of the agencies to share information and coordinate activities 
+        assured a consistent and cohesive response.
+
+[SECTION]
+
+Lessons Learned
+        The Federal Reserve's and the financial sector's performance during the 
+        outage was very good, in part because power outages seem to occur periodically, 
+        and we have worked hard to prepare for them by establishing emergency 
+        backup power sources. However, lessons learned and opportunities for improvement 
+        flow from every event. The August outage is no exception.
+
+[SECTION]
+
+One of the key lessons learned is that unexpected disruptions tend not 
+        to be limited to a firm's internal operations or facilities--the proverbial 
+        fire in the data center. In this era of unprecedented demand on the critical 
+        infrastructure and the increased threat of terrorist and cyber attacks, 
+        financial firms must plan how to recover critical operations and service 
+        customers in the event of a wide-scale disruption that affects a cross 
+        section of the industry as well as the critical infrastructure and the 
+        accessibility of key staff.
+
+[SECTION]
+
+The importance of sharing timely and accurate information is a principle 
+        that is underscored every time we have an experience that disrupts any 
+        part of the nation's critical infrastructure and affects the public. This 
+        includes careful coordination of messages between federal and state authorities 
+        about steps being taken to protect the public and resolve the problem. 
+        As I mentioned earlier, we believe that the government's announcement 
+        within hours after the event that the outage was not a terrorist act made 
+        a significant difference in how the public responded to the disruption. 
+        Similarly, Thursday's announcements that the New York Stock Exchange and 
+        NASDAQ were operating and would open on time on Friday did much to calm 
+        investors and markets here and around the globe. Financial firms and markets 
+        were forthright in advising stakeholders about their operational status 
+        and steps being taken to recover affected operations to meet customer 
+        needs.
+
+[SECTION]
+
+Another area where we learned important lessons pertains to the adequacy 
+        of backup strategies for loss of power. For example, the sole use of batteries 
+        as backup proved wholly inadequate, particularly for aspects of the critical 
+        infrastructure, such as telecommunications switches. In most cases, banking 
+        organizations had provided for sufficient backup power to continue critical 
+        operations, such as payments, call centers, data processing and key management 
+        activities. Many had established backup power for key geographically dispersed 
+        retail branches. In other cases, firms learned that rented office space 
+        did not have anything more than emergency lighting for evacuation purposes. 
+        Others found that they had not provided backup power for in-house telecommunications 
+        systems, so while the telecommunications systems leading into and out 
+        of their building worked, their voice and data telecommunications systems 
+        did not. We understand that some key telecommunications facilities had 
+        not arranged for all of the critical functions at central office switch 
+        locations to have necessary backup power. We also learned that many cell 
+        phone towers are located on buildings that did not have emergency backup 
+        power. Some firms that were able to switch over to generators found it 
+        difficult to arrange for additional fuel because of transportation issues 
+        and because of competing demands and delivery priorities. This may suggest 
+        that the ability of some financial firms and the critical infrastructure 
+        to continue to provide backup power to critical operations might have 
+        degraded somewhat if the outage had extended through the weekend and into 
+        the next business week. I would like to recognize the important efforts 
+        of the Office of Emergency Management for New York City in working closely 
+        with key critical infrastructure providers and market utilities to respond 
+        to unanticipated backup needs and manage transportation issues.
+
+[SECTION]
+
+The power outage also emphasized the interdependencies across the critical 
+        infrastructure and the cascading impacts that occur when one component 
+        falters. The effects on transportation in Manhattan--with rapid transit 
+        systems down and rail stations closed in the city--prevented key staff 
+        at financial institutions from traveling to their offices and made it 
+        difficult to obtain fuel deliveries for generators. In Detroit and other 
+        cities, problems with water supplies necessitated the closure of buildings, 
+        even those with backup power. Access to potable water also was limited 
+        in a number of locations where pumping and sanitation stations did not 
+        have backup power or did not have sufficient backup power to operate at 
+        full capacity. The failure of steam generators in New York City caused 
+        a number of organizations to shut down. Most importantly, we saw a number 
+        of instances where telecommunications services were affected by insufficient 
+        backup power. Some of these instances were within the control of the affected 
+        financial firm, but many others were under the control of the telecommunications 
+        providers.
+
+[SECTION]
+
+Conclusion
+        The lessons learned from the power outage emphasize the importance of 
+        preparing for a wide-scale disruption. They also emphasize the need for 
+        a sound and resilient critical infrastructure because of the significant 
+        collateral effects that can flow from a disruption in one component, in 
+        this case electric power. The Federal Reserve and the financial sector 
+        performed well during the outage. Nevertheless, we are encouraging financial 
+        firms and critical infrastructure providers to review their own lessons 
+        learned and, where appropriate, to take additional steps to achieve better 
+        resilience from the effects of a future power outage.
+
+[SECTION]
+
+Thank you for the opportunity to discuss the effects of the power outage 
+        and Hurricane Isabel. I would be pleased to answer any questions you may 
+        have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+2003 Testimony

@@ -1,0 +1,313 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+June 11, 2009
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Frank, Ranking Member Bachus, and other members of the Committee, thank you for the opportunity to offer some perspectives on the subject of incentive compensation in banking and financial services. Recent events have highlighted that improper compensation practices can contribute to safety and soundness problems at financial institutions and to financial instability.  Compensation practices were not the sole cause of the crisis, but they certainly were a contributing cause--a fact recognized by 98 percent of the respondents to a recent survey conducted by the Institute of International Finance of banking organizations engaged in wholesale banking activities.1 And, importantly, problematic compensation practices were not limited to the most senior executives at financial firms. As the events of the past 18 months demonstrate, compensation practices throughout a firm can incent even non-executive employees, either individually or as a group, to undertake imprudent risks that can significantly and adversely affect the risk profile of the firm.
+
+[SECTION]
+
+Financial firms and supervisors have learned important lessons from this recent episode. Having witnessed the painful consequences that can result from misaligned incentives, many financial firms are now reexamining their compensation structures with the goal of better aligning the interests of managers and other employees with the long-term health of the firm. And we, as supervisors, have been reminded that risk management and internal control systems alone may not be sufficient to constrain excessive risk-taking if the firm's compensation structure provides managers and employees with financial incentives to take such risks. Accordingly, the Federal Reserve is developing enhanced and expanded supervisory guidance in this area to reflect the lessons learned in this financial crisis about ways in which compensation practices can encourage excessive or improper risk-taking.
+
+[SECTION]
+
+In my statement, I will review some of the compensation and related risk management and corporate governance deficiencies that contributed to the financial crisis. In addition, I will review some possible explanations as to why such problems exist--even when they run contrary to the long-term interests of shareholders and the organization. I also will outline the existing rules and guidelines that the Federal Reserve has in place to help address compensation problems at banking organizations that may pose a risk to safety and soundness. Finally, I will describe some of the elements that are key to the design and implementation of sound compensation systems at financial institutions.
+
+[SECTION]
+
+Compensation and Corporate Governance and Risk Management BreakdownsCompensation arrangements are critical tools in the successful management of financial institutions. They serve several important and worthy objectives, including attracting skilled staff, promoting better firm and employee performance, promoting employee retention, providing retirement security to employees, and allowing the firm's personnel costs to move along with revenues.
+
+[SECTION]
+
+It is clear, however, that compensation arrangements at many financial institutions provided executives and employees with incentives to take excessive risks that were not consistent with the long-term health of the organization. Some managers and employees were offered large payments for producing sizable amounts of short-term revenue or profit for their financial institution despite the potentially substantial short- or long-term risks associated with those revenue or profits. Although the existence of misaligned incentives surely is not limited to financial institutions, they can pose special problems for financial institutions given the ability of financial institutions to quickly generate large volumes of transactions and the access of some institutions to the federal safety net.
+
+[SECTION]
+
+The compensation programs of many financial institutions incorporated payment features and oversight, control, and review processes intended to help restrain inappropriate risk-taking. Moreover, banking organizations, with the support and urging of federal supervisors, developed risk-management controls and frameworks to identify, assess, and manage the firm's risk-taking.
+
+[SECTION]
+
+However, in some cases, the incentives created by incentive compensation programs to undertake excessive risk appear to have been powerful enough to overcome the restraining influence of these processes and risk controls. In addition, the risk-management controls and frameworks of some financial institutions themselves suffered from deficiencies that limited their ability to act as a brake on excessive risk-taking. For example, the risk-management systems of many financial institutions did not fully recognize or "capture" all relevant risks with certain business activities, especially those associated with innovative or complex products, fast-growing business lines, or funding needs. And in many instances, risk-management frameworks did not adequately take account of the potential for compensation arrangements themselves to be a source of risk for the firm. The risk-management personnel and processes at financial institutions, thus, often played little or no role in decisions regarding compensation arrangements. It is possible that aggressive pursuit of highly skilled financial specialists in recent years caused some financial institutions to relax or forego usual safeguards and controls in the interest of hiring and retaining what they believed to be the best talent.
+
+[SECTION]
+
+These weaknesses were not limited just to financial institutions in this country. These types of problems were widespread among major financial institutions worldwide, a fact recognized by the governments comprising the Group of Twenty, international bodies such as the Financial Stability Board (FSB), and the industry.
+
+[SECTION]
+
+Need for ImprovementsLooking forward, it is clear that more must be done by financial institutions and supervisors to better align compensation practices with sound operations and long-term performance. Major banking organizations appear to be aware of the need for better practices. The boards of directors and senior management of many organizations are taking a much-needed look at their existing compensation arrangements. In many cases, they are doing so with the strong encouragement of institutional investors and other shareholders.
+
+[SECTION]
+
+Correcting these weaknesses will require improvements in both corporate governance and risk management at financial institutions. Boards of directors and senior management of major financial institutions must act to limit the excessive risk-taking incentives within compensation structures and bolster the risk controls designed to prevent incentives from promoting excessive risk-taking. In many cases, boards of directors that have analyzed the connections between incentive compensation and risk-taking have focused only on a handful of top managers. However, incentive problems may have been more severe a few levels down the management structure than for chief executive officers (CEOs) and other top managers. Indeed, recent experience indicates that poorly designed compensation arrangements for business-line employees--such as mortgage brokers, investment bankers, and traders--may create substantial risks for some firms. Thus, boards of directors must expand the scope of their reviews of compensation arrangements.
+
+[SECTION]
+
+The Federal Reserve also is actively working to incorporate the lessons learned from recent experience into our supervision activities. As part of these efforts, we are in the process of developing enhanced guidance on compensation practices at U.S. banking organizations. The broad goal is to make incentives provided by compensation systems at bank holding companies consistent with prudent risk-taking and safety and soundness. In developing this guidance, we are giving careful thought to the fundamental sources of incentive problems, as well as to the rationale for, and role of, possible action by supervisors in this area.  This process includes drawing on the broad range of expertise within the Federal Reserve, as well as on available research concerning the underlying economic forces at work and how they may influence the design, implementation, and likely effects of incentive compensation systems. In addition, we are drawing on our experience in implementing existing regulations and guidance in order to ensure that our efforts are balanced, effective, and work in concert with other supervisory and management tools in pursuit of prudent risk-taking.
+
+[SECTION]
+
+Forces Giving Rise to Incentive MisalignmentAt least two factors directly influence how compensation might affect the safety and soundness of financial institutions. First, shareholders cannot directly control the day-to-day operations of a firm--especially a large and complex firm--and must rely on the firm's management to do so, subject to direction and oversight by shareholder-elected boards of directors. Incentive compensation arrangements are one way that firms can encourage managers to take actions that are in the interests of shareholders and the long-term health of the firm. However, compensation programs can incentivize employees to take additional risk beyond the firm's tolerance for, or ability to manage, risk in the course of reaching for more revenue, profits, or other measures that increase employee compensation. Second, where managers have substantial influence over compensation arrangements, they may use that influence to create or administer incentive arrangements in ways that primarily advance the short-term interests of managers and other employees, rather than the long-term soundness of the firm.
+
+[SECTION]
+
+Collective action or "first mover" problems may make it difficult for individual firms to act alone in addressing misaligned incentives. Even if the owners of an individual firm do not like the way compensation is structured at their firm, they may be unwilling to make unilateral changes because doing so might mean losing valuable employees and business to other firms. In this context, the problems are a side-effect of labor market competition, which itself has positive societal benefits.
+
+[SECTION]
+
+Supervisors can play an important and constructive role in counteracting the impact of these forces on the safety and soundness of financial institutions. First, supervisors can press all financial institutions, especially those active in business lines for which incentive payments are common and large, to adopt sound compensation practices that restrain inappropriate incentives, but that each institution might be wary of adopting alone. By doing so, supervisors can help to better align the interests of managers and other employees with the long-term health of the organization, and also reduce firms' concerns about the potential for adverse competitive consequences from prudently modifying their compensation arrangements. Second, supervisors can usefully add to the impetus for improvement in compensation practices that is already coming from shareholders, directors, and other stakeholders.
+
+[SECTION]
+
+Existing Policies and Practices Related to CompensationOur supervisory experience also provides important perspectives as we seek to move forward. Since 1995, the Federal Reserve and the other federal banking agencies have had in place interagency standards for safety and soundness (Standards) for all insured depository institutions.2 These Standards, which were adopted pursuant to the Federal Deposit Insurance Corporation Improvement Act of 1991 (FDICIA), prohibit as an unsafe or unsound practice both excessive compensation and any compensation that could lead to material financial loss to the insured depository institution. The Standards provide that compensation will be considered excessive if the amounts paid are unreasonable or disproportionate to the services performed by the relevant executive officer, employee, director, or principal shareholder and set forth a variety of factors that will be considered in determining whether compensation paid in a particular instance is unreasonable or disproportionate. Importantly, FDICIA specifically prohibits the agencies from using the Standards to prescribe a specific level or range of compensation permissible for directors, officers, or employees of insured depository institutions.
+
+[SECTION]
+
+More recently, in November 2008, the Federal Reserve, in conjunction with the other federal banking agencies, issued an interagency statement reminding banking organizations that they are expected to regularly review their management compensation policies to ensure that they are consistent with the longer-run objectives of the organization and sound lending and risk- management policies.3 This statement provides that management compensation policies should be aligned with the long-term prudential interests of the institution, should provide appropriate incentives for safe and sound behavior, and should structure compensation to prevent short-term payments for transactions with long-term horizons. In addition, it states that management compensation practices should balance the ongoing earnings capacity and financial resources of the banking organization, such as capital levels and reserves, with the need to retain and provide proper incentives for strong management.
+
+[SECTION]
+
+The Federal Reserve also was actively involved in the development of the Principles for Sound Compensation Practices issued by the Financial Stability Board in April 2009.4 These principles, which are aimed primarily at large financial institutions, establish a common set of guidelines designed to help address the compensation-related lessons learned from the crisis and ensure that compensation practices at large financial institutions do not encourage imprudent risk-taking. The international nature of the FSB is particularly important because competition among financial institutions--both for business and talent--is increasingly global in nature.
+
+[SECTION]
+
+Enhancing Compensation Practices, Corporate Governance and the Risk-Sensitivity of Compensation Arrangements Designing and implementing compensation arrangements that properly incent managers and employees to pursue the firm's long-term well being is a highly complex task. Indeed, there is no generally accepted view as to the optimal way to achieve these objectives at an individual firm or across the financial sector. Our recent and continuing work in this area, however, suggests that there are certain key principles that can serve as important guides to efforts by financial institutions and supervisors to better align compensation practices with the safety and soundness of financial institutions.
+
+[SECTION]
+
+Broad Review of Compensation Practices. First, care must be taken to properly align the incentives of compensation paid to employees throughout an organization. It is not sufficient to focus only on compensation paid to senior executives. Employees throughout a firm may expose the firm to significant risk, and improperly designed compensation programs may incent a wide range of employees to take on risk that, in the aggregate, is inappropriate or excessive. For example, sales employees who are compensated based on the volume of transactions without adjustments for noncompliance with legal requirements may be incented to ignore--or at least pay insufficient attention to--applicable laws and regulations.
+
+[SECTION]
+
+Making Compensation More Sensitive to Risk. Second, compensation practices should not reward employees with substantial financial awards for meeting or exceeding volume, revenue, or other performance targets without due regard for the risks of the activities or transactions that allowed these targets to be met. One key to achieving a more balanced approach between compensation and risk is for financial institutions to adjust compensation so that employees bear some of the risk associated with their activities as well as sharing in increased profit or revenue. An employee is less likely to take an imprudent risk if incentive payments are reduced or eliminated for activity that ends up imposing higher than expected losses on the firm.
+
+[SECTION]
+
+There are several ways that compensation can be adjusted for risk. For example, one approach involves deferring some or all of an incentive compensation award and reducing the amount ultimately paid if the earnings from the transactions or business giving rise to the award turn out to be less than had been projected. Another way to improve the risk sensitivity of compensation is to take explicit account of the risk associated with a business line or employee's activities--such as loan origination or trading activities--in the performance measures and targets that determine the amount of incentive compensation initially awarded.
+
+[SECTION]
+
+Both approaches offer promise, but both have important limitations as well. For example, ready job mobility poses a major challenge to deferral-oriented restraints on incentives, especially if the employee is able to receive some or all of the deferred amounts upon departure or the employee's new firm is willing to provide a signing bonus equivalent in value to any deferred compensation left behind at the prior firm. Deferral arrangements also can pose a variety of contractual, legal, tax, and technical challenges. In addition, adjusting incentive compensation targets and amounts to account for risk requires an institution to have reasonably accurate indicators of all risks relevant to the business line or activity being rewarded. However, the quality of risk indicators is uneven across activities and types of risk. For example, substantial challenges exist to the development of reliable indicators for certain types of risk, such as reputational, liquidity, and compliance risk. The aggregation of different types of risks into a single risk metric also is a highly complex and difficult process that involves substantial judgments. Moreover, organizations, experts, and researchers to date have not focused much attention on how proper risk-adjusted compensation arrangements could be designed for the many lower-level employees outside the ranks of senior management. Developing and implementing an appropriately risk-sensitive compensation system across the full range of a large firm's businesses will be a highly complicated and difficult task.
+
+[SECTION]
+
+Firms have had some success in incorporating risk into deferred compensation, particularly for senior management, by paying performance awards in the form of company stock with multi-year vesting requirements. However, while this might be one important component of a sound incentive compensation system, stock-based compensation has not proven to be a panacea. Compensating top executives in the form of stock and deferring payouts through multi-year vesting and holding requirements did not prevent executives at some firms from permitting their firms to take on risks that endangered the firm's health and, by implication, a substantial part of the executives' own wealth. Experience suggests that it is difficult to incentivize senior managers to reduce risk by altering business practices that have been lucrative in the past or that appear to be profitable for competing firms. In addition, equity-based incentive compensation may be less effective in aligning the incentives of mid- and lower-level employees with the interests of the firm because these employees may view the outcome of their decisions as unlikely to have much effect on the firm or its stock price.
+
+[SECTION]
+
+Let me be clear--these limitations do not suggest that supervisors and firms should not move quickly to improve compensation arrangements. Rather, they simply highlight that more work and attention must be devoted to understanding and developing compensation practices that promote the proper incentives, which will require some time and perhaps investment by the industry. It also means that judgment and common sense will and should play a continuing and important role in the compensation structures of financial institutions, particularly while institutions work towards developing better quantitative measures for risk-adjusting compensation. In addition, these limitations highlight the need for both experimentation and flexibility in approaches by financial institutions. One size certainly does not fit all, and institutions will need to have flexibility as they work toward implementing appropriate risk-sensitive incentive compensation across the wide diversity of their operations.
+
+[SECTION]
+
+Risk Management and Corporate Governance. Third, more can and should be done to improve risk management and corporate governance as it relates to compensation practices. Our discussions with market participants and supervisory experience suggest that risk controls are a necessary complement to--and not a substitute for--prudent compensation systems in protecting against excessive risk-taking. Risk controls take many forms, but they can have their full effect only if governance processes are sound and risk managers have the influence, incentives, and resources to play their proper role. For these reasons, it is critical that the compensation for risk management and control functions at financial firms be adequate to attract personnel with appropriate expertise and that these personnel not be compensated based on the financial performance of the business line for which they are responsible.
+
+[SECTION]
+
+Review of a firm's compensation practices also must involve the board of directors. The board of directors provides an important link between the shareholders of a firm and its management and employees. Active engagement by the board of directors or, as appropriate, its compensation committee, in the design and implementation of compensation arrangements promotes alignment of the interests of employees with the long-term health of the organization.
+
+[SECTION]
+
+Boards of directors will need to take a more informed and active hand in making sure that compensation arrangements throughout the firm strike the proper balance between risk and profit, not only at the initiation of a compensation program, but on an ongoing basis. For example, the role of the board of directors or, in appropriate circumstances, its compensation committee should include review and approval of the key elements of the firm's compensation system, after-the-fact evaluations of how well the firm's compensation systems have achieved their objectives, and an understanding and evaluation of the internal controls and risk-management processes related to compensation. For this engagement to be most effective, members of the boards of directors and, where appropriate, their compensation committees must have the experience, knowledge, and resources needed to understand and address the complex interactions and incentives created by compensation programs firm-wide.
+
+[SECTION]
+
+Importantly, if incentive compensation arrangements are going to achieve their intended purposes--including managing risk and improving performance--the standards governing the arrangements at each firm must be regularly and symmetrically applied. Firms must not only provide rewards when performance standards are met or exceeded, they must also reduce compensation when standards are not met.
+
+[SECTION]
+
+ConclusionImproving compensation practices at financial institutions is important. Compensation arrangements must continue to allow financial institutions to attract, retain, and motivate talented employees, but they also must not provide incentives for managers and employees to take excessive risks. And while the issues and concerns associated with improperly designed compensation practices are common, no single compensation system will address all types of risks or work well in all types of firms. Each firm ultimately must determine how to address these matters in a way most suited to that firm's business, structure, and risks.
+
+[SECTION]
+
+Improvements in compensation practices are likely to be harder to make and take longer than anyone would like. Companies compete for talented employees in a global market. This creates a collective action problem: No firm wants to be the first to appear to reduce compensation even if that would be in the firm's long-term interest. The risk of losing the firm's best employees or being unable to hire new quality personnel is likely to appear too great.
+
+[SECTION]
+
+Encouragement by supervisors, shareholders, and others can help alleviate this problem. However, regulation that is too severe and that does not recognize that the market for quality employees is global will threaten more harm than it will do good. The Federal Reserve currently is developing enhanced guidance that seeks to strike this balance and promote safe and sound compensation practices at financial institutions under our jurisdiction.
+
+[SECTION]
+
+I appreciate the Committee's interest in this important topic and am happy to answer any questions you may have.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+The Institute of International Finance, Inc. (2009), Compensation in Financial Services: Industry Progress and the Agenda for Change, March (Washington:  IIF). Return to text
+
+[SECTION]
+
+See Regulation H--Membership of State Banking Institutions in the Federal Reserve, 12 C.F.R. part 208, appendix D-1. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, and Office of Thrift Supervision (2008), "Interagency Statement on Meeting the Needs of Creditworthy Borrowers," joint press release, November 12. Return to text
+
+[SECTION]
+
+The FSB was established to address vulnerabilities and to develop and implement strong regulatory, supervisory, and other policies in the interest of financial stability.  It is composed of senior representatives of national financial authorities (central banks, regulatory and supervisory authorities, and ministries of finance), international financial institutions, standard setting bodies, and committees of central bank experts.  For more information on the FSB, see www.financialstabilityboard.org/index.htm. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

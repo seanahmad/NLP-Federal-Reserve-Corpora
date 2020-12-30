@@ -1,0 +1,101 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear before the Committee to discuss the arrangements the Federal Reserve is making to ensure the timely delivery of veterans' benefit payments made by direct deposit during the rollover to the Year 2000.  Veterans and their families depend on Federal Reserve systems to reliably deliver their payments electronically to their banks.  We believe that they should feel confident that their benefits will be paid as usual during and after the rollover to the Year 2000.  I will review the Federal Reserve's role in processing these payments and address the Federal Reserve's Year 2000 preparations.  I will also be pleased to answer any questions you may have.
+
+[SECTION]
+
+The Federal Reserve Banks provide a variety of payment services to banks and U.S. government agencies.1   These services range from electronic payment mechanisms, such as Fedwire funds transfer and automated clearing house (Fed ACH), to check collection.  As fiscal agents of the United States, the Reserve Banks use these services to collect and disburse payments on behalf of government agencies.  Government payments are typically originated by federal agencies through the Treasury Department's Financial Management Service (FMS), which in turn delivers payment instructions to the Federal Reserve for subsequent delivery to banks or processors.  Most government payments are made electronically using the Fed ACH service.
+
+[SECTION]
+
+For veterans' benefit payments, the Department of Veterans Affairs provides instructions to FMS about the payments to be made and the method to be used.  (Currently seventy-five percent of veterans' payments are made by ACH and twenty-five percent by check.2)  FMS in turn creates an ACH payments file that includes the payment 
+amount, beneficiary identification, settlement date, receiving bank routing information, and total dollar amount for all payments in the file.  FMS sends the file electronically to the Federal Reserve three to four days before the payment date.  The Fed ACH software 
+edits the data for accuracy, sorts the payment information by receiving bank, sends a payment file to each receiving bank, and initiates accounting entries that will debit the Treasury's account and credit the receiving banks' accounts on the payment date.  Receiving banks credit customers' accounts on the scheduled payment date.
+
+[SECTION]
+
+Because of our intermediary role as a payments processor, the Federal Reserve's Year 2000 readiness preparations involve both our internal systems and our external interfaces to other organizations, such as banks and FMS.  Along with other federal banking regulators, we have advised banks to test, at a minimum, all mission-critical systems by June 30, 1999, and we have provided the facility for banks to test their interfaces with us.  We are also working with U.S. government agencies to test their automated interfaces with the Federal Reserve by exchanging ACH test files.
+
+[SECTION]
+
+The Federal Reserve's mission-critical systems used to deliver veterans' benefit payments through the ACH are Year 2000 ready and in production.  FMS has tested its interface to the Fed ACH system and has reported no problems.  In fact, the GAO recently reviewed critical Federal Reserve systems, including Fed ACH, and determined that the Federal Reserve has effective management controls for its internal Year 2000 program.  The GAO's report, which was released earlier this month, noted no 
+concerns about the Federal Reserve's Year 2000 readiness.3, 4
+
+[SECTION]
+
+Beginning in June 1998, the Federal Reserve offered to the Treasury, other government agencies, banks, and processors the opportunity to test future-dated ACH transactions and related accounting functions.  We are encouraging all banks, especially those that originate a large volume of ACH payments, to test with the Federal Reserve as soon as possible.  As of last week, about 6,400 banks, representing 67 percent of the Federal Reserve's ACH customers, had tested their automated interfaces with the Federal Reserve by exchanging Fed ACH test files that contain post-1999 dates.  We will continue to offer testing opportunities through early 2000.
+
+[SECTION]
+
+We realize that the success of our Year 2000 program will be measured by our ability, and the public's confidence in our ability, to conduct business on and after January 3, 2000.  Thus, the Federal Reserve will have contingency and business resumption plans in place for ACH payments.  We are coordinating these efforts with the Treasury and other government agencies.  Back-up arrangements being offered by the Reserve Banks include magnetic tape options and paper listings from which banks could post accounts.  We believe, however, that if there are any disruptions, they will be mild and short-lived.
+
+[SECTION]
+
+Boards of directors and senior managers of banks are working to ensure the Year 2000 readiness of their systems.  Bank regulators are providing guidance, encouragement, and strong incentives to the banking industry to address the Year 2000 challenges, but management bears the responsibility for their institutions' readiness.  In 1997, the Federal Reserve and the other Federal Financial Institutions Examination Council agencies started a three-phase Year 2000 supervision program for the banks they oversee.  This program is intended to elevate the awareness of Year 2000 issues, monitor the progress of banks' Year 2000 planning and readiness efforts, and require banks that are lagging in their Year 2000 preparedness efforts to develop specific plans to remedy deficiencies.  Based on the assessments of bank supervisors at the Federal Reserve and the other banking agencies, we believe that the industry has made great progress in Year 2000 preparedness.
+
+[SECTION]
+
+The Federal Reserve actively participates in the President's Council on Year 2000 Conversion and a senior Federal Reserve official chairs the Council's Financial Sector Group.  This Group comprises federal agencies with large payment volumes, including the Department of Veterans Affairs.  We are also coordinating closely with numerous other government and industry entities to ensure that payments flow normally as the year rolls over.
+
+[SECTION]
+
+In conclusion, preparation for the Year 2000 will continue to be one of the Federal Reserve's highest priorities.  Internal Federal Reserve systems used to deliver veterans' benefit payments have been modified, tested, and placed into production.  As I have indicated, testing with banks and the Treasury is continuing.  Extensive business resumption plans are being developed and reviewed.  Every bank's Year 2000 preparedness efforts have been examined twice, and the Federal Reserve, like the other regulators, has found that the majority of institutions are making satisfactory progress in their Year 2000 readiness programs.  Those institutions identified as lagging in their Year 2000 efforts have been targeted for additional follow-up and, if necessary, formal enforcement actions.  While we expect that the industry may experience some minor or localized problems during the rollover, the Federal Reserve fully expects to conduct business as usual through the Year 2000.  Veterans and their families should feel confident that their benefits will be paid as usual.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+1
+For purposes of this discussion, the term "bank" includes all depository institutions, such as savings and loans and credit unions.
+
+[SECTION]
+
+2
+Federal Reserve Banks pay Treasury issued checks as fiscal agents of the Treasury.
+
+[SECTION]
+
+3
+Year 2000 Computing Crisis: Federal Reserve Has Established Effective Year 2000 Management Controls for Internal Systems Conversion (GAO/AIMD-99-78, April 9, 1999).
+
+[SECTION]
+
+4
+In addition, major private sector ACH operators -- the American Clearing House Association, the New York Automated Clearing House, and Visa USA -- have reported that their computer systems are Year 2000 ready.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: April 20, 1999, 2:30 PM

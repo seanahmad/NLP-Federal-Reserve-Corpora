@@ -1,0 +1,249 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 27, 2011
+
+[SECTION]
+
+Mark E. Van Der Weide, Senior Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Oversight and Investigations, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Neugebauer, Ranking Member Capuano, and members of the Subcommittee, thank you for the opportunity to discuss section 939A of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act). To help achieve the important objective of reducing governmental and private sector reliance on credit ratings, section 939A requires all federal agencies to review their regulations for references and requirements related to credit ratings, remove such credit rating references and requirements from their regulations, and replace them with appropriate alternative standards of creditworthiness.
+
+[SECTION]
+
+In my testimony, I will first describe how the Board has used credit ratings in its regulations. I will then discuss the problems associated with credit ratings that were observed during the recent financial crisis and how section 939A of the Dodd-Frank Act attempts to address those problems. Lastly, I will discuss the most important considerations in developing alternative standards of creditworthiness and describe the Board's efforts to develop these standards.
+
+[SECTION]
+
+A credit rating is an assessment by a third-party rating firm of the credit risk of a financial instrument--that is, whether the issuer of the instrument (the borrower) will meet its contractual obligations to pay principal and interest to the holder of the instrument (the creditor). As detailed in the report the Board submitted to the Congress last week, in accordance with section 939A,1 the Board has reviewed its regulations for references to and requirements regarding the use of credit ratings. In all, we identified 46 references to or requirements regarding credit ratings in our regulations.
+
+[SECTION]
+
+Most of these references to credit ratings are in the Board's risk-based capital rules for state member banks and bank holding companies. For example, under the Board's risk-based capital rules, a banking firm's capital requirements for certain securitization positions and trading positions are in whole or in part a function of the position's credit rating.2 Other references appear in regulations governing transactions between banks and their affiliates, in regulations on international banking operations, and in regulations governing state member bank investments in financial subsidiaries. For example, whether a foreign branch of a U.S.bank may invest in a foreign government debt obligation may depend on the credit rating of the obligation.3
+
+[SECTION]
+
+For many years before the introduction of credit ratings in banking regulations, investors had used credit ratings to assist them in making investment decisions. Credit ratings provided a uniform, market-driven, third-party assessment of the creditworthiness of countries, state and local governments, and companies. Federal agencies later incorporated credit ratings into their regulatory frameworks in part because of these same positive attributes.
+
+[SECTION]
+
+The recent financial crisis, however, made manifest serious flaws associated with the methodologies and processes used to determine credit ratings, particularly ratings for structured finance positions. For example, the rating agencies used untested models that were revealed to be based on flawed assumptions and that relied on limited and unverified data about underlying asset pools to predict default frequencies of structured finance positions. The rating agencies also provided insufficient transparency to market participants about those models and about how their ratings of structured finance positions differed from ratings of unstructured debt. In addition, the rating agencies suffered from potential conflicts of interest due to their "issuer pays" compensation arrangements and other factors.
+
+[SECTION]
+
+These flaws contributed to the issuance of credit ratings that severely underestimated the credit risk of many mortgage- and asset-backed securities. Investors, for their part, relied too heavily and uncritically on these ratings in making investment decisions. Indeed, downward revaluations of many of these securities by market participants between 2007 and 2009, and the resulting loss of confidence in the accuracy of credit ratings, contributed meaningfully to the destabilizing dynamics of the recent financial crisis.
+
+[SECTION]
+
+Section 939A of the Dodd-Frank Act is one of a number of provisions in title IX of the statute intended to address the various problems associated with credit ratings and the rating agencies that became evident during the crisis. Section 939A was intended to help address these problems by removing credit ratings from federal regulations, thereby helping eliminate any government-induced demand for, and reliance on, ratings. In place of ratings, under section939A, the Board (and each other federal agency) generally must substitute appropriate alternative standards of creditworthiness that are as uniform as possible.
+
+[SECTION]
+
+The level of difficulty associated with removing credit ratings from the Board's regulations varies considerably from regulation to regulation. Complete removal of credit ratings from the Board's risk-based capital rules for banking firms poses the greatest challenge. To protect the safety and soundness of individual banking firms and of financial stability more broadly, we are striving to develop alternative standards of creditworthiness for use in our risk-based capital rules that possess the virtues of credit ratings but not the vices.
+
+[SECTION]
+
+There are several key characteristics of a good alternative creditworthiness standard. Most importantly, the standard should be reliably risk-sensitive; it should effectively measure the relative credit risk of various types of financial instruments and counterparties. Reducing the risk sensitivity of the risk-based capital rules would make a banking firm's risk-based capital ratios less informative of the firm's capital adequacy and would make the capital rules easier to arbitrage. In addition, the standard should result in a consistent and transparent application across different types of financial instruments and counterparties. Moreover, the standard ideally should auto-adjust on a timely basis to reflect changes in the credit-risk profile of an instrument or counterparty and should auto-adapt to cover new financial market practices. Finally, the standard should be relatively simple to implement and should not increase the regulatory burden for banking firms, especially small banks. Obviously, credit ratings themselves do not meet all these criteria, and developing good replacements for credit ratings is a particularly difficult task.
+
+[SECTION]
+
+Since the Dodd-Frank Act was signed into law last July, the Board has been working with the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) to carry out the 939A mandate. To further this effort, in August2010, the Board and the other banking agencies issued an advance notice of proposed rulemaking requesting public comment on alternative standards of creditworthiness to be used in the risk-based capital rules. In addition, in November 2010, the Board hosted a roundtable discussion with the other banking agencies, academics, and industry experts to solicit views on how to replace credit ratings in our capital rules.
+
+[SECTION]
+
+Public commenters on our 939A efforts have expressed concern about the statutory mandate of section 939A and have suggested it could lead to competitive distortions across the global banking system and the domestic banking landscape. Most commenters have emphasized the need for alternative standards of creditworthiness to be risk-sensitive. In addition, commenters representing less complex banking firms have indicated that any alternative standard should be reasonably easy to implement, should allow banks of varying size and complexity to arrive at the same assessment of creditworthiness for similar exposures, and should take into account the costs and burdens imposed on small firms. We are particularly sensitive to the difficulties of constructing effective, low-burden replacement standards for smaller banks, which have less credit-risk assessment resources than large banks.
+
+[SECTION]
+
+The Board continues to work closely with the other banking agencies to develop appropriate alternative standards for banking firms to use to meet regulatory requirements for assessing the credit risk of financial instruments and counterparties. We are considering a number of approaches, including approaches that rely on market-based indicators, such as bond spreads; approaches that rely on balance-sheet financial ratios; and approaches that rely on internal assessments of credit risk by banking firms. Each of these approaches, like the use of credit ratings, has strengths and weaknesses. The Board anticipates that it will propose amendments to remove references to credit ratings from its regulations in the near future, including through proposals to implement recent international agreements on capital by the Basel Committee on Banking Supervision.
+
+[SECTION]
+
+The Board also has been active in the international efforts to encourage reduced dependence on credit ratings across the global financial system. Such efforts include the development and publication of principles by the Financial Stability Board in 2010 for reducing reliance on credit ratings by supervisors and market participants as well as work that is currently being conducted by the Basel Committee to revise the Basel capital framework to reduce reliance on ra tings.4 Although the international financial regulatory community is working to reduce reliance on credit ratings, the Basel capital framework (including several components of the recent Basel III agreement) continues to incorporate credit ratings in material ways. Accordingly, we will need to find ways to synchronize our 939A changes with the global bank-capital accords.
+
+[SECTION]
+
+The Board welcomes input from the public and from members of the Subcommittee on this important issue of public policy. Thank you for the opportunity to describe the Board's efforts to date to implement section 939A of the Dodd-Frank Act. I am happy to answer any questions.
+
+[SECTION]
+
+
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2011), Report to the Congress on Credit Ratings (235 KB PDF) (Washington: Board of Governors, July). Return to text
+
+[SECTION]
+
+See 12 CFR parts 208 and 225, Appendix A, §III, and Appendix E. Return to text
+
+[SECTION]
+
+See 12 CFR 211.4. Return to text
+
+[SECTION]
+
+See Financial Stability Board (2010), Principals for Reducing Reliance on CRA Ratings (134 KB PDF)  (Basel, Switzerland: Financial Stability Board, October). Return to text
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

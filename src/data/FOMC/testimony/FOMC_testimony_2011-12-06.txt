@@ -1,0 +1,252 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+December 06, 2011
+
+[SECTION]
+
+Governor Daniel K. Tarullo
+
+[SECTION]
+
+Before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Johnson, Ranking Member Shelby, and other members of the committee, thank you for the opportunity to testify on the Federal Reserve's implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act).
+
+[SECTION]
+
+The Federal Reserve's Approach to Dodd-Frank Implementation
+       Needless to say, implementation of the Dodd-Frank Act has been, and continues to be, a formidable task.  At the Federal Reserve, hundreds of staff members are contributing to Dodd-Frank projects.  We have issued 29 final rules, public notices, and reports already and we have another 13 rules underway.  All told, we expect the Board will issue approximately 60 sets of rules and formal guidelines as part of its implementation efforts.  We are working diligently to complete the remaining rules.  The challenge arises from the sheer number of studies, rules, and other implementation tasks the Act requires the Federal Reserve to produce in a relatively short period of time.  Moreover, much of the work involves the more time-consuming process of joint rulemakings or coordination with other agencies, all of which are facing similar demands.
+
+[SECTION]
+
+For all the variation and complexity in our Dodd-Frank implementation responsibilities, we have several unifying goals.
+
+[SECTION]
+
+First and foremost, we want to get it right.  This means implementing the statute faithfully, in a manner that maximizes financial stability and other social benefits at the least cost to credit availability and economic growth.  To achieve this balance, we have assembled interdisciplinary teams for our significant rulemakings, bringing together economists, supervisors, legal staff, and other specialists to help develop sensible policy alternatives and to help avoid unintended consequences.
+
+[SECTION]
+
+Second, in addition to a thorough internal analytic process, we also are committed to soliciting and considering the comments of others.  We are, of course, consulting extensively with other financial regulatory agencies, both bilaterally and through the Financial Stability Oversight Council.  The interagency consultation process has included staff discussions during the initial policy development stage, sharing of draft studies and regulatory text in the interim phases, and dialogue among agency principals in the advanced stages of several rulemakings.
+
+[SECTION]
+
+Along with the other agencies testifying today, we have gone well beyond the formal consultation requirements of Dodd-Frank.  Members of the Board, as well as staff at senior levels, have regular meetings with their counterparts at other agencies to discuss implementation issues of common interest.  Consultations at multiple levels and across agencies help to improve the consistency of regulation across the banking industry and reduce the potential for overlapping regulatory requirements.  In addition, these consultations help highlight the interaction among different rules under development by these agencies, as well as the interplay between proposed policy alternatives and existing regulations.
+
+[SECTION]
+
+We are also trying to make our rulemaking process as fair and transparent as possible, with ample opportunity for the public to comment.  During the proposal stage, we specifically seek comment from the public on the costs and benefits of our proposed approach, as well as on alternative approaches to our proposal.  We believe strongly that public participation in the rulemaking process improves our ability to identify and resolve issues raised by our regulatory proposals.  We generally provide the public a minimum of 60 days to comment on all significant rulemaking proposals, with longer periods permitted for especially complex or significant proposals.
+
+[SECTION]
+
+Federal Reserve staff have participated in more than 300 meetings with outside parties and their representatives, including community and consumer groups.  To promote transparency in the rulemaking process, we include in the public record a memorandum describing the attendees and subjects covered in any meetings involving non-governmental participants at which Dodd-Frank rulemakings are discussed.  These summaries are posted on the Federal Reserve Board's website on a weekly basis, as are updates on Board rulemakings and other Dodd-Frank initiatives.
+
+[SECTION]
+
+Third, in drafting regulations, we have made special efforts to identify and, to the degree possible consistent with statutory requirements, minimize the regulatory burden on smaller entities.  We conduct an assessment that takes appropriate account of the potential impact a rule may have on small businesses, small governmental jurisdictions, and small organizations affected by the rule, in accordance with the Regulatory Flexibility Act.  We have paid particular attention to reducing the regulatory burden on community banking organizations.  For example, the Federal Reserve has established community depository institution advisory councils at each of the 12 Federal Reserve banks.  These councils gather input from community depository organizations on ways to reduce regulatory burden and improve the efficiency of our supervision, and also collect information about the economy from the perspective of community organizations throughout the nation.  A representative from each of these 12 advisory councils serves on a national Community Depository Institution Advisory Council that meets semiannually with the Board of Governors to bring together the ideas of all the advisory groups.
+
+[SECTION]
+
+The Board of Governors has also established a subcommittee of our regulatory and supervisory oversight committee for the express purpose of reviewing all regulatory matters from the perspective of community depository organizations.  These reviews are intended to find ways to reduce the burden on community depository organizations arising from our regulatory policies without reducing the effectiveness of those policies in improving the safety and soundness of depository organizations of all sizes.
+
+[SECTION]
+
+Fourth, we are working to complete our Dodd-Frank projects as quickly as possible while meeting the three objectives already stated.  There is obviously considerable value in providing as much clarity as possible as soon as possible to financial markets and the public about the post-crisis financial regulatory landscape.
+
+[SECTION]
+
+Capital Regulation after Dodd-Frank
+ The breadth of Dodd-Frank's provisions reflects in part that the pre-crisis regulatory regime had been insufficiently attentive to a variety of risks from a variety of sources.  But we should not forget that strong capital requirements remain the most supple form of prudential regulation, because they can provide a buffer against bank losses from any source.  To put it simply, the best way to avoid another TARP is for our large regulated institutions to have adequate capital buffers, reflecting the damage that would be done to the financial system were such institutions to fail.
+
+[SECTION]
+
+Implicitly, passage of Dodd-Frank was a criticism of the specific features of capital regulation that prevailed during the pre-crisis period.  Basel I capital requirements relied almost exclusively on capital ratios that were snapshots of balance sheets and thus frequently a lagging indicator of a bank's condition.  The kind of capital that qualified for regulatory purposes was not uniformly reliable as a buffer against losses.  Moreover, capital requirements were set solely with reference to the balance sheet of each firm individually, with little attention to the economy-wide impact of financial stress at large institutions.  And, most fundamentally, capital requirements had simply been too low, in general and with respect to the risk-weightings of certain assets.
+
+[SECTION]
+
+Strong capital requirements must be at the center of the post-crisis period regulatory regime.  The Federal Reserve is integrating the specific capital-related provisions of Dodd-Frank into its overall capital program.  That program has three basic components: improving capital regulation at the level of individual firms; introducing a macroprudential or system-wide element to capital regulation; and conducting regular stress testing and capital planning.  I will discuss each of the three areas briefly.
+
+[SECTION]
+
+The first component is to improve the traditional, firm-based approach to capital regulation.  This work is mostly related to standards developed in cooperation with other supervisors in the Basel Committee on Banking Supervision, but there is also a Dodd-Frank element.  The "Collins amendment" in Dodd-Frank provided a safeguard against declines in minimum capital requirements in a capital regime based on bank internal modeling.  The so-called Basel 2.5 agreement strengthened the market risk capital requirements of Basel II.  Basel III upgraded the quality of regulatory capital, increased the quantity of minimum capital requirements, created a capital conservation buffer, and introduced an international leverage ratio requirement.  In the coming months the banking agencies will be jointly proposing regulations consistent with Basel 2.5 and Basel III.
+
+[SECTION]
+
+The second component of our capital program is to introduce a macroprudential element to capital regulation.  Section 165 of the Dodd-Frank Act mandated that the Board establish enhanced risk-based capital standards for large bank holding companies.  This mandate complements the Basel Committee's effort to develop a framework for assessing a capital surcharge on the largest, most interconnected banking organizations based on their global systemic importance.  Both the Dodd-Frank provision and the Basel systemic surcharge framework are motivated by the fact that the failure of a systemically important firm would have dramatically greater negative consequences on the financial system and the economy than the failure of other firms.  In addition, stricter capital requirements on systemically important firms should help offset any funding advantage these firms derive from their perceived status as too-big-to-fail and provide an incentive for such firms to reduce their systemic footprint.
+
+[SECTION]
+
+Of course, Dodd-Frank requires the Federal Reserve to impose more stringent capital requirements on all bank holding companies with assets of $50 billion or more, not just the U.S. firms that will appear on the Basel Committee's list of global systemic banks.  No decision has yet been made as to whether the more stringent capital requirement to be applied to large U.S. banking firms that are not on the eventual list of global systemic banks will be in the form of a quantitative surcharge.  However, analysis of the systemic footprints of these other U.S. bank holding companies suggests that even if surcharges were to apply, their amounts would be quite modest, at least based on the current characteristics of these bank holding companies.
+
+[SECTION]
+
+The third component of the Federal Reserve's capital program is to establish regular, firm-specific stress testing and capital planning.  Dodd-Frank creates two kinds of stress-testing requirements.  First, it mandates that the Federal Reserve Board conduct annual stress tests on all bank holding companies with $50 billion or more in assets to determine whether they have the capital needed to absorb losses in baseline, adverse, and severely adverse economic conditions.  Second, it requires both these companies and certain other regulated financial firms with between $10 billion and $50 billion in assets to conduct internal stress tests.
+
+[SECTION]
+
+We will be implementing the specific stress-testing requirements of Dodd-Frank beginning later in 2012.  However, in the interim we are using a modified form of stress testing as part of the annual capital planning process we have established for large bank holding companies.  Last month we announced the parameters and process for this year's capital review, which will be completed in March, at which time the results of the stress test will be publicly reported for the 19 largest firms.
+
+[SECTION]
+
+Conclusion
+       For all the work that has already gone into implementing Dodd-Frank, both at the Federal Reserve and at the other regulatory agencies, there is still considerable work to do.  Final regulations implementing some of the Act's most important provisions, such as the "living will" requirement and the Collins amendment, are now in place.  Measures to implement other prominent provisions, such as the Volcker rule, have been proposed, but are not yet in final form.  Still others, such as the section 165 requirements, have not yet been proposed.  Whether completing work on proposed regulations, or moving forward with those yet to be proposed, the Federal Reserve will continue to pursue the four goals I noted earlier.
+
+[SECTION]
+
+Thank you very much for your attention.  I would be pleased to answer any questions you might have for me.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

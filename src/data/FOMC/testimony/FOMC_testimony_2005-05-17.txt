@@ -1,0 +1,268 @@
+Chairman Shelby, Senator Sarbanes, and members of the Committee, I appreciate the opportunity to appear today to discuss consumer credit card accounts.  The Board of Governors of the Federal Reserve System administers the Truth in Lending Act (TILA).  Enacted in 1968, TILA is the primary federal law governing disclosures for consumer credit, including credit card accounts.  It is implemented in the Board's Regulation Z.
+
+[SECTION]
+
+TILA has distinct rules for two categories of consumer credit:  open-end (revolving) credit plans, such as credit card accounts and other lines of credit; and closed-end (installment) transactions, such as auto loans and home-purchase loans.  Amendments targeting specific loan products or practices have been added over TILA's nearly forty-year history and the act was substantially revised by the Truth in Lending Simplification and Reform Act of 1980.
+
+[SECTION]
+
+TILA's purpose is to assure a meaningful disclosure of credit terms so that consumers can compare more readily the various credit terms available and avoid the uninformed use of credit.  TILA fulfills this purpose by requiring the uniform disclosure of costs and other terms to consumers.  TILA is also intended to protect consumers against inaccurate and unfair credit billing and credit card practices, which the act seeks to accomplish through procedural and substantive protections, including special rules for cardholders.
+
+[SECTION]
+
+Regulation Z review.  Regulation Z and its staff commentary have been reviewed and updated almost continuously, but not comprehensively since 1980.  In December 2004, the Board began a comprehensive review of Regulation Z, starting with the publication of an advance notice of proposed rulemaking (ANPR) on the rules for open-end credit that is not home-secured, such as general-purpose credit cards.1   The goal of the review is to improve the effectiveness and usefulness of open-end disclosures and substantive protections.  The public comment period recently closed, and the Board's staff will be carefully reviewing the comment letters as they consider possible changes to the regulations.  We also believe that consumer testing should be used to test the effectiveness of any proposed revisions, and anticipate publishing proposed revisions to Regulation Z in 2006.
+
+[SECTION]
+
+We recognize the hard work that is ahead.  The landscape of credit card lending has changed since TILA's disclosure rules for credit card accounts were first put in place.  Products and pricing are complex.  Credit card accounts can be used for purchases, cash advances, and balance transfers, and each means of access may carry different rates.  Promotional rates and deferred interest plans for limited time periods are commonly layered onto these basic features.  However, under some credit card agreements, paying late or exceeding a credit limit may trigger significant fees and a penalty rate that is applied to the entire outstanding balance, and may trigger higher rates on other credit card accounts.  Moreover, the amount of consumers' payments, how creditors allocate those payments to outstanding balances, and how the balances are calculated all affect consumers' overall cost of credit under open-end plans.
+
+[SECTION]
+
+The question is, of course, how might the Board revise its rules under TILA in a way that will enable consumers to more effectively use disclosures about the key financial elements of a particular credit card over the life of the account?  Simplifying the content of disclosures may be one way; finding ways to enhance consumers' ability to notice and understand disclosures may be another.  Reviewing the adequacy of TILA's substantive protections is a third, and the ANPR asks questions about each of these areas.  As the Regulation Z review proceeds, the Board will be grappling with the challenge of issuing clear and simple rules for creditors that both provide consumers with key information about complicated products (while avoiding so-called "information overload") and provide consumers adequate substantive protections, consistent with TILA.  For example, TILA contains procedures for resolving billing errors on open-end accounts, prohibits the unsolicited issuance of credit cards, and limits consumers' liability when a credit card is lost or stolen.
+
+[SECTION]
+
+To assist the Committee in its deliberations, I will provide an overview of TILA's rules affecting open-end credit plans, focusing on rules for credit card accounts.  I will discuss some of the major issues raised in the ANPR, and commenters' views on these issues.  I will also address compliance and enforcement issues, along with the role of consumer education in improving consumers' informed use of credit.
+
+[SECTION]
+
+Disclosures for Open-end Credit Plans
+
+TILA disclosures for open-end plans are provided to consumers:
+
+On or with credit card applications and solicitations, such as applications sent by direct mail.
+At account opening.
+Throughout the account relationship, such as on periodic statements of account activity and when the account terms change.
+
+[SECTION]
+
+Content. Generally, the disclosures provided with credit card 
+        applications, at account-opening and on periodic statements, address the 
+        same aspects of the plan; that is, in each case consumers receive information 
+        about rates, fees, and grace periods to pay balances without incurring 
+        finance charges. The level of detail differs, however.
+
+[SECTION]
+
+Disclosures received with a direct-mail credit card account application 
+        are intended to provide a snapshot to help the consumer decide whether 
+        or not to apply for the credit card account. For example, revolving open-end 
+        accounts involve calculating a balance against which a rate is applied. 
+        The method for calculating that balance may differ from creditor to creditor, 
+        however. Under TILA, identifying a balance calculation method by title, 
+        such as the "average daily balance method (including new purchases)," 
+        is sufficient at application. Account-opening disclosures are more detailed 
+        and complex, however, in part because the account-opening disclosures 
+        required under TILA are typically incorporated into the account agreement. 
+        The periodic statement discloses information specific to the statement 
+        cycle. In the case of balance calculation methods, the disclosure is typically 
+        identical to the account-opening disclosure.
+
+[SECTION]
+
+Creditors must also tell consumers about their rights and responsibilities under the Fair Credit Billing Act, a 1974 amendment to TILA that I will discuss later, which governs the process for resolving billing disputes.  In addition to explaining these rights in the account-opening disclosures, creditors must send reminders throughout the account relationship.  Under TILA, a detailed explanation must be sent about once a year; typically, however, creditors instead send an abbreviated reminder on the reverse side of each periodic statement, as permitted by Regulation Z.
+
+[SECTION]
+
+Format.  Generally, disclosures must be in writing and presented in a "clear and conspicuous" manner.  For credit card application disclosures, the "clear and conspicuous" standard is interpreted to mean that application disclosures must be "readily noticeable."  Disclosures that are printed in a twelve-point type size have a safe harbor in the regulation under this standard.
+
+[SECTION]
+
+Disclosures for direct-mail credit card account applications have the most regimented format requirements.  The disclosures must be presented in a table with headings substantially similar to those published in the Board's model forms.  Regulation Z's sole type-size requirement also applies to direct-mail application disclosures; the annual percentage rate for purchases must be in at least eighteen-point type size.  Format requirements for credit card account applications available to the general public ("take-one's") are quite flexible.  At the card issuer's option, take-one disclosures may be in the form required for direct-mail applications, an abbreviated narrative, or a simple statement that costs are involved that provides information about where details can be obtained.
+
+[SECTION]
+
+Compared to application disclosures, account-opening and periodic statement disclosures are governed by few specific format requirements.  Except in the context of recently enacted amendments to TILA contained in the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 ("2005 Bankruptcy Act"), disclosures need not be presented in any particular order, nor is there any detailed guidance on the "clear and conspicuous" standard other than a requirement that the terms "finance charge" and "annual percentage rate" must be more conspicuous than any other term.
+
+[SECTION]
+
+The 2005 Bankruptcy Act contains several amendments to TILA, three of which are particularly relevant here.  The act generally requires creditors to provide on the front page of periodic statements a warning about the effects of making minimum payments and a standardized example of the time it would take to pay off an assumed balance if the consumer makes only the minimum payment, along with a toll-free telephone number that consumers can use to obtain estimates of how long it would take to pay off their actual account balance.  In addition, the act provides that if a temporary rate is offered on solicitations and applications, or promotional materials that accompany them, the term "introductory" must be "immediately proximate" to each listing of the temporary rate.  The expiration date and the rate that will apply when the introductory rate expires must be "closely proximate" to the first listing of the introductory rate in promotional materials.  Under the act, the Board must issue guidance regarding a "clear and conspicuous" standard applicable only to these minimum payment and introductory rate disclosures, including model disclosures.
+
+[SECTION]
+
+The Board has published model forms and clauses to ease compliance for many of TILA's disclosure requirements.  Creditors are not required to use these forms or clauses, but creditors that use them properly are deemed to be in compliance with the regulation regarding these disclosures.  The Board has published model forms for direct-mail credit card account application disclosures, but there are no model forms illustrating account-opening or periodic statement disclosures.
+
+[SECTION]
+
+Regulation Z review.  Considering how consumers' use of open-end credit, and credit cards in particular, has grown, and the increased diversity in credit products and pricing, the Board's ANPR asked a number of detailed questions about how to improve the effectiveness and usefulness of TILA's open-end disclosures, including how to address concerns about "information overload."  The Board also invited comment on how the format of disclosures might be improved, and whether additional model disclosures would be helpful.  The Board announced its intent to use focus groups and other research to test the effectiveness of any new disclosures.
+
+[SECTION]
+
+In general, commenters representing both consumers and industry believe that the regimented format requirements for TILA's credit card account application disclosures have proven useful to consumers, although a variety of suggestions were made to add or delete specific disclosure requirements.  Many, however, noted that typical account-opening disclosures are lengthy and complex, and suggested that the effectiveness of account-opening disclosures could be improved if key terms were summarized in a standardized format, perhaps in the same format as TILA's direct-mail application disclosure.  These suggestions are consistent with the views of some members of the Board's Consumer Advisory Council, who advise the Board on consumer financial services matters.  Industry commenters support the Board's intention to use focus groups or other consumer research tools to test the effectiveness of any proposed revisions.
+
+[SECTION]
+
+To combat "information overload," many commenters asked the Board to emphasize only the most important information that consumers need at the time the disclosure is given.  They asked the Board to avoid rules that require the repetitive delivery of complex information, not all of which is essential to comparison shopping for credit cards, such as a lengthy explanation of the creditor's method of calculating balances that is now required at account-opening and on periodic statements.  Commenters suggested that the Board would more effectively promote comparison shopping by focusing on essential terms in a simplified way.  They believe some information could also be provided to consumers through educational, non-regulatory methods.  Taken together, this approach could lead to simpler disclosures that consumers might be more inclined to read and understand.
+
+[SECTION]
+
+Truth in Lending's Cost Disclosures for Open-end Credit Plans
+As I have indicated, TILA is designed to provide consumers with information about the costs and terms of a particular form of credit, to enable consumers to make comparisons among creditors or different credit programs, or to determine whether they should obtain credit at all.
+
+[SECTION]
+
+Finance charges and other charges.  Creditors offering open-end credit must disclose fees that are "finance charges" and "other charges" that are part of the credit plan.  A "finance charge" is broadly defined as any charge payable directly or indirectly by the consumer and imposed directly or indirectly by the creditor, as an incident to or a condition of the extension of credit.  Interest, cash advance fees, and balance transfer fees are examples of finance charges.  Fees that are not incident to the extension of credit, but are significant charges imposed as part of an open-end plan must also be disclosed as "other charges."  Late payment fees, application fees, and recurring periodic membership fees that are payable whether or not the consumer uses the credit plan ("annual fees") are examples of other charges.
+
+[SECTION]
+
+Annual percentage rate.  Under TILA, the finance charge is also expressed as an annualized rate, called the Annual Percentage Rate, or APR.  Interestingly, within the Truth in Lending structure, the term represents three distinct calculations, one under TILA's rules for closed-end credit and two under the rules for open-end credit.
+
+[SECTION]
+
+For closed-end (installment) credit, the APR includes interest and finance charges other than interest, such as points or origination fees on mortgage loans.  Thus, the APR on closed-end transactions can be somewhat higher than the interest rate identified in the loan agreement, whenever other fees are present in the finance charge.
+
+[SECTION]
+
+APRs for open-end credit are calculated differently.  Interest is the only component of the APR that can be disclosed on credit card solicitations and applications, account-opening disclosures, and advertisements for open-end plans.  This is because the actual cost of credit to the consumer is unknown when these disclosures are provided, since the amount and timing of advances and the imposition of fees generally are in the consumer's control.
+
+[SECTION]
+
+Periodic statements must also disclose an "effective" or "historic" APR that reflects interest as well as finance charges other than interest, such as a cash advance fee, that were imposed during the past billing cycle.  Because non-interest finance charges are amortized over one billing cycle for purposes of disclosing the effective APR, such fees can result in a high, double-digit (or sometimes triple-digit) effective APR on periodic statements.  To avoid a skewed APR that could possibly mislead consumers, non-recurring loan fees, points, or similar finance charges related to the opening, renewing, or continuing of an open-end account are currently excluded from the effective APR that is disclosed for a particular billing cycle, under Regulation Z and the Board's official staff commentary.
+
+[SECTION]
+
+Regulation Z Review.  A major focus of the Board's Regulation Z review is how to disclose more effectively the cost of open-end credit.  For the industry as a whole, the types of fees charged on open-end consumer credit accounts have grown in number and variety.  To the extent these fees are not specifically addressed in TILA or Regulation Z, creditors are sometimes unsure whether the fee should be disclosed under TILA as a "finance charge" or an "other charge," or not disclosed under TILA at all.  The Board asked for comment in the ANPR on how to provide more certainty in classifying fees, and whether consumers would benefit from other disclosures that address the cost of credit, such as how creditors allocate payments.
+
+[SECTION]
+
+Commenters provided a variety of views.  Some suggested that creditors should disclose only interest as the "finance charge" and simply identify all other fees and charges.  Others suggested that all fees associated with an open-end plan should be disclosed as the "finance charge."  Above all, to mitigate the risks and potential liability for non-compliance, creditors seek clear rules that allow them to classify, with confidence, fees as a "finance charge" or an "other charge" under TILA, or as fees that are disclosed pursuant to the credit agreement or state law.  Under the statute, a creditor's failure to comply with TILA could trigger a private right of action by consumers and administrative sanctions by the federal agency designated in TILA to enforce its provisions with regard to that creditor.
+
+[SECTION]
+
+One of the Board's most difficult challenges in the Regulation Z review 
+        is to address the adequacy of periodic statement APRs. TILA mandates the 
+        disclosure of the effective APR on periodic statements, but its utility 
+        has been controversial. Consumer advocates believe it is a key disclosure 
+        that is helpful, and provides "shock value" to consumers when fees cause 
+        the APR to spike for the billing cycle. Commenters representing industry 
+        argued that the effective APR is not meaningful, confuses consumers, and 
+        is difficult to explain. They said the disclosure distorts the true cost 
+        of credit because fees are amortized over one billing cycle--typically 
+        thirty days--when the credit may be repaid over several months. Several 
+        commenters urged the Board to include in the effective APR calculation 
+        only charges that are based on the amount and duration of credit (interest). 
+        In response to the Board's ANPR, some commenters believe the effective 
+        APR might be more effectively understood if a disclosure on the periodic 
+        statement provided additional context.
+
+[SECTION]
+
+Comments received on the merits of requiring creditors to disclose payment allocation methods illustrate the competing interests in improving the overall effectiveness of cost disclosures.  Some commenters believe any additional disclosure about payment allocation methods would be excessive and that many card issuers already make such disclosures.  Others believe such a disclosure could be helpful to consumers but worry that descriptions might be overly detailed; some asked the Board to publish model disclosures to ensure clarity and uniformity.
+
+[SECTION]
+
+Rate increases.  Credit card account agreements typically allow card issuers to change interest rates and other fees during the life of the account.  Agreements spell out with specificity some potential changes, such as that the rate will increase if the consumer pays late.  Credit card agreements also more generally reserve the right to increase rates, fees, or other terms.
+
+[SECTION]
+
+The statute does not address changes in terms to open-end plans.  Regulation Z, however, requires additional disclosures for some changes.  The general rule is that fifteen days' advance notice is required to increase the interest rate (or other finance charge) or an annual fee.  However, advance notice is not required in all cases.  A notice is required, but not in advance, if the interest rate increases due to a consumer's default or delinquency.  And if the creditor specifies in advance the circumstances under which an increase to the finance charge or an annual fee will occur, no change-in-terms notice is required when those circumstances are met before the change is made.  This is the case, for example, when the agreement specifies that the interest rate will increase if the consumer pays late.  Under Regulation Z, because the card issuer has specified when rates will increase in the account agreement, the creditor need not provide advance notice of the rate increase; the new rate will appear on the periodic statement for the cycle in which the increase occurs.
+
+[SECTION]
+
+Regulation Z review.  The ANPR asked how consumers were informed about rate increases or other changed terms to credit card accounts, and whether the current rules were adequate to allow consumers to make timely decisions about how to manage their accounts.
+
+[SECTION]
+
+Comments were sharply divided on this issue.  Some consumers believe there is not enough advance notice for changes in terms, and believe a much longer time period is needed to find alternative credit sources.  Creditors generally believe the current rules are adequate.  The fifteen days' advance notice is sufficient, they stated, because change-in-term notices are typically sent with periodic statements, which means as a practical matter consumers receive about a month's notice before the new term becomes effective.  Creditors noted that many states require at least thirty days' advance notice and allow consumers to "opt-out" of the new terms by closing the account and paying the outstanding balance under the former terms.  For rate (and other) changes not involving a consumer's default, a number of creditors support a thirty-day notice rule and a few support a consumer "opt-out" right under Regulation Z.
+
+[SECTION]
+
+Where triggering events are set forth in the account agreement, creditors believe there is no need to provide additional notice when the event occurs; they are not changing a term, they stated, but merely enforcing the agreement.  Some suggested this is a case where consumer education is the best solution, and that perhaps Board-published model forms would result in uniformity and greater consumer understanding.  Consumers and consumer groups agreed that change-in-term policies should be more prominently displayed, including in the credit card application disclosures.
+
+[SECTION]
+
+Procedures and Substantive Protections 
+TILA and Regulation Z provide protections to consumers when a lost or stolen credit card is used ("unauthorized use"), when the consumer believes a charge on a billing statement is in error ("billing error"), and when a purchase is made with a credit card and the consumer cannot resolve with the merchant honoring the card a dispute about the quality of goods or services ("claim or defense").  The Fair Credit Billing Act was enacted, in part, to provide a procedure for resolving disputes between cardholders and merchants who honor credit cards, and to allocate to card issuers some responsibility for providing relief to the consumer if the merchant fails to accommodate the cardholder.
+
+[SECTION]
+
+In general, these protections allow the consumer to avoid paying the disputed amount while the card issuer investigates the matter.  The card issuer cannot assess any finance charge on the disputed amount or report the amount as delinquent until the investigation is completed.
+
+[SECTION]
+
+Depending on the facts, a dispute could trigger one or more of the protections discussed below.  The applicability of a protection can hinge on timing (when the cardholder notifies the card issuer about the problem), the outstanding balance (how much of the sale price remains unpaid at the time the cardholder notifies the card issuer), and receipt of the good or services (nothing was delivered, or something was delivered but didn't meet the cardholder's expectations).
+
+[SECTION]
+
+Unauthorized use of a credit card.  A cardholder cannot be held liable for more than $50 for the unauthorized use of a card.  State law or other applicable law determines whether the cardholder "authorized" the use of the card.  There are no specific timing or procedural requirements to trigger this protection (other than notifying the card issuer).  An unauthorized charge may also be raised as a billing error or a claim or defense.
+
+[SECTION]
+
+Billing error.  The billing error provisions contain the strictest timing and procedural requirements of TILA's substantive protections for open-end plans.  For example, the consumer's claim must be in writing and sent to the address specifically designated for this purpose.  The consumer triggers the billing error rules by notifying the creditor about the dispute.  The notice must be received, and creditors must respond, within a set time period.  If asserted in a timely manner, a billing error can be asserted even if the consumer previously paid the charge in full.
+
+[SECTION]
+
+Claim or defense for a credit card purchase.  Cardholders may assert against the card issuer any claim or defense they could assert against the merchant.  Cardholders trigger the rule by notifying the card issuer that they have been unable to resolve a dispute with a merchant about a sales transaction where a credit card was used.  There is no specific time period within which the cardholder must give notice or the card issuer must respond.  However, the cardholder must try to resolve the matter with the merchant before involving the card issuer.  Unlike the billing error provision, this remedy is available only if the cardholder has an unpaid balance on the disputed purchase at the time notice is given.
+
+[SECTION]
+
+Under TILA, the claim or defense remedy cannot be used to assert tort claims (for example, product liability) against the card issuer.  Also, the remedy is available only for sales exceeding $50 and for sales that occur in the state the cardholder has designated as his address or within 100 miles of that address.
+
+[SECTION]
+
+Unsolicited issuance.  Credit cards may be issued to consumers only upon request.  Nevertheless, credit cards may be issued to cardholders in renewal of, or substitution for, a previously accepted card (including supplemental cards for the existing account).
+
+[SECTION]
+
+Regulation Z Review.  The Board's ANPR asked whether there was a need to revise the regulations' provisions implementing TILA's substantive protections, for example, whether the rules need to be updated to address particular types of accounts or practices or to address technological changes.  To illustrate, TILA requires creditors to credit payments on open-end plans on the day the payment is received.  Regulation Z permits creditors to set reasonable cut-off hours, which must be disclosed to consumers.  The ANPR solicited comment on payment process systems, where mail delivery and electronic payments may be continuous twenty-four hours a day, seven days a week, and whether further guidance was needed on what constitutes a "reasonable" cut-off hour.
+
+[SECTION]
+
+Most industry commenters stated that cut-off hours vary among creditors due to a number of internal and external factors, and asked that creditors' flexibility in processing payments be maintained.  The Board also received suggestions for standardizing cut-off hours in ranges, such as between 3 p.m. and 5 p.m. for mail delivery and 6 p.m. and 
+8 p.m. for electronic payments.
+
+[SECTION]
+
+Consumers and some consumer groups suggested that payments be credited as of the date payments are received regardless of the time. They asked the Board to consider rules that would provide greater certainty to consumers with regard to determining when the payment is received, because creditors more frequently than in the past exercise their right under the account agreement to impose late fees when a payment is not received by the due date.  Moreover, consumer groups stated, many credit card agreements allow creditors to increase rates when the creditor learns the cardholder was late on another account even if the cardholder makes timely payments to the creditor.
+
+[SECTION]
+
+Supervision and Enforcement
+As part of the bank supervision process, the Federal Reserve enforces safe and sound banking practices and compliance with federal banking laws, including the Truth in Lending rules, with respect to the approximately 915 state-chartered banks that are members of the Federal Reserve System. Other regulators enforce these rules with respect to other institutions.  For the vast majority of state member banks, credit card lending is not a significant activity.  In fact, of the banks supervised by the Federal Reserve, the issuance of credit cards is the principal business activity of only two of these banks.
+
+[SECTION]
+
+In January 2003, the Federal Reserve, along with the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Office of Thrift Supervision, issued interagency guidance on credit card account management practices.  Federal Reserve supervisory staff have applied the principles of this guidance through constructive discussions with bank management about individual institutions' portfolio management practices.  In the limited instances where formal or informal enforcement actions have proven necessary to ensure sound management of an institution's credit card portfolio, the Federal Reserve has appropriately exercised this authority.
+
+[SECTION]
+
+The Board also investigates consumer complaints against state member banks and forwards complaints it receives involving other creditors to the appropriate enforcement agencies.  In 2004, the Board received approximately 5,100 consumer complaints.  Of this number, approximately 2,300, or 45 percent, were against state member banks, while about 2,800, or 55 percent, were against other creditors not under the Board's supervisory authority and were forwarded to the appropriate agencies.
+
+[SECTION]
+
+About 39 percent of the 2,300 complaints against state member banks processed by the Board were complaints about credit cards.  The data show that complainants' main concerns were about interest rates and terms, penalty charges and fees such as late fees, over-the-limit fees, and annual fees.  In addition, consumers were concerned that their credit information was incorrectly reported to consumer reporting agencies.  By way of comparison, industry estimates suggest there are more than 600 million credit cards in consumers' hands and annual domestic transactions involving credit cards exceed $1 trillion.
+
+[SECTION]
+
+Role for Consumer Financial Education
+This detailed description of the issues of concern in our review of Regulation Z is illustrative of both the complexity of and the growth in today's consumer credit markets.  Technology has significantly changed consumers' payment options, with the credit card becoming an accepted payment medium for virtually any consumer good or service.  In addition, credit scoring models, the mathematical formulations lenders use to predict credit risk, have enabled creditors to price credit more efficiently, and charge rates of interest commensurate with a consumer's repayment risk.  This technology has contributed to the expansion of the subprime market, which has significantly increased access to credit for consumers who, more than likely, would have been denied credit in the past.
+
+[SECTION]
+
+As a result, concerns surrounding consumer protection relate as much to issues of fair pricing practices as they do to fair access to credit.  In addition, as the industry has become more competitive on interest rate pricing, it has adopted more complex fee structures that, if triggered, affect a consumer's overall cost associated with the credit card.
+
+[SECTION]
+
+The use of disclosure rules as a consumer protection strategy is predicated on the assumption that consumers have an understanding of consumer credit and personal financial management principles.  By dictating disclosure requirements, regulators and lawmakers rely on consumers to be familiar with basic financial principles and to be able to evaluate personal financial scenarios and options, once they have access to pertinent financial information.  Indeed, this is the fundamental premise of our free market system, in which information increases market efficiency.  In recent years, however, there has been an increase in concern that consumers' level of financial literacy has not kept pace with the increasingly complex consumer financial marketplace and the expansion of financial service providers and products.
+
+[SECTION]
+
+Lenders, regulators, and consumer and community advocacy groups have agreed that there is an increased need for consumer financial education, and have pointed to a variety of factors, including record personal bankruptcy filings, high consumer debt levels, and low personal savings rates, to support this assertion.  Financial education could encourage consumers to focus on their credit contracts in addition to the TILA disclosures, which highlight the key terms of the contract.  Toward this end, many public and private initiatives have been undertaken at both the local and national level to highlight the importance of financial education.
+
+[SECTION]
+
+As you know, Congress has established the Financial Literacy and Education Commission and the Financial and Economic Literacy Caucus--further demonstration of the degree of interest and concern in helping consumers obtain the knowledge they need to effectively manage their personal finances.  The Federal Reserve System has also been active in promoting consumer financial education, and is an active participant in initiatives to further policy, research, and collaboration in this area.
+
+[SECTION]
+
+In closing, I would like to note that disclosure and financial education work in tandem in the interest of consumer protection, and I believe that it is important to continue to focus our collective attention on both fronts.
+
+[SECTION]
+
+The Board's advance 
+        notice of proposed rulemaking for Regulation Z. Return 
+        to text
+
+[SECTION]
+
+2005 Testimony

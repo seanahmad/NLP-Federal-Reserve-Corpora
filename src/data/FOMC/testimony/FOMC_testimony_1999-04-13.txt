@@ -1,0 +1,321 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I appreciate the opportunity to appear before this Committee to update you on Year 2000 issues.  I will describe the Federal Reserve's continuing efforts with respect to our contingency and event management plans as a central bank to ensure that adequate sources of currency and liquidity are available, and summarize the special attention being given to maintaining public confidence in the banking system. I will also focus on the progress of the banking industry in preparing for the new millennium and our supervisory initiatives, where considerable progress has been made since I last testified in September.  Next, I will provide an overview of our efforts to support the President's Year 2000 Conversion Council and the international financial regulators' Joint Year 2000 Council, and close with our perspective on legislative proposals relating to Year 2000.  I also will discuss the Board's strong support for passage of  H.R. 1094 that would amend the Federal Reserve Act to broaden the range of discount window loans that may be used as collateral for Federal Reserve notes.
+
+[SECTION]
+
+That is a lot of material to cover and it reflects our extensive interest in and efforts to address the litany of Year 2000 issues.  We are approaching the last months before the century date change with a keener understanding of the magnitude of the task the banking industry, our country, and the rest of the world have been confronting.  We are continuing our efforts to ensure that our financial system is safe and sound and ready for the century rollover.  I am increasingly optimistic that the operational transition will go well and have come to believe that Year 2000 technical issues will not cause major problems in the financial markets of the United States.  One issue I am concerned about and have raised with the press is how to ensure that the public has reliable, complete information about the readiness of the financial services industry and the other industrial and infrastructure sectors of the country.  Actions taken by the public based upon fear or bad information rather than upon fact-based rationality may pose a greater threat to our economy than those caused by Year 2000 computer problems themselves.  The public's perception of the Year 2000 challenge and response to that perception relative to our banking system is of critical importance to us all.  The banking agencies are increasingly turning their attention to public education, and, in that regard, I welcome the opportunity this hearing affords to explain the Federal Reserve's perspective on the century date change.
+
+[SECTION]
+
+Contingency Planning and Event Management
+Having worked extensively to correct the Year 2000 computer problems in our systems, we are confident that we will be fully prepared for the new millennium.  Nevertheless, as the nation's central bank, the Federal Reserve is actively engaged in contingency and event management planning for any operational disruptions or systemic risks.  The Federal Reserve's CDC Council, a group of our most senior officials, is coordinating contingency and event management planning across the Federal Reserve System to ensure a cohesive approach to our preparations.  In addition, we are completing plans for our supervision function that provide for monitoring and responding to developments during the transition to the Year 2000, including any disruptions that may occur at financial institutions or in key financial markets where we have responsibilities.  These plans are being coordinated with other federal, state and foreign regulators and with the Year 2000 Response Center of the President's Council on Year 2000 Conversion.
+
+[SECTION]
+
+Business Resumption
+The Federal Reserve's plans for ensuring operational continuity build upon existing business resumption contingency plans. As part of our standard business processes, the Federal Reserve has long maintained and tested comprehensive business resumption plans, which have proven successful in providing for our continued operations during past crisis situations and natural disasters.  Last fall, each of the Federal Reserve's business functions completed assessments of the adequacy of existing contingency plans for addressing Year 2000 risks.  These plans are being enhanced to address issues unique to the century date change.
+
+[SECTION]
+
+For example, we are identifying problems external to the Federal Reserve that may arise when the date changes to 2000, such as those affecting telecommunications providers, utility companies, and key market participants.    Based on available information we do not expect widespread problems in these areas, but we nevertheless believe it prudent to develop action plans to mitigate or work around them should they occur.  Between now and the century date change, we will test and continue to refine these plans as necessary to optimize operational effectiveness at the century rollover.  The goal of the contingency planning process is to minimize the chance for surprise disruptions and to minimize their impact should they occur.
+
+[SECTION]
+
+Year 2000 Event Management Plan 
+Over the years, the Federal Reserve has demonstrated the ability to manage a wide range of crisis situations.  Nevertheless, we are augmenting our existing communication and control structures to enhance our ability to collect information and react to issues as they develop during the next six months and, particularly, during the "rollover period," that is, the last few days or weeks of 1999 and the early days of 2000, as well as the leap year at the end of February.  The objectives of our event management plan are to:
+
+[SECTION]
+
+monitor and report the status of internal systems, financial institutions and markets, infrastructure, and other pertinent areas;
+maintain a consistent flow of information within the Federal Reserve, to our business partners, and to the public at large; and, 
+identify potential or actual problems and resolve them promptly.
+
+[SECTION]
+
+The CDC Council has established an Event Management Planning Team that is formulating recommendations to meet these objectives.  As with any complex institution, this is challenging because it is necessary to integrate the myriad needs and functions of all areas of the Federal Reserve System into one coordinated and cohesive plan.
+
+[SECTION]
+
+The Event Management Planning Team presented a number of recommendations to the CDC Council last week, and will continue to refine them in coming months.  As we finalize our plans, we will coordinate with other federal and state regulators as well as the President's Council on Year 2000 Conversion.  This should result in further streamlining and enhancements.  Our event management plans should be substantially completed during the second quarter 1999, and will be tested during the third quarter 1999--with September 9, 1999, scheduled as our first operational date.
+
+[SECTION]
+
+Cash and Liquidity Issues
+		The Federal Reserve does not believe that the public needs to hold excess cash in anticipation of the century rollover.  Although there may be isolated problems, we expect the usual payment methods of checks, debit cards and credit cards to operate.
+
+[SECTION]
+
+Nevertheless, we recognize that there likely will be some increased demand for cash during the period surrounding the century rollover.  In developing cash and liquidity contingency plans, depository institutions have been advised and are taking steps to forecast and prepare for potential spikes in year-end cash demands of their customers.  Such plans should address how to distribute cash to locations where it is most needed and provide for close coordination with armored carriers and cash suppliers (their Federal Reserve Bank or correspondent bank).  Some of the best practices we've seen include plans to increase cash inventories ahead of seasonal and any anticipated Year 2000 related rise in demand.  They also include advance identification of prudent trigger points to replenish currency supplies based upon customer demand that take into account the availability and frequency of transportation arrangements.   Equally important, they provide for a customer communication program that explains the Year 2000 problem, how the bank is preparing for it, and any plans to work around minor disruptions in services that could affect access to the bank.   We have reminded banks that, as part of their Year 2000 contingency cash planning, banks should review their insurance policies and blanket bond limits to ensure they have sufficient coverage.
+
+[SECTION]
+
+As I have said in previous testimony, we instituted plans to increase our inventory of currency as a precautionary measure, and not because we believe the public should hold more cash because of the Year 2000.  Some observers have suggested that this represents a contradictory message to the public.  Not so.  Regardless of our view that consumers do not need to hold excess cash during this period, the Federal Reserve has been given the mission by Congress to provide currency to the public as demanded and we will be prepared to fulfill this responsibility whatever the level of demand might be.
+
+[SECTION]
+
+Another related issue for the central bank is the possibility that despite their best efforts, some depository institutions may encounter problems resulting from or affecting relationships with counterparties and customers.  To the extent these problems reduce their liquidity, and other sources of funding may no longer be reasonably available, the Federal Reserve is prepared to lend to provide liquidity with adequate collateral.
+
+[SECTION]
+
+Depository institutions are expected to address liquidity issues in their contingency plans and to take steps necessary to facilitate the process of borrowing from the Federal Reserve, for example, by completing necessary documentation and prepositioning collateral now rather than waiting for the actual event when there may be other organizations seeking additional funding at the same time.  We have sent a letter to all depository institutions encouraging them to consider including the Federal Reserve, as lender of last resort, in their funding contingency plans, and, if they do, to complete necessary documentation and collateral arrangements as soon as possible.
+
+[SECTION]
+
+Public Affairs Program
+Let me go back to an earlier comment I made regarding the public's perception of the Year 2000 issue.  We believe that the best way to engender a strong and positive public attitude is through open and candid discussion.  The public is getting information from a variety of sources.  We believe that it is important to ensure that the public can look to the Federal Reserve System as a source of accurate information regarding the readiness of the banking industry and the payments mechanisms through the century rollover.  Federal Reserve communications activities have been focused on providing accurate, consistent information to the public and keeping the media informed about our Year 2000 activities.
+
+[SECTION]
+
+The Federal Reserve has initiated a series of public affairs activities related to the Year 2000 designed to provide the public with the information it needs.  In this regard, staff is working actively with the communications team for the President's Council on Year 2000 Conversion to develop responses to consumer questions that come in on the Council's Year 2000 "hotline."   A Year 2000 consumer web page is being designed to provide easy access to the information already available on the Federal Reserve's Year 2000 web site.  A brochure describing the Year 2000 issue and the Federal Reserve's Year 2000 program will soon be available.  Many Federal Reserve officials as well as several Board members have been giving speeches on Year 2000.   Reserve Banks have scheduled press conferences and briefing sessions for the media and the media kit that we provide is updated regularly to include current information and new materials.
+
+[SECTION]
+
+There are a number of other communications programs underway, including joint programs with the other bank regulatory agencies as well as with banking industry trade groups.  In this regard, the regulatory agencies are sponsoring consumer research, planning a consumer awareness video, developing a consumer checklist for financial institution customers, and planning to hold joint press briefings.
+
+[SECTION]
+
+Many people would like to have an ironclad guarantee that there will be no Year 2000 disruptions, but that guarantee cannot be made.  We cannot know in advance exactly how the millennium rollover will go.  The truth is that no one can guarantee that everything will work perfectly even later this morning, but we have every confidence that it will.  In fact, banking systems and utilities experience brief disruptions in service from time-to-time that are transparent to consumers or present only minor inconveniences.  Public confidence does not require that everyone believe that everything will work perfectly all the time.  Rather, the public needs to be confident that the information it is receiving is complete, reliable, balanced and adequate to identify actions appropriate to their own circumstances.
+
+[SECTION]
+
+Bank Supervision
+Turning to our efforts with respect to the readiness of individual banking organizations, let me emphasize today, as I have in the past, that while the bank supervisors have appropriately provided significant guidance and meaningful incentives to the industry to prepare for the Year 2000, we cannot be responsible for ensuring the readiness of any banking organization.  The boards of directors and senior management of banks are responsible for ensuring that their organizations are able to provide uninterrupted services and operate in a safe and sound manner after the century date change.
+
+[SECTION]
+
+With that said, over the past few months the Federal Reserve and the banking agencies have been active in responding to requests for additional guidance about the difficult tasks of testing and contingency planning and the importance of effective customer communication programs.  We also have been extremely active in banker outreach and education programs across the country, and in participating in domestic and international securities industry/payment systems work groups such as the Global 2000 Co-ordinating Group.  Even more important, we have completed a second round of on-site Year 2000 supervisory reviews of the banking organizations we supervise to assess their progress in testing remediated systems, evaluating customer and counterparty risk, and in developing their business resumption contingency plans.
+
+[SECTION]
+
+Issuance of Supervisory Guidance   
+Shortly after my testimony to you in September, on October 15, 1998, the FFIEC agencies adopted "Interagency Guidelines Establishing Year 2000 Standards for Safety and Soundness," which apply to all insured depository institutions.  The guidelines incorporate important elements of previously issued FFIEC guidance including aggressive milestone dates for testing and implementation. The guidelines were issued under section 39 of the Federal Deposit Insurance Act, which authorizes the Federal Reserve and other banking agencies to direct an insured depository institution to prepare an acceptable corrective action plan and comply with such a plan, without having to initiate an administrative proceeding.  The guidelines, therefore, provide an expedited enforcement tool to address serious Year 2000 deficiencies at insured depository institutions and may be useful in addressing any serious deficiencies over the next few months, when time is of the essence.
+
+[SECTION]
+
+On December 11, 1998, the FFIEC issued "Questions and Answers Regarding Year 2000 Contingency Planning" to answer frequently asked questions received by the agencies.  The statement underscores the importance of implementing an effective business resumption plan that establishes a course of action to resume core business processes in the event of a system failure.
+
+[SECTION]
+
+On February 17, 1999, the FFIEC issued additional guidance to assist financial institutions with customer communications on the Year 2000.   The guidance supplements the May 1998 FFIEC policy statement on Year 2000 Customer Awareness Programs and emphasizes that maintaining customer confidence in the financial services industry needs to be a top priority of bank management.  The guidance outlines key subject matters that could be incorporated into bank customer communication statements.  The two papers together emphasize that it is essential for banks to establish customer communication programs and train staff so that they are able to respond to customer inquiries about their readiness.
+
+[SECTION]
+
+Outreach to Banking Industry
+We stress the importance of customer communications whenever we meet with bankers, and we do that often.  We participated in 101 programs during the fourth quarter 1998 that were attended by 5,000 participants.  We participated in a total of 497 programs during 1998 that were attended by over 26,000 participants.  So far in 1999, we have participated in over 75 programs reaching over 6,600 participants.  We think these programs have been extremely useful to all parties because they provide attendees with an opportunity to hear about our expectations "up close and personal" and to ask questions.  They also provide us with an opportunity to hear about the concerns, problems and accomplishments being experienced by participants and their colleagues.
+
+[SECTION]
+
+Phase II Supervision Program
+The Federal Reserve has just completed Phase II of its Year 2000 supervision program, which ran from July 1, 1998, through March 31, 1999.  During Phase II we performed a risk-focused Year 2000 assessment of approximately 1,500 supervised institutions, including state member banks, bank holding companies with at least $1 billion in total assets or with significant information processing activities, and U.S. branches and agencies of certain foreign banking organizations.  Our Phase II program called for an evaluation of a bank's overall Year 2000 program and progress relative to FFIEC guidelines and milestone dates.  Based on our reviews, 95 percent of the banking organizations we supervise are making satisfactory progress in their Year 2000 programs and are in substantial compliance with the FFIEC milestone dates.
+
+[SECTION]
+
+Any financial institution rated less than satisfactory is required to file an acceptable corrective action plan within 30 days of receiving a deficiency notification letter from the Federal Reserve.  These institutions are placed on an intensified monthly monitoring plan, and depending on the severity of the deficiencies identified, the use of an appropriate informal or formal supervisory action is considered.  This "watch list" program for monitoring less than satisfactory banks has proven extremely effective in bringing the issues to the attention of boards of directors and management, and obtaining an appropriate response.  We find that most banks are able to intensify their programs and begin making satisfactory progress within a few months.
+
+[SECTION]
+
+For the small minority of financial organizations found to be making less than satisfactory progress, the deficiencies most frequently noted during Phase II reviews have been relatively manageable and include delays in completing evaluations of customer risk, weaknesses or delays in completing remediation or testing programs, and insufficient communication between management and boards of directors.  The progress of institutions that lagged behind the December 31, 1998, FFIEC milestone for completion of internal testing is being closely monitored.
+
+[SECTION]
+
+With respect to the readiness of bank customers and counterparties, it does appear that banks are formulating policies for managing credit risk and are incorporating Year 2000 considerations into their underwriting and loan review practices.  We are just beginning to see instances where credit standards and collateral requirements are being tightened where a counterparty or customer is not able to provide sufficient assurances of Year 2000 readiness.   We expect to see an increase in the number of banks acting to minimize credit risks over the next few months.
+
+[SECTION]
+
+In addition to reviewing the status of banking organizations, the Federal Reserve participates with the other FFIEC agencies in Year 2000 reviews of certain large national and regional data processing service providers and software vendors serving financial institutions.  Sixteen national Multiregional Data Processing Servicers (MDPS), twelve national Shared Application Software Review (SASR) software vendors, and approximately 250 other independent service providers and software vendors are in the review program.  Because of their importance to the Year 2000 readiness of financial institutions, service providers and software vendors subject to review by the FFIEC agencies were reviewed on site at least twice by December 31, 1998.  Review reports for service providers and software vendors are sent to banks that are direct customers for their information.  These entities also are subject to quarterly reviews and were contacted during the first quarter of 1999 to assess the availability of testing programs for their bank customers.
+
+[SECTION]
+
+Based on reviews completed and other available information, nearly all vendor software products have been renovated and internally tested, and financial institutions are actively testing these products within their own environments.  Proxy testing has been pursued by many institutions that rely on a specific vendor software product for its core banking systems when their hardware/software platform and operating environment are identical to the one that was used to perform direct testing with the servicer.  National and regional service providers also have implemented Year 2000-ready services and are testing with their customers.  Overall, the service providers and software vendors have made meaningful progress in meeting the testing and implementation needs of their financial institution customers.  The few service providers that are not rated satisfactory are subject to intense oversight by the FFIEC agencies and the review reports detailing deficiencies or problems being experienced have been sent to their bank customers.
+
+[SECTION]
+
+While I'm on the subject of testing with service providers, I'd like to update you on the Federal Reserve's customer testing program. As I informed you last September, beginning June 29, 1998, the Federal Reserve is offering customers the opportunity to test future-dated transactions for Fedwire funds and securities transfer, Fed Automated Clearing House, the Integrated Accounting System, Treasury Tax and Loan, Check, and other services with electronic data exchanges.  To date, over 8,000 institutions have tested with us, and the Financial Management Service (FMS) of the U.S. Treasury has conducted interface testing for social security payments.  We are continuing to offer testing opportunities through the end of 1999.
+
+[SECTION]
+
+Phase III Supervision Program
+In January, we distributed guidance on our Phase III program, including intensified monitoring procedures for institutions that are rated less than satisfactory, and established broad criteria under which it will be presumed that the Federal Reserve will take an informal or formal enforcement action against such an institution.  These procedures provide guidelines for addressing problem institutions through the century date change.
+
+[SECTION]
+
+Looking forward to the critical months remaining until the century date change, the Federal Reserve has initiated a Phase III program for monitoring the Year 2000 readiness of banking organizations.  Our Phase III supervision program--which began April 1 and runs through December 31, 1999--calls for risk-based Year 2000 reviews of financial institutions during the second and third quarters of 1999 to confirm that all FFIEC milestone dates have been met.   Our examiners have been instructed to confirm that every state member bank is in compliance with FFIEC guidelines by the end of the third quarter 1999.
+
+[SECTION]
+
+Financial institutions of special importance to key financial and payment systems in the United States will be subject to at least monthly contacts after June 1999, and the top 50 bank holding companies will be subject to at least quarterly contacts, to ensure that implementation is completed and that appropriate risk management policies and contingency plans are up to date.  Service providers and software vendors that service large numbers of banking organizations will continue to be subject to at least quarterly contacts to review the status of third party testing and contingency planning.
+
+[SECTION]
+
+By June 30, 1999, financial institutions are expected to comply with critical FFIEC milestone dates for completing all Year 2000 internal and external testing, implementation of remediated mission critical systems, and contingency planning.   A major emphasis of our supervision program through the century date change will be the adequacy of contingency plans, which should incorporate not only operational issues but liquidity, funding, customer/ counterparty risk, customer and community communications, and other subject matters.   Through the end of the year, financial institutions will be expected to continue to monitor customer and counterparty credit risk, and to update contingency plans as necessary to respond to internal and external events or other Year 2000-related developments that could affect operations.
+
+[SECTION]
+
+I must emphasize that the FFIEC milestone dates are not hard and fast deadlines, but rather important benchmarks for ensuring that a financial institution is managing its Year 2000 program in a prudent manner - one that provides a six month cushion to tie up loose ends, continue testing activities, complete work on non-mission critical systems, and observe renovated and newly-installed systems in a production environment.
+
+[SECTION]
+
+During Phase III reviews, we will apply our best judgement in assessing an institution's progress in meeting FFIEC milestones, most importantly the June 30 date.  Let me caution, however, that this process is very complex and it should not be surprising to see some testing activity prescribed by the FFIEC policy statements extend past the milestone dates.  If, during our Phase III reviews we find that it is taking an institution a little longer to complete its preparations, we will assess the risk presented and respond accordingly, either through increased monitoring and supervision, or through intelligent use of enforcement actions and disclosure.  While ratings provide an objective measure of our assessment of an organization's progress relative to the FFIEC's milestones, during Phase III the actual Year 2000 status of an organization through and into the Year 2000 will be the focus of our supervisory activities.
+
+[SECTION]
+
+Our Reserve Banks will be assessing each financial institution reviewed under the program by the end of the third quarter 1999.  Obviously we want these assessments to reflect the Year 2000 progress and status of each banking organization accurately, and Reserve Banks to be consistent in assigning ratings to organizations within their Districts.  In this regard, each Reserve Bank will have an internal review process to ensure that organizations that are similarly situated relative to the extent of work remaining will be comparably rated.  Moreover, in our discussions with Reserve Banks, we have established certain parameters that limit somewhat the flexibility examiners have when rating an organization.
+
+[SECTION]
+
+Our staff in Washington reviews all reports for organizations rated less than satisfactory as well as a sampling of "satisfactory" reports to ensure that there is consistency across Districts.  Implicit in all of this is the understanding that our examiners have a "hands on" understanding of each organization - including the scope of its Year 2000 project and status, the track record of management in responding to challenges and meeting regulatory directives, and the adequacy of the organization's resources.  These factors provide the depth and intelligence necessary to formulate realistic and fair appraisals of banking organizations.
+
+[SECTION]
+
+FFIEC Contingency Planning Working Group
+There is one other supervisory initiative I would like to mention.  The FFIEC agencies have established a Year 2000 Contingency Planning Working Group to identify and coordinate contingency planning issues of common interest.  The group has agreed upon many areas of common interest and is considering how contingency planning efforts in these areas can be coordinated among the agencies.  The subjects for review include communications with the public, monitoring of large institutions, international/payment systems, liquidity, fraud, non-viable and viable financial institutions, service providers and software vendors, and resource sharing among agencies. The Conference of State Banking Supervisors also participates.  Where appropriate, the group is preparing guidance and planning how to coordinate responses to problems that may arise in these areas.
+
+[SECTION]
+
+President's Council on Year 2000 Conversion, Financial Sector Group
+The Federal Reserve has been extremely active in assisting the government's coordination of the nation's Year 2000 preparations.  The Federal Reserve represents the banking industry on the President's Council on Year 2000 Conversion and a senior Board official chairs the Financial Sector Group (FSG), which is made up of 27 U.S. government agencies and corporations, government-sponsored enterprises and state regulatory associations that play a role in the credit, equity, debt and exchange-traded derivatives markets.  The financial sector includes depository institutions, credit unions, the securities industry, stock markets, clearing and settlement firms, and the insurance industry.  The sector group also includes over 50 trade associations that represent U.S. financial market participants.
+
+[SECTION]
+
+The FSG is charged with increasing awareness of the importance of Year 2000 readiness in the financial services industry, as well as promoting communications and cooperation with public and private organizations within the sector.  It serves as a forum for addressing interagency issues and developing positions on important matters before the President's Council.  For example, the FSG recently took the lead in developing a cross-sector paper examining the pros and cons of establishing a special Year 2000 holiday and related proposals for the President's Council.  The FSG also is assisting in the Council's event management planning and will participate in its national communication center during the last quarter of 1999 and first quarter of 2000.
+
+[SECTION]
+
+The FSG sponsored a trade association summit meeting in December 1998.  The theme of the meeting was infrastructure readiness, and Senator Bennett was our keynote speaker.  Over 250 trade association representatives and members of the press attended this informative event, which significantly expanded the dialogue and opened the door for better coordination of Year 2000 efforts between the financial services industry and the electric power and telecommunications sectors.  The FSG is sponsoring a second summit on April 15, addressing the themes of contingency planning and customer awareness.  Congressman Leach will be our keynote speaker.
+
+[SECTION]
+
+Joint Year 2000 Council
+The Joint Year 2000 Council was established in April 1998, by the Basle Committee on Banking Supervision, the G-10 Committee on Payment and Settlement Systems, the International Association of Insurance Supervisors, and the International Organization of Securities Commissions.  My colleague, Governor Roger Ferguson, chairs the Council.  The Council provides a vital forum for communication among international regulatory and supervisory authorities on Year 2000 issues.  It also serves as a point of contact with various national and international private sector initiatives.
+
+[SECTION]
+
+Among its initiatives, the Council has developed a global supervisory contact list of over 600 financial regulators, and initiated several mechanisms for communicating with them.  It is publishing a series of bulletins on different Year 2000 topics, and has issued six guidance papers on key phases in the Year 2000 process including papers on testing, information sharing, and contingency planning, which are published on its web site.  The Council has conducted regional Year 2000 roundtables for regulators in Europe, Asia-Pacific, North and South America and the Caribbean, the Middle East, and Africa. These conferences provide an excellent means of bringing supervisors together to discuss common interests within specific geographic areas.  Another round of regional meetings is being planned for this year, with a focus on the important issues of implementing remediated systems, information sharing, testing, and contingency planning.
+
+[SECTION]
+
+The international arena remains an area that needs to be watched closely by all market participants and supervisors.  The Year 2000 readiness survey conducted by the Basle Committee on Banking Supervision late last year identified significant progress in the international financial community's efforts to prepare for the century date change and help prevent serious problems.  Of the 100 banking supervisors that responded to the survey, all indicated that they had contacted their banks regarding the Year 2000 issue and the large majority --including all major markets--had initiated supervisory programs to ensure that banks allocate the necessary resources to identify any potential Year 2000 problems.  However, much work remains to be done, particularly in smaller, less industrial and emerging countries.
+
+[SECTION]
+
+While we do not know with certainty what the outcome will be around the globe, the level of Year 2000 awareness of financial services regulators is now quite high.  Moreover, the effect of applying the FFIEC policy statements to the U.S. operations of foreign banking organizations had a salutary effect in making their parent organizations abroad aware of the problem and the need to formulate Year 2000 programs.  In light of the recent increase in information showing that the Year 2000 problem is receiving increased attention and resources, and that progress is being made abroad, it is increasingly likely that Year 2000 technical issues will not cause significant problems in the most active foreign global markets.  However to achieve that goal, it is critical that the current momentum and level of resources be maintained.  It also is essential that countries coordinate with each other across financial and other sectors to share information and develop contingency plans in areas of common interest.
+
+[SECTION]
+
+Legislative Matters
+Federal Reserve Note Collateral
+The Board strongly supports adoption of H.R. 1094 that would amend the Federal Reserve Act to broaden the range of discount window loans that may be used as collateral for Federal Reserve notes.  Section 16 of the Federal Reserve Act requires the Federal Reserve to collateralize Federal Reserve notes when they are issued.  In other words, we are required to hold certain kinds of assets in an amount at least equal to the amount of currency in the hands of the public. The list of eligible collateral includes Treasury and federal agency securities, gold certificates, Special Drawing Right certificates, foreign currencies, and discount window loans made under section 13 of the Federal Reserve Act.
+
+[SECTION]
+
+The reference to discount window loans made under section 13 was in the original Federal Reserve Act.  Subsequently, however, when the Federal Reserve Act, including section 13, was amended to allow discount window loans to be made against a wider array of collateral, section 16 was not similarly amended.  Thus, section 16 currently limits the types of discount window loans the Federal Reserve can use to collateralize the currency.  For example, certain discount window loans  under section 10B of the Act secured by mortgages on one-to-four family residences cannot be used.  The margin of available extra currency collateral has been shrinking due to the growth of retail sweep accounts, which reduces reserve balances and causing a corresponding reduction in Treasury securities held by Reserve Banks.  In this context and in light of the potential for depository institutions to seek access to the discount window because of events related to the Year 2000, we believe that it would be prudent to amend the Federal Reserve Act to expand the types of assets eligible to collateralize the currency to include all types of discount window loans, thereby assuring flexibility in times of high loan demand.
+
+[SECTION]
+
+Year 2000 Holiday 
+Various segments of the financial services industry, particularly those operating abroad, have suggested that governments adopt an additional holiday around the century date change.  There are a number of dates proposed for a Year 2000 holiday--Friday, December 31; Monday, January 3; and even Tuesday, January 4--although there does not appear to be any consensus which date would be most desirable.  Adding to the uncertainty is the question whether the holiday should be mandatory (requiring all businesses to close) or permissive (permitting but not requiring businesses to close).  In the United States, most holidays are permissive and December 31 will be such a federal holiday.  The Federal Reserve announced last year that the Reserve Banks will be open for business on that day and on Monday, January 3, 2000, and we understand that most businesses plan to be open on those days as well.
+
+[SECTION]
+
+We do not support the concept of a special Year 2000 holiday.  Some have suggested that a Year 2000 holiday facilitate the transition to the next century.  For example, a December 31, 1999, holiday would provide additional time to complete end-of-day (December 30) as well as at least some end-of-quarter and end-of-year processing before the rollover to January 1.  A January 3, 2000, holiday--as contemplated by H.J. Res. 14--would provide an additional day for organizations to confirm that computer, telecommunications, and embedded systems are operating properly and to identify and resolve any Year 2000 disruptions that may occur, although, since the holiday would be permissive, the extent to which organizations would take advantage it is unclear, and it could engender even more confusion as to who is open and who is not.  The recently proposed January 4 holiday purportedly would provide time to process and react to any problems that appear on the first business day of the new millennium.
+
+[SECTION]
+
+In our view, the drawbacks to a Year 2000 holiday are significant and include additional operational burdens, potential contractual and taxation issues, and potential adverse public reaction.  The adoption of a mandatory Year 2000 holiday may require banks to initiate additional procedural and operational changes.  Internal systems would have to be reprogrammed to include the new holiday and to treat it as a non-business day for purposes of completing transactions.  Because these changes are date-related, systems that already have been remediated would require additional Year 2000 testing to ensure that the changes did not inadvertently create date-related processing problems.  Banks would have to revise their test scripts, create different future-dated computing environments to simulate the new sequence of business days, generate new test data to reflect the holiday, and then retest systems that were previously designated as Year 2000 ready. This would place significant additional burdens on firms and may increase, rather than reduce, the risk of disruption.  Moreover, the task would divert already scarce resources away from the primary task of completing Year 2000 testing, implementation and contingency planning.   We should understand that all of this work would have to occur long after the FFIEC milestone dates for completion of testing and implementation of remediated systems.
+
+[SECTION]
+
+Declaring a new Year 2000 holiday also would further increase transaction volume on the last and first business days of the year, when volume is traditionally higher than average.  This may exacerbate workloads on adjacent days, complicating the transition and the resolution of any problems.  A special Year 2000 holiday also would affect contractual and other payment obligations, and there would be potential tax implications attendant to any pre- or post- Year 2000 payments made as a result of the new holiday.
+
+[SECTION]
+
+Finally, and equally troubling, changes to existing holiday laws would send a signal to the public that the government has serious concerns about the potential for significant Year 2000 problems within the financial services industry.  We do not believe significant problems will occur and we are opposed to taking actions that could unnecessarily erode public confidence in the industry, where erosion of confidence can create significant destabilizing effects on our economy.
+
+[SECTION]
+
+The Federal Reserve first discussed the holiday issue with the financial industry over a year ago.  At that time, proponents of a Year 2000 holiday emphasized that the decision must be made no later than the first quarter 1998 for organizations to derive the intended benefits without incurring undue costs and risks.  They correctly believed that declaration of a Year 2000 holiday at a later time would impede an organization's ability to limit changes to remediated systems during the period surrounding the century date change.  Indeed, many institutions such as the Federal Reserve have adopted change management policies in order to limit the risks to information systems posed by changes in the second half of 1999.  Changes in holidays or payment schedules at this late date would run counter to the risk mitigation objectives of these policies.
+
+[SECTION]
+
+Some agencies have asked whether rescheduling payments from early January to late December should be considered as part of their contingency planning.  While this initially may seem to be a prudent approach, the premise underlying the proposal must be that either the financial system will be unable to deliver payments to recipients' bank accounts or that, once payments have been delivered, recipients will be unable to use those funds because of problems at their banks.  With respect to the ability of the financial system to deliver payments to banks, we have a high degree of confidence that the Federal Reserve will continue to process payments during this period.  Further, our understanding of the readiness of private sector providers of payment services, gained through our supervisory efforts and the efforts of the other financial supervisory agencies, gives us confidence that other wholesale providers of payments services will also continue to process payments during this period.
+
+[SECTION]
+
+With respect to individuals and businesses' ability to use their funds at their banks, we believe that it is reasonable to assume, based on the Year 2000 progress being made by the banking industry, that access to those funds will continue unabated.  To assume otherwise could engender problems more severe than the problems that people are seeking to avoid.  For example, if a large number of individuals interpret an early payment to mean that they will be unable to access their bank account, or make payments by other means, such as credit cards, for some period, they may seek to withdraw large quantities of cash.  Moreover, cash is in many respects an inefficient payment vehicle--the risk of loss or theft is great and its delivery to remote payees can be difficult and time-consuming.  While there may be particular circumstances that warrant rescheduling payments during the Year 2000 rollover period, we would caution against actions that may themselves lead to problems as severe or even more severe than the problems that they are designed to avoid.
+
+[SECTION]
+
+Credit Union Liquidity
+In an area related to issues of cash availability and liquidity of financial institutions, the Federal Reserve has been working with representatives of the credit union industry and the National Credit Union Administration to address logistical problems that might arise due to any need for a large number of credit unions to obtain liquidity beyond the considerable amount they already have available.  Although this work is still in the preliminary stages, we are confident that a relatively cost effective, efficient means can be found to channel funds through the corporate credit union system to natural person credit unions in need of liquidity.  Such a structure would seek to rely to the extent possible on existing credit relationships and documentation.
+
+[SECTION]
+
+Litigation Issues
+There has been a great deal of talk about litigation that may arise due to Year 2000 problems.  This has led to the introduction of a number of bills designed to limit litigation relating to Year 2000, including H.R. 775, the proposed "Year 2000 Readiness and Responsibility Act," as well as concerns whether existing consumer laws limiting liability for bona fide errors should be clarified.   We do not have a position as to whether H.R. 775 should be adopted.  We do believe that no legislation should be construed to limit the financial supervisory agencies' ability to bring enforcement actions based on Year 2000 related problems.  To do so could interfere with the agencies' ability to encourage supervised institutions to address Year 2000 issues appropriately.  Accordingly, we recommend that any legislation limiting liability in civil actions should exclude actions brought by a Federal, state or other public entity, agency or authority acting in a regulatory, supervisory or enforcement capacity.  A similar exclusion was incorporated in the Year 2000 Information and Readiness Disclosure Act.
+
+[SECTION]
+
+The issue of banking agency enforcement authority may be of particular significance with respect to section 605 of H.R. 775, "Suspension of Penalties for Certain Year 2000 Failures by Small Business Concerns."  That section would provide that, as a general rule, no agency shall impose a civil penalty on a small business concern for a first time error resulting from a Year 2000 failure.  Some banking institutions and their affiliates may come within the definition of small business concerns to which this provision applies.  Again, we are concerned that this provision could interfere with the financial supervisory agencies' ability to encourage supervised institutions to address Year 2000 issues appropriately and urge that this limitation not apply to any penalty imposed by a Federal banking agency as defined in the Federal Deposit Insurance Act.
+
+[SECTION]
+
+Finally, with respect to the bona fide error provisions contained in many consumer laws, in our view, computer malfunctions and programming errors due to Year 2000 problems appear to be covered by statutory provisions dealing with "bona fide errors." Accordingly, we do not see a need for additional clarifying legislation.
+
+[SECTION]
+
+Conclusion
+		In closing, I would like to thank the Committee for the opportunity to share this information with you.  We appreciate your concern and assistance in identifying the appropriate focus of our efforts during the last months before the Year 2000.   Financial institutions are continuing their efforts and making significant progress in renovating their systems to prepare for the century rollover.  The Federal Reserve is committed to a rigorous program of industry testing and contingency planning and, through our supervisory initiatives, to identifying those organizations that most need to apply additional attention to Year 2000 readiness programs.  We are committed to working with national and international counterparts and other groups, including the President' Council on Year 2000 Conversion, the Joint Year 2000 Council, and industry trade associations to assist the industry in preparing for the rollover to the Year 2000.
+
+[SECTION]
+
+
+
+[SECTION]
+
+Important Year 2000 Web Sites:
+
+[SECTION]
+
+Federal Reserve Year 2000 Web site: http://www.federalreserve.gov/y2k
+
+Federal Reserve Century Date Change Project: http://www.frbsf.org/fiservices/cdc/
+
+Federal Financial Examination Council: http://www.ffiec.gov
+
+President's Council on Year 20000 Conversion: http://www.y2k.gov/
+
+Bank for International Settlements & Joint Year 2000 Council:  http://www.bis.org
+
+Global 2000 Co-ordinating Group:  http://www.global2k.org
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: April 13, 1999, 10:00 AM

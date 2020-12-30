@@ -1,0 +1,369 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 18, 2009
+
+[SECTION]
+
+Roger T. Cole, Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Securities, Insurance, and Investment, Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+
+[SECTION]
+
+Chairman Reed, Ranking Member Bunning and members of the Subcommittee, it is my pleasure to appear today to discuss the state of risk management in the banking industry and steps taken by Federal Reserve supervisors to address risk management shortcomings at banking organizations.
+
+[SECTION]
+
+In my testimony, I will describe the vigorous and concerted steps the Federal Reserve has taken and is taking to rectify the risk management weaknesses revealed by the current financial crisis.  I will also describe actions we are taking internally to improve supervisory practices and apply supervisory lessons learned.  This includes a process spearheaded by Federal Reserve Vice Chairman Donald Kohn to systematically identify key lessons revealed by recent events and to implement corresponding recommendations.  Because this crisis is ongoing, our review is ongoing.
+
+[SECTION]
+
+BackgroundThe Federal Reserve has supervisory and regulatory authority over a range of financial institutions and activities.  It works with other federal and state supervisory authorities to ensure the safety and soundness of the banking industry, foster the stability of the financial system, and provide for fair and equitable treatment of consumers in their financial transactions.  The Federal Reserve is not the primary federal supervisor for the majority of commercial bank assets.  Rather, it is the consolidated supervisor of bank holding companies, including financial holding companies, and conducts inspections of all of those institutions.  As I describe below, we have recently enhanced our supervisory processes on consolidated supervision to make them more effective and efficient.
+
+[SECTION]
+
+The primary purpose of inspections is to ensure that the holding company and its nonbank subsidiaries do not pose a threat to the soundness of the company's depository institutions.  In fulfilling this role, the Federal Reserve is required to rely to the fullest extent possible on information and analysis provided by the appropriate supervisory authority of the company's bank, securities, or insurance subsidiaries.  The Federal Reserve is also the primary federal supervisor of state-member banks, sharing supervisory responsibilities with state supervisory agencies.  In this role, Federal Reserve supervisory staff regularly conduct on-site examinations and off-site monitoring to ensure the soundness of supervised state member banks.
+
+[SECTION]
+
+The Federal Reserve is involved in both regulation--establishing the rules within which banking organizations must operate--and supervision--ensuring that banking organizations abide by those rules and remain, overall, in safe and sound condition.  A key aspect of the supervisory process is evaluating risk management practices, in addition to assessing the financial condition of supervised institutions.  Since rules and regulations in many cases cannot reasonably prescribe the exact practices each individual bank should use for risk management, supervisors design policies and guidance that expand upon requirements set in rules and regulations and establish expectations for the range of acceptable practices.  Supervisors rely extensively on these policies and guidance as they conduct examinations and to assign supervisory ratings.
+
+[SECTION]
+
+We are all aware that the U.S. financial system is experiencing unprecedented disruptions that have emerged with unusual speed.  The principal cause of the current financial crisis and economic slowdown was the collapse of the global credit boom and the ensuing problems at financial institutions, triggered by the end of the housing expansion in the United States and other countries.  Financial institutions have been adversely affected by the financial crisis itself, as well as by the ensuing economic downturn.
+
+[SECTION]
+
+In the period leading up to the crisis, the Federal Reserve and other U.S. banking supervisors took several important steps to improve the safety and soundness of banking organizations and the resilience of the financial system.  For example, following the September 11, 2001, terrorist attacks, we took steps to improve clearing and settlement processes, business continuity for critical financial market activities, and compliance with Bank Secrecy Act, anti-money laundering, and sanctions requirements.  Other areas of focus pertained to credit card subprime lending, the growth in leveraged lending, credit risk management practices for home equity lending, counterparty credit risk related to hedge funds, and effective accounting controls after the fall of Enron.  These are examples in which the Federal Reserve took aggressive action with a number of financial institutions, demonstrating that effective supervision can bring about material improvements in risk management and compliance practices at supervised institutions.
+
+[SECTION]
+
+In addition, the Federal Reserve, working with the other U.S. banking agencies, issued several pieces of supervisory guidance before the onset of the recent crisis--taking action on nontraditional mortgages, commercial real estate, home equity lending, complex structured financial transactions, and subprime lending--to highlight emerging risks and point bankers to prudential risk management practices they should follow.  Moreover, we identified a number of potential issues and concerns and communicated those concerns to the industry through the guidance and through our supervisory activities.
+
+[SECTION]
+
+Supervisory Actions to Improve Risk Management PracticesIn testimony last June, Vice Chairman Kohn outlined the immediate supervisory actions taken by the Federal Reserve to identify risk management deficiencies at supervised firms related to the current crisis and bring about the necessary corrective steps.  We are continuing and expanding those actions.  While additional work is necessary, we are seeing progress at supervised institutions toward rectifying issues identified amid the ongoing turmoil in the financial markets.  We are also devoting considerable effort to requiring bankers to look not just at risks from the past but also to have a good understanding of their risks going forward.
+
+[SECTION]
+
+The Federal Reserve has been actively engaged in a number of efforts to understand and document the risk management lapses and shortcomings at major financial institutions revealed during the current crisis.  In fact, the Federal Reserve Bank of New York organized and leads the Senior Supervisors Group (SSG), which published a report last March on risk management practices at major international firms.1  I do not plan to summarize the findings of the SSG report and similar public reports, since others from the Federal Reserve have already done so.2  But I would like to describe some of the next steps being taken by the SSG.
+
+[SECTION]
+
+A key initiative of the Federal Reserve and other supervisors since the issuance of the March 2008 SSG report has been to assess the response of the industry to the observations and recommendations on the need to enhance key risk management practices.  The work of the SSG has been helpful, both in complementing our evaluation of risk management practices at individual firms and in our discussions with bankers and their directors.  It is also providing perspective on how each individual firm's risk management performance compares with that of a broad cross-section of global financial services firms.
+
+[SECTION]
+
+The continuation of the SSG process requires key firms to conduct self-assessments that are to be shared with the organization's board of directors and serve to highlight progress in addressing gaps in risk management practices and identify areas where additional efforts are still needed.  Our supervisory staff is currently in the process of reviewing the firms' self assessments, but we note thus far that in many areas progress has been made to improve risk management practices.  We plan to incorporate the results of these reviews into our future examination work to validate management assertions.
+
+[SECTION]
+
+The next portion of my remarks describes the supervisory actions we have been taking in the areas of liquidity risk management, capital planning and capital adequacy, firm-wide risk identification, residential lending, counterparty credit risk, and commercial real estate.  In all of these areas we are moving vigorously to address the weaknesses at financial institutions that have been revealed by the crisis.
+
+[SECTION]
+
+Liquidity risk managementSince the beginning of the crisis, we have been working diligently to bring about needed improvements in institutions' liquidity risk management practices.  One lesson learned in this crisis is that several key sources of liquidity may not be available in a crisis.  For example, Bear Stearns collapsed in part because it could not obtain liquidity even on a basis fully secured by high-quality collateral, such as U.S. government securities.  Others have found that back-up lines of credit are not made available for use when most needed by the borrower.
+
+[SECTION]
+
+These lessons have heightened our concern about liquidity and improved our approach to evaluating liquidity plans of banking organizations.  Along with our U.S. supervisory colleagues, we are monitoring the major firms' liquidity positions on a daily basis, and are discussing key market developments and our supervisory views with the firms' senior management.  We also are conducting additional analysis of firms' liquidity positions to examine the impact various scenarios may have on their liquidity and funding profiles.  We use this ongoing analysis along with findings from examinations to ensure that liquidity and funding risk management and contingency funding plans are sufficiently robust and that the institutions are prepared to address various stress scenarios.  We are aggressively challenging those assumptions in firms' contingency funding plans that may be unrealistic.
+
+[SECTION]
+
+Our supervisory efforts require firms to consider the potential impact of both disruptions in the overall funding markets and idiosyncratic funding difficulties.  We are also requiring more rigor in the assessment of all expected and unexpected funding uses and needs.  Firms are also being required to consider the respective risks of reliance on wholesale funding and retail funding, as well as the risks associated with off-balance sheet contingencies.  These efforts include steps to require banks to consider the potential impact on liquidity that arises from firms' actions to protect their reputation, such as an unplanned increase in assets requiring funding that would arise with support given to money market funds and other financial vehicles where no contractual obligation exists.  These efforts also pertain to steps banks must take to prepare for situations in which even collateralized funding may not be readily available because of market disruptions or concern about the health of a borrowing institution.  As a result of these efforts, supervised institutions have significantly improved their liquidity risk management practices, and have taken steps to stabilize and improve their funding sources as market conditions permit.
+
+[SECTION]
+
+In conducting work on liquidity risk management, we have used established supervisory guidance on liquidity risk management as well as updated guidelines on liquidity risk management issued by the Basel Committee on Banking Supervision last September--a process in which the Federal Reserve played a lead role.  So that supervisory expectations for U.S. depository institutions are aligned with these international principles, the U.S. banking agencies plan to update their own interagency guidance on liquidity risk management practices in the near future.  The new guidance will emphasize the need for institutions of all sizes to conduct meaningful cash flow forecasts of their funding needs in both normal and stressed conditions and to ensure that they have an adequately diversified funding base and a cushion of liquid assets to mitigate stressful market conditions.  Our supervisory efforts at individual institutions and the issuance of new liquidity risk management guidance come on top of broader Federal Reserve efforts outside of the supervision function to improve liquidity in financial markets, such as introduction of the Term Auction Facility and the Term Asset-Backed Securities Loan Facility.
+
+[SECTION]
+
+Capital planning and capital adequacyOur supervisory activities for capital planning and capital adequacy are similar to those for liquidity. We have been closely monitoring firms' capital levels relative to their risk exposures, in conjunction with reviewing projections for earnings and asset quality and discussing our evaluations with senior management.  We have been engaged in our own analysis of loss scenarios to anticipate institutions' future capital needs, analysis that includes the potential for losses from a range of sources as well as assumption of assets currently held off balance sheet.  We have been discussing our analysis with bankers and requiring their own internal analyses to reflect a broad range of scenarios and to capture stress environments that could impair solvency.  As a result, banking organizations have taken a number of steps to strengthen their capital positions, including raising substantial amounts of capital from private sources in 2007 and 2008.
+
+[SECTION]
+
+We have stepped up our efforts to evaluate firms' capital planning and to bring about improvements where they are needed.  For instance, we recently issued guidance to our examination staff--which was also distributed to supervised institutions--on the declaration and payment of dividends, capital repurchases, and capital redemptions in the context of capital planning processes.  We are forcefully requiring institutions to retain strong capital buffers--above the levels prescribed by minimum regulatory requirements--not only to weather the immediate environment but also to remain viable over the medium and long term.
+
+[SECTION]
+
+Our efforts related to capital planning and capital adequacy are embodied in the interagency supervisory capital assessment process, which began in February.  We are conducting assessments of selected banking institutions' capital adequacy, based on certain macroeconomic scenarios.  For this assessment, we are carefully evaluating the forecasts submitted by each financial institution to ensure they are appropriate, consistent with the firm's underlying portfolio performance, and reflective of each entity's particular business activities and risk profile.  The assessment of capital under the two macroeconomic scenarios being used in the capital assessment program will permit supervisors to ascertain whether institutions' capital buffers over the regulatory capital minimum are appropriate under more severe but plausible scenarios.
+
+[SECTION]
+
+Federal Reserve supervisors have been engaged over the past few years in evaluating firms' internal processes to assess overall capital adequacy as set forth in existing Federal Reserve supervisory guidance.  A portion of that work has focused on how firms use economic capital practices to assess overall capital needs.  We have communicated our findings to firms individually, which included their need to improve some key practices, and demanded corrective actions.  We also presented our overall findings to a broad portion of the financial industry at a System-sponsored outreach meeting last fall that served to underscore the importance of our message.
+
+[SECTION]
+
+Firm-wide risk identification and compliance risk managementOne of the most important aspects of good risk management is risk identification.  This is a particularly challenging exercise because some practices, each of which appears to present low risk on its own, may combine to create unexpectedly high risk.  For example, in the current crisis, practices in mortgage lending--which historically has been seen as a very low-risk activity--have become distorted and, consequently riskier, as they have been fueled by another activity that was designed to reduce risk to lenders--the sale of mortgage assets to investors outside the financial industry.
+
+[SECTION]
+
+Since the onset of the crisis, we have been working with supervised institutions to improve their risk identification practices where needed, such as by helping identify interconnected risks.  These improvements include a better understanding of risks facing the entire organization, such as interdependencies among risks and concentrations of exposures.  One of the key lessons learned has been the need for timely and effective communication about risks, and many of our previously mentioned efforts pertaining to capital and liquidity are designed to ensure that management and boards of directors understand the linkages within the firm and how various events might impact the balance sheet and funding of an organization.  We have demanded that institutions address more serious risk management deficiencies so that risk management is appropriately independent, that incentives are properly aligned, and that management information systems (MIS) produce comprehensive, accurate, and timely information.
+
+[SECTION]
+
+In our 2006 guidance on nontraditional mortgage products, we recognized that poor risk management practices related to retail products and services could have serious effects on the profitability of financial institutions and the economy; in other words, there could be a relationship between consumer protection and financial soundness.  For example, consumer abuses in the subprime mortgage lending market were a contributing cause to the current mortgage market problems.  Here, too, we are requiring improvements.  The Federal Reserve issued guidance on compliance risk management programs to emphasize the need for effective firm-wide compliance risk management and oversight at large, complex banking organizations. This guidance is particularly applicable to compliance risks, including its application to consumer protection, that transcend business lines, legal entities, and jurisdictions of operation.
+
+[SECTION]
+
+Residential lendingFinancial institutions are still facing significant challenges in the residential mortgage market, particularly given the rising level of defaults and foreclosures and the lack of liquidity for private label mortgage-backed securities.  Therefore, we will continue to focus on the adequacy of institutions' risk management practices, including their underwriting standards, and re-emphasize the importance of a lender's assessment of a borrower's ability to repay the loan.  Toward that end, we are requiring institutions to maintain risk management practices that more effectively identify, monitor, and control the risks associated with their mortgage lending activity and that more adequately address lessons learned from recent events.
+
+[SECTION]
+
+In addition to efforts on the safety and soundness front, last year we finalized amendments to the rules under the Home Ownership and Equity Protection Act (HOEPA).  These amendments establish sweeping new regulatory protections for consumers in the residential mortgage market.  Our goal throughout this process has been to protect borrowers from practices that are unfair or deceptive and to preserve the availability of credit from responsible mortgage lenders.  The Board believes that these regulations, which apply to all mortgage lenders, not just banks, will better protect consumers from a range of unfair or deceptive mortgage lending and advertising practices that have been the source of considerable concern and criticism.
+
+[SECTION]
+
+Given escalating mortgage foreclosures, we have urged regulated institutions to establish systematic, proactive, and streamlined mortgage loan modification protocols and to review troubled loans using these protocols.  We expect an institution (acting either in the role of lender or servicer) to determine, before proceeding to foreclosure, whether a loan modification will enhance the net present value of the loan, and whether loans currently in foreclosure have been subject to such analysis.  Such practices are not only consistent with sound risk management but are also in the long-term interests of borrowers, lenders, investors, and servicers.  We are encouraging regulated institutions, through government programs, to pursue modifications that result in mortgages that borrowers will be able to sustain over the remaining maturity of their loan.  In this regard, just recently the Federal Reserve joined with other financial supervisors to encourage all of the institutions we supervise to participate in the Treasury Department's Home Affordable loan modification program, which was established under the Troubled Assets Relief Program.3 Our examiners are closely monitoring loan modification efforts of institutions we supervise.
+
+[SECTION]
+
+Counterparty credit risk The Federal Reserve has been concerned about counterparty credit risk for some time, and has focused on requiring the industry to have effective risk management practices in place to deal with risks associated with transacting with hedge funds, for example, and other key counterparties.  This focus includes assessing the overall quality of MIS for counterparty credit risk and ensuring that limits are complied with and exceptions appropriately reviewed.  As the crisis has unfolded, we have intensified our monitoring of counterparty credit risk.  Supervisors are analyzing management reports and, in some cases, are having daily conversations with management about ongoing issues and important developments.  This process has allowed us to understand key linkages and exposures across the financial system as specific counterparties experience stress during the current market environment.  Federal Reserve supervisors now collect information on the counterparty credit exposures of major institutions on a weekly and monthly basis, and have enhanced their methods of assessing this exposure.
+
+[SECTION]
+
+Within counterparty credit risk, issues surrounding the credit default swap (CDS) market have been particularly pertinent.  As various Federal Reserve officials have noted in past testimony to congressional committees and in other public statements, regulators have, for several years, been addressing issues surrounding the over-the-counter (OTC) derivatives market in general and the CDS market in particular.  Since September 2005, an international group of supervisors, under the leadership of the Federal Reserve Bank of New York, has been working with dealers and other market participants to strengthen arrangements for processing, clearing, and settling OTC derivatives.  An early focus of this process was on CDS.  This emphasis includes promoting such steps as greater use of electronic-confirmation platforms, adoption of a protocol that requires participants to request counterparty consent before assigning trades to a third party, and creation of a contract repository that maintains an electronic record of CDS trades.
+
+[SECTION]
+
+More recently, and in response to the recommendations of the President's Working Group on Financial Markets and the Financial Stability Forum, supervisors are working to bring about further improvements to the OTC derivatives market infrastructure.  With respect to credit derivatives, this agenda includes: (1) further increasing standardization and automation; (2) incorporating an auction-based cash settlement mechanism into standard documentation; (3) reducing the volume of outstanding CDS contracts; and (4) developing well-designed central counterparty services to reduce systemic risks.
+
+[SECTION]
+
+The most important potential change in the infrastructure for credit derivatives is the creation of one or more central counterparties (CCPs) for CDS.  The Federal Reserve supports CCP clearing of CDS because, if properly designed and managed, CCPs can reduce risks to market participants and to the financial system.  In addition to clearing CDS through CCPs, the Federal Reserve believes that exchange trading of sufficiently standardized contracts by banks and other market participants can increase market liquidity and transparency, and thus should be encouraged.  In a major step toward achieving that goal, the Federal Reserve Board, on March 4, 2009, approved the application by ICE US Trust LLC (ICE Trust) to become a member of the Federal Reserve System.  ICE Trust intends to provide central counterparty services for certain credit default swap contracts.
+
+[SECTION]
+
+Commercial real estateFor some time, the Federal Reserve has been focused on commercial real estate (CRE) exposures.  For background, as part of our on-site supervision of banking organizations in the early 2000s, we began to observe rising CRE concentrations.  Given the central role that CRE lending played in the banking problems of the late 1980s and early 1990s, we led an interagency effort to issue supervisory guidance on CRE concentrations.  In the 2006 guidance on CRE, we emphasized our concern that some institutions' strategic- and capital-planning processes did not adequately acknowledge the risks from their CRE concentrations.  We stated that stress testing and similar exercises were necessary for institutions to identify the impact of potential CRE shocks on earnings and capital, especially the impact from credit concentrations.
+
+[SECTION]
+
+Because weaker housing markets and deteriorating economic conditions have clearly impaired the quality of CRE loans at supervised banking organizations, we have redoubled our supervisory efforts in regard to this segment.  These efforts include monitoring carefully the impact that declining collateral values may have on CRE exposures as well as assessing the extent to which banks have been complying with the interagency CRE guidance.  We found, through horizontal reviews and other examinations, that some institutions would benefit from additional and better stress testing and could improve their understanding of how concentrations--both single-name and sectoral/geographical concentrations--can impact capital levels during shocks.  We have also implemented additional examiner training so that our supervisory staff is equipped to deal with more serious CRE problems at banking organizations as they arise, and have enhanced our outreach to key real estate market participants and obtained additional market data sources to help support our supervisory activities.  As a result of our supervisory work, risk management practices related to CRE are improving, including risk identification and measurement.
+
+[SECTION]
+
+To sum up our efforts to improve banks' risk management, we are looking at all of the areas mentioned above--both on an individual and collective basis--as well as other areas to ensure that all institutions have their risk management practices at satisfactory levels.  More generally, where we have not seen appropriate progress, we are aggressively downgrading supervisory ratings and using our enforcement tools.
+
+[SECTION]
+
+Supervisory Lessons LearnedHaving just described many of the steps being taken by Federal Reserve supervisors to address risk management deficiencies in the banking industry, I would now like to turn briefly to our internal efforts to improve our own supervisory practices.  The current crisis has helped us to recognize areas in which we, like the banking industry, can improve.
+
+[SECTION]
+
+Since last year, Vice Chairman Kohn has led a System-wide effort to identify lessons learned and to develop recommendations for potential improvements to supervisory practices.  To benefit from multiple perspectives in these efforts, this internal process is drawing on staff from around the System.  For example, we have formed System-wide groups, led by Board members and Reserve Bank Presidents, to address the identified issues in areas such as policies and guidance, the execution of supervisory responsibilities, and structure and governance.  Each group is reviewing identified lessons learned, assessing the effectiveness of recent initiatives to rectify issues, and developing additional recommendations.  We will leverage these group recommendations to arrive at an overall set of enhancements that will be implemented in concert.  As you know, we are also meeting with members of the Congress and other government bodies, including the Government Accountability Office, to consult on lessons learned and to hear additional suggestions for improving our practices.
+
+[SECTION]
+
+One immediate example of enhancements relates to System-wide efforts for forward-looking risk identification efforts.  Building on previous System-wide efforts to provide perspectives on existing and emerging risks, the Federal Reserve has recently augmented its process to disseminate risk information to all the Reserve Banks.  That process is one way we are ensuring that risks are identified in a consistent manner across the System by leveraging the collective insights of Federal Reserve supervisory staff.  We are also using our internal risk reporting to help establish supervisory priorities, contribute to examination planning and scoping, and track issues for proper correction.  Additionally, we are reviewing staffing levels and expertise so that we have the appropriate resources, including for proper risk identification, to address not just the challenges of the current environment but also those over the longer term.
+
+[SECTION]
+
+We have concluded that there is opportunity to improve our communication of supervisory and regulatory policies, guidance, and expectations to those we regulate.  This includes more frequently updating our rules and regulations and more quickly issuing guidance as new risks and concerns are identified.  For instance, we are reviewing the area of capital adequacy, including treatment of market risk exposures as well as exposures related to securitizations and counterparty credit risk.  We are taking extra steps to ensure that as potential areas of risk are identified or new issues emerge, policies and guidance address those areas in an appropriate and timely manner.  And we will increase our efforts to ensure that, for global banks, our policy and guidance responses are coordinated, to the extent possible, with those developed in other countries.
+
+[SECTION]
+
+One of the Federal Reserve's latest enhancements related to guidance, a project begun before the onset of the crisis, was the issuance of supervisory guidance on consolidated supervision.  This guidance is intended to assist our examination staff as they carry out supervision of banking institutions, particularly large, complex firms with multiple legal entities, and to provide some clarity to bankers about our areas of supervisory focus.  Importantly, the guidance is designed to calibrate supervisory objectives and activities to the systemic significance of the institutions and the complexity of their regulatory structures.  The guidance provides more explicit expectations for supervisory staff on the importance of understanding and validating the effectiveness of the banking organization's corporate governance, risk management, and internal controls that are in place to oversee and manage risks across the organization.  Our assessment of nonbank activities is an important part of our supervisory process to understand the linkages between depository and nondepository subsidiaries, and their effects on the overall risks of the organization.
+
+[SECTION]
+
+In addition to issues related to general risk management at nonbank subsidiaries, the consolidated supervision guidance addresses potential issues related to consumer compliance.  In this regard, in 2007 and 2008 the Board collaborated with other U.S. and state government agencies to launch a cooperative pilot project aimed at expanding consumer protection compliance reviews at selected nondepository lenders with significant subprime mortgage operations.  This interagency initiative has clarified jurisdictional issues and improved information-sharing among the participating agencies, along with furthering its overarching goal of preventing abusive and fraudulent lending while ensuring that consumers retain access to beneficial credit.
+
+[SECTION]
+
+As stated earlier, there were numerous cases in which the U.S. banking agencies developed policies and guidance for emerging risks and issues that warranted the industry's attention, such as in the areas of nontraditional mortgages, home equity lending, and complex structured financial transactions.  It is important that regulatory policies and guidance continue to be applied to firms in ways that allow for different business models and that do not squelch innovation.  However, when bankers are particularly confident, when the industry and others are especially vocal about the costs of regulatory burden and international competitiveness, and when supervisors cannot yet cite recognized losses or writedowns, we must have even firmer resolve to hold firms accountable for prudent risk management practices.  It is particularly important, in such cases, that our supervisory communications are very forceful and clear, directed at senior management and boards of directors so that matters are given proper attention and resolved to our satisfaction.
+
+[SECTION]
+
+With respect to consumer protection matters, we have an even greater understanding that reviews of consumer compliance records of nonbank subsidiaries of bank holding companies can aid in confirming the level of risk that these entities assume, and that they assist in identifying appropriate supervisory action.  Our consumer compliance division is currently developing a program to further the work that was begun in the interagency pilot discussed earlier.  In addition to these points, it is important to note that we have learned lessons and taken action on important aspects of our consumer protection program, which I believe others from the Federal Reserve have discussed with the Congress.
+
+[SECTION]
+
+In addition, we must further enhance our ability to develop clear and timely analysis of the interconnections among both regulated and unregulated institutions, and among institutions and markets, and the potential for these linkages and interrelationships to adversely affect banking organizations and the financial system.  In many ways, the Federal Reserve is well positioned to meet this challenge.  In this regard, the current crisis has, in our view, demonstrated the ways in which the Federal Reserve's consolidated supervision role closely complements our other central bank responsibilities, including the objectives of fostering financial stability and deterring or managing financial crises.
+
+[SECTION]
+
+The information, expertise, and powers derived from our supervisory authority enhance the Federal Reserve's ability to help reduce the likelihood of financial crises, and to work with the Treasury Department and other U.S. and foreign authorities to manage such crises should they occur.  Indeed, the enhanced consolidated supervision guidance that the Federal Reserve issued in 2008 explicitly outlines the process by which we will use information obtained in the course of supervising financial institutions--as well as information and analysis obtained through relationships with other supervisors and other sources--to identify potential vulnerabilities across financial institutions.  It will also help us identify areas of supervisory focus that might further the Federal Reserve's knowledge of markets and counterparties and their linkages to banking organizations and the potential implications for financial stability.
+
+[SECTION]
+
+A final supervisory lesson applies to the structure of the U.S. regulatory system, an issue that the Congress, the Federal Reserve, and others have already raised.  While we have strong, cooperative relationships with other relevant bank supervisors and functional regulators, there are obvious gaps and operational challenges in the regulation and supervision of the overall U.S. financial system.  This is an issue that the Federal Reserve has been studying for some time, and we look forward to providing support to the Congress and the Administration as they consider regulatory reform.  In a recent speech, Chairman Bernanke introduced some ideas to improve the oversight of the U.S. financial system, including the oversight of nonbank entities.  He stated that no matter what the future regulatory structure in the United States, there should be strong consolidated supervision of all systemically important banking and nonbanking financial institutions.
+
+[SECTION]
+
+Finally, Mr. Chairman, I would like to thank you and the subcommittee for holding this second hearing on risk management--a crucially important issue in understanding the failures that have contributed to the current crisis.  Our actions, with the support of the Congress, will help strengthen institutions' risk management practices and the supervisory and regulatory process itself--which should, in turn, greatly strengthen the banking system and the broader economy as we recover from the current difficulties.
+
+[SECTION]
+
+I look forward to answering your questions.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Senior Supervisors Group (2008). "Observations on Risk Management Practices during the Recent Market Turbulence (373 KB PDF)," March 6. Return to text
+
+[SECTION]
+
+President's Working Group on Financial Markets (2008), "Policy Statement on Financial Market Developments (1.36 MB PDF)," March 13; Financial Stability Forum (2008), "Report of the Financial Stability Forum on Enhancing Market and Institutional Resilience (399 KB PDF),"  April 7. Return to text
+
+[SECTION]
+
+See Board of Governors of the Federal Reserve System (2009), "Federal financial regulatory agencies issue statement in support of the "Making Home Affordable" loan modification program," press release, March 4. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

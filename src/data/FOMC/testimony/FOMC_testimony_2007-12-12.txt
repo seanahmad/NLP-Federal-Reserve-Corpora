@@ -1,0 +1,245 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+December 12, 2007
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+
+
+[SECTION]
+
+Chairwoman Maloney, Ranking Member Biggert, and members of the Subcommittee, thank you for the opportunity to discuss the recently introduced "Financial Consumer Hotline Act of 2007."  I am the Director of the Federal Reserve Board's Division of Consumer and Community Affairs.  In addition to its responsibilities for rulewriting and enforcing many federal consumer financial protection laws, the Federal Reserve administers a nationwide consumer complaint and inquiry program with respect to the banks we supervise and general consumer financial issues.  My division has responsibility for that program.  My testimony today will comment on the proposed legislation, and discuss recent Federal Financial Institutions Examination Council (FFIEC)1 and Federal Reserve initiatives that address the purpose of the proposed legislation.
+
+[SECTION]
+
+The Financial Consumer Hotline Act of 2007 would amend the Federal Financial Institutions Examination Council Act by requiring the FFIEC to establish a single telephone number that consumers with complaints and inquiries concerning financial institutions or issues could call and be routed to the appropriate federal supervisory agency or state bank supervisor for assistance.  Under the legislation, transfers of calls to state bank supervisors would be subject to the state's capacity to receive calls and its satisfaction of any conditions established by the FFIEC.  The legislation would also require the federal financial institution regulatory agencies to submit a report to the Congress on efforts to establish a public interagency website for directing and referring consumer complaints and inquiries to appropriate agencies, and to establish a system for expediting the routing of misdirected consumer complaint or inquiry documents between appropriate agencies.
+
+[SECTION]
+
+The Federal Reserve concurs with the intent of the proposed bill and strongly supports the current efforts by the FFIEC agencies to improve the consumer's experience with getting complaints involving banking services and transactions addressed promptly and accurately.   However, given that the FFIEC agencies are collaborating and cooperating on how to facilitate the consumer complaint handling and resolution process in ways that are consistent with the proposed bill, and the considerable progress being made already on both an interagency basis as well as through our own efforts, legislation does not appear to be needed to ensure continued momentum.  Additionally, it is important that the agencies maintain flexibility so they may benefit from recommendations that will result from the current FFIEC initiatives and future technological advances.
+
+[SECTION]
+
+Interagency InitiativesBefore highlighting current interagency initiatives, it is important to mention that the FFIEC agencies have been coordinating on consumer complaint processing since the 1970s.  For example, the agencies have had fully operational procedures in place for decades to promptly refer misdirected consumer telephone calls and misdirected consumer complaints and inquiries to the appropriate federal or state regulator.  Recently, the agencies have started using new technology to further speed-up and improve the referral process, including the use of encrypted email and electronic scanning of complaints, which has significantly reduced the paper flow between other FFIEC agencies and the Federal Reserve.
+
+[SECTION]
+
+Moreover, the agencies meet periodically to share complaint data and to discuss emerging issues identified through the complaint process.  Most recently, the federal banking agencies held national conferences in April 2006 and October 2007 to share information about trends and issues evident in consumer complaint processing, and to share best practices in investigating and analyzing complaints. The agencies also discussed ways to improve their service and potential ways complaint data might be used to aid in the development of consumer education materials.  Another interagency conference, which will be sponsored by the Federal Reserve, is scheduled for April 2009 at our central consumer help site located at the Federal Reserve Bank of Kansas City.
+
+[SECTION]
+
+To build upon the efforts of the agencies to enhance their ability to investigate and respond to consumer complaints, in September of this year the FFIEC formed an interagency working group to identify ways to collectively improve the consumer complaint programs of the agencies with the goal of making those programs even more consumer-friendly.  This working group also includes representatives from the Conference of State Bank Supervisors.
+
+[SECTION]
+
+The group met several times to identify appropriate best practices and areas of common approach related to the consumer complaint process; and, determine whether the use of a third party vendor would be appropriate to assist in this effort, and if so, to determine the scope of the vendor's engagement.  A number of promising initiatives that would enhance consumers' experience with the agencies' complaint processes surfaced during these discussions, including:
+
+[SECTION]
+
+The group also put forth some ideas that might leverage agency resources, including unified complaint coding to facilitate the sharing of information between the agencies about emerging trends and issues identified from consumer complaints, an electronic process for forwarding complaints to the appropriate agency, and a uniform case management system.
+
+[SECTION]
+
+These initiatives have much in common with those identified in the proposed legislation.  The FFIEC working group recommended to the FFIEC that a third party vendor be engaged to address the ideas for enhancing the consumers' experience in dealing with the agencies and to explore the feasibility of pursuing the initiatives related to leveraging the agencies' resources.  The group further recommended that the vendor use consumer focus groups to identify consumers' preferences for filing complaints and contacting a regulator about their banking problems.  On December 4, 2007, the FFIEC approved the working group's recommendations and is beginning the process of hiring a vendor, which includes developing a statement of work, soliciting bids from interested parties, and selecting a vendor.   We believe the vendor's work will provide the FFIEC with insight needed to develop a comprehensive strategy to further enhance the consumer complaint process and consumers' overall satisfaction with the process.
+
+[SECTION]
+
+Federal Reserve InitiativesThrough the Federal Reserve's consumer complaint program, which was established in 1976, we address complaints about the banks under our supervision (state-chartered banks that are members of the Federal Reserve System and certain foreign banking organizations) and promptly refer complaints we receive regarding other financial services firms to the appropriate federal or state agency, including the Federal Trade Commission.
+
+[SECTION]
+
+The Board has uniform policies and procedures for investigating and responding to consumer complaints, which are implemented by specially trained analysts at the twelve Federal Reserve Banks.  Board staff oversees the implementation of these policies by the Federal Reserve Banks.  In each of the last two calendar years, the Federal Reserve System has received about 1,900 complaints concerning the roughly 900 state member banks for which we have supervisory responsibility.  The Board maintains a database that enables us to track each complaint and how it is resolved.
+
+[SECTION]
+
+Consistent with the intent of the proposed legislation and the Federal Reserve's long-standing consumer protection program, we recently announced additional enhancements to our own consumer complaint handling procedures that show great promise for improving consumers' experience in dealing with our program and in streamlining our processes.
+
+[SECTION]
+
+On November 19, we launched "Federal Reserve Consumer Help," which is a new centralized resource that consolidates and streamlines the Federal Reserve's consumer complaint and inquiry program.  Trained customer service professionals are available to answer questions and assist with a wide range of issues relating to financial products and services, and consumer protection laws.   Simply put, it serves as a one-stop complaint and inquiry site where consumers can go to get help from the Federal Reserve.
+
+[SECTION]
+
+Consumers calling our new toll-free number (888-851-1920) between the weekday hours of 8 a.m. and 6 p.m. Central Time can speak directly to a customer service professional.  After hours, callers may leave a message and Federal Reserve Consumer Help staff will return their calls the next business day.  The website, http://www.federalreserveconsumerhelp.gov/ was designed for easy access allowing consumers to submit a complaint or inquiry electronically.
+
+[SECTION]
+
+The website provides answers to commonly asked banking questions and links to many consumer protection materials and resources.  Consumers will also find an updated version of the brochure "How to File a Consumer Complaint Against a Bank" on the website.  This brochure explains, step-by-step, the Federal Reserve's complaint process and tells consumers what to expect during a complaint investigation.  An electronic complaint form is also provided.
+
+[SECTION]
+
+Consumers do not have to know which federal bank regulator supervises the bank or financial institution that they are concerned about in order to file a complaint or inquiry, or to get assistance from the Federal Reserve.  Further, consumers are not limited in how they can contact the Federal Reserve for help--complaints and inquiries can be filed with us by mail, fax, telephone, or email.  When a complaint or inquiry is filed with us, our customer service representatives query a national database maintained by the Federal Reserve Board in order to determine the appropriate regulator responsible for the financial institution that is the subject of the complaint or inquiry.  Federal Reserve Consumer Help then directs the complaint or inquiry to the appropriate regulator.  For example, with regard to complaints and inquiries filed by telephone, we have arrangements with several other banking regulators to transfer callers directly to a representative at the appropriate agency.  Any misdirected written or electronically submitted complaints or inquiries are forwarded to the appropriate agency, and for agencies with the capability, these complaints and inquiries are passed on to them electronically.
+
+[SECTION]
+
+ConclusionWe are keenly aware of the congressional interest in the administration of the agencies' consumer complaint and inquiry programs, and are moving ahead with the implementation of both interagency and Federal Reserve System measures to address the needs of consumers and improve these programs.  As underscored by recent enhancements to our consumer complaint program, and our support for interagency initiatives, the Federal Reserve remains strongly committed to ensuring that issues consumers have with their financial institutions are handled promptly, courteously, and thoroughly, and that consumers have access to an effective and efficient means for resolving complaints.  Moreover, the Federal Reserve believes the consumer should not be burdened with having to know the regulator to file a complaint or make an inquiry.  As such, the Federal Reserve provides the same level of commitment and service to all consumers and uses highly trained, professional staff and customized tools to direct consumers or send misdirected complaints to the appropriate regulator or agency.
+
+[SECTION]
+
+I would be pleased to answer any questions you may have about the Federal Reserve's consumer complaint program, our recent initiatives, or ongoing interagency efforts to enhance consumer complaint handling and resolution.
+
+[SECTION]
+
+Footnotes The FFIEC is a formal interagency body empowered to prescribe uniform principles, standards, and report forms for the federal examination of financial institutions by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the National Credit Union Administration, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision, and to make recommendations to promote uniformity in the supervision of financial institutions.  In 2006, the State Liaison Committee (SLC) was added to the FFIEC as a voting member.  The SLC includes representatives from the Conference of State Bank Supervisors, the American Council of State Savings Supervisors, and the National Association of State Credit Union Supervisors. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

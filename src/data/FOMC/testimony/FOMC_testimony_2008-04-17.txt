@@ -1,0 +1,305 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 17, 2008
+
+[SECTION]
+
+Sandra F. Braunstein, Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Subcommittee on Financial Institutions and Consumer Credit, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Madam Chair Maloney, Ranking Member Biggert, members of the Subcommittee, I appreciate the opportunity to discuss the Federal Reserve Board's ongoing efforts to enhance protections for consumers who use credit cards. In June 2007, the Board proposed substantial revisions to the credit card disclosures required under the Truth in Lending Act (TILA) regulations. Those revisions are focused on ensuring that consumers have the information they need about credit card costs and terms, when they need it, in a form they can use. In addition, as Chairman Bernanke indicated in testimony before the full Committee in February, the Board plans to use authority under the Federal Trade Commission Act (FTC Act) to propose rules prohibiting unfair or deceptive credit card practices. The proposal will be issued this spring. We are working on these rules with the Office of Thrift Supervision (OTS) and the National Credit Union Association (NCUA) so that consumers would have the same level of protection whether their card issuer was a bank, savings association, or federal credit union.
+
+[SECTION]
+
+Implications for Consumers of Increased Credit Card ComplexityIn the early 1980s, less than half of American families had a general purpose credit card (43 percent in 1983). Currently close to three-quarters have at least one card (71 percent in 2004). The increase in credit card holdings was sharpest among lower-income families: from 1983 to 2004, the share of families in the lowest income quintile that hold such cards jumped from 11 percent to 37 percent.1 In addition, consumers are using their cards more both as a payment device and as a source of credit. Total charges on bank credit cards increased by about five times and total debt outstanding as of year-end by almost four times from 1991 to 2006.2 This growth is explained by several factors, including substitution of cards for cash and installment credit and the development of credit scoring and risk-based pricing, which have made credit cards available to more people.
+
+[SECTION]
+
+As consumers have relied more on credit cards, card plans have become more complex. Once, a card may have allowed the user to make purchases or obtain cash advances and applied a single, unchanging annual percentage rate, or APR, to each feature. Fees were typically limited to an annual fee, a charge for cash advances, and perhaps fees for paying late or exceeding the credit limit. Today's more complex products offer balance transfers and treat different classes of purchases and cash advances as different features, each with its own APR (for example, an APR for purchases generally and a lower APR for certain purchases made during a "promotional" period). In addition, APRs adjust much more frequently to changes in the market, in a borrower's credit risk profile, or in other factors the creditor considers important. The typical card no longer has an annual fee, but it can have many other fees tied to a variety of features, requirements, or services.
+
+[SECTION]
+
+These more complex plans hold significant potential benefits for consumers. Pricing that is sensitive to consumers' preferences for services likely increases the availability of the services that consumers find most valuable. Pricing that is sensitive to consumers' credit risk profiles can increase the availability of credit and lower its cost for many consumers. Growing complexity, however, has increased the risk that consumers will not understand or notice key terms that affect a plan's cost. With so many rates, fees, and features, it has become more likely that even reasonably diligent consumers make costly mistakes. Moreover, when complexity reaches the point of reducing transparency, it impedes competition and creates inefficiencies.
+
+[SECTION]
+
+Even when credit card plans were simpler, ensuring that consumers understood the cost of using the plan or of using it for a particular purpose was a challenge. Key variables that affect a consumer's costs, such as the amount of credit the consumer will use or the timing and amount of the consumer's payments, are not known in advance to the card issuer. TILA, therefore, does not require advance disclosure of a single, effective rate. It requires the issuer to disclose a nominal rate and other terms that determine the cost of the plan, such as fees, any grace period, and the balance calculation method. Clear disclosure of these terms and how they determine what the consumer will pay has always been a challenge. The disclosure challenge has grown substantially with the increase in the complexity of credit card plans.
+
+[SECTION]
+
+The Board has sought to meet this challenge with a systematic and comprehensive review of TILA disclosures based on extensive consumer testing. We believe that our June 2007 proposal will lead to disclosures that are more effective for today's more complex credit plans. Those who have commented on the proposal have generally agreed. At the same time, over two thousand comments from individual consumers, a growing body of behavioral research, and our own consumer testing provide evidence that it is increasingly difficult to use disclosure alone to help reasonably diligent consumers avoid incurring unnecessary costs on their increasingly complex credit card plans. Careful measures that would restrict credit card terms or practices may in some instances be more effective than disclosure to prevent particular consumer injuries. At the same time, such restrictions can have unintended adverse consequences for consumers, such as reducing the availability of credit or increasing its cost.
+
+[SECTION]
+
+Mindful of the advantages and limitations of both disclosure and stricter approaches, the Board is developing a second set of rules to supplement the June 2007 disclosure proposal with new targeted requirements and restrictions on credit card terms. As Chairman Bernanke recently testified, these rules will be issued later this spring under the FTC Act, in coordination with the OTS and NCUA. In developing proposed rules, we have consulted H.R. 5244, the "Credit Cardholders' Bill of Rights Act of 2008" introduced by Madam Chair Maloney. This comprehensive bill has helped us to identify consumer protection concerns that we should consider addressing by regulation.
+
+[SECTION]
+
+In the remainder of my testimony, I will review the Board's pending proposal to improve credit card disclosures and discuss the concerns raised and suggestions made about certain credit card practices during the comment period. I will also summarize our ongoing efforts working with the OTS and NCUA to develop joint rules under the FTC Act.
+
+[SECTION]
+
+The Board's 2007 Proposal to Improve DisclosuresThe potential benefits of disclosure are well-known. More effective disclosures make information about terms and pricing easier for consumers to obtain and understand. Informed consumers are less likely to fall into "traps for the unwary" and more able to choose products that offer the best combination of features and pricing to meet their personal financial needs. Better dissemination of information about credit card terms and pricing also enhances competition among credit card issuers, which, in turn, helps generate products that consumers want.
+
+[SECTION]
+
+The Board's proposal to improve disclosures seeks to ensure that consumers receive key information about the costs of credit card transactions in ways they can understand, in formats they can use, and at times when it is most helpful. To help us craft a proposal to meet these specific objectives, we considered comment letters, available sources of data and information, and our own long experience implementing TILA. We also considered what consumers themselves had to say by interviewing consumers individually about their use and understanding of different disclosures. Consumers told us what information they find useful when making credit decisions and what information they ignore. We learned which words and formats for presenting information promote understanding and which do not.
+
+[SECTION]
+
+Lessons from our extensive consumer testing are reflected in a myriad of preliminary judgments made in the proposal about appropriate disclosure content, format, and timing. The proposal includes the following specific elements:
+
+[SECTION]
+
+Advertisements of introductory rates would more clearly disclose the eventual higher rates and how soon they would be imposed;
+
+[SECTION]
+
+Advertisements of "fixed" rates would be restricted to rates that are truly not subject to change, either for a clearly disclosed period or for the life of the plan;
+
+[SECTION]
+
+The "Schumer box" required with credit card solicitations and applications would be updated to more effectively present information about rates and fees. The most critical rate and fee information would be presented in the box; rates and fees would be separated into two sections; and graphic techniques such as minimum font size, judicious bolding, and vertical alignment of key numbers would make it easier to read and use;
+
+[SECTION]
+
+A summary table similar to the Schumer box would accompany the lengthy, complex credit agreements that consumers receive when they first open an account and would also be provided, later, when account terms are amended;
+
+[SECTION]
+
+The penalty rate and penalty fees would be highlighted in the Schumer box and the account-opening summary table; and a reminder of late payment penalties would appear on every periodic statement;
+
+[SECTION]
+
+A consumer would be sent notice 45 days before a penalty rate was imposed or the rate or a critical fee was increased for other reasons;
+
+[SECTION]
+
+The cumulative cost of fees would be highlighted every month. Fees charged in the previous month would be grouped together on the statement in a prominent location and totaled for the month and year-to-date;
+
+[SECTION]
+
+The periodic statement's "effective APR," another way of disclosing the total cost of credit, is the subject of two alternative proposals. Under one proposal, the effective APR could be revised to make it simpler for creditors to compute and potentially easier for consumers to understand. Alternatively, if continued consumer testing, public comments, and the Board's analysis indicate that the effective APR does not offer a meaningful consumer benefit, then it could be eliminated, as the statute authorizes;
+
+[SECTION]
+
+Consumers would be warned on the periodic statement about the higher cost of making only minimum payments, and creditors would be provided incentives to give consumers a more precise estimate of the time it would take to repay the balance and to place that estimate on the periodic statement rather than make it available by telephone;
+
+[SECTION]
+
+Creditors would receive clearer guidance regarding what charges must be disclosed, when, and how. They would be given increased flexibility to disclose charges at times and by methods more useful to the consumer and more convenient to the creditor.
+
+[SECTION]
+
+Comments on the 2007 ProposalThe Board received over 2,500 comments on the June 2007 proposal, about 2,100 of them from individual consumers. Many consumers wrote us about their personal experiences with credit cards, providing information that we have found invaluable in our continuing efforts to improve disclosures and in our development of proposed regulations under the FTC Act. Consumer advocacy groups also wrote to us, as did financial institutions or their trade associations. We also heard from members of Congress and other government agencies.
+
+[SECTION]
+
+Broadly speaking, commenters generally supported the proposed disclosures and the Board's approach to improving disclosure through consumer testing. Some commenters offered specific suggestions to improve the disclosures or reduce unnecessary burden, and we are taking those suggestions into account. As we expected, a few elements of the proposal elicited significantly divided reactions. For example, industry representatives contended that the format requirements we proposed for periodic statements, which are favored by consumer groups, would be overly prescriptive. Consumer groups opposed the proposal to eliminate the effective APR from the periodic statement, a proposal supported by industry representatives. We are carefully evaluating these matters, including through more testing with consumers.
+
+[SECTION]
+
+Consumers and consumer groups also contended that better disclosures were not sufficient to address certain issuer practices and they urged the Board to regulate these practices more strictly. Among the concerns frequently cited were shortening of the time to submit payments, applying interest rate increases to pre-existing balances, allocating payments first to balances with the lowest interest rate, and computing interest using the so-called double-cycle method.
+
+[SECTION]
+
+Individual consumers and consumer advocates indicated that consumers are allowed too little time after receiving their bills to submit their payments, thus leading to late fees and interest charges and other adverse consequences such as rate increases. They urged the Board to require that consumers be given more time to pay and to require creditors to show that the consumer, rather than the mail service, was to blame for a late payment. Comments from creditors, however, generally asserted that consumers have ample time to make payments, particularly in light of the increasing number of consumers who receive periodic statements and make payments electronically. These comments also stated that providing longer grace periods to consumers would reduce interest revenue and lead creditors to increase other consumer costs.
+
+[SECTION]
+
+The Board's proposal to require 45 days' notice before a rate or critical fee is increased was criticized by some commenters for going too far, and by others for not going far enough. This proposed notice was intended primarily to give consumers time to pay off the balance before the rate increase, through then-existing resources or alternative credit sources. Industry representatives contended, however, that the requirement would harm consumers overall. They say it would delay issuers from increasing rates when there is an increase in the consumer's risk of default or the issuer's cost of funds, and that issuers would likely need to respond by raising credit costs or reducing credit availability. On the other side, individual consumers, consumer groups, and members of Congress contended that the proposed 45-day notice did not go far enough to protect consumers from unfair surprise. They argued that many consumers would not be able to avoid the increase by transferring their balances to lower-rate accounts and recommended stricter approaches, such as giving the consumer the right to "opt out" of a rate increase for existing balances, prohibiting issuers from applying increased rates to pre-existing balances, or prohibiting issuers from increasing rates until the card expires.
+
+[SECTION]
+
+The issue of payment allocation also elicited divided responses. If a card holder's account has two or more balances with different interest rates (for example, a purchase rate and a cash advance rate), issuers typically apply payments to the lowest-rate balance first, so the consumer accumulates interest at the higher rates applicable to other balances. The Board proposed a new disclosure of this practice when issuers advertise promotional rates. Industry representatives generally favored the proposed disclosure and urged that it be applied more broadly, not just to promotional terms. Consumers, consumer groups, and members of Congress, however, commented that a disclosure would not protect consumers sufficiently. These commenters urged the Board to prohibit the practice of allocating payments to the lowest-rate balance first. Industry representatives countered that regulating payment allocation methods could reduce consumers' choice of features and increase their credit costs.
+
+[SECTION]
+
+Consumer groups urged the Board to prohibit the use of a method sometimes referred to as "two-cycle" or "double-cycle" to compute the balance on which the consumer's interest obligation is determined. The finance charge is computed by most issuers on the balance from the most recent billing cycle. Under the less typical two-cycle method, the finance charge is computed beginning on the date of the transaction, even if that date falls in the prior billing cycle. This method yields higher finance charges whenever a consumer shifts from paying the balance in full each month to carrying a balance on the account. Consumers and consumer groups contended this method is unfair to consumers. Industry representatives generally did not comment on the issue, perhaps because few card issuers currently use the two-cycle method.
+
+[SECTION]
+
+Regulatory Proposal under the FTC ActThe FTC Act gives the Board authority to prohibit unfair or deceptive practices by banks. The OTS and NCUA have identical authority over savings associations and federal credit unions, respectively. We are working closely with these agencies with the expectation of developing uniform rules to prohibit unfair or deceptive practices with respect to credit cards. In addition, we plan to use our authority under TILA, which applies to all card issuers regardless of regulator, to adopt stronger substantive protections where appropriate.
+
+[SECTION]
+
+Our work is ongoing. Just last week we received useful information in a forum on credit cards hosted by Governor Kroszner in which card issuers and processors, consumer advocates, counseling agencies, and other regulatory agencies came together at the Board to discuss relevant industry trends and identify areas that may warrant action or further study. Among the topics discussed were the Board's previously announced plan to issue a proposal under the FTC Act and the Board's June 2007 disclosure proposal. Participants provided key insights for us to consider as we develop the FTC Act proposal and work to finalize new disclosures.
+
+[SECTION]
+
+Our efforts to develop new disclosures continue apace. The public comments identified potential areas for improvement that we are testing through additional in-depth, one-on-one interviews with consumers. Quantitative testing on a statistically valid basis will follow, and we expect to issue a final rule under TILA before year-end.
+
+[SECTION]
+
+ConclusionMadam Chair, in closing let me emphasize the Federal Reserve's commitment to enhancing consumers' ability to use credit cards to their benefit. Disclosure requirements can help ensure that consumers receive information about credit card terms in ways they can understand, in formats they can use, and at times when it is most helpful. More complex pricing and continuous change in the marketplace, however, make the task of writing rules for effective disclosure increasingly challenging. Consumer testing has proven to be very useful in improving disclosure, but we have also concluded that stricter approaches in some areas may be needed. To that end, we will be proposing regulations under the FTC Act later this spring that would impose new restrictions and requirements on credit card issuers to prevent unfair or deceptive practices.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System (2006), Report to the Congress on Practices of the Consumer Credit Industry in Soliciting and Extending Credit and their Effects on Consumer Debt and Insolvency (Washington: Board of Governors of the Federal Reserve System), table 6. Return to text
+
+[SECTION]
+
+Board staff calculations from Thomson Financial Media, Cards and Payments: Card Industry Directory, various editions (New York: Thomson Financial Media, pp. 14-16 in each edition). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

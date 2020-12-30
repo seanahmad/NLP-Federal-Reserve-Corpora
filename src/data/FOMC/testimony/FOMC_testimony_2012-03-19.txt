@@ -1,0 +1,420 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+March 19, 2012
+
+[SECTION]
+
+Suzanne G. Killian, Senior Associate Director, Division of Consumer and Community Affairs
+
+[SECTION]
+
+Before the Committee on Oversight and Government Reform, U.S. House of Representatives, Field Hearing, Brooklyn, New York
+
+[SECTION]
+
+Chairman Issa, Ranking Member Cummings, Congressman Towns, and members of the Committee, thank you for the opportunity to appear before you today to update the Committee on the Federal Reserve's progress in implementing both the foreclosure review process as well as its progress in implementing the requirements of the enforcement actions that the Board issued in April 2011 against 10 banking organizations. Those actions were taken in response to patterns of misconduct and negligence related to deficient practices in residential mortgage loan servicing and foreclosure processing.1  The deficiencies were identified by examiners during reviews conducted from November 2010 to January 2011 and represented significant and pervasive failures as well as unsafe and unsound practices at those 10 institutions. Corrective actions and other measures were required by the formal enforcement actions.
+
+[SECTION]
+
+My testimony focuses on the most significant requirements of these orders and on the implementation and execution of the requirements. More specifically, the testimony addresses the implementation of the requirements in the Federal Reserve's enforcement actions that each banking organization with servicing operations supervised by the Federal Reserve (a) retain one or more independent consultants acceptable to the Federal Reserve to conduct an independent review of residential mortgage foreclosure actions (the "Foreclosure Review") to determine whether borrowers suffered financial injury as a result of errors, misrepresentations, or other deficiencies in the foreclosure process; (b) submit an engagement letter acceptable to the Federal Reserve that describes how each independent consultant retained by the institution and approved by the Federal Reserve will conduct the Foreclosure Review; (c) establish, in connection with the Foreclosure Review, a process for the receipt and review of borrower claims and complaints (the "Borrower Outreach Program"); and (d) submit specific plans acceptable to the Federal Reserve designed to correct practices that resulted in servicer errors and to prevent future abuses in the loan modification and foreclosure processes.
+
+[SECTION]
+
+This testimony also addresses the requirements in the Federal Reserve's enforcement actions that parent holding companies submit plans acceptable to the Federal Reserve to improve holding company oversight of residential mortgage loan servicing and foreclosure processing conducted by bank and nonbank subsidiaries.
+
+[SECTION]
+
+The Foreclosure Review and Independent Consultants
+ The Federal Reserve's enforcement actions require the servicers to retain one or more independent consultants acceptable to the Federal Reserve to conduct the Foreclosure Review to determine whether borrowers suffered financial injury as a result of errors, misrepresentations, or other deficiencies in the foreclosure process. Where financial injury is found, the servicers must compensate the injured borrowers pursuant to a remediation plan that is acceptable to the Federal Reserve.
+
+[SECTION]
+
+In determining the acceptability of consultants, the Federal Reserve closely scrutinized their independence. Importantly, the Federal Reserve reviewed whether the consultant currently provides or had previously provided advice to the banking organization regarding its foreclosure practices, opinions, or actions that may have contributed to the deficiencies identified by examiners during their reviews conducted from November 2010 to January 2011. This determination was made to ensure that the consultant would not review any action or opinion previously recommended by the consultant to the banking organization. We will continue to monitor the Foreclosure Review process to make sure that the consultants who were accepted act independently.
+
+[SECTION]
+
+The Federal Reserve orders require the servicers to review the files of borrowers whose primary residence was in the foreclosure process of the servicer in 2009 or 2010, whether or not the foreclosure was completed.
+
+[SECTION]
+
+At this time, we are requiring the independent consultants to include in the review all files for particular categories of borrowers who we have determined present a significant risk of being financially injured in the foreclosure process. Any borrower who falls into any one of those categories must receive an independent foreclosure review. The categories for mandatory review include all mortgages in the mortgage foreclosure process in 2009 or 2010 involving members of the military who were covered by the Servicemembers Civil Relief Act. It also includes all borrowers who had previously filed complaints with the servicers about foreclosure actions that were pending during 2009 or 2010. High-risk files involving borrowers in bankruptcy will also be reviewed. We are also requiring review of all files where a foreclosure went forward when the borrower was current on a trial or permanent modification and when the borrower's completed application for a modification had not been acted on. Other files outside of these categories must be reviewed on a sampling basis to detect if errors, misrepresentations, or deficiencies occurred. Going forward, we may determine that additional file reviews are appropriate.
+
+[SECTION]
+
+The Borrower Outreach Program
+       The Federal Reserve's enforcement actions require that each banking organization with servicing operations supervised by the Federal Reserve implement, in connection with the Foreclosure Review, a process for the receipt and review of borrower claims and complaints. We view this Borrower Outreach Program and the submission by borrowers of requests for review as critical to ensuring that borrowers who suffered financial injury are identified and compensated for financial injury they suffered as a result of errors, misrepresentations, or other deficiencies in the foreclosure process.
+
+[SECTION]
+
+The Borrower Outreach Program was first announced on November 1, 2011, and is intended to make eligible borrowers aware of the opportunity they have to have their foreclosures independently reviewed as part of the Foreclosure Review. Borrowers are eligible to request that their files be reviewed if their primary residence was in the foreclosure process in 2009 or 2010, whether or not the foreclosure was completed. Borrowers are eligible to request a review even if they previously filed a complaint with their servicer about their foreclosure.
+
+[SECTION]
+
+Information about the review process, including how to request a review as part of the Foreclosure Review, has been provided in mailings to borrowers who may be eligible for a review. The servicers have completed mailings to all 4.3 million borrowers eligible to request a review. By using required measures, such as skip tracing (collecting information about an individual from various sources to determine the individual's location), to identify borrowers who may have moved, these mailings have reached an estimated 95 percent of eligible borrowers.
+
+[SECTION]
+
+The servicers also have established a tollâfree number that borrowers can call to get more information about the review as well as a website that borrowers can access for information and use to submit a request for review of their foreclosure.2
+
+[SECTION]
+
+Additionally, servicers have conducted an advertising campaign to make borrowers aware of the opportunity to request reviews of their foreclosures as part of the Foreclosure Review. The Federal Reserve is monitoring the servicers it supervises to make sure they are effectively doing everything they can to find borrowers who are potentially eligible for the Foreclosure Review.
+
+[SECTION]
+
+The Federal Reserve is working with the Office of the Comptroller of the Currency (OCC) in overseeing the development and operation of the Borrower Outreach Program. The regulators have also considered input from the independent consultants, servicers, and consumer advocacy groups on ways to increase borrowers' awareness of and participation in the Foreclosure Review process.
+
+[SECTION]
+
+To help ensure that borrowers who have experienced financial injury have an adequate period to submit claims for review and redress, on February 15, 2012, the Board and the OCC extended the April 30 deadline for requesting a foreclosure review to July 31, 2012.3  In addition, on February 29 and March 6 of this year, the Federal Reserve, working with the OCC, sponsored webinars for housing counselors to explain the process for submitting a request for review under the Borrower Outreach Program, so that the counselors can more effectively assist borrowers who want to request a review. Other efforts aimed at improving participation by injured borrowers are also being considered.
+
+[SECTION]
+
+We emphasize that any borrower whose primary residence was in the foreclosure process in 2009 or 2010 can have his or her file included in the Foreclosure Review simply by submitting a claim or complaint pursuant to that program.
+
+[SECTION]
+
+Guidance for Providing Remediation
+       The Board and the OCC will soon release joint guidance on how the servicers subject to the foreclosure enforcement actions should provide remediation to borrowers for any financial injury caused by the servicers' deficiencies in their servicing and foreclosure processes. Under these enforcement actions, servicers are required to prepare and implement an acceptable plan to remediate or otherwise correct any financial injuries identified in the course of the Foreclosure Review. The guidance to be released by the Board and the OCC will illustrate the kinds of payments and other corrective measures a servicer must undertake to address specific types of financial injuries suffered by borrowers as a result of errors by the servicer.
+
+[SECTION]
+
+The Engagement Letters
+       The Federal Reserve's enforcement actions require the servicers to each submit an engagement letter to the Federal Reserve for approval that describes how the independent consultants retained by the servicer and approved by the Federal Reserve will conduct the Foreclosure Review. The Federal Reserve has approved all but one of those engagement letters. Because our review of the letters contemplates more extensive criteria for conducting the Foreclosure Review than those that apply to the national bank servicers, finalization of the engagement letters has required more time to complete. The engagement letter of the remaining servicer is expected to be approved shortly.
+
+[SECTION]
+
+The Action Plans
+       The Federal Reserve's enforcement actions require that each banking organization with servicing operations supervised by the Federal Reserve submit specific plans acceptable to the Federal Reserve designed to correct practices that resulted in servicer errors and prevent future abuses in the loan modification and foreclosure process. Each servicer regulated by the Federal Reserve must, among other things, submit specific plans that:
+
+[SECTION]
+
+In addition, the enforcement actions issued in April 2011 require the parent holding companies to submit plans acceptable to the Federal Reserve to improve holding company oversight of residential mortgage loan servicing and foreclosure processing conducted by bank and nonbank subsidiaries.
+
+[SECTION]
+
+The action plans required by the April 2011 enforcement actions have been approved.
+
+[SECTION]
+
+Public Release of Approved Engagement Letters and Action Plans
+
+[SECTION]
+
+On February 27 and March 8, 2012, the Board publicly released the approved engagement letters and action plans.4  We believe that release of the action plans and engagement letters is appropriate because of the compelling interest in assuring the public that the pervasive and serious deficiencies found in the servicing and foreclosure processes of these institutions are being vigorously and fully remedied. Release of this information will increase accountability and public confidence in the actions being taken by the institutions to correct the deficiencies in past practices.5
+
+[SECTION]
+
+The Federal Reserve will continue to monitor, on an ongoing basis, the corrective measures that are being taken by the servicers and bank holding companies it supervises, as required by the orders. Additionally, each institution is required to submit quarterly reports to the Federal Reserve detailing the measures it has taken to comply with the enforcement action and the results and progress toward meeting those measures. The Federal Reserve will closely review the servicers' and bank holding companies' progress reports and will also conduct examinations to ensure that the plans are implemented as approved and that the changes are effective. The Federal Reserve will take appropriate supervisory action including a possible cease and desist order or monetary penalties to address any inadequacies or violations of the enforcement actions.
+
+[SECTION]
+
+Monetary Sanctions
+       On February 9, 2012, the Board announced monetary sanctions against five banking organizations totaling $766.5 million for engaging in unsafe and unsound practices in their mortgage loan servicing and processing.6  These monetary sanctions are based on the same deficiencies that the servicers were required to correct through the action plans under the April 2011 enforcement actions. The amount of the sanctions takes into account the maximum amount prescribed for unsafe and unsound practices under applicable statutory limits, the comparative severity of each institution's misconduct, and the comparative size of each institution's foreclosure activities.7
+
+[SECTION]
+
+In an effort to facilitate a broad settlement of related state and federal claims, and to obtain an agreement that will maximize the effectiveness of assistance provided through an integrated set of remedial programs, the Board decided to act in conjunction with the comprehensive settlement between those five firms, the U.S. Department of Justice, and the state attorneys general announced on February 9. The total settlement amount includes the Board's monetary sanctions. Under the terms of the Board's monetary sanctions against these firms, each firm must pay to the Board, for remittance to the U.S. Treasury, the amount imposed by the Board on the firm that the firm has not expended within the next two years in providing borrower assistance or remediation in compliance with the federal-state settlement agreement or on a program acceptable to the Federal Reserve. This approach also accomplishes the purpose of civil money penalties--by ensuring that each firm will pay a fine to the Board, for remittance to Treasury, in the event that the firm does not fully satisfy the fine through a program acceptable to the Board or under the federal-state settlement agreement. The Federal Reserve will closely monitor these firms' expenditures on assistance and remediation as well as their compliance with the requirements of the monetary sanctions issued by the Board.
+
+[SECTION]
+
+Although the Federal Reserve has not issued monetary sanctions at this time against the other eight institutions that it supervises and that are also subject to enforcement actions for unsafe and unsound practices in their loan servicing and foreclosure processing, the Federal Reserve believes that monetary sanctions in those cases are appropriate and plans to announce monetary penalties against them.
+
+[SECTION]
+
+Conclusion
+       The Federal Reserve takes seriously its responsibility to oversee the implementation and execution of the requirements of its April 2011 enforcement actions, including the Foreclosure Review and other requirements described above. We understand that implementing and executing those requirements effectively is critical to ensuring that the deficiencies identified by examiners during reviews conducted from November 2010 to January 2011 are corrected; that future abuses in the loan modification and foreclosure process are prevented; and that borrowers are compensated for financial injury they suffered as a result of errors, misrepresentations, or other deficiencies in the foreclosure process.
+
+[SECTION]
+
+Thank you for inviting me to appear before you today. I would be happy to answer any questions you may have.
+
+[SECTION]
+
+
+
+[SECTION]
+
+1. The 10 banking organizations included four organizations with residential mortgage servicing operations supervised by the Federal Reserve, as well as the parent holding companies of banks with servicing operations supervised by the Office of the Comptroller of the Currency. Return to text
+
+[SECTION]
+
+2. To apply for a review, individuals may call 888-952-9105, Monday through Friday from 8 a.m. to 10 p.m. (ET) and Saturday from 8 a.m. to 5 p.m. The servicers' website is www.IndependentForeclosureReview.com . Return to text
+
+[SECTION]
+
+3. The extension of the deadline for requesting a foreclosure review does not change the timing of the review and remediation of requests for review that have already been received, which is occurring on an ongoing basis. Return to text
+
+[SECTION]
+
+4. These action plans and engagement letters are available on the Board's website at www.federalreserve.gov/newsevents/press/enforcement/20120227aletters.htm and www.federalreserve.gov/newsevents/press/enforcement/20120308b.htm, respectively. Return to text
+
+[SECTION]
+
+5. A small amount of information in the action plans and engagement letters has not been disclosed to protect confidential proprietary information of the institutions involved, the personal privacy of their personnel, and limited information about previous examinations and reviews. Return to text
+
+[SECTION]
+
+6. The Board assessed monetary sanctions against the parent holding companies of the five largest mortgage servicers supervised by federal banking regulators for failure to appropriately oversee their subsidiaries' mortgage loan servicing and foreclosure processing operations. Those parent holding companies are Ally Financial, Inc.; Bank of America Corp.; Citigroup Inc.; JPMorgan Chase & Co.; and Wells Fargo & Co. The Board also assessed monetary sanctions against the two mortgage servicers owned by Ally Financial and JPMorgan Chase that are subject to the Board's jurisdiction for the servicers' failures. Those servicers are GMAC Mortgage, LLC, a subsidiary of Ally Financial, Inc., and EMC Mortgage Corporation, a subsidiary of JPMorgan Chase & Co. Return to text
+
+[SECTION]
+
+7. The amounts of the monetary sanctions assessed by the Board against these institutions are as follows: Return to text
+
+[SECTION]
+
+Institution
+
+[SECTION]
+
+BHC Penalty
+
+[SECTION]
+
+Servicer Penalty
+
+[SECTION]
+
+Total
+
+[SECTION]
+
+Bank of America
+
+[SECTION]
+
+$175.5 million
+
+[SECTION]
+
+
+
+[SECTION]
+
+$175.5 million
+
+[SECTION]
+
+Wells Fargo
+
+[SECTION]
+
+$87 million
+
+[SECTION]
+
+
+
+[SECTION]
+
+$87 million
+
+[SECTION]
+
+JPMorgan Chase
+
+[SECTION]
+
+$106.5 million
+
+[SECTION]
+
+$168.5 million
+
+[SECTION]
+
+$275 million
+
+[SECTION]
+
+Citigroup
+
+[SECTION]
+
+$22 million
+
+[SECTION]
+
+
+
+[SECTION]
+
+$22 million
+
+[SECTION]
+
+Ally Financial
+
+[SECTION]
+
+$17 million
+
+[SECTION]
+
+$190 million
+
+[SECTION]
+
+$207 million
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

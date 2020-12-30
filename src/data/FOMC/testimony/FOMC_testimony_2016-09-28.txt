@@ -1,0 +1,231 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+September 28, 2016
+
+[SECTION]
+
+Thomas Sullivan, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Subcommittee on Housing and Insurance, Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Introduction
+Chairman Luetkemeyer, Vice Chairman Westmoreland, Ranking Member Cleaver, and other members of the subcommittee, thank you for inviting me to testify on behalf of the Federal Reserve.
+
+[SECTION]
+
+The Federal Reserve welcomes the opportunity to participate in today's hearing, and I am pleased to be joined by my colleagues from the Federal Insurance Office (FIO) of the U.S. Treasury Department, the National Association of Insurance Commissioners (NAIC), and the United States Trade Representative (USTR). While we each have our own unique authority and mission, the Federal Reserve remains committed to working collaboratively on a wide range of issues, including insurance prudential matters both domestically and internationally. I will briefly address both of these areas: the Federal Reserve's work to develop domestic and international supervisory and regulatory standards that are appropriate for the U.S. insurance market and U.S. insurance consumers.
+
+[SECTION]
+
+The Federal Reserve's Role in Supervising Insurance Institutions
+Let me first touch on the statutory role of the Federal Reserve in supervising and regulating insurance firms. The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) gave the Federal Reserve regulatory responsibilities for insurance firms that own a federally insured bank or thrift and for insurance companies designated as systemically important by the Financial Stability Oversight Council (FSOC). These firms are highly diverse: they range in size from firms with total assets of approximately $3 billion to firms with total assets of over $700 billion. They engage in a wide variety of insurance and non-insurance activities. Some are fully domestic and others have material international operations. Some are organized as mutual companies, while others are owned by public shareholders. Some produce only statutory accounting statements, while others also produce statements under U.S. Generally Accepted Accounting Principles.
+
+[SECTION]
+
+The approach of the Federal Reserve in regulating insurance firms, complementary to and in coordination with the states, is derived from its overall statutory responsibilities for financial regulation as those have evolved over the years, most recently through the changes arising from the Dodd-Frank Act. First, as was the case before enactment of the Dodd-Frank Act, we are responsible for supervision of depository holding companies to ensure that they operate in a safe and sound manner and do not pose risks to their subsidiary depository institutions. This includes insurance companies that have subsidiary banks or thrifts. Second, the Dodd-Frank Act enhanced our statutory mandate for regulating and supervising holding companies with a view to the safety and soundness of the holding company and its functionally regulated subsidiaries. Third, the Dodd-Frank Act changed our statutory mandate to require that we consider the stability of the U.S. financial system in supervising large holding companies.
+
+[SECTION]
+
+At the same time, the Dodd-Frank Act maintained the Federal Reserve Board's (Board) ability to tailor its supervision of firms based on the kind of financial intermediation in which they are engaged. For example, with respect to capital, the Board is now permitted to tailor its minimum capital requirements for firms that may also be regulated by state or foreign insurance regulators. In pursuing what might be termed its dual regulatory mandate of protecting the safety and soundness of depository institution holding companies and promoting U.S. financial stability, the Federal Reserve continues to develop regulatory and supervisory measures that are appropriate for its supervised insurance firms. In addition, we continue to be cognizant that states and state insurance supervisors regulate the types of insurance products offered by insurance companies that are part of holding companies we supervise and the manner in which the insurance is provided. Because of the overall structure of insurance regulation as specified by Congress in the McCarran-Ferguson Act and elsewhere, the line here is rather bright.
+
+[SECTION]
+
+The Federal Reserve's Regulatory Framework for Supervised Insurance Institutions
+In this regard, the Federal Reserve's approach to insurance supervision distinguishes between insurance companies that we oversee solely because they control an insured depository institution and those that have been designated as systemically important by the FSOC. In its Advance Notice of Proposed Rulemaking (ANPR), the Board has set out two conceptual frameworks--one of which may be more appropriate for large, complex, systemically important institutions, while the other may be more appropriate for firms such as the current population of insurance savings and loan holding companies. We have used the flexibility given us by the December 2014 changes to the Collins Amendment to fashion an approach that reflects the ways in which insurance activities differ from those of banks and other forms of financial intermediaries. The bifurcated approach set out in the ANPR would efficiently advance the Board's differing supervisory objectives for the two populations of supervised insurance firms.
+
+[SECTION]
+
+For the insurance companies that the FSOC has determined should be supervised by the Board, the ANPR sets out a capital framework termed the consolidated approach. The financial crisis demonstrated the need for stronger regulatory and supervisory assessments of the consolidated resiliency of large financial firms. Among other things, it revealed that too narrow a focus on the safety and soundness of individual legal entities in a corporate group could result in a failure to detect threats to the group and to financial stability that emerge from unregulated or less-regulated subsidiaries of the group. Hence the crisis reaffirmed the importance of consolidated supervision, encompassing the parent company and all its subsidiaries, which allows the Board to understand a supervised institution's activities, resources, and risks across the entire enterprise. The ANPR's proposal of the consolidated approach reflects the importance of maintaining an enterprise-wide perspective and minimizing regulatory arbitrage at systemically important insurance companies. Because these firms are large, active domestically and internationally, internally and externally complex, and systemically important, the consolidated approach appears more suitable than the approach set out for the insurance savings and loan holding companies.
+
+[SECTION]
+
+For the insurance savings and loan holding companies, the Board's ANPR sets out a capital framework termed the building block approach. The building block approach uses existing capital requirements for the various legal entities in an insurance group to construct an enterprise-wide capital requirement. The building block approach relies significantly on the state-based capital requirements for state-regulated insurance companies, in conjunction with the Board's existing bank capital requirements for other subsidiaries, to achieve an aggregated capital requirement for an insurance savings and loan holding company. Generally, the building block approach would aggregate capital resources and capital requirements across the firm's subsidiaries, with some adjustments, to calculate combined capital resources and requirements for the firm. For the insurance savings and loan holding companies, the building block approach would streamline implementation costs and other burdens while achieving the Board's supervisory objectives of ensuring the holding company's overall safety and soundness and protecting the subsidiary depository institution.
+
+[SECTION]
+
+In addition to setting conceptual frameworks for capital standards, the Board has issued proposals on reporting requirements and enhanced prudential standards for the FSOC-designated systemically important insurance companies. The proposed reporting requirements differ substantially from reporting requirements for bank holding companies that are predominantly engaged in banking and other non-insurance activities and are tailored to the assets, liabilities, and risks of insurance companies. They are designed, among other things, to keep the Board informed as to the financial condition and risk profile of these firms, including risks posed to the financial stability of the United States. The enhanced prudential standards would require firms to implement enterprise-wide risk management, establish a risk committee of the company's board of directors, and appoint both a chief risk officer and a chief actuary as well as meets institute liquidity risk-management requirements. The firm would also be required to have short- and long-term cash-flow projections, a contingency funding plan, liquidity risk limits, and monthly liquidity stress tests with a liquidity buffer covering net stressed cash flows over a 90-day period. We believe these proposed requirements are well-tailored to the business and risks of FSOC-designated insurance companies, and we look forward to reviewing the comments received.
+
+[SECTION]
+
+The Importance of Stakeholder Engagement and Transparency
+We have taken a good bit of time in arriving at some potential insurance regulatory capital frameworks precisely because we wanted to consider these issues thoroughly, and get them right. As we continue exploring the regulatory frameworks we have set out, and other areas of our supervision, we appreciate the comments we have received on the outstanding proposals, including 28 on the capital ANPR, 13 on the notice of proposed rulemaking on enhanced prudential standards for the systemically important insurance companies, and 4 on the proposed reporting requirements for these companies. Indeed, to allow interested parties additional time, we extended the comment period for our ANPR on domestic capital. We have found that the comments we have received offer many constructive observations. We also continue to meet with industry and other interested parties. In the last year and a half alone, we have held over 60 meetings with stakeholders. Among other things, this reaffirms our commitment to increasing transparency in our insurance rulemaking development. We value the input of stakeholders and, together with the Board's supervisory objectives, it enhances the quality of our regulation.
+
+[SECTION]
+
+Improving Regulatory and Supervisory Treatment for U.S. Insurers Operating in the European Union 
+The Federal Reserve has acted and will continue to act in international insurance standard setting in an engaged partnership with our colleagues from the NAIC, the state insurance commissioners, and the FIO. The Board is committed to continuing our multiparty collaboration with the state insurance regulators and the FIO on advocating standards internationally that are appropriate for the U.S. market. Last year, the Board was invited to join the NAIC and the FIO in their work on the EU-U.S. Dialogue Project to engage in healthy exchange among supervisors and determine the way forward as to supervision of insurers whose operations span across these jurisdictions. Alongside this dialogue project has been the negotiation of a possible covered agreement, under the leadership of the FIO and the USTR. We respect the work of the FIO and the USTR toward an agreement that would enhance regulatory certainty for U.S. insurers and reinsurers operating in the European Union.
+
+[SECTION]
+
+The Federal Reserve's Participation in Developing Appropriate International Insurance Standards
+As the consolidated supervisor of large, complex, and internationally active insurance firms, the Federal Reserve participates in the development of international supervisory standards and guidance to ensure that they best meet the needs of the U.S. insurance market. Our participation focuses on those aspects most relevant to the supervision of FSOC-designated insurance firms. The Federal Reserve is participating alongside the FIO, the NAIC, and state insurance regulators in the development of a global group capital standard for internationally active insurance firms, in development of other policy measures for internationally active and systemically important insurers, and in research and analysis related to financial stability topics. We appreciate our current ability to advocate for international standards that work for U.S. insurance firms, U.S. insurance consumers, and the U.S. financial markets more broadly. Indeed, the Federal Reserve continues to participate actively in standard setting at the International Association of Insurance Supervisors (IAIS) in consultation and collaboration with state insurance regulators, the NAIC, and the FIO to present a coordinated U.S. voice in these processes.
+
+[SECTION]
+
+In addition, since the financial crisis, U.S. authorities and foreign regulators have been working to identify financial institutions whose failure or distress may pose a threat to financial stability, including nonbank financial companies like insurance firms. The leaders of the Group of 20 nations, including the United States, charged the Financial Stability Board (FSB) with identifying firms whose distress would threaten the global economy. The FSB has coordinated its work in this area with global standard-setting bodies like the Basel Committee on Banking Supervision and the IAIS. The identification of a global systemically important insurer (G-SII) by the FSB and the IAIS requires a careful evaluation of the firm and its global systemic footprint in accordance with the methodology developed by the IAIS. The IAIS has developed its G-SII identification methodology through a public notice-and-comment process and updated its methodology for identifying G-SIIs this year.
+
+[SECTION]
+
+Crucially, FSB designation of an entity as a G-SII does not result in the Federal Reserve becoming the entity's prudential regulator. Moreover, it is important to remain mindful of the fact that IAIS standards and FSB determinations have no binding force in the United States unless the policies are adopted by a U.S. agency in compliance with applicable administrative rulemaking process. Neither the FSB, nor the IAIS, has the ability to implement requirements in any jurisdiction, and implementation in the United States would have to be consistent with U.S. law. Additionally, none of the global standards being developed by the IAIS are intended to replace the existing legal-entity requirements that are already in place for U.S. insurance firms. We remain committed to a supervisory framework that best meets the needs of U.S. insurers as they compete internationally and that is appropriate for the U.S. insurance market and consumers.
+
+[SECTION]
+
+Mr. Chairman, members of the subcommittee, I thank you for inviting me here today. I look forward to an active dialogue on these issues with you all, and continued collaboration with this subcommittee.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

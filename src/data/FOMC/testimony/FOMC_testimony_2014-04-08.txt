@@ -1,0 +1,270 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+April 08, 2014
+
+[SECTION]
+
+Scott G. Alvarez, General Counsel
+
+[SECTION]
+
+Before the Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[SECTION]
+
+Chairman Hensarling, Ranking Member Waters, and other members of the committee, I appreciate the opportunity to testify on recent rulemakings and other actions by the Federal Reserve. In my testimony, I will discuss some of the actions that the Federal Reserve has completed or has under way to implement the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) and other reforms to promote a stable financial system and to strengthen the resiliency of banking organizations. The Federal Reserve is committed to strengthening the safety and soundness of the financial companies it supervises so that these organizations have the ability to meet their financial obligations and continue to make a broad variety of financial products and services available to households and businesses even in times of economic difficulty.
+
+[SECTION]
+
+The Federal Reserve has made significant progress in implementing the Dodd-Frank Act reforms, which were designed to improve the resiliency of financial firms and the system as a whole. At the same time, we recognize that regulatory compliance can impose a disproportionate burden on smaller institutions. Smaller institutions tend to lend in neighborhoods where the institutions' depositors live and work, helping to ensure that local communities maintain access to credit. In addition to overseeing large banking firms, the Federal Reserve supervises approximately 800 state-chartered community banks that are members of the Federal Reserve System and several thousand small bank holding companies. The Federal Reserve has strived and will continue to strive to ensure that its regulations and supervisory framework are not unnecessarily burdensome for community banking organizations so they can continue their important function of safe and sound lending to local communities.
+
+[SECTION]
+
+Recent Regulatory Actions Taken to Increase the Resiliency and Safety and Soundness of the Banking Industry
+
+[SECTION]
+
+Implementation of Basel III
+In July 2013, the Federal Reserve, together with the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC), approved final rules implementing the Basel III capital framework, as well as related changes required by the Dodd-Frank Act. The new capital rules strengthen the safety and soundness of banking organizations both by improving the quality of what constitutes regulatory capital and by requiring banking organizations to hold more capital. Specifically, the minimum tier 1 capital ratio was raised from 4 to 6 percent of risk-weighted assets, and a new minimum common equity tier 1 capital ratio of 4.5 percent of risk-weighted assets was established. The rules also require a capital conservation buffer of 2.5 percent of risk-weighted assets to ensure that banking organizations build capital when they are able to do so. The rules also introduced a more risk-sensitive standardized approach for calculating risk-weighted assets.
+
+[SECTION]
+
+In adopting the final capital rules, the banking agencies sought to strengthen the quality and quantity of bank capital without imposing unnecessary burden on community banks. To achieve this goal, the banking agencies in the final rule made changes to the proposal to address concerns about regulatory burden on community banks. Many of the Basel III requirements will not apply to smaller banks--including the countercyclical capital buffer, supplementary leverage ratio, trading book reforms, accumulated other comprehensive income flow through, higher capital requirements for counterparty credit risk on derivatives, and disclosure requirements. The Federal Reserve and the other banking regulators also issued a Community Bank Guide to the new capital rules to help non-complex community banking organizations understand the applicability of the new rules to their operations.
+
+[SECTION]
+
+Stress Testing and Capital Planning Requirements for Large Banking Organizations
+The comprehensive stress testing conducted by the Federal Reserve, pursuant to the Dodd-Frank Act and in connection with the annual Comprehensive Capital Analysis and Review (CCAR), is one of the Federal Reserve's most important tools for ensuring the resiliency of banking firms during periods of financial or economic stress. This exercise and the accompanying rules apply to the largest banking organizations, and recognize the greater risk these firms pose to financial stability in times of stress.
+
+[SECTION]
+
+Last month, the Federal Reserve published the results of its annual stress tests, which demonstrated that the largest banking institutions in the United States are collectively much better positioned to continue to lend to households and businesses and to meet their financial commitments in a severe economic downturn than they were five years ago. The stress tests this year were the fourth round led by the Federal Reserve since 2009. This year, in addition to the 18 institutions that have been part of previous stress tests, an additional 12 firms with assets greater than $50 billion were included.
+
+[SECTION]
+
+The quantitative results from the scenarios in the supervisory stress tests are one component of the Federal Reserve's analysis of the capital adequacy at the largest financial institutions during the CCAR. The Federal Reserve also evaluates each institution's capital planning process, in particular the firm's ability to account for the idiosyncratic risks of the firm and the firm's ability to maintain sufficient capital to continue to operate through times of financial and economic stress given those firm-specific risks. Last month the Federal Reserve approved the capital plans of 25 bank holding companies participating in the CCAR. The Federal Reserve objected to the plans of the remaining five participating firms--four based on qualitative concerns and one because it did not meet a minimum post-stress capital requirement. All but two of the 30 participants in this year's CCAR are expected to build capital from the second quarter of 2014 through the first quarter of 2015.
+
+[SECTION]
+
+Overall, this exercise has resulted in the 18 largest banking firms increasing their tier 1 common equity by more than $500 billion since 2008. That means that the strongest form of loss absorbing capital at the largest banking firms has more than doubled since the financial crisis.
+
+[SECTION]
+
+Enhanced Prudential Standards
+The Federal Reserve recently finalized a rule implementing section 165 of the Dodd-Frank Act to establish enhanced prudential standards for large banking firms. This rule applies to bank holding companies and foreign banking organizations with total consolidated assets of $50 billion or more. The final rule establishes a number of enhanced prudential standards designed to increase the resiliency of the operations of large banking firms and mitigate the risk that the material financial distress or failure of these firms would pose to the financial stability of the United States. These standards include liquidity, risk management, and capital. In addition, the rule requires foreign banking organizations with U.S. non-branch assets of $50 billion or more to form a U.S. intermediate holding company and imposes enhanced risk-based and leverage capital, liquidity, risk-management, and stress-testing requirements on the U.S. intermediate holding company.
+
+[SECTION]
+
+Community banking organizations are not subject to the Federal Reserve's enhanced prudential standards for larger banking firms, such as capital plans, stress testing, resolution plans, single-counterparty credit limits, and capital surcharges for systemically important financial firms.
+
+[SECTION]
+
+Leverage Ratio
+In July 2013, the Federal Reserve, together with the FDIC and the OCC, issued a proposed rule to strengthen the leverage ratio standards for the most systemically significant financial institutions by establishing a new leverage buffer for bank holding companies with more than $700 billion in consolidated assets or $10 trillion in assets under custody. The proposal currently would apply to the eight most systemically significant U.S. bank holding companies and their insured depository institution subsidiaries. The proposal would require these bank holding companies to maintain a tier 1 capital leverage buffer of at least 2 percent above the minimum Basel III supplementary leverage ratio of 3 percent to avoid restrictions on capital distributions and discretionary bonus payments. In addition, the insured depository institution subsidiaries of covered bank holding companies would be required to satisfy an enhanced leverage ratio of 6 percent to be considered "well capitalized" for purposes of the agencies' prompt corrective action regulations. A strong capital base is particularly important at these organizations because capital shortfalls have the potential to result in significant adverse economic consequences and contribute to systemic distress both domestically and internationally, which could impair credit availability to businesses and consumers. Higher capital standards for these organizations will place additional private capital at risk before the federal deposit insurance fund and the federal government's resolution mechanisms would be called upon, and reduce the likelihood of economic disruptions caused by problems at these organizations.
+
+[SECTION]
+
+Later today, the Board is scheduled to consider a final rule that would implement the enhanced supplementary leverage ratio for the eight most systemic U.S. banking firms. In addition, the Board is scheduled to consider an interagency proposal that would modify the definition of total leverage exposure (the denominator of the supplementary leverage ratio) in the agencies' final capital rules.
+
+[SECTION]
+
+Liquidity Coverage Ratio
+In October 2013, the Federal Reserve and the other U.S. banking agencies issued a proposed rule that would create a standardized minimum liquidity requirement for large and internationally active banking organizations and systemically important, non-bank financial companies designated by the Financial Stability Oversight Council (Council). These institutions would be required to hold minimum amounts of high-quality, liquid assets, such as central bank reserves and government and corporate debt, that can be converted easily and quickly into cash. Each institution would be required to hold liquidity in an amount equal to or greater than its projected new cash outflow during a short-term stress period. Liquidity standards for large U.S. banking firms will help promote lending during periods of financial or economic stress, as they work in concert with capital standards, stress testing, and other enhanced prudential standards to help ensure that banking organizations have a liquidity risk profile that is strong enough to prevent runs by bank creditors and counterparties.
+
+[SECTION]
+
+The Board's proposal would apply in full only to bank holding companies and savings and loan holding companies that do not have significant insurance or commercial operations, but that have $250 billion or more in total consolidated assets or $10 billion or more in on-balance-sheet foreign exposures. For bank holding companies and savings and loan holding companies not subject to the interagency proposal, the Board also proposed a modified liquidity coverage ratio standard for bank holding companies and savings and loan holding companies without significant insurance or commercial operations that, in each case, have more than $50 billion in total assets. The agencies are in the process of reviewing comments on the proposal.
+
+[SECTION]
+
+Resolution of Large, Interconnected Financial Firms
+One of the ways in which the Dodd-Frank Act seeks to address the problems of too-big-to-fail is by reducing the potential damage to the financial system and the economy from the failure of the largest, most complex financial firms. In this regard, the Federal Reserve and the FDIC are working jointly to improve the bankruptcy resolution planning of large banking firms. In addition, the Federal Reserve is assisting the FDIC in making large banking firms more resolvable under the Orderly Liquidation Authority (OLA) of the Dodd-Frank Act.
+
+[SECTION]
+
+The Dodd-Frank Act requires all bank holding companies with total consolidated assets of $50 billion or more and nonbank financial companies designated by the Council for supervision by the Federal Reserve to develop, maintain, and periodically submit resolution plans to regulators that would facilitate these entities' resolution under the Bankruptcy Code. Each plan must describe the company's strategy for rapid and orderly resolution in the event of material financial distress or failure of the company. Companies subject to the resolution plan requirement filed their initial resolution plans on a staggered schedule. The first group of 11 companies, generally those bank holding companies with $250 billion or more in total nonbank assets (or total U.S. nonbank assets in the case of a foreign-based company), submitted initial plans in July 2012 and their second annual plans in October 2013. These companies' second plans responded to guidance provided by the Federal Reserve and FDIC. The second group, generally those bank holding companies with $100 billion or more, but less than $250 billion, in total nonbank assets (or total U.S. nonbank assets in the case of a foreign-based company), submitted their initial plans in July 2013. The third group, generally all other bank holding companies with $50 billion or more in total consolidated assets, filed their initial resolution plans on December 31, 2013. The Federal Reserve and FDIC are reviewing all submissions received during 2013.
+
+[SECTION]
+
+In implementing OLA, the FDIC proposed the single point of entry (SPOE) resolution approach, which is intended to concentrate losses on the shareholders and long-term unsecured debt holders of the parent holding company. Under the SPOE approach, a well-capitalized bridge holding company would be created in place of the failed parent by converting long-term debt holders of the parent into equity holders of the bridge. The new parent would recapitalize the critical operating subsidiaries of the failed firm, to the extent necessary, thereby allowing their operations to continue. Successful execution by the FDIC of its preferred SPOE approach in OLA depends on the availability of a sufficient combined amount of equity and loss-absorbing debt at the parent holding company of the failed firm. Therefore, the Federal Reserve is consulting with the FDIC on a regulatory proposal that would require the largest, most complex U.S. banking firms to maintain a minimum amount of outstanding long-term, unsecured debt in addition to the regulatory capital those companies already are required to maintain.
+
+[SECTION]
+
+Risk Retention
+Section 941 of the Dodd-Frank Act requires firms generally to retain credit risk in securitization transactions they sponsor. This requires that securitizers retain some of the credit risk of the assets they securitize (sometimes referred to as "skin in the game"). Retaining credit risk creates incentives for securitizers to monitor closely the quality of the assets underlying a securitization transaction and discourages unsafe and unsound underwriting practices by originators. In August 2013, the Federal Reserve, along with a number of other agencies, revised a proposal from 2011 to implement section 941. The comment period on this re-proposal recently closed, and we are working with the other agencies charged by the Dodd-Frank Act with implementing this rule to complete this rulemaking.
+
+[SECTION]
+
+Federal Reserve Rulemaking Process
+The Federal Reserve for many years has believed that our regulatory efforts should be designed to minimize regulatory burden consistent with the effective implementation of our statutory responsibilities. For example, to become informed about benefits and costs of a regulatory proposal, we often collect information directly from those that we expect would be affected and conduct meetings with interested parties and their representatives prior to designing the proposal. We also specifically seek comment on the costs and benefits of our proposed approach as well as invite comment on alternative approaches. We provide the public a minimum of 60 days to comment on all significant rulemaking proposals, with longer periods permitted for especially complex or significant proposals, such as our capital rules. In issuing a final rule, we seek to adopt the approach that faithfully reflects the underlying statutory provisions while minimizing regulatory burden.
+
+[SECTION]
+
+All of the rules described earlier have been issued or proposed in accordance with the Administrative Procedure Act (APA). A rule issued under the APA creates legally enforceable duties and is binding on the issuing agency, courts, and the private parties it affects. Agencies, including the Federal Reserve, also frequently issue guidance to supervised entities. Unlike an agency rule, guidance is not legally enforceable. Instead, guidance interprets or clarifies the nature of duties created by a statute or a rule. While we are not required to do so under the APA, the Federal Reserve typically invites the public to comment on significant statements of supervisory guidance. For example, we invited public comment on guidance regarding supervisory expectations for stress tests conducted by financial companies with total consolidated assets between $10 billion and $50 billion, supervisory guidance to help ensure that financial institutions provide leveraged financing to creditworthy borrowers only in a safe and sound manner, and guidance related to income tax allocation agreements involving holding companies and insured depository institutions. In addition, we make available to the public our examination manuals, transaction approvals and denials, and other matters of interest to the public related to our regulatory responsibilities.
+
+[SECTION]
+
+In the process of adopting a rule, we conduct an assessment that takes appropriate account of the potential impact a rule may have on small businesses, small governmental jurisdictions, and small organizations affected by the rule, in accordance with the Regulatory Flexibility Act. We pay particular attention to reducing the regulatory burden on community banking organizations whenever possible and rely on our ongoing dialogue with such institutions when considering rules. For example, the Federal Reserve has established Community Depository Institution Advisory Councils at each of the 12 Federal Reserve banks. These councils regularly collect input from community depository organizations on a number of topics, including ways to reduce regulatory burden and to improve the efficiency of our supervision. A representative from each of these 12 advisory councils serves on a national council that meets semiannually with the Federal Reserve Board in Washington, D.C.
+
+[SECTION]
+
+The Federal Reserve also has established a community bank subcommittee of our Committee on Bank Supervision that oversees the supervision of community banks and reviews regulatory proposals to help ensure they are appropriately tailored for community banks.
+
+[SECTION]
+
+Conclusion   
+       The Federal Reserve has made significant progress in implementing the Dodd-Frank Act and other measures designed to improve the resiliency of banking organizations and the financial system. The Federal Reserve will continue to work with other U.S. financial regulatory agencies and the institutions we supervise to ensure that these institutions operate in a safe and sound manner and are able to provide credit even during economic downturns. We are committed to promoting a stable financial system in a manner that does not impose a disproportionate burden on smaller institutions. To help us achieve this goal, we will continue to seek the views of these organizations and the public as we further develop regulatory and supervisory programs to strengthen the ability of banking organizations to lend to households and businesses. Thank you for inviting me to present the Federal Reserve's views on these important matters. I look forward to answering any questions you may have.
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

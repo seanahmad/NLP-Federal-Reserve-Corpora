@@ -1,0 +1,265 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 09, 2009
+
+[SECTION]
+
+Jon D. Greenlee, Associate Director, Division of Banking Supervision and Regulation
+
+[SECTION]
+
+Before the Joint Economic Committee, U.S. Congress, Washington, D.C.
+
+[SECTION]
+
+Chair Maloney, Vice Chairman Schumer, Ranking Members Brownback and Brady, and other members of the Committee, I am pleased to be here today to discuss several issues related to commercial real estate (CRE) lending in the United States. I will start by describing the current conditions in CRE markets, then discuss Federal Reserve efforts to help revitalize CRE markets and promote lending to creditworthy borrowers. I will also outline Federal Reserve supervisory actions relating to CRE, and discuss the need to ensure a healthy balance between strong underwriting, risk management, and financial institution safety and soundness on the one hand, and credit availability, on the other.
+
+[SECTION]
+
+Current Conditions in CRE and CMBS Markets Financial market dislocations and the continuing economic downturn are clearly challenging CRE markets. The pace of property sales has slowed dramatically since peaking in 2007, from quarterly sales of roughly $195 billion to about $20 billion in the first quarter of 2009. Demand for commercial property is sensitive to trends in the labor market, and, as job losses have accelerated, tenant demand for space has declined and vacancy rates have increased.
+
+[SECTION]
+
+The decline in the CRE market has been aggravated by two additional factors. First, the values of commercial real estate increased significantly between 2005 and 2007, driven by many of the same factors behind the residential housing bubble, resulting in many properties either purchased or refinanced at inflated values. Prices have declined about 24 percent since their peak in the fall of 2007 and market participants expect significant further declines. Second, the market for securitized commercial mortgages (CMBS), which accounts for roughly one-fourth of outstanding commercial mortgages, has been largely dormant since early 2008 while many banks have substantially tightened credit. The decline in property values and higher underwriting standards in place at banks will increase the potential that borrowers will find it difficult to refinance their maturing outstanding debt, which often includes substantial balloon payments.
+
+[SECTION]
+
+The higher vacancy levels and significant decline in value of existing properties has also placed pressure on new construction projects. As a result, the construction market has experienced sharp declines in both the demand for and the supply of new construction loans since peaking in 2007.
+
+[SECTION]
+
+The negative fundamentals in the commercial real estate property markets have broadly affected the credit performance of loans in banks' portfolios and loans in commercial mortgage backed securities. At the end of the first quarter of 2009, there was approximately $3.5 trillion of outstanding debt associated with commercial real estate. Of this, $1.8 trillion was held on the books of banks, and an additional $900 billion represented collateral for CMBS. At the end of the first quarter, about seven percent of commercial real estate loans on banks' books were considered delinquent.1 This was almost double from the level a year earlier. The loan performance problems were the most striking for construction and land development loans, especially for those that finance residential development. Notably, a high proportion of small and medium-sized institutions continue to have sizable exposure to commercial real estate, including land development and construction loans, built up earlier this decade, with some having concentrations equal to several multiples of their capital.
+
+[SECTION]
+
+The Federal Reserve's Senior Loan Officer Opinion Survey regularly provides useful information about lending conditions. In the most recent survey, conducted in April of this year, almost two-thirds of the domestic banks surveyed reported having tightened standards and terms on commercial real estate loans over the previous three months. Additionally, almost two-thirds of the respondents reported weaker demand for CRE loans, the highest net percentage so reporting since the survey began tracking demand for CRE loans in April 1995.
+
+[SECTION]
+
+The current fundamentals in CRE markets are exacerbated by a lack of demand for CMBS, previously a financing vehicle for about 30 percent of originations. New CMBS issuance has come to a halt as risk spreads widened to prohibitively high levels in response to the increase in CRE specific risk and the general lack of liquidity in structured debt markets. There has been virtually no new issuance since the middle of 2008. Increases in credit risk have significantly softened demand in the secondary trading markets for all but the most highly rated tranches of these securities. Delinquencies of mortgages in CMBS have increased markedly in recent months and market participants anticipate these rates will climb higher by the end of this year, driven not only by negative fundamentals but also borrowers' difficulty in rolling-over maturing debt. In addition, the decline in CMBS prices has generated significant stresses on the balance sheets of institutions that must mark these securities to market.
+
+[SECTION]
+
+Federal Reserve Activities to Help Revitalize CRE MarketsU.S. government agencies have taken a number of actions to strengthen the financial sector and to promote the availability of credit to businesses and households. In addition to aggressive actions related to monetary policy, the Federal Reserve has taken strong actions to improve liquidity in financial markets by establishing numerous liquidity facilities. One of the more recent liquidity programs is the Term Asset-Backed Securities Loan Facility (TALF), begun in November 2008, to facilitate the extension of credit to households and small businesses.
+
+[SECTION]
+
+In an effort to target CMBS markets, in May of this year, the Federal Reserve announced that, starting in June 2009, certain newly issued high quality CMBS would become eligible collateral under the TALF, followed in July by high quality "legacy" CMBS issued before January 1, 2009. The provision of TALF financing for newly issued CMBS was intended to support new lending for creditworthy properties, especially those whose loans are set to mature soon. TALF financing for legacy CMBS was intended to lower secondary market spreads and enhance liquidity. Lower spreads should then encourage new lending and ease the balance sheet pressures on owners of CMBS. The resulting improvement in CMBS markets should facilitate the issuance of new CMBS, thereby helping borrowers finance new purchases of commercial properties or refinance existing commercial mortgages on better terms.
+
+[SECTION]
+
+TALF loans will be offered to finance new issuances of CMBS and purchases of legacy CMBS once a month. No TALF loans collateralized by new CMBS have been made yet, in part because CMBS take some time to arrange. The first subscription to include legacy CMBS will be on July 16, 2009.
+
+[SECTION]
+
+Federal Reserve Supervisory Activities Related to CREThe Federal Reserve has been focused on commercial real estate (CRE) exposures at supervised institutions for some time. As part of our supervision of banking organizations in the early 2000s, we began to observe rising CRE concentrations. Given the central role that CRE lending played in the banking problems of the late 1980s and early 1990s, we led an interagency effort to issue supervisory guidance on CRE concentrations in 2006. In that guidance, we emphasized our concern that some institutions' strategic- and capital-planning processes did not adequately acknowledge the risks from their CRE concentrations. We stated that stress testing and similar exercises were necessary for institutions to identify the impact of potential CRE shocks on earnings and capital, especially the impact from credit concentrations.
+
+[SECTION]
+
+As weaker housing markets and deteriorating economic conditions have impaired the quality of CRE loans at supervised banking organizations, we have devoted significantly more supervisory resources to assessing the quality of regulated institutions' CRE portfolios. These efforts include monitoring carefully the impact that declining collateral values may have on institutions' CRE exposures as well as assessing the extent to which banks have been complying with the interagency CRE guidance. Reserve Banks with geographic areas suffering more acute price declines in real estate have been particularly focused on evaluating exposures arising from CRE lending. We have found, through horizontal reviews and other examination activities, that many institutions would benefit from additional and better stress testing, improved management information systems, and stronger appraisal practices, and that some banks need to improve their understanding of how concentrations--both single-name and sectoral/geographical concentrations--can impact capital levels during shocks.
+
+[SECTION]
+
+The recently concluded Supervisory Capital Assessment Process (SCAP) provides a perspective of the risks of CRE exposures. The 19 firms reviewed in the SCAP had over $600 billion in CRE loans, of which more than half were for nonfarm / non residential properties, and about one-third were related to construction and land development. The SCAP estimated that cumulative two-year CRE losses under the adverse scenario, in which residential house prices would continue to fall dramatically in 2009 and 2010, would be more than eight percent of total CRE exposures, with losses on construction loans significantly higher. Using information gained from the SCAP simulation exercise, we are also working with smaller firms that have substantial CRE exposures to ensure that their risk management practices are adequate and that they continue to maintain appropriate reserves and capital to support an expected increase in CRE losses.
+
+[SECTION]
+
+As part of our ongoing supervisory efforts related to CRE, we implemented additional examiner training so that our examiners are equipped to deal with more serious CRE problems at both community and regional banking organizations on a consistent basis. Further, we have enhanced our outreach to key real estate market participants and obtained additional market data sources to help support our supervisory monitoring activities. We have also issued guidance to our examiners on real estate appraisals, proper use of interest reserves in construction and development loans, evaluation of loan loss reserving methodologies, and troubled debt restructuring practices.
+
+[SECTION]
+
+Maintaining Balance in the Supervisory ProcessThe Federal Reserve has long-standing policies and procedures in place to promote institutions' risk identification and management practices that support sound bank lending and the credit intermediation process. In fact, guidance issued in 1991, during the last commercial real estate crisis, specifically instructs examiners to ensure that regulatory policies and actions do not inadvertently curtail the availability of credit to sound borrowers.2 The 1991 guidance also states that examiners are to ensure that supervisory personnel are reviewing loans in a consistent, prudent, and balanced fashion.
+
+[SECTION]
+
+The 1991 guidance covers a wide range of specific topics, including the general principles that examiners follow in reviewing commercial real estate loan portfolios, the indicators of troubled real estate markets, projects, and related indebtedness, and the factors that examiners consider in their review of individual loans, including the use of appraisals and the determination of collateral value. Credit classification guidelines were also addressed.
+
+[SECTION]
+
+This emphasis on achieving an appropriate balance between credit availability and safety and soundness continues, and applies equally to today's CRE markets. Consistent with the 2006 CRE guidance, institutions that have experienced losses, hold less capital, and are operating in a more risk-sensitive environment are expected to employ appropriate risk-management practices to ensure their viability. At the same time, it is important that supervisors remain balanced and not place unreasonable or artificial constraints on lenders that could hamper credit availability.
+
+[SECTION]
+
+As part of our effort to help stimulate appropriate bank lending, the Federal Reserve and the other federal banking agencies issued regulatory guidance in November 2008 to encourage banks to meet the needs of creditworthy borrowers.3 The guidance was issued to encourage bank lending in a manner consistent with safety and soundness--specifically, by taking a balanced approach in assessing borrowers' ability to repay and making realistic assessments of collateral valuations.
+
+[SECTION]
+
+More generally, we have directed our examiners to be mindful of the pro-cyclical effects of excessive credit tightening. Across the Federal Reserve System, we have implemented training and outreach to underscore these intentions. We are mindful of the potential for bankers to overshoot in their attempt to rectify lending standards, and want them to understand that it is in their own interest to continue making loans to creditworthy borrowers.
+
+[SECTION]
+
+ConclusionFinancial markets in the United States continue to be somewhat fragile, with CRE markets particularly so. Banking institutions have been adversely impacted by recent problems in CRE markets. The Federal Reserve, working with the other banking agencies has acted--and will continue to act--to ensure that the banking system remains safe and sound and is able to meet the credit needs of our economy. We have aggressively pursued monetary policy actions and provided liquidity to help repair the financial system. The recent launch of the CMBS portion of the TALF is an effort to revitalize lending in broader CRE markets. In our supervisory efforts, we are mindful of the risk-management deficiencies at banking institutions revealed by the current crisis and are ensuring that institutions develop appropriate corrective actions. Within the Federal Reserve, we have been able to apply our interdisciplinary approach to addressing problems with CRE markets, relying on supervisors, economists, accountants, quantitative analysts, and other experts.
+
+[SECTION]
+
+It will take some time for the banking industry to work through this current set of challenges and for the financial markets to fully recover. In this environment, the economy will need a strong and stable financial system that can make credit available. We want banks to deploy capital and liquidity, but in a responsible way that avoids past mistakes and does not create new ones. The Federal Reserve is committed to working with other banking agencies and the Congress to promote the concurrent goals of fostering credit availability and a safe and sound banking system.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Loans 30 or more days past due. Return to text
+
+[SECTION]
+
+"Interagency Policy Statement on the Review and Classification of Commercial Real Estate Loans," (November 1991). Return to text
+
+[SECTION]
+
+"Interagency Statement on Meeting the Needs of Credit Worthy Borrowers," (November 2008). Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

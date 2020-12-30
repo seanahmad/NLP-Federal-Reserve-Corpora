@@ -1,0 +1,269 @@
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+
+[SECTION]
+
+Federal Open Market Committee
+
+[SECTION]
+
+Monetary Policy Principles and Practice
+
+[SECTION]
+
+Policy Implementation
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Review of Monetary Policy Strategy, Tools, and Communications
+
+[SECTION]
+
+Institution Supervision
+
+[SECTION]
+
+Reports
+
+[SECTION]
+
+Reporting Forms
+
+[SECTION]
+
+Supervision & Regulation Letters
+
+[SECTION]
+
+Banking Applications & Legal Developments
+
+[SECTION]
+
+Regulatory Resources
+
+[SECTION]
+
+Banking & Data Structure
+
+[SECTION]
+
+Regulations & Statutes
+
+[SECTION]
+
+Payment Policies
+
+[SECTION]
+
+Reserve Bank Payment Services & Data
+
+[SECTION]
+
+Financial Market Utilities & Infrastructures
+
+[SECTION]
+
+Research, Committees, and Forums
+
+[SECTION]
+
+Working Papers and Notes
+
+[SECTION]
+
+Models and Tools
+
+[SECTION]
+
+Bank Assets and Liabilities
+
+[SECTION]
+
+Bank Structure Data
+
+[SECTION]
+
+Business Finance
+
+[SECTION]
+
+Dealer Financing Terms
+
+[SECTION]
+
+Exchange Rates and International Data
+
+[SECTION]
+
+Financial Accounts
+
+[SECTION]
+
+Household Finance
+
+[SECTION]
+
+Industrial Activity
+
+[SECTION]
+
+Interest Rates
+
+[SECTION]
+
+Micro Data Reference Manual (MDRM)
+
+[SECTION]
+
+Money Stock and Reserve Balances
+
+[SECTION]
+
+Other
+
+[SECTION]
+
+Regulations
+
+[SECTION]
+
+Supervision & Enforcement
+
+[SECTION]
+
+Community Development
+
+[SECTION]
+
+Research & Analysis
+
+[SECTION]
+
+Consumer Resources
+
+[SECTION]
+
+July 19, 2006
+
+[SECTION]
+
+Louise L. Roseman, Director, Division of Reserve Bank Operations and Payment Systems
+
+[SECTION]
+
+Before the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology, Committee on Financial Services, U.S. House of Representatives
+
+[SECTION]
+
+Thank you for inviting me to discuss Federal Reserve activities related to currency and coin. I plan to touch briefly on new currency designs and currency counterfeiting trends, and then discuss in more depth the lessons that we have learned from earlier coin programs and how we may apply them in managing the new Presidential $1 Coin Program.
+
+[SECTION]
+
+Federal Reserveâs Role in Currency and Coin DistributionFirst, it may be helpful to describe briefly the Federal Reserveâs role in currency and coin distribution. One of our key responsibilities is to ensure that enough currency and coin is available to meet the publicâs needs. In that role, the twelve regional Federal Reserve Banks provide wholesale currency and coin services to more than 9,500 of the nearly 18,000 banks, savings and loans, and credit unions in the United States. The depository institutions that choose not to receive cash services directly from the Reserve Banks obtain them through correspondent banks. The depository institutions, in turn, provide cash services to the general public.
+
+[SECTION]
+
+Each year, the Federal Reserve Board determines the need for new currency, which it purchases from the Department of the Treasuryâs Bureau of Engraving and Printing (BEP) at approximately the cost of production. Our budget for the purchase of new currency for calendar-year 2006 is $494.4 million. The Reserve Banks issue Federal Reserve notes at face value, and these notes are recorded as liabilities on the Reserve Banksâ balance sheets. The Reserve Banks, as required by law, pledge collateral (principally U.S. Treasury securities) equal to the value of currency in circulation, which was approximately $762 billion as of May 31, 2006. In 2005, we returned $21.5 billion to the Treasury, primarily from earnings on securities purchased in the process of putting notes into circulation.
+
+[SECTION]
+
+The Federal Reserve also provides coins to the nationâs depository institutions, but its role is somewhat different than that for currency. The United States Mint issues circulating coins that the Reserve Banks purchase at face value and record as assets on their balance sheets.1 Reserve Banks distribute coins to the banking industry through two channels. First, the Reserve Banks directly accept some coin deposits and pay out some coin orders. Second, the Reserve Banks work with armored carriers, which operate coin terminals to hold, process, and distribute coin on behalf of the Federal Reserve. The 155 coin terminals store about 65 percent of the Federal Reserveâs coin inventory and are a key focus of daily distributional activity. The value of U.S. coins in circulation as of May 31, 2006, was approximately $37 billion, or about 5 percent of total currency and coin in circulation.
+
+[SECTION]
+
+New Currency Design Although the Secretary of the Treasury, and not the Federal Reserve, has authority to approve new currency designs, the Federal Reserve works collaboratively with the Treasury, the BEP, and the Secret Service to analyze and recommend counterfeit deterrence strategies to maintain the integrity of, and confidence in, U.S. currency worldwide. The latest series of U.S. currency began with the Treasury Secretaryâs approval of designs for Series-2004 $50, $20, and $10 denominations that include new and enhanced security features that the public can use to protect itself from accepting counterfeit notes. Reserve Banks began issuing the newly designed $20 notes to depository institutions in October 2003, the $50 notes in September 2004, and the $10 notes in March of this year. In June, the Treasury, the Federal Reserve, and the Secret Service announced the redesign of the $5 note, which the Reserve Banks expect to begin issuing in the first quarter of 2008. The Board is currently working with the Treasury, the BEP, and the Secret Service on a new-generation $100 note design that will include at least one additional security feature for the public to use.
+
+[SECTION]
+
+The value of personal computer-generated counterfeit currency passed into circulation has increased from less than one percent of total counterfeits passed domestically in 1995 to more than 50 percent in 2005. Because personal computer technology is generally the same throughout the world, the Federal Reserve works with the central banks of the G-10 countries and 16 other central banks in the Central Bank Counterfeit Deterrence Group (CBCDG), to develop and deploy a security feature designed to prevent personal computer software and printers from copying currency. The firms that make this software and equipment have been strong supporters of the CBCDGâs efforts to prevent the use of their products in counterfeiting currency. The Federal Reserve will continue to support this collaborative work for current and future series of Federal Reserve notes. As more manufacturersâ devices include the CBCDG counterfeit deterrence system, the Federal Reserve expects to see increasing effectiveness in deterring the digital counterfeiting of U.S. currency.
+
+[SECTION]
+
+Overall, counterfeiting of U.S. currency remains at relatively low levels--due primarily to the combination of improvements in the notesâ security features, aggressive law enforcement, and effective education that informs the public about how to verify its currency. Statistics continue to indicate that the value of counterfeit U.S. currency that has been passed into circulation worldwide is less than one-hundredth of one percent of genuine U.S. currency in circulation.
+
+[SECTION]
+
+Presidential $1 Coin ProgramThe Presidential $1 Coin Act of 2005 establishes a program under which the Treasury will issue four new Presidential $1 coin designs per year starting in 2007. In February, Federal Reserve and Mint staff began meeting regularly to establish plans for distributing the Presidential $1 coins effectively. In addition, to help plan for the introduction of these new dollar coins and to gauge demand for, and anticipate obstacles to, their efficient circulation, we are consulting with a wide range of coin users to gather ideas, advice, and information. On June 8, the Mint and the Federal Reserve jointly hosted the first $1 Coin Users Group Forum, where we obtained input from representatives of banking, armored carrier, transit, automated merchandising, and numismatic organizations, as well as from other federal agencies. We are organizing additional meetings to identify and attempt to address potential barriers to circulation.
+
+[SECTION]
+
+Since the beginning of the commemorative circulating coin programs seven years ago, the Federal Reserve has supported the Congress and the Mint in issuing new coin designs by distributing about 1.3 billion Sacagawea dollars, 28 billion state quarters, and 3 billion commemorative nickels. Our experiences with the Sacagawea Dollar, Fifty State Quarters, and Westward Journey Nickels programs provide the following insights that should be valuable in our management of the new Presidential $1 Coin Program.
+
+[SECTION]
+
+1. The last redesign of the dollar coin did not lead to a sustained increase in demand for the coin. Net payments of dollar coins into circulation rose to $558 million in 2000 due to efforts to stimulate demand during the introductory period of the Sacagawea dollars.2 Once the public satisfied its initial interest in collecting Sacagawea coins, demand for dollar coins returned to historical levels. In 2005, net payments of dollar coins by the Reserve Banks totaled approximately $61 million, which is about the same level of net payments experienced in the five years prior to the introduction of the Sacagawea dollar. It is unclear at this point whether the Presidential $1 Coin Program will have a substantial effect on the use of dollar coins in everyday transactions. The Sacagawea dollar has not been successful in substantially stimulating demand because it appears that some of the largest obstacles to dollar coin circulation do not relate to the design of the coin. Retailers are the primary mechanism for distributing coins to consumers, who receive them as change, so broad retailer acceptance is critical to widespread transactional use. While organizations that accept payment at vending machines or other automated equipment have indicated that dollar coins are a less-costly alternative than dollar notes for them, other sectors of the retail industry have indicated that their costs for using dollar coins are much higher than those associated with dollar bills. In addition, dollar coins do not have widespread consumer acceptance. Consumers seem to prefer to carry dollar bills, rather than weigh down their pockets with dollar coins.
+
+[SECTION]
+
+
+
+[SECTION]
+
+A 2002 GAO study concluded that public resistance to using the dollar coin is the most substantial barrier to its widespread use in everyday transactions.3 The GAO stated that "until individuals can see that the coin is widely used by others and that the government intends to replace the dollar bill with the dollar coin, they will be unlikely to use the coin in everyday transactions." So, should the government eliminate the dollar bill so that the public has no choice but to use the dollar coin? We believe, at this stage, that market forces, rather than government action, should determine the relative use of the dollar bill and dollar coin in our economy, particularly given that there is no compelling evidence that societal costs will decrease as a result of a shift to greater use of dollar coins.
+
+[SECTION]
+
+2. The Reserve Banks have modified their distribution strategy to meet the needs of individuals who collect commemorative circulating coins. As a general rule, demand for coin for transactional purposes can be met by any of the circulating designs for that coin.4 For example, a retailer that orders nickels or quarters from its bank typically does not care what design(s) it receives. Demand for a commemorative circulating coin by collectors, however, is design-specific. To meet collector demand for commemorative circulating coins, during an initial introductory period the Reserve Banks have suspended their normal practice of first paying out previously circulated coins to depository institutions and instead pay out only the new design. This introductory period ranged from about four weeks for the Fifty State Quarters and Westward Journey Nickels Programs to two years for Sacagawea dollars. Following these initial introductory periods, the Reserve Banks fulfill orders for coin from their inventories, irrespective of coin design. For the Presidential $1 Coin Program, we are currently contemplating a thirty-day introductory period during which only the new coin design would be issued. A final decision regarding the length of the introductory period will be made later this year and may be adjusted over time in light of our experience.
+
+[SECTION]
+
+3. The Federal Reserve and the Mint currently hold large inventories of dollar coins. On June 30, 2006, Reserve Banks held more than $94 million in dollar coins, or enough inventory to meet current transactional demand for more than eighteen months. In addition, the Mint holds inventory of about 115 million Sacagawea dollars. Together, these inventories of dollar coins would meet current demand for the next three-and-a-half years. If this program does not spark broad use of dollar coins for everyday transactions, we expect Reserve Bank inventories will further increase with the issuance of each Presidential $1 Coin design.
+
+[SECTION]
+
+The Presidential $1 Coin Act requires the Treasury Secretary annually to mint and issue Sacagawea dollar coins in quantities equal to no less than one-third of the total Presidential $1 coins issued.5 As I noted earlier, it is far from certain that the Presidential $1 Coin Program will stimulate increased demand for Sacagawea dollar coins in particular or dollar coins more generally as a broad-based medium of exchange. Given that we have an ample supply of dollar coins to meet current market demand and that the Presidential $1 Coin Program may increase supplies further, the Reserve Banks may not need to order more Sacagawea dollars from the Mint for a number of years. If the Presidential $1 Coin Program does not stimulate substantial transactional demand for dollar coins, the requirement that the Mint nonetheless produce Sacagawea dollars would result in costs to the taxpayer without any offsetting benefits. In those circumstances, we would strongly recommend that Congress reassess the one-third requirement.
+
+[SECTION]
+
+4. The need to distribute multiple coin designs poses continuing inventory challenges that must be managed carefully. In recent years, the Mint and the Reserve Banks have improved their forecasting of coin demand, and Reserve Banks have managed coin inventories from a national perspective to improve efficiency. These efforts have allowed the Reserve Banks, for example, to lower their orders from the Mint for each new quarter design from a peak of 1.6 billion for the Virginia quarter in 2000 to roughly 500 million for recently introduced state quarter designs.
+
+[SECTION]
+
+Nonetheless, Reserve Bank coin inventory management remains a challenge. At their 2003 peak, Reserve Bank quarter inventories reached $749 million, equal to about twelve months of net payments. Through reduced orders of new state quarters and careful inventory management, the current stock of quarters has been reduced to about $383 million, still above our target range of $182 million to $325 million.6
+
+[SECTION]
+
+In forecasting demand for Presidential $1 coins, we are working with the Mint to align both demand for ordinary commerce and from casual collectors with our goal of effectively managing Reserve Bank inventories. To do so, we are exploring options for providing the dollar coins to depository institutions in increments smaller than our standard of 2,000 and are planning to conduct a pilot program to assess the benefits of packaging the dollar coins in smaller rolls.
+
+[SECTION]
+
+ConclusionThe Federal Reserve will continue to work to meet demand for currency and coin efficiently and effectively. I appreciate the opportunity to discuss these issues with you and would be happy to answer your questions.
+
+[SECTION]
+
+Footnotes
+
+[SECTION]
+
+Coins are non-interest-earning assets on the Reserve Banksâ books. Return to text
+
+[SECTION]
+
+Net payments to circulation is defined as gross payments to circulation less gross receipts from circulation. Return to text
+
+[SECTION]
+
+New Dollar Coin: Marketing Campaign Raised Public Awareness but not Widespread Use (GAO-02-896), September 2002. Return to text
+
+[SECTION]
+
+Some persons have stated that they would prefer not to receive the Susan B. Anthony dollar coin because it could be easily confused with the quarter. The Reserve Banksâ largest cash customers have reported, however, no preference among their customers for one design of dollar coins over another. Return to text
+
+[SECTION]
+
+31 USC 5112(n)(1)(B)(ii) Return to text
+
+[SECTION]
+
+Reserve Banks develop upper and lower bound targets reflecting the seasonal fluctuation of demand. The Federal Reserve and the Mint applied lessons learned from the Sacagawea Dollar and State Quarter programs to manage the distribution of the new Westward Journey Nickels designs. A number of factors seem to have influenced a more orderly rollout of the new nickels. Modest initial publicity about the new design tempered public demand, and perhaps most importantly, there were only two design changes each year. The Reserve Banks have been able to keep their inventories of nickels at relatively constant levels throughout the Westward Journey Nickels program. On June 30, 2006, Reserve Banks held approximately $31 million in nickels, slightly less than the average monthly inventory in 2003, prior to the start of the program. Return to text
+
+[SECTION]
+
+Board of Governors of the Federal Reserve System
+
+[SECTION]
+
+20th Street and Constitution Avenue N.W., Washington, DC 20551

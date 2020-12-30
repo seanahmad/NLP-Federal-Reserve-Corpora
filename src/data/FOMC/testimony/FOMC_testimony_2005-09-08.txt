@@ -1,0 +1,82 @@
+Chairman Shelby, Senator Sarbanes, and members of the Committee, thank you for the opportunity to testify on the Commodity Futures Modernization Act of 2000 (CFMA) and on regulatory issues that have arisen in the context of the reauthorization of the Commodity Futures Trading Commission (CFTC).  The chairman's invitation letter requested that the testimony and written statement provide an overall evaluation of the CFMA and address three specific regulatory issues: (1) legislative measures to address fraud in certain retail foreign currency transactions; (2) portfolio margining for security futures products; and (3) futures on narrow-based securities indexes.
+
+[SECTION]
+
+Overall Evaluation of the CFMA
+
+	The Federal Reserve Board believes that the CFMA has unquestionably been a successful piece of legislation.  Most important, as recommended by the President's Working Group on Financial Markets in its 1999 report, it excluded transactions between institutions and other eligible counterparties in over-the-counter financial derivatives and foreign currency from regulation under the Commodity Exchange Act (CEA).1   As the Working Group argued, regulation of such transactions under the CEA was unnecessary to achieve the act's principal objectives of deterring market manipulation and protecting investors.  Such transactions are not readily susceptible to manipulation and eligible counterparties can and should be expected to protect themselves against fraud and counterparty credit losses.  Exclusion of these transactions resolved long-standing concerns that a court might find that the CEA applied to these transactions, thereby making them legally unenforceable.  At the same time, the CFMA modernized the regulation of U.S. futures exchanges, replacing a one-size-fits-all approach to regulation with an approach that recognizes that the regulatory regime necessary and appropriate to achieve the objectives of the CEA depends on the nature of the underlying assets traded and the capabilities of market participants.  Together, these provisions of the CFMA have made our financial system and our economy more flexible and resilient by facilitating the transfer and dispersion of risk.  Consequently, the Board believes that major amendments to the regulatory framework established by the CFMA are unnecessary and unwise.
+
+[SECTION]
+
+Nonetheless, the Board supports some targeted amendments to the CEA to address persistent problems with fraud in retail foreign currency transactions and to facilitate the trading of security futures products and futures on security indexes.
+
+[SECTION]
+
+Fraud in Retail Foreign Currency Transactions
+
+	In its 1999 report, the President's Working Group concluded that, to address problems associated with foreign currency "bucket shops," the CEA should be applied to transactions in foreign currency futures if they are entered into between a retail customer (an individual or business that does not meet the definition of an eligible counterparty) and an entity that is neither federally regulated nor affiliated with a federally regulated entity.  The CFMA included provisions that were largely consistent with the Working Group's recommendation.
+
+[SECTION]
+
+The CFMA has allowed the CFTC to take numerous enforcement actions against retail foreign currency fraud.  However, the CFTC has continued to encounter certain difficulties in this area.  These difficulties have stemmed from two sources.  First, the CFTC's authority is limited to foreign currency futures, and some entities have fraudulently marketed contracts that, although similar to futures, have characteristics that have led some courts to conclude that they are not futures and that the CFTC has no jurisdiction.  Second, some perpetrators of fraud have taken advantage of the CFMA's exclusion from CFTC jurisdiction of retail foreign currency futures offered by futures commission merchants (FCMs) and their affiliates.  These perpetrators have set up thinly capitalized FCMs and used affiliates of those FCMs or unregulated unaffiliated entities to fraudulently solicit retail customers.
+
+[SECTION]
+
+The Board believes that fraud undermines the functioning of financial markets and that some governmental entity must have the authority to protect retail investors in foreign currencies by taking enforcement action against entities that are defrauding them.  Although the states have an important role to play in combating fraud, the President's Working Group concluded in 1999 that the CFTC is the appropriate federal regulator and should have clear authority to pursue retail fraud by foreign currency bucket shops.  Consequently, the Board supports targeted amendments to the CEA that address the specific difficulties that the CFTC has encountered in taking enforcement action in this area.  It is critical that those amendments be carefully crafted to avoid creating legal or regulatory uncertainty for legitimate businesses providing foreign exchange services to retail clients.  The Board would be opposed to extending any new CFTC authority to retail transactions in other commodities without further careful consideration and demonstrated need.  Provisions crafted to avoid creating uncertainty for legitimate foreign currency businesses are unlikely to provide the same protection to a much wider range of businesses.
+
+[SECTION]
+
+Portfolio Margining for Security Futures
+
+	The CFMA gave the Board authority to prescribe regulations establishing initial and maintenance margins for security futures products or to delegate that authority jointly to the CFTC and the Securities and Exchange Commission (SEC).  The Board delegated its authority to the commissions in a letter dated March 6, 2001.  The letter indicated that the Board concluded that delegation is appropriate because it believes that the most important function of margin regulations is prudential--that is, to protect margin lenders from credit losses.  In the case of security futures, the lenders are broker-dealers and FCMs, and the commissions are responsible for all other aspects of prudential regulation of those firms.
+
+[SECTION]
+
+Portfolio margining is a method for setting margin requirements that evaluates positions as a group or portfolio and takes into account the potential for losses on some positions to be offset by gains on others.  Specifically, the margin requirement for a portfolio is typically set equal to an estimate of the largest possible decline in the net value of the portfolio that could occur under assumed changes in market conditions.  Portfolio margining is an alternative to "strategy-based" margining.  With strategy-based margining, the potential for gains on one position in a portfolio to offset losses on another position is taken into account only if the portfolio implements one of a designated set of recognized trading strategies.  The margin requirements for recognized strategies are set out in the rules of self-regulatory organizations.  Each strategy is viewed in isolation; the remainder of the portfolio and other strategies are not taken into account.
+
+[SECTION]
+
+The Board has supported the use of portfolio margining for some time.  For example, in 1998 the Board amended Regulation T to allow securities exchanges to develop portfolio margining as an alternative to strategy-based margining, subject to SEC approval.  In its 2001 letter delegating its authority over margins for security futures products jointly to the CFTC and the SEC, the Board requested that the commissions, either jointly or individually, report to the Board annually on their experience exercising the delegated authority and to include in those reports an assessment of progress toward portfolio margining for securities futures products.  The Board continues to believe that portfolio margining is both more risk-sensitive and more efficient than strategy-based margining.
+
+[SECTION]
+
+Unfortunately, to date no progress has been made toward portfolio margining of security futures products.  Because the CFMA stipulates that margin requirements for security futures products must be consistent with margin requirements on comparable securities options, progress for security futures requires progress on options.  Although margin requirements for options have for many years been portfolio-based at the clearing level, customer margins were until very recently strictly strategy-based.  However, in July the SEC approved rule changes that create a two-year pilot program that would permit portfolio margining of options and futures positions in broad-based stock indexes held by customers with a minimum account equity of $5 million or more.  If this pilot program were adopted as a margining system available to all customers for a broader range of products, significant progress toward portfolio margining of securities futures products would become possible.
+
+[SECTION]
+
+The Commodity Exchange Reauthorization Act of 2005, which the Senate Agriculture Committee approved in July, proposes to make progress on portfolio margining (1) by eliminating the need for margins required on security futures to be consistent with those required on comparable options and (2) by substituting CFTC oversight of security futures margins for joint regulation by the CFTC and the SEC under delegation from the Board.  This approach would be a marked departure from the regulatory regime for security futures that was established by the CFMA.  The Board believes that it is appropriate for the Congress to spur progress toward portfolio margining for security futures but that this can be accomplished without changing so fundamentally the regulatory regime for security futures margins.  For example, the Congress could spur more-rapid progress toward portfolio margining for both security futures products and options by requiring the commissions to jointly adopt regulations permitting the use of risk-based portfolio margin requirements for security futures products within a short but reasonable time period and requiring the SEC to approve risk-based portfolio margin requirements for options within the same period.
+
+[SECTION]
+
+Futures on Narrow-Based Securities Indexes
+	
+	The CFMA distinguished between futures on broad-based security indexes, which are subject to the exclusive jurisdiction of the CFTC, and futures on narrow-based securities indexes, which are considered security futures products and, as such, are subject to joint CFTC and SEC jurisdiction.  Some futures exchanges argue that the definition of a narrow-based index in the CFMA was drafted with reference to the U.S. equities markets and that, in any event, the definition unnecessarily restricts the trading of futures on indexes of U.S. debt obligations and foreign securities.
+
+[SECTION]
+
+The 2005 Reauthorization Act would address those concerns by requiring the CFTC and the SEC to jointly promulgate a revised definition of a narrow-based securities index that would better reflect capitalization, trading patterns, and trade reporting in the underlying markets.  Such a definition would permit futures on indexes of U.S. debt obligations and foreign securities to trade as broad-based indexes if the indexes are not readily susceptible to manipulation.
+
+[SECTION]
+
+Although the Board does not have a strong interest in this issue, it favors taking another look at the appropriateness of applying the existing definition of a narrow-based index to indexes of foreign securities.  First, for many years several futures on foreign equity indexes have been trading abroad and have been offered to customers in the United States.  Although these indexes would be considered narrow-based indexes under the existing definition, we see no evidence that these indexes have been susceptible to manipulation.  Second, the provision in the 2005 Reauthorization Act can be seen as simply reiterating an existing requirement in the CFMA that the CFTC and the SEC jointly adopt rules that define narrow-based indexes based on foreign securities.
+
+[SECTION]
+
+President's Working Group on Financial Markets (1999), Over-the-Counter Derivatives Markets and the Commodity Exchange Act (165 KB PDF ) (Washington, D.C.: November).
+
+ Return to text
+
+[SECTION]
+
+Return 
+              to top
+
+[SECTION]
+
+2005 Testimony
+
+ Home | News and 
+      events 
+Accessibility | Contact 
+      Us
+Last update: September 8, 2005, 10:00 AM

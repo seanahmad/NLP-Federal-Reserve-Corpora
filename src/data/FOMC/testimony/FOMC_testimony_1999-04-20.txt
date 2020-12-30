@@ -1,0 +1,157 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Mr. Chairman, I am pleased to appear before the General Oversight and Investigations Subcommittee and the Subcommittee on Financial Institutions and Consumer Credit to discuss the Federal Reserve's role in the government's efforts to detect and deter money laundering and other financial crimes with a particular emphasis on matters related to the Bank Secrecy Act and suspicious activity reporting.
+
+[SECTION]
+
+Overview
+The Federal Reserve has a longstanding commitment to combating money laundering and ensuring compliance with the Bank Secrecy Act and related suspicious activity reporting requirements by the domestic and foreign banking organizations that it supervises.  Compliance with the Bank Secrecy Act and suspicious activity reporting requirements by financial institutions provides timely and valuable information to law enforcement and is the best indicator of the existence of satisfactory anti-money laundering and anti-fraud policies and procedures.
+
+[SECTION]
+
+Over the past several years, the Federal Reserve has been actively engaged in the government's efforts to deter money laundering through financial institutions by, among other things, redesigning the Bank Secrecy Act examination process, developing anti-money laundering guidance, regularly examining the institutions we supervise for compliance with the Bank Secrecy Act and relevant regulations, conducting money laundering investigations, providing expertise to the U.S. law enforcement community for investigation and training initiatives, and providing training to various foreign central banks and government agencies.
+
+[SECTION]
+
+Ten years ago the Federal Reserve started its anti-money laundering program and appointed a senior official to coordinate the Federal Reserve's activities in this area.  In 1993, the Federal Reserve established a special investigations unit, with responsibility for, among other things, the oversight of the Federal Reserve's anti-money laundering program.  In the same year, each of the Federal Reserve Banks designated a senior experienced examiner to be the Bank Secrecy Act coordinator.
+
+[SECTION]
+
+We have long felt that banking organizations and their employees are the first and strongest line of defense against money laundering and other financial crimes.  As a result, the Federal Reserve emphasizes the importance of financial institutions putting in place controls to protect themselves and their customers from illicit activities.
+
+[SECTION]
+
+Congress too has long recognized that a banking organization's best protection against criminal activities is its own policies and procedures designed to identify and then reject potentially illegal or damaging transactions.  In 1986, Congress passed a law (section 8 (s) of the Federal Deposit Insurance Act) mandating that the Federal Reserve and the other federal banking agencies issue regulations requiring the domestic and foreign financial institutions that the agencies supervise to establish and maintain internal procedures designed to assure and monitor compliance with the Bank Secrecy Act.
+
+[SECTION]
+
+Determining Compliance Through Examinations
+ To understand and properly evaluate the effectiveness of a banking organization's Bank Secrecy Act-related controls and procedures and compliance with the Board's rules issued under section 8(s) of the Federal Deposit Insurance Act, the Federal Reserve has developed comprehensive examination procedures and manuals.  In November 1997, the Federal Reserve issued newly revised risk-focused Bank Secrecy Act examination procedures.  These enhanced examination procedures specifically address anti-money laundering compliance.  The examination procedures take a multi-stage "top down" approach.
+
+[SECTION]
+
+During every examination of a state member bank and U.S. branch or agency of a foreign bank supervised by the Federal Reserve, specially trained examiners review the institution's previous and current compliance with the Bank Secrecy Act.  Examiners first determine whether the institution has included anti-money laundering procedures in all of its operational areas, including retail operations, credit, private banking, and trust, and has adequate internal audit procedures to detect, deter and report money laundering activities, as well as other potential financial crimes.  This is done through a review of the institution's written compliance program and documentation of self-testing and training, as well as through a review of the institution's system for capturing and reporting certain transactions pursuant to the Bank Secrecy Act, including any suspicious or unusual transactions possibly associated with money laundering or other financial crimes.
+
+[SECTION]
+
+In those instances where there are deficiencies in the written compliance program, failures to adequately document self-testing or training, obvious breakdowns in operating systems, or failures to implement adequate internal controls, the Federal Reserve's examination procedures require examiners to conduct a more intensified second stage examination that would include the review of source documents and expanded transaction testing, among other steps.  Enforcement actions, including the assessment of civil money penalties, are used to address situations where deficiencies are not promptly and fully corrected.
+
+[SECTION]
+
+Suspicious Activity Reporting
+Before I describe how the Federal Reserve uses Suspicious Activity Reports and other Bank Secrecy Act reports, some background information regarding the new Suspicious Activity Reporting system would be useful.
+
+[SECTION]
+
+In 1985, the five federal financial institutions regulatory agencies (the Federal Reserve, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the Office of Thrift Supervision (then the Federal Home Loan Bank Board) and the National Credit Union Administration) developed substantially similar, but not uniform, procedures and forms, then known as the criminal referral process, to be used by all financial institutions operating in the United States to report known or suspected criminal law violations.  The introduction of the concept of criminal referral forms was the result of the efforts of the interagency Bank Fraud Working Group, which has been addressing the problems of combating white collar financial institution crime since 1984.1   The use of the forms and the attendant reporting procedures, which were jointly developed by the banking and criminal justice agencies participating in the Working Group, enabled financial institutions and the banking agencies to report all instances of suspected criminal activities to the appropriate law enforcement and supervisory authorities.
+
+[SECTION]
+
+In addition to ensuring the timely provision of information about known or suspected criminal activities to law enforcement authorities, the member agencies on the Working Group recognized the importance of sharing criminal referral information among themselves, particularly in the area of background checks and the coordination of particular significant matters of mutual interest.  The need for an effective interagency database of criminal referral information was made an objective of the Working Group, and the agency representatives explored various ways to develop such a system.
+
+[SECTION]
+
+Beginning in 1994, the Federal Reserve participated in an interagency effort to completely redesign the criminal referral process for banking organizations.  The banking agencies worked with Treasury's Financial Crimes Enforcement Network ("FinCEN") as the manager of the new process because of that agency's experience in processing millions of currency transaction reports and its database management skills, and because Congress had amended the Bank Secrecy Act to require FinCEN to issue suspicious activity reporting rules for financial institutions, including banks, broker-dealers, and casinos.
+
+[SECTION]
+
+The result of this effort is the existing Suspicious Activity Report.  The new Suspicious Activity Report became effective on April 1, 1996, for all banking organizations operating in the United States and subject to the jurisdiction of the five federal banking agencies and FinCEN.  Prior to the effective date of the new Suspicious Activity Report, the Federal Reserve, each of the other federal banking agencies, and FinCEN issued new rules for the reporting of suspicious activity mandating the use of the interagency Suspicious Activity Report.
+
+[SECTION]
+
+Along with the enhanced reporting process, another important improvement is the statutory protection that Congress provided for banking organizations reporting suspicious or criminal conduct.  The statutory protection provides banking organizations and their employees with immunity from civil liability for reporting known or suspected criminal offenses or suspicious activities.  The law also prohibited financial institutions filing Suspicious Activity Reports from notifying anyone involved with reported transactions about the filings.  These  protections, long sought by the banking community and supported by the Federal Reserve, give  comfort to banking organizations that they will not be held liable for providing timely and useful information to law enforcement authorities, or compelled to reveal information that has been reported to law enforcement authorities to help their crime fighting efforts.
+
+[SECTION]
+
+Utility of Bank Secrecy Act and Suspicious Activity Report Information
+As more fully detailed by representatives from the various law enforcement agencies, information collected and reported pursuant to the requirements of the Bank Secrecy Act and the suspicious activity reporting regulations provides necessary and essential assistance to government investigators and prosecutors.  Similarly, as I explained earlier, during the course of examinations conducted by the Federal Reserve, a review of the information collected and reported pursuant to the Bank Secrecy Act and the suspicious activity reporting requirements assists examiners in determining compliance with these regulations.
+
+[SECTION]
+
+You asked whether Bank Secrecy Act and Suspicious Activity Report information has been beneficial to the Federal Reserve's supervisory and enforcement initiatives.  The simple answer is that such information has been valuable and has led to numerous supervisory actions addressing wrongdoing by banking organizations and persons associated with them.  Federal Reserve staff reviews Suspicious Activity Reports and Currency Transaction Reports filed by banking organizations supervised by the Federal Reserve.  Our purpose in conducting  reviews of Suspicious Activity Reports is to identify for further investigation potential problems that would normally not be detected during the course of an examination, but that have been reported by a financial institution as being suspicious.  Likewise, we review Currency Transaction Reports before we conduct Bank Secrecy Act examinations in order to better focus the scope of the examinations and, where necessary, to more precisely target problem areas.
+
+[SECTION]
+
+While the Federal Reserve's investigative initiatives resulting from our review of these reports are not public and cannot be discussed here, two recent events involving large banking organizations supervised by the Federal Reserve involved public court proceedings or reported cases where the organizations' Suspicious Activity Reports were disclosed.  For this reason, I am able to provide some details about how Federal Reserve staff used the information filed by the banking organizations.
+
+[SECTION]
+
+As the result of a Suspicious Activity Report filed by Bankers Trust, the Federal Reserve conducted a targeted review of certain activities of the bank involving escheatable funds.  After our inquiry, staff worked extensively with federal investigators and prosecutors, and the result was the recent guilty plea by Bankers Trust and the imposition of a $60 million fine.  Similarly, a Suspicious Activity Report containing information of suspected criminal activity by a BankBoston official led to the discovery that the individual apparently defrauded BankBoston out of more than $73 million.  After reviewing the circumstances surrounding the official's actions, the Federal Reserve sought and received federal court orders freezing all of the individual's U.S. assets.  We are continuing to work with law enforcement authorities during the course of their criminal investigation of this matter.  Additionally, on several occasions, the Federal Reserve has commenced enforcement actions against individuals as the result of information first reported in a Suspicious Activity Report.
+
+[SECTION]
+
+Currency transaction information provided to the government pursuant to the Bank Secrecy Act has also been a valuable asset for the Federal Reserve's enforcement function.  A Federal Reserve investigation that in large part relied on information reported pursuant to the Bank Secrecy Act led to the conviction of the Bangkok Metropolitan Bank for criminal activity related to money laundering and fraud.  This foreign banking organization subsequently was ordered by the Federal Reserve to cease all operations in the United States.  Similarly, Bank Secrecy Act information was used during the Federal Reserve's involvement with the recently completed Operation Casablanca investigation, where Federal Reserve staff worked extensively with federal law enforcement agencies during the course of their investigation of money laundering  activities by several foreign banking organizations and their employees.
+
+[SECTION]
+
+Federal Reserve Role
+In addition to the Federal Reserve's efforts to develop appropriate anti-money laundering and anti-fraud related policies and procedures for the domestic and foreign financial institutions that we supervise and our examination for compliance with those polices and procedures, staff of the Federal Reserve has, as I just discussed, taken an active role among federal bank supervisors in the law enforcement community's battle to deter money laundering by providing expertise for law enforcement initiatives and training to various government agencies.
+
+[SECTION]
+
+The Federal Reserve routinely coordinates with federal law enforcement agencies with regard to potential criminal matters, including anti-money laundering and financial crime activities.  The scope of this coordination ranges from our work on the development and implementation of the interagency Suspicious Activity Reporting system to the referral of illicit activities on a case-by-case basis to law enforcement agencies resulting from examinations of banking organizations and a review of Suspicious Activity Reports.  The aforementioned situations involving Bankers Trust, BankBoston, and Operation Casablanca are good examples of our efforts in this area.
+
+[SECTION]
+
+Training provided by Federal Reserve staff to law enforcement agencies continues to include programs at the U.S. Department of the Treasury's Federal Law Enforcement Training Center and at the FBI Academy, as well as training for the U.S. Secret Service and the U.S. Customs Service.  Additionally, Federal Reserve staff has provided training in anti-money laundering procedures to foreign law enforcement officials and central bank supervisory personnel in such countries as Russia, Poland, Hungary, the Czech Republic, and a number of the emerging Baltic states, as well as Brazil, Ecuador, Argentina, and several other countries in the Middle and Far East.
+
+[SECTION]
+
+Over the years the Federal Reserve has taken the initiative to provide timely and useful information to banking organizations with regard to ongoing criminal conduct or potential schemes that may have an adverse impact on them.  In the last few years, the Federal Reserve and the other federal banking supervisory agencies have issued alerts on such matters as "Prime Bank" frauds  and credit card fraud schemes.  Such notices to the banking industry are intended to advise banking organizations and the public about the potential dangers of such schemes and practices.
+
+[SECTION]
+
+Also, from time to time, the Federal Reserve has developed and issued policy statements with regard to activities occurring in banking organizations that we have determined could pose a threat to the integrity of a bank.  One such example was the Federal Reserve's development and issuance of a policy statement on "payable through accounts."  The purpose of the policy statement was to ensure that banks that engage in payable through activity, which basically involves the use of a checking account at a bank in the United States by an individual who resides outside of this country, have appropriate procedures in place to ensure that no illicit activities are being conducted through these accounts.  The Federal Reserve's 1997 issuance of a sound practices paper on private banking is another example.
+
+[SECTION]
+
+Conclusion
+As bank supervisors, the Federal Reserve believes that it is necessary to take reasonable and prudent steps to assure that banking organizations are not victims of, and also do not knowingly participate in, illicit activities such as money laundering or other financial crimes.  For this reason, and to support our law enforcement agencies in their efforts to combat money laundering and other financial offenses, the Federal Reserve's commitment to ensuring compliance with the Bank Secrecy Act and suspicious activity reporting requirements continues to be a high bank supervisory priority.  The Federal Reserve has an important role in ensuring that criminal activity does not pose a systemic threat, and, as importantly, in improving the ability of individual banking organizations in the United States and abroad to protect themselves from illicit activities.  Both the Bank Secrecy Act and suspicious activity reporting requirements are vital to the continued efforts of the Federal Reserve and the government, as a whole, to combat illicit activities through the financial system.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Footnote
+
+[SECTION]
+
+1
+The Working Group now consists of senior staff representatives from 13 federal agencies, including the Federal Reserve, the other federal financial institutions regulators, the FBI, the U.S. Secret Service, the Departments of Justice and Treasury, including the Financial Crimes Enforcement Network, the IRS's Criminal Investigation Division, and the SEC.  The Working Group meets monthly, and its various subcommittees meet more frequently when necessary.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1999 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+Contact Us
+
+
+Last update: April 20, 1999, 2:00 PM

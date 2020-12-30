@@ -1,0 +1,63 @@
+Testimony of Governor Susan M. Phillips
+Circuit breakers for equity-related markets
+Before the Subcommittee on Securities of the 
+Committee on Banking, Housing, and Urban Affairs, 
+U.S. Senate
+January 29, 1998
+
+[SECTION]
+
+
+
+[SECTION]
+
+I am pleased to appear today to discuss circuit breakers for equity-related markets.  The introduction of circuit breakers was one of the recommendations of the 1988 Report of the President's Working Group on Financial Markets.  At that time, the Working Group was concerned about the potential for sharp declines in prices and soaring trading volumes to overwhelm the market infrastructure of trading, clearing, and credit systems.  As the Working Group observed, threats to the market infrastructure can trigger ad hoc and destabilizing market closings.   In recommending circuit breakers, the Working Group intended to substitute planned trading halts for unplanned ones "...without increasing the overall frequency of such disruptions."  Importantly, there was no presumption that circuit breakers could alter fundamental equity prices.
+
+[SECTION]
+
+As events have unfolded, equity prices have risen substantially over the last decade, but relatively minor changes have been made to the system of circuit breakers.  We now face the prospect that the circuit breakers will be triggered relatively frequently and in the absence of strains on system capacity sufficient to overwhelm the financial system and create an ad hoc or destabilizing shutdown.  October 27 of last year provided the first illustration of these possibilities.  We are aware of no evidence that ad hoc market closings were imminent or that back offices were overwhelmed at the time the circuit breakers were tripped.
+
+[SECTION]
+
+The Federal Reserve Board supports revisions to the circuit breakers.  The Board believes that markets should be allowed to remain open to ensure that equity portfolios can be valued reliably and that investors can adjust their holdings and thereby effectively manage their risks.  The decision to close markets should neither be taken lightly nor be taken frequently.  Indeed, the evidence is inconclusive at best as to whether circuit breakers are a useful feature of our markets.  If a system of planned market closings such as the circuit breakers is deemed desirable, it should be structured in such a way that closings occur very rarely and then only when the market infrastructure would otherwise be placed at risk.
+
+[SECTION]
+
+As part of the current reassessment of circuit breakers, some have suggested halting trading for the day when prices decline a fairly large amount, say 20 percent, regardless of how early in the day that price decline occurs. This represents a significant shift from the Working Group's original recommendation, which did not contemplate a daily limit.   The Federal Reserve Board does not support this step.  It is an illusion to believe that investors' fears will be assuaged merely by closing markets.  Such a closure could well have the opposite effect -- it might increase investor concerns, causing them to dump shares at the next opportunity.  This, in turn, might exacerbate difficulties re-opening markets and maintaining liquidity.  In addition, when the incentive to trade is great, sophisticated investors will find ways of transacting, even when the domestic markets are closed, while small investors will be denied that opportunity.
+
+[SECTION]
+
+The Working Group's original support for some form of planned trading halts should be placed in the context of the other recommendations of the Report.   The Group  noted the need to strengthen the capital structure of market participants, the capacity of trading mechanisms, and the credit, clearing, and payment systems that undergird trading.   Much progress has been made in these areas, as evidenced by the way systems and market participants handled the market move on October 27, 1997.  Disruptive, ad hoc shutdowns seem much less likely to occur.  The combined force of these enhancements makes the case for circuit breakers less compelling today than ten years ago.  At a minimum, it argues for higher triggers today.  The original circuit breakers represented price declines of 12 percent and 20 percent, but halts are now triggered by price moves of only 4 1/2 percent and 
+7 percent.
+
+[SECTION]
+
+In redesigning circuit breakers, the details are best left to be negotiated among the affected markets, with the oversight of the relevant regulatory authorities.  Nonetheless, certain broad principles should be followed.  The circuit breakers should be coordinated.   The trading halts should not be triggered so frequently as to create more disruptions than the unplanned halts they are intended to prevent.  The system should be simple enough that market participants have no trouble understanding when trading halts will be triggered.  Finally, the system should embody a mechanism that allows periodic adjustments to trigger levels.
+
+[SECTION]
+
+One of the consequences of the way circuit breakers functioned on October 27 is that the usual closing procedures on markets did not occur.  This precipitated current discussion about a redesign of circuit breakers to facilitate the ability to trade at the close and to establish closing prices.  Normal business practices assume that trades at the close will be possible for managing market and credit risks and that these prices will be available for valuing portfolios.  We support efforts to ensure that circuit breakers do not hinder these critical processes.
+
+[SECTION]
+
+The Subcommittee also has requested comment on Rule 80A of the New York Stock Exchange, which limits certain types of program trading when the Dow Jones Industrial Average moves more than 50 points in a day.  The Federal Reserve Board generally refrains from taking a specific position on rules that have been put in place by the individual markets.  However, as I indicated earlier, the Board believes that, as a matter of principle, markets should be left to trade freely, except in very unusual circumstances.  Because the level at which the rule is triggered has not been adjusted as prices have risen, the restriction recently has been triggered daily, even as markets continued to function well.  In this light, the existing Rule 80A restriction seems wholly unnecessary.
+
+[SECTION]
+
+In summary,  the Federal Reserve Board believes that the goal of policy in this area is to make markets more resilient to shocks rather than to pursue an unrealistic aim of curbing volatility.  Almost every element of the market infrastructure has been strengthened since the 1987 crash.  These changes have made our markets better able to withstand shocks.  The redesign of the circuit breakers should take this added resiliency into account, or else the circuit breakers themselves run the risk of becoming disruptive.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1998 Testimony
+
+
+
+Home | News and events 
+Accessibility | 
+
+Contact Us 
+Last update: January 29, 1998, 2:00 PM

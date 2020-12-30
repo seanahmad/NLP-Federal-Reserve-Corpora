@@ -1,0 +1,112 @@
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+I welcome the opportunity to testify on behalf of the Federal Reserve Board on issues related to interest on demand deposits and interest on balances held at Reserve Banks.  The Board continues to strongly support legislative proposals to authorize the payment of interest on demand deposits and interest on balances held by depository institutions at Reserve Banks.  It also supports obtaining increased flexibility in setting reserve requirements--a proposal included in legislation that passed the House last year.  As we have previously testified, unnecessary restrictions on the payment of interest on demand deposits and balances held at Reserve Banks distort market prices and lead to economically wasteful efforts to circumvent these restrictions.  Authorization of interest on balances at Reserve Banks could also be helpful in ensuring that the Federal Reserve will continue to be able to implement monetary policy with its existing procedures, while increased flexibility in setting reserve requirements would allow the Federal Reserve to reduce a regulatory burden on the financial sector to the extent that is consistent with the effective implementation of monetary policy.
+
+[SECTION]
+
+As background, let me begin by discussing the role of balances held at Reserve Banks in the implementation of monetary policy.  The Federal Open Market Committee (FOMC) formulates monetary policy by setting a target for the overnight federal funds rate--the interest rate on loans between depository institutions of balances held in their accounts at Reserve Banks. While the federal funds rate is a market interest rate, the Federal Reserve can strongly influence its level by adjusting the aggregate supply of deposit balances held at Reserve Banks through open market operations--the purchase or sale of securities that causes increases or decreases in such balances.  However, in deciding on the appropriate level of balances to supply to achieve the targeted funds rate, the Open Market Desk must estimate the aggregate demand for such balances.
+
+[SECTION]
+
+In estimating that demand, the Desk must take account of the demand for the three types of balances held by depository institutions at the Federal Reserve--required reserve balances, contractual clearing balances, and excess reserve balances.  Required reserve balances are the balances that a depository institution must hold to meet reserve requirements.  At present, the Federal Reserve requires depository institutions to maintain reserves equal to 10 percent of their transaction deposits above certain minimum levels.  Reserve requirements may be satisfied either with vault cash or with required reserve balances, neither of which earn interest.
+
+[SECTION]
+
+Depository institutions may also commit themselves in advance to holding additional balances called required or contractual clearing balances.  They are called clearing balances because institutions tend to hold them when they need a higher level of balances than their required reserve balances in order to clear checks or wire transfers without running into overdrafts.  These clearing balances are similar to the compensating balances offered by depository institutions to their business customers.  The clearing balances earn no explicit interest, but earn implicit interest for depository institutions in the form of credits that may offset the cost of using Federal Reserve services, such as check-clearing.  Finally, excess reserve balances are funds held by depository institutions in their accounts at Reserve Banks in excess of their required reserve and contractual clearing balances.
+
+[SECTION]
+
+Depository institutions must maintain their specified levels of both required reserve and contractual clearing balances, not day-by-day, but on an average basis over a maintenance period that is typically two weeks long.  This averaging feature allows these two types of balances to be helpful for the implementation of monetary policy.  The required amounts of both types of balances are known prior to the beginning of the maintenance period, so the Open Market Desk knows the balances it needs to supply on average over the period to satisfy these needs.  Moreover, the two-week averaging creates incentives for depository institutions to arbitrage the funds rate from one day to the next in a manner that helps keep that rate close to the FOMC's target.  For instance, if the funds rate were higher than usual on a particular day, some depository institutions could choose to hold lower balances on that day, and their reduced demand would help to damp the upward pressure on the funds rate.  Later in the two-week period, when the funds rate might be lower, those institutions could choose to hold extra balances to make up the shortfall in their average holdings of reserve balances.  These actions are desirable in that they help smooth out the funds rate over the two-week maintenance period.
+
+[SECTION]
+
+The averaging feature is only effective in stabilizing markets, however, if the sum of required reserve and contractual clearing balances is sufficiently high.  If their sum dropped to a very low level, depositories would be at increased risk of overdrafting their accounts at Reserve Banks because of unpredictable payments out of the accounts of depository institutions late in the day.  Depositories would need to hold higher levels of excess reserves at Federal Reserve Banks as a precaution against such overdrafts, and demand for these excesses would vary from day to day and be difficult to predict.  For example, on days when payment flows are particularly heavy and uncertain, or when the distribution of reserves around the banking system is substantially different from normal, depositories need a higher than usual level of precautionary balances to reduce the risk of overdrafts.  The uncertainties about how many balances depositories wish to hold in a given day would make it harder for the Federal Reserve to determine the appropriate daily quantity of balances to supply to the market to keep the federal funds rate near the target level set by the FOMC.  Moreover, if the marginal demand for balances were for daily precautionary purposes, there would be less arbitrage of the funds rate by depositories across the days of a maintenance period.  Thus, if the demand for balances were determined largely by daily precautionary demands for excess reserves, the funds rate could become more volatile and could diverge markedly at times from its targeted level.
+
+[SECTION]
+
+Moderate levels of volatility are not a concern for monetary policy, in part because the Federal Reserve now announces the target federal funds rate, eliminating the possibility that fluctuations in the actual funds rate in the market would give misleading signals about monetary policy.  A significant increase in volatility in the federal funds rate, however, would be of concern because it would affect other overnight interest rates, raising funding risks for most large banks, securities dealers, and other money market participants.  Suppliers of funds to the overnight markets, including many small banks and thrifts, would face greater uncertainty about the returns they would earn and market participants would incur additional costs in managing their funding to limit their exposure to the heightened risks.
+
+[SECTION]
+
+As we have previously testified, the issue of potential volatility in the funds rate has arisen in recent years because of substantial declines in required reserve balances owing to the reserve-avoidance activities of depository institutions.  Depositories have always attempted to reduce required reserve balances to a minimum, in large part because those balances earn no interest.  For more than two decades, some commercial banks have done so by sweeping the reservable transaction deposits of businesses into instruments that are not subject to reserve requirements.  These wholesale business sweeps not only have avoided reserve requirements, but also have allowed businesses to earn interest on instruments that are effectively equivalent to demand deposits.  In recent years, developments in information systems have allowed depository institutions to sweep transaction deposits of retail customers into nonreservable accounts.  These retail sweep programs use computerized systems to transfer consumer and some small business transaction deposits, which are subject to reserve requirements, into savings accounts, which are not.  Largely because of such programs, required reserve balances have dropped from about $28 billion in late 1993 to around $5 billion or $6 billion today, and the spread of such programs probably has not yet fully run its course.
+
+[SECTION]
+
+Despite the unusually low level of required reserve balances, no trend increase in the volatility of the funds rate has been observed to date.  In part, this stability reflects the increasingly important role of contractual clearing balances, which have risen over the last decade to the point where they now exceed the level of required reserve balances.  In addition,  improvements in information technology have evidently allowed depository institutions to become much more adept at managing their reserve positions, and as a result, their needs for day-to-day precautionary balances have declined considerably.  A number of measures taken by the Federal Reserve also have helped to foster stability in the funds market.  These include improvements in the timeliness of account information provided to depository institutions; more frequent open market operations geared increasingly to daily payment needs rather than two-week-average requirements; a shift to lagged reserve requirements, which gives depositories and the Federal Reserve advance information on the demand for reserves; and improved procedures for estimating reserve demand.
+
+[SECTION]
+
+To prevent the sum of required reserve and contractual clearing balances from falling even lower and to diminish the incentives for depositories to engage in wasteful reserve-avoidance activities, the Federal Reserve has sought authorization to pay interest on required reserve balances and to pay explicit interest on contractual clearing balances.  With interest on required reserve balances, some of the retail sweep programs that have been implemented in recent years might be unwound, and new programs would be less likely to be implemented, thereby helping to boost the level of such balances.  Eliminating such wasteful reserve-avoidance activities would also tend to improve the efficiency of the financial sector.
+
+[SECTION]
+
+Payment of explicit interest on contractual clearing balances could result in an increase in the level of these balances; some depositories are currently constrained in the amount of such credit-earning balances they can hold because of their limited use of Federal Reserve services.  Moreover, payment of explicit interest would help to maintain the level of clearing balances at a time of rising interest rates.  At present, some depositories pay for all their Federal Reserve services with credits earned on clearing balances; these institutions would not be able to use their additional credits if interest rates were to rise.  If enough institutions were in this position, contractual clearing balances might drop below levels needed to be helpful for the implementation of monetary policy.  With explicit interest, the level of balances on which interest could be effectively earned would not be limited to the level of charges incurred for the use of Federal Reserve services.  Therefore, these depositories would not be impelled to reduce their balances when interest rates rise.
+
+[SECTION]
+
+The substantial decline in balances held at Reserve Banks has not produced any trend increase in the volatility of the funds rate in recent years.  Thus, the question arises as to the continued need for reserve requirements at current levels.  Some other industrialized countries have eliminated reserve requirements altogether, thereby avoiding completely the waste of resources associated with reserve-avoidance activities.  These countries do not have contractual clearing balance programs, but have employed alternative procedures for implementing monetary policy, such as central bank lending at an interest rate that acts like a ceiling on overnight market interest rates.  Some central banks also establish a floor for overnight rates by paying interest on the non-reserve deposits they hold.  The Federal Reserve could establish such a floor for overnight rates if it were authorized to pay interest on excess reserves; a depository would not likely lend balances to another depository at a lower interest rate than it could earn by keeping the excess funds in its account at the Federal Reserve.  Hence, the authorization to pay interest on excess reserve balances would be a potentially useful addition to the monetary toolkit of the Federal Reserve, although such interest payments are not needed for monetary policy purposes at the present time.
+
+[SECTION]
+
+At present, the Federal Reserve is constrained in its flexibility to adjust reserve requirements.  By law, the ratio of required reserves on transaction deposits above a certain level must be set between 8 and 14 percent.  Authorization of increased flexibility in setting reserve requirements would allow the Federal Reserve to consider exploring at some point the possibility of reducing reserve requirements below the minimum levels currently allowed by law, provided we are also granted the authority to pay interest on contractual clearing balances to ensure a stable and predictable demand for the remaining deposit balances at the Federal Reserve, an essential pillar for the effective implementation of monetary policy.  If the Federal Reserve were granted these additional authorities, before making modifications in our procedures, we would carefully study the new range of possible strategies for implementing monetary policy in the most efficient possible way.
+
+[SECTION]
+
+The payment of interest on required reserve balances would reduce the revenues received by the Treasury from the Federal Reserve.  The extent of the revenue loss, however, has fallen in recent years as banks have increasingly implemented reserve-avoidance techniques.  Paying interest on contractual clearing balances would primarily involve a switch to explicit interest from the implicit interest currently paid in the form of credits, and therefore would have essentially no net cost to the Treasury.  In the past, bills approved by the Committee, such as H.R. 4209 from the last Congress, have provided for a general authorization for the payment of interest on any balances held by depository institutions at Reserve Banks.  This would be a desirable outcome.  However, if budgetary issues continue to inhibit the passage of legislation to authorize payment of interest on required reserve balances, the Federal Reserve would support a separate authorization of the payment of interest on contractual clearing balances, which would have essentially no budgetary cost.  The payment of interest on excess reserves could also be authorized without immediate effect on the budget because the Federal Reserve would use that authority only in circumstances that do not seem likely to arise in the years immediately ahead.
+
+[SECTION]
+
+Another legislative proposal that would improve the long-run efficiency of our financial sector is elimination of the prohibition of interest on demand deposits.  This prohibition was enacted during the Great Depression, a time when Congress was concerned that large money center banks might have earlier bid deposits away from country banks to make loans to stock market speculators, depriving rural areas of financing.  It is unclear whether the rationale for this prohibition was ever valid, and it is certainly no longer applicable today.  Funds flow freely around the country, and among banks of all sizes, to find the most profitable lending opportunities, using a wide variety of market mechanisms, including the federal funds market.  Moreover, Congress authorized interest payments on household checking accounts with the approval of nationwide NOW accounts in the early 1980s.  The absence of interest on demand deposits, which are held predominantly by businesses, is no bar to the movement of funds from depositories with surpluses--whatever their size or location--to the markets where the funding can be profitably employed.  In fact, small firms in rural areas are able to bypass their local banks and invest in money market mutual funds with transaction capabilities.  Indeed, smaller banks complain that they are unable to compete for the deposits of businesses precisely because of their inability to offer interest on demand deposits.
+
+[SECTION]
+
+The prohibition of interest on demand deposits distorts the pricing of transaction deposits and associated bank services.  In order to compete for the liquid assets of businesses, banks set up complicated procedures to pay implicit interest on compensating balance accounts.  Banks also spend resources--and charge fees--for sweeping the excess demand deposits of businesses into money market investments on a nightly basis.  To be sure, the progress of computer technology has reduced the cost of such systems over time.  However, the expenses are not trivial, particularly when substantial efforts are needed to upgrade such automation systems or to integrate the diverse systems of merging banks.  Such expenses waste the economy's resources, and would be unnecessary if interest were allowed to be paid on both demand deposits and the reserve balances that must be held against them.
+
+[SECTION]
+
+The prohibition of interest on demand deposits also distorts the pricing of other bank products.  Because banks cannot attract demand deposits through the payment of explicit interest, they often try to attract these deposits, aside from compensating balances, through the provision of services at little or no cost.  When services are offered below cost, they tend to be overused to the extent that the benefits of consuming them are less than the costs to society of producing them.
+
+[SECTION]
+
+Previous legislative proposals have included a transition period before the direct payment of interest on demand deposits would be effective.  During the transition, a reservable 24-transaction money market deposit account (MMDA) would be authorized.  Banks would be able to sweep balances from demand deposits into these 24-transaction MMDAs each night, pay interest on them, and then sweep them back into demand deposits the next day.  This type of account in effect would permit banks to pay interest on demand deposits, but perhaps more selectively than with direct interest payments.  The 24-transaction MMDA, which would be useful only during the transition period before direct interest payments were allowed, could be implemented at lower cost by banks already having sweep programs.  Because other banks would face a competitive disadvantage, while some businesses would not benefit from this MMDA, and extra costs would be incurred in operating new sweep programs, a long delay before interest could be paid directly on demand deposits would be very undesirable.  A short transition period of a year or so would not be as objectionable, given that many banks may take some time in any case to develop competitive interest-bearing demand deposit products.
+
+[SECTION]
+
+Small businesses that currently earn no interest on their checking accounts would see important benefits from interest on demand deposits.  For banks, interest on demand deposits would increase costs, at least in the short run.  Interest on required reserve balances, or possibly a lower burden associated with reduced reserve requirements, would help to offset the rise in costs, however.  And over time, these measures should help the banking sector attract liquid funds in competition with nonbank institutions and direct market investments by businesses.  Small banks in particular should be able to bid for business demand deposits on a more level playing field vis-a-vis both nonbank competition and large banks using sweep programs for such deposits.  Moreover, large and small banks will be strengthened by the elimination of unnecessary costs associated with sweep programs and other reserve-avoidance procedures.
+
+[SECTION]
+
+In summary, the Federal Reserve Board strongly supports legislative proposals to authorize the payment of interest on demand deposits and on balances held by depository institutions at Reserve Banks, as well as increased flexibility in the setting of reserve requirements.  We believe these steps would improve the efficiency of our financial sector, make a wider variety of interest-bearing accounts available to more bank customers, and better ensure the efficient conduct of monetary policy in the future.
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2001 Testimony
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: March 13, 2001, 2:00 PM

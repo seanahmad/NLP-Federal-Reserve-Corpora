@@ -1,0 +1,108 @@
+Testimony of Chairman Alan Greenspan
+Bias in the consumer price index
+Before the Committee on the Budget,
+	U.S. House of Representatives
+March 4, 1997
+
+[SECTION]
+
+Mr. Chairman and members of the Committee, I appreciate the opportunity to appear before you today.  As you know, my colleagues and I who serve on the Federal Reserve Board just recently submitted to Congress our semiannual report on monetary policy and the economy.  In brief, the performance of the U.S. economy over the past year has been quite favorable, with few signs of the imbalances that might typically have been expected by the sixth year of a cyclical expansion.  Indeed, we believe that the most likely prospect is for continued sustainable economic growth accompanied by low and stable inflation, and our objective will be to foster the conditions most likely to produce that outcome.
+
+[SECTION]
+
+In that regard, continued low levels of inflation and inflation expectations have been a key support for the healthy economic performance of the past year.  They have helped to create a financial and economic environment conducive to strong capital spending and longer-range planning generally, and so to sustained economic expansion.  Consequently, it is crucial to keep inflation contained in the near term and ultimately to move toward price stability.
+
+[SECTION]
+
+If we are successful, a stable macroeconomic environment will contribute to your efforts to place the fiscal health of the nation on a firmer footing.  But achieving your fiscal objectives will require this Committee to confront additional issues of extraordinary complexity and importance.  I would like to devote the remainder of my prepared remarks to one of these issues, namely the bias in the consumer price index.
+
+[SECTION]
+
+I want to begin by commending this Committee for your continuing interest in this subject.  Indeed, our conversation about potential bias in the CPI goes back some two years, when I testified before a joint meeting of this Committee and your counterparts from the Senate.  The topic remains just as important now as it was then.
+
+[SECTION]
+
+A useful starting point for discussion of this issue is to be clear that any index that endeavors to measure the cost of living should aim to be unbiased.  That is, a serious examination of all available evidence should yield the conclusion that there is just as great a chance that the index understates the rate of growth of the true cost of living as there is that it overstates it.  The present-day consumer price index does not meet this standard.  In fact, the best available evidence suggests that there is almost a 100 percent probability that we are overcompensating the average social security recipient for increases in the cost of living, and almost a 100 percent probability that we are causing the inflation-adjusted burden of the income tax system to decline more rapidly than I presume the Congress intends.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+A major reason for this is that consumers respond to changes in relative prices by changing the composition of their actual marketbasket.  At present, however, the marketbasket used in constructing the CPI changes only once every decade or so.  Moreover, new goods and services deliver value to consumers even at the relatively elevated prices that often prevail early in their life cycles; currently, that value is not reflected in the CPI.
+
+[SECTION]
+
+For these and other reasons outlined in the Boskin Commission report and other studies, we know with near certainty that the current CPI is off.  Although we do not know precisely by how much, there is a very high probability that the upward bias ranges between 1/2 percentage point per year and 1-1/2 percentage points per year.
+
+[SECTION]
+
+In thinking about how to remedy this situation, we must recognize that there is no sharp dividing line between a pristine estimate of a price and one that is not.  Although the concept of price is clear enough in theory, it is often extremely difficult to implement in practice.  In order to construct a fully satisfactory measure of the price of a given item, one would first have to specify all the characteristics of that item that deliver value to consumers.  Then one would have to reprice the identical bundle of characteristics month in and month out.  In practice, both of these steps are difficult because we are often not precisely certain about what consumers value, and because the items that are available to consumers are constantly changing, often in subtle ways.  As a result, virtually all of the components that make up the CPI are approximations, in some cases very rough approximations.  But the essential fact remains that even combinations of very rough approximations can give us a far better judgment of the overall cost of living than would holding to a false precision of accuracy and thereby delimiting the range of goods and services evaluated.  We would be far better served following the wise admonition of John Maynard Keynes that "it is better to be roughly right than precisely wrong."
+
+[SECTION]
+
+Estimates of the magnitude of the bias in our price measures are available from a number of sources.  Most have been developed from detailed examinations of the microstatistical evidence.  However, recent work by staff economists at the Federal Reserve Board has added strong corroborating evidence of price mismeasurement using a macroeconomic approach that is essentially independent of the exercises performed by other researchers, including those on the Boskin Commission.  In particular, employing the statistical system from which the Commerce Department estimates the national income and product accounts, this research finds that the measured growth of real output and productivity in the service sector are implausibly weak, given that the return to owners of businesses in that sector apparently has been well-maintained.  Taken at face value, the published data indicate that the level of output per hour in a number of service-producing industries has been falling for more than two decades.  In other words, the data imply that firms in these industries have been becoming less and less efficient for more than twenty years.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+These circumstances simply are not credible.  On the reasonable assumption that nominal output and hours worked and paid of the various industries are accurately measured, faulty price statistics are by far the most likely cause of the implausible productivity trends.  The source of a very large segment of these prices is the CPI.
+
+[SECTION]
+
+Some observers who are skeptical that the bias in the CPI could be very large have noted that the evidence on the magnitude of unmeasured quality change and the importance of new items bias is incomplete and inconclusive.  Without a doubt, quality change and new items are among the most difficult of the problems currently confronting the BLS.  But since I raised this issue two years ago, the accumulating evidence continues to support the view that the current treatment of quality change and new items in the CPI results in an overstatement of the rate of growth of the cost of living.
+
+[SECTION]
+
+An even more difficult quality-related issue is whether changes in broad environmental and social conditions should be reflected in price measures that are used for indexing various components of federal outlays and receipts.  That is, should the CPI reflect the influence of factors such as the level of crime, air and water quality, and the emergence of new diseases, which are not specifically related to products that consumers purchase?  There is little in the record to suggest that, when it enacted the indexation of social security benefits in 1972, the Congress meant to insure the beneficiaries of that program against changes in such environmental and social factors.  Nor do these issues appear to have been raised when Congress debated the indexation of various tax parameters during the 1980s.  Taking account of such conditions, particularly those that lie outside of the markets for goods and services, would be an interesting exercise in its own right, but would appear to extend well beyond the original intent of the Congress.
+
+[SECTION]
+
+A considerable professional consensus already exists for at least two actions that would almost surely bring the CPI into closer alignment with a true cost-of-living index.  First, we should move away from the concept of a fixed marketbasket at the upper level of aggregation, and move toward an aggregation formula that takes into account the tendency of consumers to alter the composition of their purchases in response to changes in relative prices.  Second, we should selectively move away from the current aggregation formula at the lower level of aggregation.
+
+[SECTION]
+
+Beyond these rather limited steps, most of the needed developments will require time, effort, and quite possibly additional resources.  It is important that the Congress provide the Bureau with sufficient resources to pursue the agenda vigorously.
+
+[SECTION]
+
+Where will this longer-term effort be required?  One of the key areas, by all accounts, is quality adjustment.  As the Bureau has rightly noted, they do indeed already employ a variety of methods to control for quality change, but available evidence suggests that these are not sufficient to the task.  Unfortunately, making improvements on this front will be difficult: Each item will have to be considered on its own, and there may well be limited transfer of knowledge from one item to the next.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+The longer-term agenda should also include concentrated attention to the methods for introducing new items into the index; the development of new sources of data such as the information collected by bar-code scanners; and the analysis of time use, the latter being important in understanding the value of time-saving and convenience-enhancing innovations.
+
+[SECTION]
+
+Even if the BLS moves aggressively, some upward bias will almost surely remain in the CPI, at least for the next several years.  Two years ago, I suggested that a workable structure for dealing with this situation might involve a two-track approach.  That suggestion still seems to me to make sense.  The first track would involve action by the BLS to address those aspects of the bias that can be dealt with in relatively short order, say within the next year.  The second track would involve the establishment of an independent national commission to set annual cost-of-living adjustment factors for federal receipt and outlay programs.  The Commission would examine available evidence on a periodic basis, and estimate the bias in the CPI taking into account both the latest research on the sources and magnitudes of the bias, and any corrective actions that had been taken by the BLS.  This type of approach would have the benefit of being objective, nonpartisan, and sufficiently flexible to take full account of the latest information.  Moreover, there is no reason why the two tracks could not proceed in parallel.
+
+[SECTION]
+
+Without the second track, we are implicitly assuming, contrary to overwhelming evidence, that the most accurate estimate of the bias due to quality adjustment problems and introduction of new items is zero.  There has been considerable objection that such a second track procedure would be a political fix.  To the contrary, assuming zero for the remaining bias is the political fix.  On this issue, we should let evidence, not politics, drive policy.
+
+[SECTION]
+
+We have an overarching national interest in building a better measure of consumer prices and in implementing more rational indexation procedures.  These efforts are essential if we are to ensure that the original intent of the relevant pieces of legislation will be fulfilled in insulating taxpayers and benefit recipients from the effects of ongoing changes in the cost of living.  At present this objective is not being met.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+1997 Testimony 
+
+
+
+Home | News and events 
+Accessibility | Contact Us
+
+Last update: March 4, 1997 10:00 AM

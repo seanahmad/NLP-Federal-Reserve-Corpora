@@ -1,0 +1,119 @@
+Introduction
+Thank you for the opportunity to testify on the continuing efforts of Federal Reserve supervisors to address issues emanating from the excesses of the recent credit cycle, including large corporate defaults and accounting irregularities.  I would like to note that my testimony today reflects the views of Federal Reserve supervisory staff, and not necessarily those of the Board of Governors.
+
+[SECTION]
+
+The focus of today's hearing on how complex structured financial products provided by banks and other financial institutions may have been used by their customers to obscure financial statements and hamper sound analysis by creditors and investors, or to engage in questionable or improper tax strategies, is timely.  Events of the past year, such as the bankruptcy of Enron, have focused attention on the need for strong risk management, sound accounting, improved disclosures, and more active corporate governance to avoid the kinds of losses that have been costly both in human and economic terms.  Efforts to improve accounting standards and enforce greater accountability from corporate officers have led to important reforms that should improve the meaningfulness and integrity of financial statements.
+
+[SECTION]
+
+For its part, the Federal Reserve has been reviewing bank participation in the types of structured finance activities that have raised significant legal and accounting questions.  As we complete the necessary fact-finding and collaborate with other functional and primary regulators, we will follow up with individual institutions with regard to any appropriate remedial actions.  In response to these incidents, we have already revised our examination plans for larger institutions to focus on these particular areas of concern.  We are also considering additional supervisory guidance and refinements to our examination and regulatory policies and procedures.
+
+[SECTION]
+
+With many new products and innovations, excesses in how products are used emerge over time, particularly during periods of lengthy expansion as we have experienced in the past decade.  Downturns uncover weaknesses and provide the opportunity to implement reforms and incorporate them into ongoing practice.  In this sense, the U.S. financial system is going through an evolutionary process that if managed properly by its participants could result in milder fluctuations of performance in the future, though new manifestations of risks will undoubtedly emerge that will test institutions once again.  It is usually the risks that were not clearly apparent at the time they were undertaken that are the most costly.  Otherwise they would have been avoided or minimized beforehand.
+
+[SECTION]
+
+In that regard, banking organizations are actively responding to recent events.  From past credit cycles, they have learned the importance of diversification of credit risk and strong capital and reserves, which has paid off recently in much milder levels of credit problems than in the previous recession.  However, in this credit cycle banking organizations are now recognizing, like many institutions, that some customer relationships can carry much greater credit, legal and reputational risks than originally anticipated.  Management is recognizing the need to evaluate the soundness not only of individual transactions, but the effect of the sum total of the customer relationship on the organization's overall risk.  They now have a greater appreciation for the importance of maintaining strong due diligence and of enhancing the legal vetting of transactions by qualified experts.  Banking organizations must actively evaluate and incorporate lessons learned from the recent credit cycle to ensure their risk management systems remain relevant to the challenges before them now and throughout the next decade.
+
+[SECTION]
+
+In addition, bank supervisors are reviewing and enhancing their procedures for addressing the new ways risks are presenting themselves to banking organizations.  I will discuss both our supervisory expectations for banks involved in transactions such as those that have recently received much attention, as well as how we are considering amending our procedures and focusing our supervisory reviews.
+
+[SECTION]
+
+Role of Supervisors
+At the outset, it is important to provide some background on the Federal Reserve's role as supervisor of financial institutions and our relationship with other supervisory authorities in carrying out our responsibilities.  The primary focus of the Federal Reserve's supervision is ensuring an institution's safety and soundness, as well as compliance with banking and consumer laws and regulations, in a way that protects the deposit insurance fund and the consumer, while promoting stability of the financial system.  To accomplish these goals, the Federal Reserve's examination program focuses on evaluating the overall adequacy of an institution's internal controls and risk management systems as benchmarked against not only regulatory standards and expectations, but also against the evolving practices of well managed firms.  To ensure those systems are functioning properly in practice, examiners review selected transactions across business lines to identify whether policies and procedures are being followed.
+
+[SECTION]
+
+As part of this risk-based approach to supervision, examiners focus primarily on areas posing the greatest risk to the institution, particularly credit risk.  In their review, examiners assess the adequacy of a bank's credit risk analysis and identify whether appropriate due diligence has been followed in evaluating other market or legal risks associated with the transaction.  In addition to traditional financial analysis, a bank's evaluation of credit risk also includes an assessment of the trustworthiness of the borrower and the reliability of the financial statements.  In the case of more complex transactions, examiners seek to determine whether the banking organization has a process in place for obtaining its own appropriate legal, tax and accounting approvals.  As part of the approval process, the bank is expected to gain reasonable assurance that the customer understands the transaction and has the type of legal, tax, accounting and control infrastructure within its corporate governance that is suitable for complex transactions.  During the review, examiners do not perform an independent legal, tax or accounting analysis of the transaction from the customer's perspective.  Examiners are not qualified to perform such a review and, moreover, it would be inappropriate for them to do so in their role as bank supervisors, by straying into matters that are the responsibility of corporate management outside of regulated financial institutions.
+
+[SECTION]
+
+In carrying out its responsibilities, the Federal Reserve coordinates its supervisory activities with other federal and state banking and securities agencies, such as the Office of the Comptroller of the Currency (OCC) and the Securities and Exchange Commission (SEC), other functional regulators, and the bank regulatory agencies of other nations.  As mandated by statute, the Federal Reserve relies as much as possible on the supervisory efforts of an institution's primary bank supervisor and nonbank functional regulators to ensure that risks are maintained at acceptable levels.  For example, if in the course of their review examiners have reason to believe that a bank is engaging in questionable activities that might relate to a possible violation of securities laws, then supervisors would refer those matters to the SEC, as the primary interpreter and enforcer of those laws.
+
+[SECTION]
+
+Supervisory Expectations for Banking Organizations 
+Some basic principles and expectations for banking organizations guide our work in examining complex financial transactions.  First, and most obviously, banks must obey the law.  In particular they must have policies and procedures in place that are followed by their employees to ensure that they are in compliance with all applicable laws and regulations with regard to a particular activity or product.  The laws most commonly applicable include banking, consumer, securities and tax laws, whether federal, state or foreign.
+
+[SECTION]
+
+Second, banks should perform thorough due diligence on the transactions they are involved in and check with appropriate legal, accounting and tax authorities within their own organizations, as well as their outside experts in this area, and also provide appropriate and relevant information to their customers.  However, banks ordinarily should not be held legally responsible for the judgments, actions or malfeasance of their customers.  Nor should they be required to second guess their customer's accountants, tax or legal experts or police their customer's activities.  Such an expectation would require, inappropriately, banking organizations to assume management responsibility for their customers, place potential legal liability on banking organizations that would compromise their ability to perform their role as financial intermediaries or threaten their safety and soundness, and place significant costs on banking organizations to audit the activities of their customers.
+
+[SECTION]
+
+Banks, however, must not participate in activities of their customers that the banks know to be illegal or improper.  Nor should banks engage in borderline transactions that are likely to result in significant reputational or operational risks to the banks.
+
+[SECTION]
+
+Third, the role of banks is to assume and manage all the attendant risks related to their activities as financial intermediaries.  As banks offer new products and engage in new activities, they should evaluate all the dimensions of risks, including credit, market, legal, operational and reputational risks, before using such products or undertaking such activities. In addition, in light of recent events, banking organizations should be re-evaluating the risks related to both their traditional and new products, recognizing that as financial markets and practices change, legal and reputational risks may manifest themselves in new ways or in magnitudes not previously recognized.  Moreover, as practices and products change, banks must build appropriate mitigating controls to manage the evolving risk exposures and ensure that a process is in place to assess the effectiveness of those controls over time.
+
+[SECTION]
+
+Trends in Structured Finance Markets
+What then are the issues that have been presented to banks and supervisors over the past year and what are some of the actions that have been undertaken by supervisors and banks in response?  First, it may be instructive to discuss the trends that have led to the latest round of reforms and reassessments.  Over the past decade, financial markets have grown rapidly and innovations in financial instruments have facilitated the structuring of cash flows and allocation of risks among borrowers and a range of investors in more efficient ways.  Financial derivatives for market and credit risk, asset backed securities with customized cash flow features, specialized financial conduits that manage pools of purchased assets, among others, have in the vast majority of cases served the legitimate business purposes of customers.  Significantly, banks have played an important role in structuring, arranging or participating in these transactions, which have become an essential part of U.S. capital markets -- the most vibrant and innovative in the world.  To the economy's benefit, the structured finance business has led to a lower cost of capital to businesses and consumers, which has helped fuel greater access to credit and longer term growth.  A good example is the mortgage-backed-securities business, which over the past two decades has developed a range of complex and sophisticated structured cash flow products that have helped lower the cost of housing finance and improved the range of choices to investors.
+
+[SECTION]
+
+At the same time, the more complex variations of these instruments within the world of structured finance have placed pressures on the interpretation of accounting rules that were established when times were simpler.  While new accounting statements, interpretations and advisories have been issued in recent years to keep up with these innovations, the staggeringly wide variation in features and complexity have severely challenged the ability of traditional accounting measures to reflect the underlying economic substance of the transactions.  The new initiatives by the Financial Accounting Standards Board to address these shortcomings are steps in the right direction.
+
+[SECTION]
+
+In addition to diversifying risks and cash flows and reducing the cost of capital, another consideration of firms that use banks for structured finance transactions may be the extent to which the transactions would affect the appearance of balance sheets to investors or reduce tax liabilities, consistent with applicable laws and accounting rules.  In a similar way, a chief financial officer might choose to lease rather than buy equipment to take advantage of both the off-balance-sheet financing characteristics as well as the tax advantages.  How such considerations might influence a CFO's selection of traditional or more structured transactions will depend both on the economics of the transaction as well as the firm's particular culture.  However, choosing an off-balance sheet or leasing alternative in and of itself should not be viewed in hindsight as being illegal, improper or deceptive, so long as the transactions comport with existing accounting and legal precedents and appropriate disclosures are made in the firm's financial statements.
+
+[SECTION]
+
+In more extreme and less prevalent cases, a transaction with only a nominal commercial purpose might be driven by accounting, with some firms aggressively exploiting ambiguities in the rules in ways that move the accounting farther and farther away from the underlying economic substance of the transaction.  These efforts may be designed not just to improve balance sheet presentations, but also to obscure the firm's underlying performance and condition, while operating within the letter, albeit not the spirit, of the accounting rules.  I should note that drawing the line between what is a traditional accounting interpretation and what is "aggressive" is a sometimes difficult and largely subjective judgment.  It is also much easier to detect and criticize these practices in hindsight.  The new FASB proposals should provide more guidance in drawing this line.
+
+[SECTION]
+
+Finally, in the most extreme cases, inappropriate accounting might be used in conjunction with fraud to misrepresent the nature of the transaction.  For example, despite the requirement that special purpose entities be capitalized with a modest level of outside shareholder's equity for de-consolidation treatment, a firm might use its own employees as nominee shareholders that inject the firm's own money into the subsidiary to receive off-balance-sheet treatment.
+
+[SECTION]
+
+At this point, investor reaction to alleged accounting fraud at Enron and other firms has fueled a backlash that is now resulting in both reforms and more conservative practices that are contributing to better transparency of corporate financial statements.  For example, even in cases where firms could structure transactions to meet existing accounting guidelines, some firms are choosing to put transactions on the balance sheet to provide the greater transparency and clarity demanded by investors.  Firms that are suspected of being less than forthcoming with their financial disclosures appear to be subject to stiff penalties by the marketplace in the form of depressed stock prices and higher borrowing expenses.  The call by the SEC and recent Congressional legislation for CEOs to certify their financial statements has also helped to ensure that transactions in gray areas of accounting are further scrutinized and verified for appropriateness.
+
+[SECTION]
+
+Supervisory Responses
+In response to these events, federal and state supervisors are ascertaining the relevant facts and circumstances, coordinating with other regulatory bodies, and identifying appropriate responses.  For its part, the Federal Reserve's ongoing supervisory activities are focused on evaluating how the credit, market, legal and reputational risks related to overall customer relationships were managed in practice, and during the transaction testing phase of our examinations, understanding the nature and risks of individual transactions.  There are several transactions that are currently under investigation by the SEC and other enforcement authorities, with whom we have strong working relationships and with whom we have conferred on these matters.  We are continuing to collaborate with them and receive their views and conclusions on various matters on an ongoing basis.
+
+[SECTION]
+
+With regard to risk management issues, some early lessons learned have become clear and will guide our work going forward.  Not surprisingly, the lessons hark back to risk management fundamentals.  In particular, banks should recognize that a fundamental time-tested element of analyzing credit risk, evaluating a borrower's character, can heavily influence the magnitude of losses, even when significant credit risk is not evident from other factors.  In addition, banks should recognize that although they are not directly accountable for the actions of their customers, to the extent their name or product is implicitly associated with their customer's misconduct, additional legal and reputational risks may arise.  Such risks may ultimately lead to significant costs.  If these risks are not recognized and addressed, they could affect an institution's financial health.  In short, banks must decide whether to continue a relationship with a customer that has not shown good faith or integrity in its dealings with the bank or others, given the potential credit, legal and reputational risks.
+
+[SECTION]
+
+Even more fundamentally, it is also clear that many banks need to strengthen their credit risk analysis of investment grade customers by performing more due diligence and independent analysis while placing less reliance on third parties.  There are undoubtedly many other lessons that will come forth as the facts and findings are further digested over time.
+
+[SECTION]
+
+As part of our supervisory review of complex structured transactions, we are assembling and evaluating the various findings and observations of our examiners, as well as the conclusions of other primary and functional regulators we work with, and identifying any necessary follow up.  We will provide institutions with feedback through their reports of examination or inspection on any identified weaknesses and, if warranted, take appropriate supervisory corrective actions, including referrals to other authorities.  We will also evaluate the steps banks are taking to address deficiencies they themselves have identified as being in need of remedial action.  The initiation of self-corrective steps is encouraging, but at this stage it is probably too early to tell how well reforms laid out on paper will actually perform in practice.
+
+[SECTION]
+
+More broadly, we are considering additional supervisory guidance or regulatory changes, especially in the area of structured finance.  In this connection, we will also evaluate the range of reforms banking organizations are adopting and consider whether there are some sound practices that should be adopted more widely within the industry.
+
+[SECTION]
+
+The past year has influenced the thinking of supervisors as well as banks on effectively targeting resources toward more vulnerable points within an institution's risk management structure.  In particular, it has become clear that in developing the scope of a supervisory review, factors used to prioritize reviews should go beyond standard balance sheet measures of risk to include a customer's overall contribution to a business line's revenue or that of the overall firm.  These relationships are the ones for which the adequacy of internal checks and balances needs most to be tested and perhaps reinforced.  In cases where a banking organization becomes too dependent on the credit and fee related revenue of individual clients, it may become easier to rationalize away information that is suggestive of growing risk or problems.
+
+[SECTION]
+
+Consequently, we have already modified our examination plans for larger banking organizations to focus more fully on evaluating the largest customer relationships.  These plans also cover areas of concern in the structured finance business and an evaluation of the steps banks are taking to manage credit, legal, and reputational risks in response to events of the past year.
+
+[SECTION]
+
+Conclusion
+In closing, the fallout from the recent round of excesses and large corporate defaults appears to be resulting in positive corrective steps by corporations, banks and the capital markets.  Supervisors must work to ensure that their ongoing supervisory activities reinforce these corrective actions and help them to endure over the longer term.  At the same time, supervisors will be working to maintain their focus on fundamental safety and soundness issues at financial institutions.  These efforts include encouraging banking organizations to strengthen their credit risk management practices, to enhance their new product review and approval procedures, and to strengthen their overall approach to identifying, managing and controlling legal, reputational and other operational risks.  If banking organizations, corporations, and supervisors are attentive to the lessons learned over the past year and adopt appropriate policies and controls, the risk of repeating similar excesses in the coming years should be substantially reduced.
+
+[SECTION]
+
+Return to top
+
+[SECTION]
+
+2002 Testimony
