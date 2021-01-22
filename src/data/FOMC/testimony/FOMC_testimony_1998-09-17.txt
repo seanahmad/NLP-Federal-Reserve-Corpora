@@ -26,7 +26,11 @@ implemented a policy concerning changes to our information systems; and
 
 [SECTION]
 
-concluded our initial review of all banks subject to our supervisory authority.
+concluded our initial review of all banks subject to our supervisory authority.
+
+
+
+		While these accomplishments are indicative of our significant progress in addressing the Year 2000 issue, much work remains.  In the testing area, we are finalizing plans for concurrent testing of multiple mission-critical applications by customers.  We are coordinating with the Clearing House for Interbank Payment Systems (CHIPS) and the Society for Worldwide Interbank Financial Telecommunications (SWIFT) to provide a common test day for customers of Fedwire and these two systems.  We have a System-wide project underway to enhance our contingency plans to address failures external to the Federal Reserve.  We are conducting a second round of supervisory reviews of banks subject to our supervisory authority and also actively coordinating with various domestic and international Year 2000 organizations.    		This morning I would like to discuss these achievements and the important aspects of the job that remain ahead of us.
 
 [SECTION]
 

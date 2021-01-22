@@ -1,333 +1,121 @@
-Mr. Chairman and members of the committee, I am 
-        pleased to be here today to offer my views on the state of the U.S. economy 
-        and current fiscal issues. I speak for myself and not necessarily for 
-        the Federal Reserve.
+
 
 [SECTION]
 
-As you know, economic activity hit a soft patch in late spring after 
-        having grown briskly in the second half of 2003 and the first part of 
-        2004. Consumer spending slowed materially, and employment gains moderated 
-        notably after the marked step-up in early spring. That softness in activity 
-        no doubt is related, in large measure, to this year's steep increase in 
-        energy prices.
+Introduction
+Thank you Chairman Oxley and Ranking Member Frank, for inviting me to discuss a matter of significant importance to our country:  protecting our financial infrastructure.  As we approach September 11, I would like to take a moment to honor the memory of those who lost their lives and to honor those who supported one another on September 11, 2001.
 
 [SECTION]
 
-The most recent data suggest that, on the whole, the expansion has regained 
-        some traction. Consumer spending and housing starts bounced back in July 
-        after weak performances in June, although early readings on retail sales 
-        in August have been mixed. In addition, business investment remains on 
-        a solid upward trend. In the manufacturing sector, output has continued 
-        to move up in recent months, though part of that rise likely reflected 
-        an increase in inventory investment. In the labor market, though job gains 
-        were smaller than those of last spring, nonfarm payroll employment growth 
-        picked back up in August.
+Although the financial sector has years of experience dealing with operational disruptions caused by weather, power, and other critical infrastructure outages, the September 11 attacks had a profound effect on how the industry thinks about physical and cyber security as well as business-continuity planning.  After the crisis subsided, sector participants, including the Federal Reserve, reflected on lessons learned and how they should be incorporated into daily business processes and business-resumption planning.
 
 [SECTION]
 
-Despite the rise in oil prices through mid-August, inflation and inflation 
-        expectations have eased in recent months. To be sure, unit labor costs 
-        rose in the second quarter as productivity growth slowed from its extraordinary 
-        pace of the past two years and employee compensation per hour remained 
-        on an upward trend. But, as best we can judge, the growth in profit margins 
-        of non-energy, nonfinancial, corporations, which, at least from an accounting 
-        perspective, had contributed significantly to price pressures earlier, 
-        has recently slowed. Moreover, increases in non-oil import prices have 
-        lessened--a development that, coupled with the slowing of profit-margin 
-        growth, has helped to lower core consumer price inflation in recent months.
+My remarks today will highlight the actions the Federal Reserve took on September 11 and immediately following to maintain confidence in and restore the operation of our financial system.  I will also focus on numerous steps that we and the other financial regulators have taken since September 11 to improve the resilience of--and to protect--the financial infrastructure.
 
 [SECTION]
 
-* * *
+Response to September 11
+On Tuesday, September 11, terrorists destroyed a portion of the critical infrastructure that supports the U.S. financial markets, disrupted communications networks, and forced numerous  market participants to move to contingency sites.  These challenges, along with the tragic loss of employees of a few major financial firms, complicated trading, clearing, and settlement of a number of financial instruments.  Operational disruptions caused uncertainties about payment flows, making it difficult for the reserve market to channel funds to where they were needed most.  Depository institutions that held more reserve balances than they preferred had difficulty placing and delivering the excess in the market; on the other hand, depository institutions awaiting funds had to scramble to cover overdraft positions.  As a result, market participants experienced significant liquidity dislocations, and the demand for reserves grew rapidly.
 
 [SECTION]
 
-Movements in energy prices have been a major influence on overall inflation 
-        this year. In the second quarter, gasoline prices rose rapidly as a marked 
-        pickup in gasoline demand strained refinery capacity and resulted in sharply 
-        higher profit margins. In May and June, refinery and marketing margins 
-        rose to levels that were 25 cents to 30 cents per gallon over typical 
-        spreads going into the summer driving season.
+The Federal Reserve accommodated the demand for reserves through a variety of means, the relative importance of which shifted through the week.  On Tuesday morning, shortly after the attacks, the Federal Reserve issued a press release stating that "the discount window is available to meet liquidity needs," thus reassuring financial markets that the Federal Reserve System was functioning normally.  Borrowing by depository institutions surged to a record $45.5 billion by Wednesday.  Federal Reserve discount loans to banks to meet liquidity needs dropped off sharply on Thursday and returned to lower levels by Friday.  Separately, overnight overdrafts on Tuesday and Wednesday rose to several billion dollars, as a handful of depository and other institutions with accounts at the Federal Reserve were forced into overdraft positions on their reserve accounts.  Overdrafts returned to negligible levels by the end of the week.
 
 [SECTION]
 
-As a consequence of the steep run-up in prices, demand for gasoline 
-        eased, and an accompanying increase in inventories helped to reverse the 
-        bulge that had occurred in refinery and marketing margins. That reduction 
-        in margins resulted in a decline in the price of regular gasoline of about 
-        20 cents per gallon despite the concurrent sharp rise in the price of 
-        crude oil. With margins having returned to more-typical levels, prices 
-        of both gasoline and home heating oil are likely to reflect changes in 
-        crude oil prices more directly.
+Like their U.S. counterparts, foreign financial institutions operating in the United States faced elevated dollar liquidity needs.  In some cases, however, these institutions encountered difficulties positioning the collateral at their U.S. branches to secure Federal Reserve discount window credit.  To be in a position to help meet the enhanced need for funds, three foreign central banks established new or expanded arrangements with the Federal Reserve to receive U.S. dollars in exchange for their respective currencies.  These swap lines, which lasted for thirty days, consisted of $50 billion for the European Central Bank, $30 billion for the Bank of England, and an increase of $8 billion (from $2 billion to $10 billion) for the Bank of Canada.  The European Central Bank drew on its line that week to channel funds to institutions with a need for dollars.
 
 [SECTION]
 
-* * *
+During that week, the disruption in air traffic caused the Federal Reserve to extend record levels of credit to depository institutions in the form of check float.  Float increased dramatically because the Federal Reserve continued to credit the accounts of banks for the checks they deposited, even though the grounding of airplanes meant that checks normally shipped by air could not be presented to the checkwriters' banks on the usual schedule.  Float declined to normal levels the following week once air traffic was permitted to recommence.  Finally, over the course of the week, as the market for reserves began to function more normally, the Federal Reserve resumed the use of open market operations to provide the bulk of reserves.  The open market desk accommodated all propositions for funding through repurchase agreements down to the target federal funds rate, operating exclusively through overnight transactions for several days.  The injection of reserves through open market operations peaked at $81 billion on Friday.  The combined infusion of liquidity from the various sources caused the level of reserve balances at Federal Reserve Banks to rise to more than $100 billion on Wednesday, September 12--about ten times the normal level.
 
 [SECTION]
 
-Evaluating the impact of rising oil prices on economic activity in the 
-        United States has long been a subject of dispute among economists. Most 
-        macroeconomic models treat an increase in oil prices as a tax on U.S. 
-        residents that saps the purchasing power of households and raises costs 
-        for businesses. But economists disagree about the size of the effects, 
-        in part because of differences in the key assumptions employed in the 
-        statistical models that underlie the analyses. Moreover, the models are 
-        typically based on average historical experience, which is dominated by 
-        periods of only moderate fluctuations in oil prices and thus may not adequately 
-        capture the adverse effects on the economy of oil price spikes. In addition 
-        to the difficulties of measuring the impact of oil prices on economic 
-        growth, the oil price outlook itself is uncertain.
+In addition to accommodating the heightened demand for reserves, the Federal Reserve took several steps to facilitate market functioning in the wake of the September 11 attacks.  For example, the hours of the funds and securities transfer systems for U.S. government and agency securities operated by the Federal Reserve were significantly extended during the week after the attacks.  From September 11 through the 21st, the Federal Reserve reduced or eliminated the penalty charged on overnight overdrafts, largely because those overdrafts were almost entirely the result of extraordinary developments beyond the control of the account holders.  For four weeks after the attacks, the Federal Reserve Bank of New York liberalized the terms under which it would lend securities from the System portfolio, and the amount of securities lent rose to record levels in the second half of September.  The Federal Reserve working with the National Communications System (NCS) also assisted market participants in restoring their telecommunications services.
 
 [SECTION]
 
-Growing concerns about the long-term security of oil production in the 
-        Middle East, along with heightened worries about the reliability of supply 
-        from other oil-producing regions, led to a pronounced increase in the 
-        demand to hold inventory at a time when the level of world commercial 
-        oil stocks was rising only modestly. Some of that increased demand came 
-        from investors and speculators who took on larger net long positions in 
-        crude oil futures, especially in distantly dated contracts. Crude oil 
-        prices accordingly rose sharply, which, in turn, brought forth increased 
-        production from OPEC and induced some investors to take profits on long 
-        inventory positions. The resulting reduction in the speculative demand 
-        for inventories has, at least temporarily, reduced pressures in these 
-        markets, and crude prices have come off from their highs of mid-August.
+The markets and financial market authorities worked hard to restore operations, and market activity resumed relatively quickly after the attacks.  By the week following September 11, the financial system had largely begun to function normally, although activities to address the aftermath of the attacks continued for some time.
 
 [SECTION]
 
-Nevertheless, the outlook for oil prices remains uncertain. Higher prices 
-        have damped the consumption of oil--for example, U.S. gasoline consumption, 
-        seasonally adjusted, fell about 200,000 barrels a day between April and 
-        July. But the growing concerns about long-term supply, along with large 
-        prospective increases in demand from the rapidly growing economies of 
-        China and India, both of which are expanding in ways that are relatively 
-        energy intensive, have propelled prices of distant futures to levels well 
-        above their ranges of recent years.
+Steps Taken Since September 11 to Protect the Financial Infrastructure
+Within weeks of September 11, we initiated a self-assessment of our contingency arrangements across the Federal Reserve and embarked on forty initiatives, which we classified under five broad headings:
+
+Ensure continuity of Federal Reserve operations.
+Ensure market liquidity during a crisis.
+Ensure effective communications and coordination during a crisis.
+Improve resilience of the private-sector financial system infrastructure.
+Improve resilience of the telecommunications infrastructure supporting critical financial services.
 
 [SECTION]
 
-Meanwhile, despite the paucity of new discoveries of major oil fields, 
-        improving technology has significantly increased the ultimate recovery 
-        of oil from already existing fields. During the past decade, despite more 
-        than 250 billion barrels of oil extracted worldwide, net proved reserves 
-        rose well in excess of 100 billion barrels. That is, gross additions to 
-        reserves have significantly exceeded the extraction of oil the reserves 
-        replaced. Indeed, in fields where, two decades ago, roughly one-third 
-        of the oil in place ultimately could be extracted, almost half appears 
-        to be recoverable today. Gains in proved reserves have been concentrated 
-        among OPEC members, though proved reserves in the United States, essentially 
-        offshore, rose 3-1/2 percent during the past five years. The uptrend in 
-        proved reserves is likely to continue at least for awhile. Oil service 
-        firms continue to report significant involvement in reservoir extension 
-        and enhancement.
+
 
 [SECTION]
 
-Nevertheless, future balances between supply and demand will remain 
-        precarious, and incentives for oil consumers in developed economies to 
-        decrease the oil intensity of their economies will doubtless continue. 
-        Presumably similar developments will emerge in the large oil-consuming 
-        developing economies.
+Some of the key steps the Federal Reserve has taken to improve our infrastructure and the delivery of critical central-bank and financial services include the following:
+
+We have developed plans to ensure that critical central-bank activities, supervisory functions, and financial services operations have sufficient redundancy in facilities and staff.  We have enhanced and tested business-continuity arrangements for critical functions and business lines.
+Our facilities for providing critical financial services are backed up at fully operational, geographically diverse sites to ensure a speedy recovery even if the critical infrastructure is disrupted across multistate areas.
+We have enhanced our resiliency for discount window lending and cash services provided by the Reserve Banks.
+We have improved our tools and authority to provide liquidity in a crisis.  In 2003, the Board established the primary credit program, as well as special arrangements for rapidly reducing the primary credit rate to the federal funds rate in an emergency.  We also have improved the ability of the Board to approve the extension of emergency discount window credit.
 
 [SECTION]
 
-* * *
+
 
 [SECTION]
 
-The remainder of my remarks will address the federal budget, for which 
-        the incoming data suggest that the unified deficit has recently leveled 
-        out. With the economy continuing to improve, the deficit is more likely 
-        to decline than to increase in the year ahead.
+The federal financial agencies took immediate steps to work together to identify new vulnerabilities exposed by September 11.  These efforts were coordinated under the umbrella of the President's Working Group on Financial Markets, the Financial and Banking Infrastructure Information Committee (FBIIC), and, for depository institutions more specifically, the Federal Financial Institutions Examination Council (FFIEC).  The agencies have implemented a duty officer program and developed communications protocols for dealing with their staffs, regulated financial institutions, and the public.  We have also developed and tested facilities for secure communication among ourselves and with other agencies.
 
 [SECTION]
 
-Nonetheless, the prospects for the federal budget over the longer term 
-        remain troubling. As yet, concerns about the budget do not appear to have 
-        left a noticeable imprint on the financial markets. In recent years, even 
-        as fiscal discipline has eroded, implied one-year forward Treasury rates 
-        at long horizons, which history suggests are sensitive to changes in the 
-        fiscal outlook, have held fairly steady. Various measures of long-term 
-        real interest rates have also remained at moderate levels over this period.
+The agencies that participate in FBIIC, including the Federal Reserve, and that have direct supervisory and regulatory responsibilities for the financial sector have assessed potential system vulnerabilities.  We have shared that information with the Department of Homeland Security (DHS).  Indeed, I would like to commend the DHS for their work to share information and coordinate with the financial sector including the FBIIC during the recent elevation of the threat level to orange for financial services firms in New York City, northern New Jersey, and Washington, D.C.  The timely communications and sharing of information enabled financial-sector participants and law enforcement authorities to take steps to mitigate risks so that customers of financial services firms were able to conduct business in the usual fashion.  Financial-sector participants, including the financial regulators, strengthened business-resumption plans with an overall goal of ensuring the smooth operation of the financial system.  Previously, terrorist attacks were treated as low-probability/high-impact events affecting a single institution.  As a result of September 11, industry participants are now planning for events that affect wide areas, last longer, and involve loss of life or widespread destruction of property and information assets.
 
 [SECTION]
 
-These developments, however, do not warrant complacency about the fiscal 
-        outlook. With the baby boomers starting to retire in a few years and health 
-        spending continuing to soar, our budget position will almost surely deteriorate 
-        substantially in coming years if current policies remain in place.
+The process of strengthening the resilience of the financial system and, in particular, organizations that could have a systemic effect if they were disabled, is being accomplished through the existing regulatory framework.  More than a year ago, in April 2003, the Federal Reserve, the Office of the Comptroller of the Currency (OCC), and the Securities and Exchange Commission (SEC) issued an Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System.  The paper formalizes a set of sound practices viewed as necessary by the agencies and the financial industry to ensure the rapid recovery of the U.S. financial system following a wide-scale disruption that may include loss or inaccessibility of staff.  In particular, the paper articulates sound practices for resumption and recovery of critical clearing and settlement activities by core clearing and settlement organizations and financial institutions that play significant roles in critical markets by virtue of their market share (greater than five percent in one or more critical financial markets).  The sound practices include establishing geographically dispersed backup facilities for clearing and settlement so that these organizations can meet recovery objectives within the business day if a wide-scale disruption takes place.
 
 [SECTION]
 
-The enormous improvement of the federal budget balance in the second 
-        half of the 1990s and early in the current decade was due importantly 
-        to the rapid growth in labor productivity during that period, which led, 
-        both directly and indirectly, to a vast but, in retrospect, temporary 
-        increase in revenues. The Budget Enforcement Act (BEA) of 1990, and the 
-        later modifications and extensions of the act, almost surely contributed 
-        to the better budget outcomes as well, before the brief emergence of surpluses 
-        eroded the will to adhere to its deficit-containment rules. The key provisions 
-        of the BEA expired in 2002, and no replacement has been adopted.
+Using their respective supervisory and regulatory processes, the agencies are conducting focused, ongoing dialogues with the organizations that are subject to the sound practices paper.  Financial organizations are investing millions of dollars to implement the sound practices.  Clearing and settlement organizations, which are the financial utilities for the U.S. financial system, have made substantial progress in improving their resilience and achieving out-of-region geographic dispersion between primary and backup operations facilities and data centers.  Several have met or will meet the sound practices by year-end, with the remainder scheduled to complete implementation in the second half of 2005.  Banks and broker-dealers that play significant roles in the critical markets defined in the paper indicate they will meet the paper's 2006 implementation date.
 
 [SECTION]
 
-Reinstatement of a structure like the BEA would signal a renewed commitment 
-        to fiscal restraint and would help restore discipline to the annual budgeting 
-        process. But it would be only a part of any meaningful endeavor to establish 
-        a framework for fiscal policy choices. The BEA was designed to constrain 
-        legislative actions on new initiatives. It contained no provisions for 
-        dealing with unanticipated budgetary outcomes over time. It was also not 
-        designed to be the centerpiece for longer-run budget policy; importantly, 
-        the BEA did not set a clear objective toward which fiscal policy should 
-        aim.
+The sound practices are also relevant to other financial-sector participants.  Many of the concepts in the paper amplify long-standing and well-recognized principles relating to safeguarding information and the ability to recover and resume essential financial services.  Over the past few years, the FFIEC has revised and expanded guidance for banking organizations pertaining to operational risk.  In December 2002, we issued revised guidance on information security.  In April 2003, the FFIEC issued expanded guidance on business-continuity planning.  The guidance addresses both the operational- and business-risk issues that depository institutions must incorporate into their business-continuity plans.  The guidance specifically refers to the need to plan and test for recovery of critical business lines and functions--such as retail banking services--in the face of wide-scale disruption, as well as scenarios in which physical or information assets and personnel are lost.  Recently, the FFIEC issued guidance on managing additional risks arising from information technology operations, network management, and wholesale and retail payments systems.  Our examiners are assessing banks against these guidelines.  Other financial market authorities are taking similar steps for the organizations that they regulate.
 
 [SECTION]
 
-Budget outcomes over the next decade will deviate, as they always have 
-        from projections--perhaps, significantly. Accordingly, it would be quite 
-        helpful to have mechanisms in place that assist the Congress in making 
-        mid-course corrections as needed. Four or five decades ago, such mechanisms 
-        were unnecessary, in part because much of the budget was determined on 
-        an annual basis. Indeed, in the 1960s, discretionary spending, which is 
-        subject to the annual appropriations process and thus comes under regular 
-        review by the Congress, accounted for about two-thirds of total outlays. 
-        That share dropped markedly in the 1970s and 1980s as spending on retirement, 
-        medical, and other entitlement programs rose sharply. In the early 1990s, 
-        it fell below 40 percent, where it has remained over the past decade.
+Challenge of Protection
+While the agencies and financial-sector participants are working to improve their operational resilience, some vulnerabilities continue to pose challenges.  The strategy underlying the sound practices is to increase the likelihood that systemically critical institutions will be able to recover rapidly from a wide-scale disruption.  However, the sound practices address only recovery, not the prevention of an attack.
 
 [SECTION]
 
-The rise in the share of expenditures that is not subject to annual 
-        review complicates the task of making fiscal policy by effectively necessitating 
-        an extension of the budget planning horizon. In the 1960s and early 1970s, 
-        the President's budgets provided information mainly for the upcoming fiscal 
-        year. The 1974 legislation that established a new budget process and created 
-        the Congressional Budget Office required that CBO provide five-year budget 
-        projections. By the mid-1990s, CBO's projection horizon had been pushed 
-        out to ten years.
+The agencies are addressing this concern by working to improve coordination and emergency planning efforts between federal, state, and local homeland security authorities; the various federal, state, and local protection agencies; and the systemically critical institutions.  Efforts have focused on the locations where the systemically critical institutions have their primary operations--including New York City.  The agencies also plan to work with local protection agencies in cities where critical institutions are locating backup sites.  As part of these efforts, the Department of the Treasury has arranged for site surveys of key financial-services sector assets to determine whether physical security can be hardened.  Protection plans have been developed and are being implemented.
 
 [SECTION]
 
-Given the changing composition of outlays, these longer planning horizons 
-        and the associated budget projections were essential steps toward allowing 
-        the Congress to balance budget priorities sensibly. Among other things, 
-        this change has made the budget process more reliant on forecasting. To 
-        be sure, forecasting has become more sophisticated as statistical techniques 
-        and economic models have evolved. But because of the increasing complexity 
-        of our markets, the inaccuracy of forecasts--especially those that go 
-        beyond the near term--is a large problem.
+Importance of Telecommunications to the Financial Services Sector
+The resilience of the telecommunications infrastructure is, from our perspective, one of the most important national issues involving the nation's critical infrastructure.  The U.S. financial system depends on telecommunications to effect transactions and make payments.
 
 [SECTION]
 
-A well-designed set of measures for mid-course corrections would likely 
-        include regular assessments of existing programs to verify that they continue 
-        to meet their stated purposes and cost projections. Although the vast 
-        majority of existing programs would doubtless be extended routinely, some 
-        that face appreciable opposition and offer limited societal benefit might 
-        not clear hurdles set by the Congress unamended, if at all. More generally, 
-        mechanisms, such as triggers, to bring the budget back into line if it 
-        goes off track should be considered, particularly measures that force 
-        a mid-course correction when estimated future costs for a program or tax 
-        provision exceed a specified threshold.
+Following September 11, the Federal Reserve and the FBIIC agencies expanded and promoted the use of National Security/Emergency Preparedness (NS/EP) telecommunications programs sponsored by NCS.  These programs worked well in helping to resume operations on September 11.  The Federal Reserve is working with FBIIC agencies through outreach to expand NCS services to clearing and settlement organizations processing securities.  Approximately 5,000 additional authorizations to ensure the priority of voice telecommunications have been issued in the financial sector.  Moreover, about 4,100 critical circuits used to transmit financial data have been registered for priority restoration and provisioning of new lines; these include most circuits between the payment and settlement systems, the markets, and key market participants.
 
 [SECTION]
 
-I do not mean to suggest that our budget problems will be solved simply 
-        by adopting a set of budget rules that restrain new legislation--even 
-        if those rules are augmented by effective mechanisms for making mid-course 
-        corrections. The fundamental challenge that we face is to come to grips 
-        with the adverse budgetary implications of an aging population and current 
-        health entitlements and with the limits on our ability to project the 
-        likely path of medical outlays. The rapid increase in revenues during 
-        the 1990s significantly muted the necessity of making choices between 
-        high-priority tax and spending initiatives. In the context of an unprecedented 
-        increase in retirees, the need to make stark choices among budget priorities 
-        will again become pressing. Federally funding access to advances in medical 
-        technology, for example, likely will have to be weighed against other 
-        spending programs as well as tax initiatives that foster increases in 
-        economic growth and the revenue base.
+The National Security/Emergency Preparedness telecommunications program operated by the NCS currently focuses on recovery and restoration.  The FBIIC agencies believe that a third aspect--protection--through establishment of a national program for maintaining physically diverse circuits and switches, should be incorporated into the program.  Treasury has designated the Federal Reserve as the lead agency for telecommunications for the FBIIC interdependencies study.  At the Federal Reserve's request, the telecommunications sector through the National Security Telecommunications Advisory Committee (NSTAC) reviewed the resilience of the telecommunications infrastructure.  In response to the NSTAC's recommendations that were submitted to the President in April 2004, the Alliance for Telecommunications Industry Solutions (ATIS) is organizing a National Diversity Assurance Initiative.  ATIS has asked the Federal Reserve to participate in a pilot program to develop and test the requirements for physical circuit diversity across multiple carriers that can be used by the financial system and potentially other critical sectors.  The Federal Reserve is collaborating with telecommunications services providers through NSTAC and the Federal Communications Commission Network Reliability and Interoperability Council.  As an example, the Federal Reserve is currently working with the NSTAC to plan how NS/EP telecommunications services can be applied to the next generation of telecommunications networks based on internet protocols.
 
 [SECTION]
 
-Because the baby boomers have not yet started to retire in force and 
-        accordingly the ratio of retirees to workers remains relatively low, we 
-        are in a demographic lull. But short of an outsized acceleration of structural 
-        productivity or a major expansion of immigration, this state of relative 
-        tranquility will soon end.
+Summary
+In summary, Mr. Chairman, we believe that protecting the infrastructure that supports our financial system is a matter of national importance.  As a result of careful planning and considerable investment by both the private and public sectors, the financial sector is one of the most resilient parts of our economy.  The supervisory framework for the financial sector oversees compliance with security and business-resumption expectations, which are relatively high because of the importance of ensuring the smooth operation of our financial system.  All financial institutions have been expected to incorporate lessons learned from September 11, recent power outages, and cyber attacks.  Organizations that we believe could have a systemic effect on the financial system if their functions were disrupted are being asked to meet very high standards of business resumption.  The Federal Reserve will continue to treat the protection and resilience of the sector as a key responsibility.
 
 [SECTION]
 
-In 2008--just four years from now--the leading edge of the baby-boom 
-        generation will reach 62, the earliest age at which Social Security retirement 
-        benefits may be claimed and the age at which about half of prospective 
-        beneficiaries have retired in recent years. In 2011, these individuals 
-        will reach 65 and will thus be eligible for Medicare.
-
-[SECTION]
-
-The pressures on the federal budget from these demographic changes will 
-        come on top of those stemming from the relentless upward trend in expenditures 
-        on medical care. Indeed, outlays for Medicare and Medicaid have grown 
-        much faster than has nominal GDP in recent years, and no significant slowing 
-        seems to be in the offing.
-
-[SECTION]
-
-In 2003, outlays for Social Security and Medicare amounted to about 
-        7 percent of GDP; according to the programs' trustees, by 2030 that ratio 
-        will nearly double. Moreover, such projections are subject to considerable 
-        uncertainty, especially those for Medicare. Unlike Social Security, where 
-        benefits are tied in a mechanical fashion to retirees' wage histories 
-        and we have some useful tools for forecasting future benefits, the possible 
-        variance in medical spending rises dramatically as we move into the next 
-        decade and beyond. As with Social Security, forecasting the number of 
-        Medicare beneficiaries is reasonably straightforward. But we know very 
-        little about how rapidly medical technology will continue to advance and 
-        how those innovations will translate into future spending. Technological 
-        innovations can greatly improve the quality of medical care and can, in 
-        some instances, reduce the costs of existing treatments. But because technology 
-        expands the set of treatment possibilities, it also has the potential 
-        to add to overall spending--in some cases, by a great deal. Other sources 
-        of uncertainty--for example, about how longer life expectancies among 
-        the elderly will affect medical spending--may also turn out to be important. 
-        As a result, the range of future possible outlays per recipient is extremely 
-        wide.
-
-[SECTION]
-
-Developing ways to deal with these uncertainties will be a major part 
-        of an effective budget strategy for the longer run. Critical to that evaluation 
-        is the possibility that, as a nation, we may have already made promises 
-        to coming generations of retirees that we will be unable to fulfill. If, 
-        on further study, that possibility turns out to be the case, it is imperative 
-        that we make clear what real resources will be available so that our citizens 
-        can properly plan their retirements. This problem raises a more-general 
-        principle of public policy prudence. If, as history strongly suggests, 
-        entitlement benefits and tax credits, once bestowed, are difficult to 
-        repeal, consideration should be given to developing a framework that recognizes 
-        that potential asymmetry.
-
-[SECTION]
-
-* * *
-
-[SECTION]
-
-Re-establishing an effective procedural framework for budgetary decisionmaking 
-        should be a high priority. But it is only a start. As we prepare for the 
-        retirement of the baby-boom generation and confront the implications of 
-        soaring expenditures for medical care, a major effort by policymakers 
-        to set priorities for tax and spending programs and to start making tradeoffs 
-        is long overdue.
-
-[SECTION]
-
-The significant improvement in the budget in the 1990s reflected persistent 
-        efforts on the part of this committee and others. If similar efforts are 
-        made now, they should assist in preparing our economy for the fiscal challenges 
-        that we will face in the years ahead.
+Thank you Mr. Chairman and members of the Committee.  I am happy to respond to any questions.
 
 [SECTION]
 

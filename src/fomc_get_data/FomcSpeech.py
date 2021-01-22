@@ -17,11 +17,11 @@ from .FomcBase import FomcBase
 class FomcSpeech(FomcBase):
     '''
     A convenient class for extracting speech from the FOMC website
-    Example Usage:  
+    Example Usage:
         fomc = FomcSpeech()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/Desktop/proj2/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('speech', verbose, max_threads, base_dir)
         self.speech_base_url = self.base_url + '/newsevents/speech'
 
@@ -86,7 +86,7 @@ class FomcSpeech(FomcBase):
     def _add_article(self, link, index=None):
         '''
         Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to. 
+        The index is the index in the article to add to.
         Due to concurrent prcessing, we need to make sure the articles are stored in the right order
         '''
         if self.verbose:

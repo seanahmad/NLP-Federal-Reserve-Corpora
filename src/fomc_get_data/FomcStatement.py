@@ -13,7 +13,7 @@ import pandas as pd
 from .FomcBase import FomcBase
 
 class FomcStatement(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/Desktop/proj2/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('statement', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

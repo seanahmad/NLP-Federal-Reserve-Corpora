@@ -17,11 +17,11 @@ from .FomcBase import FomcBase
 class FomcMinutes(FomcBase):
     '''
     A convenient class for extracting minutes from the FOMC website
-    Example Usage:  
+    Example Usage:
         fomc = FomcMinutes()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/Desktop/proj2/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('minutes', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -40,7 +40,7 @@ class FomcMinutes(FomcBase):
         # Getting links from current page. Meetin scripts are not available.
         if self.verbose: print("Getting links for minutes...")
         contents = soup.find_all('a', href=re.compile('^/monetarypolicy/fomcminutes\d{8}.htm'))
-        
+
         self.links = [content.attrs['href'] for content in contents]
         self.speakers = [self._speaker_from_date(self._date_from_link(x)) for x in self.links]
         self.titles = ['FOMC Meeting Minutes'] * len(self.links)
@@ -85,7 +85,7 @@ class FomcMinutes(FomcBase):
     def _add_article(self, link, index=None):
         '''
         Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to. 
+        The index is the index in the article to add to.
         Due to concurrent prcessing, we need to make sure the articles are stored in the right order
         '''
         if self.verbose:

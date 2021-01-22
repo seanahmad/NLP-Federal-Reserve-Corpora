@@ -150,99 +150,167 @@ May 16, 2007
 
 [SECTION]
 
-Vice Chairman Donald L. Kohn
+Governor Randall S. Kroszner
 
 [SECTION]
 
-At the Federal Reserve Bank of Atlanta's 2007 Financial Markets Conference, Sea Island, Georgia
+At the Center for Financial Stability (CEF), Buenos Aires, Argentina
 
 [SECTION]
 
-As Chairman Bernanke noted yesterday in his keynote address, the development and growth of the credit derivatives markets has implications for a range of public policy objectives. I will focus on the implications for our objectives for financial stability and the containment of systemic risk.1
+I am delighted to be back in Argentina. Today I want to talk about some important macroeconomic and financial developments around the world. Inflation rates and interest rates are at historically low levels, and yield curves are relatively flat nearly everywhere. In addition, until recently, many emerging-market countries simply did not have yield curves because there was effectively no market for debt issued in the domestic currency beyond a very short term. I believe that the taming of inflation and the improved credibility of monetary policy have been crucial to the deepening of domestic capital markets, which is typically associated with higher economic growth. I will explore some possible explanations for these developments, focusing on the prospects for, and risks to, the long-term inflation outlook, particularly in emerging-market economies. Before I continue, please note that the opinions I express here today are my own and not necessarily shared by my colleagues on the Federal Open Market Committee.1
 
 [SECTION]
 
-To formulate appropriate policy responses, we first must identify how credit derivatives might be affecting systemic risk. In considering this question, we need to recognize that credit derivatives are an extension of decades-long trends. The Chicago futures exchanges introduced financial derivatives in the 1970s. Since the early 1980s, over-the-counter (OTC) derivatives have become increasingly important. Over the same period, the securitization of mortgages and other assets has been transforming regulated depository institutions from holders of interest rate and credit risk to originators and distributors of such risk. Perhaps the most significant aspect of credit derivatives has been the marriage of derivatives and securitization technologies in synthetic collateralized debt obligations (CDOs).
+In brief, I argue that globalization, deregulation, and financial innovation, in part spurred by the experiences of high inflation in the 1980s, have fostered currency competition that has led to improved central bank performance and, hence, the recent reduction of worldwide inflation. Writing in the 1970s, Friedrich Hayek advocated greater competition among currencies, arguing that it would produce a race to the top rather than a race to the bottom.2  In practice, regardless of what one might think of Hayek's policy proposals, we have seen increased competition among currencies issued by central banks owing to technological change in a globalized and competitive marketplace.
 
 [SECTION]
 
-There are good reasons to think that these developments have made the financial system more resilient to shocks originating in the real economy and have made the economy less vulnerable to shocks that start in the financial system. Borrowers have a greater variety of credit sources and are less vulnerable to the disruption of any one credit channel; risk is dispersed more broadly to people who are most willing to hold and manage it. One can see the effects of these changes in the reduced incidence of financial crises in recent years. From the 1970s through the early 1990s, we seemed to be in almost continuous crisis mode. These crises were centered on depository institutions, and because borrowers were so dependent on depository institutions for credit availability, problems at depository institutions meant problems for the financial system and for the economy more generally.
+The increased competition among currencies has changed the ability and the incentives of governments and central banks to pursue high-inflation policies. Such changes have allowed improvements in central bank governance and credibility, thereby leading to better inflation outcomes, especially in many emerging-market economies. In addition, greater central bank credibility has allowed the development of long-term bond markets in many countries and flattened yield curves around the globe as concerns about future inflation risks have declined. Deeper bond markets with a wider range of available maturities encourage long-term planning and investment and thus convey lasting gains, particularly in emerging markets. The important issue is whether the reduction of worldwide inflation will persist or be a temporary phenomenon.
 
 [SECTION]
 
-To be sure, much, perhaps most, of the improvement has been due to the better performance of the overall economy--low and stable inflation and damped business cycles since the early 1980s. In addition, financial stability has been greatly enhanced by improvements in bank capital regulation that were implemented in the late 1980s and after the crisis in the early 1990s. But greater diversification of risk has also contributed significantly; we could see this in the 2001-03 period, when a sharp decline in equity prices, a spike in spreads on corporate debt, and unanticipated business failures did not threaten depository institutions or the broader financial system.
+The Worldwide Decline in Inflation
 
 [SECTION]
 
-But we certainly should not read this experience as meaning that we are free of systemic risk--the risk of financial-sector problems spilling into the real sector or aggravating already difficult economic circumstances. Indeed, I see several reasons for carefully considering the potential for such problems to emerge.
+From the 1950s until the late 1960s, inflation rates were relatively contained, and episodes of high inflation were rare. Then, especially following the early-1970s collapse of the Bretton Woods fixed-exchange-rate system, inflation became a worldwide phenomenon. Even in Germany, which had the most stable prices of any country in the world, inflation eroded purchasing power by more than half between 1972 and the launch of the euro, in 1999. In terms of cumulative inflation, $480 would be required today in the United States to purchase $100 worth of goods and services at 1972 prices. For most countries reporting data to the International Monetary Fund (IMF), cumulative inflation has been even higher than that experienced in the United States. Here in Argentina, the price level is now about 177 billion times higher than it was in 1972. But Brazil takes the prize for greatest inflation of the post-World War II era: The price level in Brazil is approximately 500 billion times higher today than it was in 1972.3
 
 [SECTION]
 
-New players and new instruments have become important since 2002, when the last adverse credit cycle peaked. New and already existing market participants are maneuvering for greater shares in a rapidly evolving market structure. Although leverage has declined in the nonfinancial businesses whose credit is being priced and traded, it may well have increased in the structure of intermediary finance. In any event, the growth of tranched CDOs and other structured credit products with substantial embedded leverage has made it more difficult to assess the degree of leverage of individual institutions or of the financial system as a whole.
+Since the early 1990s, however, worldwide inflation has significantly declined. Indeed, the April 2006 issue of the IMF's World Economic Outlook shows that, on average, inflation rates in the advanced economies as well as in the developing countries in recent years have been at their lowest levels since at least the early 1970s. The April 2007 issue forecasts inflation in both regions to remain near these recent lows through 2008.
 
 [SECTION]
 
-In addition, the extraordinarily rapid growth of credit derivatives markets in the past few years has occurred against the backdrop of relatively benign macroeconomic performance--good global growth, low inflation, historically high corporate profits and low business failures, and reasonably predictable monetary policies. Partly as a consequence, the prices of financial assets seem to embody relatively low expected volatilities and relatively little reward for taking credit risk or for extending the duration of investor portfolios.
+But is this lower inflation regime likely to persist? One way to approach this issue is to investigate what market participants think by examining measures of expected inflation. Overall, these surveys suggest that market participants do expect relatively low inflation to continue in most major industrial and emerging-market countries. In the industrial countries and a few Asian emerging-market economies, for example, long-term inflation expectations dropped below 5 percent a decade or more ago and are currently around 2 percent to 3 percent.4  In Brazil and Mexico, long-term inflation expectations have declined from a range of 7 percent to 10 percent a decade ago to a fairly steady 3 percent to 4 percent in recent years. In Argentina, long-term inflation expectations are around 7 percent.
 
 [SECTION]
 
-With more risk traded in markets and more participants managing that risk through portfolio adjustments made in markets, the importance of market liquidity has increased and the potential knock-on effects from an erosion of liquidity have multiplied. We could face situations in which asset price movements are exacerbated by the actions of market participants, including dynamic hedging strategies or forced liquidations of assets to meet margin calls, and those asset price movements could feed back onto the economy.
+In addition, the risks of high inflation appear to have decreased as well. In particular, the volatility of inflation has declined notably, especially in many emerging- market countries.5  On occasion in the early to middle 1990s, the standard deviation of inflation exceeded 30 percent in Mexico and 100 percent in Argentina and Brazil. In the current decade, however, the standard deviation of inflation has been relatively stable in Brazil, at around 5 percent, and it has been declining in Mexico, where it is now around 2 percent. In Argentina, inflation volatility is currently around 15 percent.
 
 [SECTION]
 
-Moreover, the layers of intermediation between borrower and lender that increasingly characterize the financial system may have created new channels for the transmission of shocks within the financial markets and into the economy. We have seen some indications of this in the recent experience in the subprime mortgage market. Packagers of securities whose performance is tied to subprime mortgages have suffered unanticipated losses, and as some originators have gone out of business and secondary markets have been disrupted, institutions along the chain have found themselves with unexpected exposures from warehousing or financing the holding of loans before securitization. However, thus far the dramatic widening of spreads on the riskier tranches of subprime securitizations has not produced spillovers large enough to threaten stability.
+Factors Behind the Taming of Worldwide Inflation
 
 [SECTION]
 
-Finally, although risks are better dispersed, the credit-risk transfer markets are dependent on a small set of key intermediaries. In the extreme, price variations and other adverse developments could call into question the viability of these intermediaries, threatening a larger cumulative real effect.
+My brief review of worldwide inflation performance suggests that in general, over the past decade, inflation has become substantially lower and less volatile, and expectations of future inflation have also become substantially lower. In understanding the key factors behind this change, we can also shed further light on the question of whether this low-inflation regime will persist.
 
 [SECTION]
 
-In short, systemic risk in the financial markets most likely has declined on balance, but it still exists, and central banks and other regulators need to adapt to the evolving nature of markets and the changing character of the systemic risk.
+In a nutshell, I believe that the factors of globalization, deregulation, and financial innovation, arising partly in response to episodes of high inflation, have effectively eroded the central bank monopoly on the provision of monetary services and have enhanced global competition among currencies. These changes have, in turn, altered the incentives for central banks to behave badly and for finance ministries to use central banks as "piggy banks" to finance their fiscal policies. The resulting constraint on monetary policy, combined with increased public understanding of the costs of inflation, have led to institutional changes in central bank governance that bolster their credibility for maintaining price stability in the future. Thus, improved central bank performance and credibility are the consequences of this combination of factors.
 
 [SECTION]
 
-Before discussing what we are doing and what we should be doing, I want to take a few minutes to call attention to some limits and constraints on our actions. We need to accept that accidents will happen--that asset prices will fluctuate, often over wide ranges, and those fluctuations will be driven in part by trading strategies, by the cycles of greed and fear that have always been with us, and by the ebb and flow of competition for market share. The fluctuations will result in redistributions of wealth and, on occasion, will confront us with financial crises. But we cannot and should not try to prevent this process through a monetary policy that puts special emphasis on stabilizing asset prices or through regulatory policies that limit access to markets by qualified participants or that attempt to restrain competition materially. Monetary policy that proactively leans against asset price movements runs a considerable risk of yielding macroeconomic results that fall short of maximum sustainable growth and price stability. Regulatory policies that try to prevent failures of core participants or others under all conceivable circumstances will tend to stifle innovation and reduce our economy's potential for long-run growth.
+To develop this explanation in more detail, I will start by describing how globalization, deregulation, and innovation can alter the ability and incentives of a government to pursue a high-inflation policy.6  These factors are closely related and mutually reinforcing in many respects. Many countries have turned increasingly to private markets and trade to deliver growth and progress. The resulting deregulation and greater openness has boosted innovation and has helped increase global competition, or globalization, by shrinking the barriers of time and distance. Accordingly, trade and financial linkages between countries have soared to record levels in recent years.
 
 [SECTION]
 
-Systemic events in market-based financial systems are perhaps more likely to involve price fluctuations and abrupt changes in market liquidity than are systemic events in depository-based financial systems. But that is not really bad news because such events can more readily be countered by macroeconomic policy instruments than could old-fashioned crises of depository intermediation. Supplying additional liquidity and reducing borrowing costs can greatly ameliorate the effects of market events on the economy, and those types of macroeconomic interventions will carry less potential for increasing moral hazard than would the discount window lending that was a prominent feature of crisis management when depositories funded more credit.
+How does this affect inflation? When governments resort to printing money to finance their spending, inflation rises and nominal assets lose their value. This loss of value is also known as the inflation tax. Globalization, deregulation, and innovation make it easier for citizens to move their wealth out of nominal assets in the domestic currency should their government resort to an inflation tax. When the tax base shrinks in response to inflation, governments have a reduced incentive to resort to the inflation tax.
 
 [SECTION]
 
-Market-intermediated finance also requires us to live with less control and less knowledge than we had when banks were dominant. Greater uncertainty about where risks are lodged is the flip side of better dispersion of those risks, especially to less regulated sectors, and of more resilience of the whole system. Gathering additional information about the risk profiles of currently less regulated institutions is unlikely to yield insights that can be acted upon and may create a false sense of comfort among market participants, which could make the system substantially more risky. We need to have confidence in the invisible hand. But confidence does not mean blind faith, a thought that brings me to what we can productively do to reduce systemic risks within the boundaries that I just described.
+The specific channels by which globalization, deregulation, and financial innovation affect competition among currencies are many. Increased circulation of banknotes in dollars or other hard currencies enable citizens to conduct transactions and store liquid wealth without holding inflationary currency. The fraction of U.S. currency estimated to be held in foreign countries rose dramatically over the 1980s and 1990s, from less than 20 percent to about 60 percent, and it has remained near this high level even as inflation rates have come down globally.
 
 [SECTION]
 
-Although credit derivatives and other derivatives have facilitated the dispersion of risk, the mechanisms for carrying out this function are highly dependent on a small number of institutions that are critical to the functioning of the markets. These institutions are the principal dealers in the OTC derivatives markets and often also among the leading clearing firms for exchange-traded derivatives. They also originate securitized assets, and provide financing to other originators, and often provide financing to the buyers of those assets, including buyers of the riskiest tranches. If their ability to perform these functions were impaired when a shock hit the economy or the financial markets, the ability of the buyers and sellers to manage their positions, provide trading liquidity, and facilitate stabilizing financial flows would in turn be impaired. Consequently, our efforts to manage the potential for systemic risk focus on these core institutions, nearly all of which already are subject to prudential supervision.
+Substantial financial innovations--including advances in electronic payment and trading systems as well as more widespread credit card networks and increased use of mutual funds--have enabled consumers, investors, and banks to shift wealth cheaply and quickly away from currencies and assets subject to inflation and related risks.
 
 [SECTION]
 
-In light of the possibility of unusual asset price movements, which I discussed earlier, we need to encourage these institutions to practice robust enterprise-wide risk management. A critical aspect of such risk-management efforts is the use of stress tests across the various aspects of their businesses that allow them to ascertain and appropriately limit their market and counterparty exposures in a scenario in which credit spreads widen rapidly and asset market liquidity decreases markedly. Good risk management can limit potential losses under many circumstances, but these institutions will still be vulnerable to major unexpected events, and their viability will depend on their capital cushions. As a consequence, we also need to strengthen the connection of capital to risk by moving forward with the implementation of Basel II.
+Given the stronger competition among currencies, a government that pressures a central bank to pursue an inflationary policy gets much less benefit from increased inflation because people can more rapidly and conveniently switch out of the domestic currency. Indeed, the website of the Central Bank of Brazil explicitly acknowledges the role of inflation in driving financial innovations that enabled firms and households to economize on cash balances in that country. It states that, "Prior to the mid-1990s [when inflation was stabilized], changes in the payment system in Brazil were motivated by the need to cope with high inflation rates. During that time, the system achieved significant technological progress, especially aimed at enhancing the speed of processing financial transactions." 7
 
 [SECTION]
 
-We should also work toward ensuring that clearing and settlement arrangements on which core institutions and other participants depend are safe and efficient. Weaknesses in such systems can be a source of systemic contagion. Conversely, when such arrangements are robust, the potential for contagion is significantly diminished. The benefits of such supervisory initiatives can extend beyond the core regulated institutions themselves because improvements in their counterparty-risk-management practices will strengthen market discipline on their unregulated counterparties.
+In addition to encouraging financial innovation, the painful experience of high inflation helped to educate the public and economists about the costs of inflation.8  Although the specific experiences differed across countries, public opinion almost everywhere eventually reinforced the trend against inflationary policies. Economists and central bankers also devoted great attention to understanding the causes and consequences of inflation, providing the intellectual underpinning to policies oriented toward price stability.
 
 [SECTION]
 
-Although the critical roles that these core institutions play in global markets require us to focus on them, we need to address the possibility that this approach could increase moral hazard by reinforcing perceptions that these institutions are too big to fail. This risk can be mitigated by the steps that I have mentioned earlier, including the promotion of enhanced risk-management practices and the implementation of capital requirements that are more risk sensitive, steps that greatly reduce the chances that government intervention will be needed.
+The fundamental forces I have described today--globalization, deregulation, financial innovation, and public understanding about the costs of inflation--provided the impetus for fighting inflation and opened the path for policies that enhance central bank credibility. As the benefits of stable prices accrue and as financial markets deepen and become more sophisticated, the benefits of sound economic policies will help create support for institutional reforms that make returning to inflation harder--albeit not impossible--for future governments.
 
 [SECTION]
 
-In all of this work, coordination and cooperation among regulators, domestically and internationally, are critical because the same firms are the core firms in each of the principal global financial centers. Effective oversight of these firms generally can be conducted only by the home country supervisor, which alone has the authority over a firm's consolidated global operations. When supervisory coordination and cooperation exist, much good work can be accomplished relatively quickly. An excellent example is the work that the Federal Reserve Bank of New York and other prudential supervisors have undertaken over the past year and a half to encourage and support market participants' progress in addressing what were serious weaknesses in the infrastructure of the credit derivatives markets. Those supervisors are now systematically reviewing the core firms' management of counterparty exposures to hedge funds and other highly leveraged counterparties.
+Implications of Low Inflation for Bond Markets
 
 [SECTION]
 
-Both market participants and public authorities should understand that, despite our best efforts, crises are inevitable, and so we need to work on crisis management as well. Here, too, cooperation among authorities here and abroad is critical. We must understand the market structures and vulnerabilities and the objectives and constraints under which authorities with different jurisdictions would be working in those circumstances.
+What are the implications of low inflation and low inflation volatility for interest rates and yield curves? I believe that market confidence in continued low inflation has helped drive down the slope of the yield curve around the world by reducing the premium demanded for holding long-term nominal assets. The taming of inflation also has extended bond maturities and yield curves further into the future than ever before, most notably in many emerging-market countries.
 
 [SECTION]
 
-Inevitably, uncertainty on the part of market participants and public authorities will be heightened in the event of market turmoil, and that uncertainty can feed on itself. Both authorities and participants need to think through how they will handle such crises. For the authorities, that process includes considering how to resolve any failures of large institutions in ways that impose costs on shareholders and uninsured liability holders while preserving orderly markets. Such a resolution will be necessary to limit the moral hazard of any interventions that we are forced to undertake. Market participants need to consider how they would settle contracts and work with troubled borrowers in a distress situation. More planning will reduce the rise in uncertainty in a crisis and the likelihood that fear will lead to precipitous actions that are in no one's best interest.
+The current low level of long-term yields in the United States and other advanced economies is widely acknowledged as somewhat of a puzzle, or, as some have called it, a conundrum.9  Of course, flat and even inverted yield curves in advanced economies are nothing new--we know that the short end of the yield curve is dominated by monetary policy and cyclical factors.
 
 [SECTION]
 
-In sum, there are good reasons to think that financial innovation over the past few decades, including the emergence and growth of the credit derivatives markets, has made the financial system and the economy more resilient. But it would be foolish to think that these innovations have eliminated systemic risk. Both market participants and public authorities need to think carefully about how systemic risks might crystallize in the new world that credit derivatives have helped create. They need to identify the implications for risk management and ensure that risk-management practices are adapting to target new sources of risk. And they need to think about how they would respond to crises that sooner or later will emerge in that new world.
+To abstract from the potential effect of cyclical factors on the yield curve, consider the pattern of forward rates many years into the future, at which point the effects of current cyclical shocks would be expected to have dissipated. The yield on a ten-year bond, for instance, can be thought of as an average of a series of consecutive forward rates. If you could borrow and lend at the same rate as the U.S. Treasury, then you could lock in a three-month loan ten years from now by borrowing for ten years and three months and simultaneously lending the same principal for ten years. The difference between the interest you pay and the interest you earn on this transaction determines the implied forward rate ten years from today. The forward rate reflects not only the market expectation of the future short-term interest rate but also a "term premium" to compensate for the risk of a commitment to extend credit so far in the future, including the risk of future inflation.
+
+[SECTION]
+
+At any point in time, then, we can calculate the short-term forward rate ten years ahead using the yield curve of U.S. Treasury coupon securities. This "far forward" rate has hovered around 4-1/2 percent to 5 percent over the past two years, a level about 2 percentage points below its average since 1990. Far-forward rates in other advanced economies have also declined over the past decade and are currently at or near historic lows. 10
+
+[SECTION]
+
+To some extent, low forward rates may reflect a persistent decline in expected future real rates of interest or in the real term premium. Chairman Bernanke has suggested that an excess of ex ante global saving relative to global investment has held down real interest rates around the world.11  Some of the factors behind this excess of saving over investment include the surge in revenues of oil and commodity exporters, a retreat in Asian investment demand from the boom that preceded the late 1990s, and a reduction in fiscal deficits in some Latin American countries. But these low bond yields also have a nominal aspect. The declines in inflation rates, in the volatility of inflation, and in long-term inflation expectations all point to a reduction in the compensation required by investors for the effects of future inflation on the returns to holding long-term bonds.
+
+[SECTION]
+
+This development is particularly remarkable in many emerging-market countries, in which longer-dated fixed-coupon bonds issued in domestic currencies had ceased to exist during the inflationary 1970s and 1980s. The recent lengthening of maturities of domestic-currency debt has, in many cases, not only extended the yield curve but--and this is one of the key results of the taming of inflation--effectively created a domestic-currency yield curve that previously did not exist.
+
+[SECTION]
+
+Since 2000, ten-year nominal fixed-coupon bonds in the domestic currency have been introduced in Brazil, Chile, Colombia, Indonesia, Mexico, and Russia. Korea and Thailand introduced ten-year fixed-coupon bonds in their respective currencies in the 1990s. Last year the government of Mexico issued a thirty-year fixed-coupon bond in pesos for the first time. The proportion of domestic-currency debt in Mexico maturing within one year was nearly 90 percent in 2002 and is now less than 75 percent.12  The Korean government continues to increase the proportion of its domestic-currency debt in longer maturities, with the one-year-and-under segment falling from roughly one-half in 1999 to less than one-fifth by the end of last year. Moreover, maturity extension is not limited to emerging-market countries. France and the United Kingdom, for example, issued fifty-year bonds in 2005.
+
+[SECTION]
+
+Besides the fact that yield curves have been extended in many countries, they have also been relatively low and flat worldwide, at least in part because of the decline in inflation. The flattening or slight inversion of yield curves in the major industrial economies, such as the United States, Japan, the euro area, the United Kingdom, and Canada is well known. For example, ten-year yields in the euro area are less than 25 basis points higher than three-month yields, and the yield curve is currently downward sloping in the United Kingdom.
+
+[SECTION]
+
+At the same time that maturities have been extended, bond yields in the domestic currencies of emerging-market countries have also declined. It is perhaps not surprising that, given the high rates of saving and generally high level of development in their economies, the governments of Hong Kong and Korea can borrow at levels close to those in the advanced economies. More notable, however, is that the Mexican government can borrow in pesos at a thirty-year maturity at roughly 8 percent. Although Mexico is perhaps the most striking example, it is not alone. Other middle-income emerging-market countries with single-digit yields on fixed-rate ten-year bonds in the domestic currency include Chile, Colombia, Malaysia, Russia, South Africa, and Thailand, to name but a few. The computation of forward rates for most of these countries is difficult because of the relative sparseness of the maturity distribution, but for those countries in which five-year forward rates can be computed, they have been declining and have reached very low levels in the past year or so.
+
+[SECTION]
+
+Overall, the combination of lower and less volatile inflation worldwide has reduced inflation expectations and perceived inflation risk and resulted in a lower premium in long rates for inflation uncertainty. I believe that these factors have been key contributors to the lower long-term yields and the flattening of yield curves, particularly in emerging markets. The establishment of markets for long-term nominal government and corporate debt in countries in which they did not exist a decade ago is powerful evidence of the faith that investors place in a future environment of price stability.
+
+[SECTION]
+
+Broader Economic Benefits
+
+[SECTION]
+
+The economic benefits of price stability are too numerous and well known for me to cover here in detail. Long-run price stability certainly is essential for achieving maximum employment. However, I would like to underscore some often-overlooked benefits related to the development of markets for long-term bonds.
+
+[SECTION]
+
+Price stability boosts growth by deepening financial markets. Given stable prices, savers and investors have more confidence about the ultimate value of their investments and are more willing to enter long-term financial contracts. A number of studies have concluded that the development of banking and financial markets is a key driver of economic growth. Thus, greater central bank credibility, which permits more development of local financial markets, can have an economic benefit beyond the financial sector. 13
+
+[SECTION]
+
+The increasing issuance of local-currency bonds is leading to an improved distribution of risk. When emerging-market countries borrowed mostly in dollars or other foreign currency, they bore the exchange rate risk while lenders bore default risk. This was a key reason why currency crises of the past few decades were so costly: Sharp depreciations of the exchange rate boosted the domestic-currency value of foreign debt and wreaked havoc with government finances and corporate balance sheets. With reduced reliance on foreign-currency borrowing, emerging-market economies should be able to weather future storms with less disruption than in the past.
+
+[SECTION]
+
+The development of long-term domestic-currency bond markets is one of the factors that help lower the costs of long-term planning and enhance the ability to undertake long-term investments In particular, investment decisions are less likely to be constrained by having only short-term financing available for longer-term projects, thereby allowing improved decisionmaking for governments, firms, and individuals. These improvements enhance the prospects of economic development.
+
+[SECTION]
+
+Higher and more-stable growth combined with a better ability to undertake long-term plans can also improve the fiscal outlook for a country. A better fiscal outlook, in turn, increases confidence, facilitates financial market development, and thus further boosts growth. And, in a virtuous cycle, it reinforces prospects for continued price stability. More-prudent fiscal policies, including lower deficits, longer debt maturities, and reduced foreign-currency debt can reduce the likelihood and potential severity of financial crises. These policies make the financial positions of emerging-market governments less vulnerable to movements in interest rates and exchange rates. A reduction in the perceived risk that a government may not be able to service its debts makes changes in investor sentiment and financial contagion less likely, thereby reducing financial market volatility.
+
+[SECTION]
+
+Maintaining Progress
+
+[SECTION]
+
+I have argued that globalization, deregulation, and financial innovation, in part spurred by recent experiences of high inflation, have fostered currency competition that has led to improved central bank performance and, hence, the reduction of inflation worldwide. The resulting enhancement of central bank governance and credibility has allowed the development of long-term bond markets in many countries and the flattening of yield curves around the globe.
+
+[SECTION]
+
+I want to conclude by returning to the question of whether these phenomena are likely to persist. Globalization and innovation are genies that may prove difficult to put back in their bottles. Nonetheless, although I am an optimist, I would be remiss if I did not point out some risks. In particular, deregulation and global competition may be subject to change. The difficulty of reaching agreement in the Doha Round of trade negotiations highlights the risk of renewed protectionism and backtracking on deregulation. Trade barriers and regulations are anathema to globalization and competition. Barriers to the free flow of goods, services, capital, and technology would also diminish the force of innovation that has been so beneficial in the struggle against inflation. Transaction taxes and administrative barriers may hinder the development and liquidity of bond markets, and much progress that is still required in many emerging-market countries on these fronts.
+
+[SECTION]
+
+High inflation can destroy an economy and result in enormous hardship for everyone involved, as Argentina painfully experienced not long ago. The benefits achieved through more-stable prices are substantial. Fortunately, economic forces have led to better central bank behavior around the world during the past decade. If citizens and politicians lose sight of these benefits, and the forces that have led to enhanced currency competition are thwarted, these gains could prove fleeting. I believe that we must continue to work hard to lock in the gains achieved so far. The lessons of the high- inflation episodes are too important to forget.
 
 [SECTION]
 

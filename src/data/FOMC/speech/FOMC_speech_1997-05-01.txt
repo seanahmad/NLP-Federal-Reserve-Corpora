@@ -22,6 +22,13 @@ The second theme I want to explore is the large element of uncertainty underlyin
 
 Unbundling of Financial Services
 
+
+
+
+
+
+	The unbundling of financial products is now extensive throughout our financial system.  Perhaps the most obvious example is the ever-expanding array of financial derivatives available to help firms manage interest rate risk, other market risks, and, increasingly, credit risks.  Derivatives are now used routinely to separate the total risk of more generic products into component parts associated with various risk factors.  These components frequently are repackaged into synthetic products having risk profiles that mimic financial instruments in other markets.  The synthetic products can then be resold to those investors most willing and able to bear the associated risks.
+
 [SECTION]
 
 Another far-reaching innovation is the technology of securitization--a form of derivative--which has encouraged unbundling of the production processes for many credit services.  Securitization permits separate financial institutions to originate, service, fund, and assume the credit or market risks of a portfolio of loans or other assets.  Thus, a financial institution may specialize in those activities where it has particular expertise or other comparative advantages.  For example, to reduce the costs of originating and securitizing certain types of household loans, the underwriting processes used by some financial institutions rely on highly automated credit-scoring models developed by third-party vendors.  These models, in turn, typically are linked to huge databases on borrower characteristics maintained independently by national credit bureaus.

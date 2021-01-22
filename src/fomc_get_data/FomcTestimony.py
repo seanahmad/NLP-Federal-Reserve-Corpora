@@ -9,7 +9,7 @@ import json
 from .FomcBase import FomcBase
 
 class FomcTestimony(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/Desktop/proj2/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('testimony', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -73,13 +73,13 @@ class FomcTestimony(FomcBase):
                     self.titles.append(doc_link.get_text())
                     self.speakers.append(speaker)
                     self.dates.append(datetime.strptime(date_str, '%B %d, %Y'))
-                    
+
                 if self.verbose: print("YEAR: {} - {} testimony docs found.".format(year, len(doc_links)))
 
     def _add_article(self, link, index=None):
         '''
         Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to. 
+        The index is the index in the article to add to.
         Due to concurrent prcessing, we need to make sure the articles are stored in the right order
         '''
         if self.verbose:

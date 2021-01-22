@@ -198,7 +198,11 @@ Alternative budget scenariosBillions of current dollars when relevant
 
 [SECTION]
 
-
+Scenario*Average Surplus,2002-2011Payoff Date
+Amended CBO baseline3462010
+Social Security surplus only 2492012
+Fully-funded federal budget5822007
+* All scenarios assume the forecast surplus for 2001 is used to pay down debt.
 
 [SECTION]
 
@@ -208,7 +212,26 @@ Fourth Quarter 2000Trillions of current dollars
 
 [SECTION]
 
-
+AssetsTotalOutstandingAmount (est.)
+U.S. Government guaranteed debt0.6
+U.S. Government sponsored agencies1.7
+Municipal bonds 1.0
+Corporate bondsover 3.0
+Asset-backed securities 0.9
+Mortgage pass-through securities 1.8
+Commercial mortgage obligations (AAA)0.7
+Certificates of deposit1.0
+Commercial paper1.5
+Commercial and agricultural loans1.1
+1-4 family residential mortgages1.5
+Commercial real estate loans	0.8
+Consumer loans 0.7
+Mutual fundsover 7.0
+         Money market funds(1.8)
+         Bond funds including corporates(0.8)
+         Equity mutual funds(4.3)
+Corporate equityabout 22.0
+Gold1.0
 
 [SECTION]
 
@@ -229,3 +252,13 @@ Return to top
 [SECTION]
 
 2001 Speeches
+
+
+
+
+
+Home | News and events 
+Accessibility
+
+To comment on this site, please fill out our feedback form.
+Last update: June 12, 2001, 7:00 PM

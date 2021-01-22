@@ -87,6 +87,8 @@ Supply shocks, such as changes in energy prices, food prices, or import prices. 
 [SECTION]
 
 Inflation persistence.  Many economists have argued that inflation tends to be persistent, or "sticky," perhaps for institutional reasons related to the process of wage determination, supply contracts, and the like.  Hence, current trends in inflation can be expected to persist.
+
+Of course, this model, like any model, will have an error term, which represents a portion of the behavior of inflation that we can't reliably explain or predict.  Historically, the error terms of estimated inflation models have tended to be large relative to the overall variability of inflation, implying that inflation is more difficult to forecast than we would like.  This difficulty of forecasting inflation has important implications, as we shall see.
 
 [SECTION]
 

@@ -29,7 +29,7 @@ class ScrapePressConference(FomcBase):
         fomc = ScrapePressConference()
         df = fomc.get_contents()
     '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/Desktop/proj2/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('press_conference', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

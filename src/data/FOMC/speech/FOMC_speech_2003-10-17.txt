@@ -6,150 +6,316 @@ Panel Discussion
 
 [SECTION]
 
-I should start with two declarations.  First, the usual disclaimer holds with particular force today--the views I am about to express are my own and not necessarily those of any other policymaker at the Federal Reserve.  Second, this conference has been most interesting and informative, but I remain an inflation targeting (IT) skeptic.  I will briefly lay out the reasons for my attitude, then address some topics, like communication, that frequently arise in the discussion, and conclude by trying to stress-test my skepticism by speculating on whether IT would have been helpful in some recent episodes related to monetary policy.
+Should the Federal Reserve announce a quantitative inflation objective? Those opposed to the idea have noted, correctly, that the Fed has built strong credibility as an inflation-fighter without taking that step, and that that credibility has allowed the Fed to be relatively flexible in responding to short-run disturbances to output and employment without destabilizing inflation expectations. So, the opponents argue, why reduce that flexibility unnecessarily by announcing an explicit target for inflation?
 
 [SECTION]
 
-Inflation Targeting for the United States
-I agree with advocates of IT in several critical areas.  Price stability--or its approximation at very low inflation--is the appropriate primary long-term objective of monetary policy, and achieving this objective is the way that policy can best contribute to the long-term welfare of the country.  Moreover, in some countries, adopting IT, together with the central bank independence that often accompanies the initiation of IT regimes, has been a major step toward attaining price stability.
+It would be foolish to deny that the Fed has been quite successful on the whole
+over the past two decades. Whether the U.S. central bank would have been even more
+successful, had it announced an explicit objective for inflation at some point, is
+impossible to say. We just dont know. We cant re-run history; and although empirical
+cross-country comparisons can be useful, they are far from being controlled experiments.
 
 [SECTION]
 
-The question I would like to address is whether IT would improve economic performance in the United States.  That is, would IT be likely to lead to actions by policymakers and private agents that increase the odds on keeping the economy producing at its maximum sustainable level and inflation low and stable.  In my view, the verdict on IT for the United States is at least "not proven" and possibly negative--that is, IT might detract from economic performance over time.
+However, the relevant question at this point is not the unknowable outcome of the
+historical counterfactual but whether, given the initial conditions we face today, the
+adoption of an explicit inflation objective might not improve U.S. monetary policy in the
+future. The Feds environment today is different from that of the 1980s and 1990s in at
+least one important respect, which is that price stability is no longer just over the horizon
+but has been achievedcore inflation rates are currently not much above one percent.
+Thus, in contrast to the experience of the past 35 years or so, in which there could be little
+doubt about the Feds desired direction for inflation, today the risks to inflation are more
+nearly symmetrical; that is, inflation can be too low as well as too high.
 
 [SECTION]
 
-I start from the premise that the United States has had a very successful monetary policy over the past two decades.  We have achieved price stability, inflation expectations are low and stable, and we have done this with two relatively shallow recessions in twenty years.  Many factors have contributed to this economic performance, but monetary policy has been an important element.  So for me, the default option is to keep doing what we have been doing--however hard it might be to model or explain.  And that is not inflation targeting.  I believe that adopting IT, even in its softer versions, would be a slight shift along the continuum of constrained discretion in the direction of constraint, and the benefits of such a shift are unlikely to outweigh its costs.  Consequently, I would stick with the status quo.
+A case can be made, I believe, that when the economy is operating in the region
+of price stability, public expectations and beliefs about the central banks plans and
+objectives, always important, become even more so. First, because the public can no
+longer safely assume that the central bank prefers lower to higher inflation, expectations
+about future policy actions and future inflation may become highly sensitive to what the
+public perceives to be the Feds "just right" level of inflation. Uncertainty about this
+"just right" level of inflation thus may translate, in turn, into broader economic and
+financial uncertainty. Second, at very low inflation rates, the zero lower bound on the
+policy interest rate is more likely to become relevant, which increases the potential
+importance of effective expectations management by monetary policymakers. For
+example, when interest rates are very low, the best way to ease policy may be to explain
+to the public that the current low interest rate will be maintained for a longer period,
+rather than simply lowering the current rate. The enhanced importance of public beliefs
+and expectations about monetary policy in the region of price stability argues, it seems to
+me, for greater attention by the central bank to its methods of communication with the
+public in that region.
 
 [SECTION]
 
-On the cost side, I believe that under some circumstances central banks do face short-term tradeoffs between economic stability and inflation stability, and I am concerned that IT would result in less-than-optimal attention being paid to stabilizing the economy and financial markets.  In its actions, the Federal Reserve has put considerable weight on achieving and maintaining price stability, but it has not been inflation targeting--not even implicitly.  IT implies putting a higher priority on hitting a particular inflation objective over the intermediate run than the Federal Reserve has done.
+On the premise that effective communication is even more crucial near price
+stability, I will focus today on how an incremental move toward inflation targeting, in the
+form of the announcement of a long-run inflation objective, might help the Fed
+communicate better and perhaps improve policy decisions as well, without the costs
+feared by those concerned about potential loss of flexibility. As usual, my views are not
+to be attributed to my colleagues on the Board of Governors of the Federal Reserve
+System or the Federal Open Market Committee.
 
 [SECTION]
 
-This point is most obvious from 1983 to 1997, in the so-called opportunistic disinflation period.  During this time, the Federal Reserve was well aware that inflation was running above levels consistent with price stability but concentrated on keeping inflation from rising, not on reducing it further.
+As a preliminary, I need to introduce the idea of the optimal long-run inflation
+rate, or OLIR for short. (Suggestions for a catchier name are welcome.) The OLIR is the
+long-run (or steady-state) inflation rate that achieves the best average economic
+performance over time with respect to both the inflation and output objectives.
 
 [SECTION]
 
-I believe the Federal Reserve also paid more attention to noninflation factors than IT would have suggested in the 1997 to 2003 period, even though inflation outcomes were low and stable.  Its broader focus was especially evident in the reaction to the threat to financial stability in the fall of 1998 and in the very aggressive easing in early 2001.  In the latter case, easing continued through the spring even though inflation expectations looked as though they might be increasing, which would have been very difficult for an IT central bank to look through.  I recognize that such responses would in theory be available under flexible inflation targeting, but I wonder what would happen in practice.  Most IT frameworks put a priority on inflation control and base their communication and accountability structures on inflation forecasts and outcomes.  Under circumstances in which short-run conflicts among various objectives are possible, I ask myself where IT policymakers are likely to take their chances.
+Note that the OLIR is the relevant concept for dual-mandate central banks, like
+the Federal Reserve. Thus it is not necessarily equivalent to literal price stability, or zero
+inflation adjusted for the usual measurement error bias. Rather, under a dual mandate, a
+strong case can be made that, below a certain inflation rate, the benefits of reduced
+microeconomic distortions gained from price stability are outweighed by the costs of toofrequent
+encounters of the funds rate with the zero-lower-bound on nominal interest rates.
+(This argument underlies the common view that there should be a buffer zone against
+deflation.) Hence, in general, the OLIR will be greater than zero inflation, correctly
+measured. Note also that the OLIR is an average long-run rate; variation of actual
+inflation around the OLIR over the business cycle would be expected and acceptable
+(Meyer, 2003).
 
 [SECTION]
 
-Moreover, with its concentration on mean inflation, IT seems to be ill-adapted to the risk-management paradigm that Chairman Greenspan laid out in Jackson Hole.1  That mode of operation, which I believe has been an important factor in the Federal Reserve's success, weighs the skews in the outlook, as well as the central tendencies, and also takes account of the cost of missing on one side or the other--and for more than one objective.
+What is the OLIR for the U.S. economy? A fairly extensive recent literature has
+attempted to quantify the OLIR. (See, e.g., Coenen, Orphanides, and Wieland, 2003, and
+references therein.) Because direct measures of the benefits of low inflation are not
+available, in practice papers in this literature estimate the OLIR to be the lowest inflation
+rate for which the risk of the funds rate hitting the lower bound appears to be acceptably
+small. Interestingly, the results using this approach seem fairly consistent across
+models and specifications, with several papers (including work using the FRBUS model,
+see Reifschneider and Williams, 2000) having concluded that the risk of hitting the zero
+bound seems to decline sharply once the long-run average inflation rate rises to about 2
+percent. In addition, other studies of the costs of very low inflation (such as the supposed
+effects of downward nominal wage rigidity on the allocation of labor) have found that
+these costs are also largely eliminated at inflation rates of about 2 percent (Akerlof,
+Dickens, and Perry, 1996; see also Altig, 2003).
 
 [SECTION]
 
-I think that the U.S. economy has benefited from the flexibility that the Federal Reserve has derived by eschewing a formal inflation target.  By flexibility I mean not frequent changes in long-term objectives but rather the freedom to deviate from long-term price stability, perhaps for a while.  I recognize that such deviations are also possible in models of flexible inflation targeting, but I question whether they can occur in practice.
+Fortuitously, then, it may be the case that something in the vicinity of 2 percent is
+the optimal long-run average inflation rate for a variety of assumptions about the costs of
+inflation, the structure of the economy, the distribution of shocks, etc. However, before
+we embrace that number, many details remain to be filled in. For example, in practice,
+much might depend on the specification of the inflation index, on assumptions made
+about the steady-state value of the real interest rate, and other factors. Also important
+would be getting a better sense of the range of uncertainty around this number. More
+research on this issue would be highly worthwhile. As the economy seems currently to
+be moving toward a sustainable expansion path, with a stabilizing rate of inflation,
+having an estimate of the OLIR likewise seems crucial to making good policy in the next
+few years. The issue is one that, in my view, the FOMC and the staff should be looking
+at carefully.
 
 [SECTION]
 
-Against these potential costs, I believe that the benefits of IT in the United States relative to the current regime are questionable.
+Suppose, as I believe would be feasible, that the FOMC were able to agree on a
+value or central tendency for the OLIR, based on the results of staff research and
+discussion among Committee members. Of course, the value of OLIR would only be a
+rough approximation to the truth, but one cannot avoid making such approximations in
+policymaking, whether implicitly or explicitly. Should the FOMC then take the next
+step and announce this number to the public? Some have argued that such an
+announcement would be unnecessary because the Feds implicit inflation objective is
+already well understood by the market. I am skeptical. Publicly expressed preferences
+by FOMC members for long-run inflation have ranged considerably, from less than 1
+percent to 2.5 percent or more. Long-run inflation expectations implicit in the pricing of
+inflation-indexed securities vary significantly over time, and the apparently high
+sensitivity of long-term nominal interest rates to Fed actions suggests some uncertainty
+about the Feds long-run inflation target (Gurkaynak, Sack, and Swanson, 2003). Gavin
+(2003) points out that the range of private-sector forecasts for inflation is typically higher
+for the U.S. than for inflation-targeting countries.
 
 [SECTION]
 
-We do not see evidence in IT economies that inflation is lower or more stable or that output is more stable around potential.  On the surface, then, IT appears to produce little or no gain in hitting goals.  To be sure, the evidence on how well inflation expectations are anchored is more mixed.  Levin, Natalucci, and Piger at this conference, provided some backing for the idea that long-term expectations in IT economies respond less to incoming information on inflation.2  But I am also aware that the bulk of the studies show that interest rates and inflation are no more predictable in IT economies than in non-IT economies.  The IT economies examined in the studies may have been subject to larger shocks than the non-IT economies studied, but the burden of proof should be on the advocates of IT to show that it would improve economic performance in non-IT economies--by providing either greater cyclical stability or better resource allocation.
+If announcing the OLIR does not constrain short-run policy unduly, I really
+cannot see any argument against it. To reassure those worried about possible loss of
+short-run flexibility, my proposal is that the FOMC announce its value for the OLIR to
+the public with the following provisos (not necessarily in these exact words):
 
 [SECTION]
 
-A frequently used argument for IT in the United States is that it will help to extend the good performance of monetary policy as leadership changes--that is, it will protect against persistent increases or decreases in inflation under a new Chairman.  In my view, however, considerable safeguards against these outcomes are already in place.  The law mandates price stability.  Without exception, everyone now on the Federal Open Market Committee (FOMC) agrees with this mandate, and it enjoys wide acceptance in the public and in the Congress as well as in the academic community.  Moreover, FOMC members have diverse views and the Committee has been operating in an environment in which members are free to express those views--in sharp contrast to some earlier eras.  Any Chairman gets deference, but a new Chairman would not have the clout of Alan Greenspan, at least initially.  A further safeguard is provided by the greater amount of public discussion and media attention to monetary policy currently than in the 1960s and 1970s.
+(i) The FOMC believes that the stated inflation rate is the one that best
+promotes its output, employment, and price stability goals in the long run.
+Hence, in the long run, the FOMC will try to guide the inflation rate
+toward the stated value and maintain it near that value on average over the
+business cycle.
 
 [SECTION]
 
-Of course there is a risk, however small, that incompetence or political motivations in a new leader might foster new trends or greater variability in inflation, and IT might help counter any such tendencies.  The question is whether insuring against this remote outcome is worth paying the cost.  IT prevents some bad results, but it tends to foreclose very good results as well.
+(ii) However, the FOMC regards this inflation rate as a long-run objective
+only and sets no fixed time frame for reaching it. In particular, in deciding
+how quickly to move toward the long-run inflation objective, the FOMC
+will always take into account the implications for near-term economic and
+financial stability.
 
 [SECTION]
 
-
-
-[SECTION]
-
-Special Topics
-
-[SECTION]
-
-Communications and transparency
+As you can see, stating the OLIR with these provisos places no unwanted
+constraints on short-run monetary policy, leaving the Committee free to deal with current
+financial and cyclical conditions as the Committee sees fit. In this respect, the proposal is
+very similar to one recently advanced by Governor Gramlich (2003).
 
 [SECTION]
 
-I am not arguing that the Federal Reserve cannot communicate better.  But I am saying that IT is not a cure-all for communication problems, that it might not even help much in the markets where it really counts, and that if simplicity of communications drives policy, IT might lead to inferior economic outcomes.
+To be clear, because neither the horizon at which the inflation objective is to be
+attained nor the expected path of inflation and output is specified under this proposal,
+what I am suggesting is not equivalent to inflation targeting as commonly understood.
+Instead, what is being proposed is an incremental step that I believe would provide
+important benefits in itself and which would leave the door open for further steps later if
+that seemed appropriate. In the language of Faust and Henderson (2003) at this
+conference, my objective is to get the mean of inflation right while leaving the
+determination of the variance open for future discussion and debate.
 
 [SECTION]
 
-
-
-[SECTION]
-
-Political legitimacy
-
-[SECTION]
-
-The Federal Reserve is in a more complex position within the government relative to the central banks of many other countries, and this position both complicates any consultative process and elevates its importance.  The checks and balances of our system mean that unlike most other central banks, which operate in a parliamentary system, we do not have a "government" to interact with.  The paradigm of goal dependence-instrument independence so common in IT regimes is effectively blocked for us.  If we moved toward setting a goal for ourselves, perhaps even if we just defined price stability, we would need to consult carefully with both houses of the Congress and the Administration and would need to judge what, short of legislation, constituted a veto by any of the people with whom we were consulting.  This process would be subtle and difficult--but absolutely essential to protect our independence and preserve our democratic legitimacy.
-
-[SECTION]
-
-
+Without any fixed time frames for reaching the optimal long-run inflation rate,
+would an announced value for the OLIR carry any credibility? I think it would, for the
+important reason that the OLIR is not an arbitrarily selected value. In particular, because
+this inflation rate would have been judged by the Committee to be the one under which
+the economy operates best in the long run, the FOMC would have an incentive to try to
+reach it eventually, even if it were not an announced long-run objective of policy. Thus,
+despite the lack of a time frame, the OLIR should have long-run credibility, that is, it
+should be the best (lowest-forecast-error) answer to the question: "What do you expect
+the average inflation rate in the United States to be over the ten-year period that begins
+(say) three years from now?"
 
 [SECTION]
 
-Defining price stability
+Additional reasons that the announcement would carry weight are the
+accumulated credibility of the Fed and the fact that we are presumably starting from a
+point near the optimal inflation rate, so that a period of costly disinflation will not be
+needed to reach the OLIR. In other words, this relatively unconstrained approach might
+not work for other central banks, and it might not have worked for the Fed at other times
+(e.g., when we were at early stages of the disinflation process); but given the current
+configuration of circumstances, it should work now.
 
 [SECTION]
 
-I am still trying to make up my mind on the balance of costs and benefits of taking this step.  As I have already noted, most evidence does not suggest a lot of private uncertainty about longer-term price trends in the United States, and so the benefits, if any, would be limited.  Spreads between nominal and indexed 10-year bonds have fluctuated narrowly around 2 percent since 1999, and survey measures of long-term inflation expectations have barely moved in recent years.  Nonetheless, further evidence supporting the inference of Levin, Natalucci, and Piger that IT would result in even more firmly anchored expectations would be important in this equation.
+I have argued that announcing the OLIR would not have significant costs. What
+are the benefits? In my view, the announcement of the OLIR should serve as a useful
+clarification of the long-run objective of the Fed and would thereby provide a long-run
+anchor to monetary policy. Among other benefits, the announcement of the OLIR
+should help participants in financial markets price long-term bonds and other financial
+assets more efficiently; help to lower inflation risk in financial markets and in other forms
+of contracting; and tend to stabilize long-term inflation expectations more broadly, which
+in turn would make short-run stabilization policy more effective (Orphanides and
+Williams, 2003). Although the announcement of the OLIR would not constrain short-run
+policymaking in undesirable ways, it would nevertheless also help the market make
+inferences about the likely timing and extent of tightening and easing cycles, since all
+else equal the FOMC would want the inflation rate to move asymptotically toward the
+long-run desired level. For example, if the current inflation rate were known to be below
+the OLIR, that fact would convey some information about how long it will likely be
+before the Fed begins its tightening cycle.
 
 [SECTION]
 
-The costs, given my views on IT, would arise from any tendency for this definition to morph into a target that unnecessarily constrained actions--that did not effectively permit outcomes outside the range or away from the target under some circumstances.  Resisting such a tendency would be difficult, I think, once the number was given.  And the pressure to elevate price stability over economic stability, even in the short-term, would be accentuated because the latter goal would not have a numerical value.  However, ways of mitigating this tendency might be found--for example, by giving a fairly wide range and making it clear that the midpoint had no special meaning and that the edges were soft.  Critical to maintaining useful flexibility would be the understanding, believability, and sustainability of the "provisos" that the Federal Reserve would give outlining the circumstances under which it would not seek to achieve its price stability objective.
+Because some of the principal benefits of announcing the OLIR would arise from
+the reduction of uncertainty in financial markets and in the economy more broadly, I
+prefer the announcement of a single number for the OLIR, or at least a number with a
+surrounding tolerance range that is as narrow as the Committee can live with. I
+acknowledge that the OLIR cannot be determined precisely. Nevertheless, to the extent
+that the FOMC is fairly indifferent over a modest range of long-run inflation rates, there
+would be a positive benefit to choosing a single number within that range and trying to
+coordinate public expectations on that number.
 
 [SECTION]
 
-Stress-Testing My Skepticism--Would IT Have Improved Economic Performance in Recent Years?
+Agreeing on and announcing a value for the OLIR might improve policymaking
+more directly, at least on the margin. In particular, the stated inflation objective would
+help guide policy during periods, like now, in which the economy is (we hope) returning
+to a sustainable growth path; at all times, it would also serve as a reminder to
+policymakers to keep one eye on the long run at the same time that they are reacting to
+current developments in the economy. But, to reiterate, it seems likely that the biggest
+gains would be in the area of communications. Sharing the OLIR with the public would
+address the most important information asymmetry in the system: namely, the publics
+imperfect knowledge of the FOMCs objectives. I believe this step would help to reduce
+the reliance of the Fed on complex and easily misinterpreted qualitative language in its
+communications with the public.
 
 [SECTION]
 
-1.  Would IT have contributed in any way to damping the boom and bust since the mid-1990s?
+I conclude with a word on the politics of this proposal. One concern frequently
+expressed about announcing an inflation objective is that the Congress would interpret
+the introduction of an inflation target as a repudiation of the dual mandate. This would
+be a misinterpretation, but I understand why some legislators might draw the wrong
+conclusion.
 
 [SECTION]
 
-I have already voiced my opinion that it would not have helped and might even have hurt in the reaction to emerging weakness in 2001.  But another part of the question is, Would IT have constrained the previous upswing in a way that also would have lessened the subsequent weakening?
+However, it seems to me that the recent attention to the risk of deflation changes
+the political calculus. There now exists a broad awareness that an inflation rate that is too
+low, by raising the probability of deflation and a binding zero bound on the nominal
+interest rate, poses a threat to output and employment stability. Therefore the connection
+between the announced OLIR and the real side of the economy will be much more
+apparent to non-economists. Indeed, the entire rationale for the OLIR can be expressed
+in terms of jobs and growth. The FOMC might say to Congress: We dont want longrun
+inflation to be too high, because low inflation promotes growth and productivity. On
+the other hand, inflation shouldnt be too low, because we want to have all the room we
+need to respond to the dangers that deflation poses for output and employment. We pose
+the objective in terms of inflation only because that is what the Fed can control in the
+long run. It does not seem to me to be such a difficult case to make in terms of the
+existing dual mandate. In addition we would have the explicit proviso that important
+short-run economic and financial goals will not be sacrificed in order to reach the longterm
+inflation objective more quickly. Although it would be important to vet these ideas
+thoroughly with the relevant Congressional committees before proceeding, I am hopeful
+that a change of the type I am proposing would be acceptable to Congress as being within
+the spirit of existing legislation.
 
 [SECTION]
 
-A number of observers believe that a little more policy tightening a little earlier might have damped the fluctuations in financial markets and the economy.  Personally, I doubt that, given the strong forces at work.  But I also do not think an IT framework would have helped, even if such an outcome were possible.  Inflation was edging lower through much of this period.  To be sure, forecasts were consistently missing on the high side, so a forecast-based IT framework might have run a slightly tighter policy--but I do not think you want to rest a case for changing policy regimes on persistent forecast misses.
+REFERENCES
 
 [SECTION]
 
-The arguments usually given for tighter Federal Reserve policy in the mid- to late-1990s reference developments in asset prices--specifically in the equity market--and the judgment that too-low interest rates fostered an intertemporal misallocation of resources in the form of an excessive buildup of capital and, hence, raised the amplitude of longer-term economic fluctuations.  IT is especially poorly adapted to deal with these sorts of issues, however, since it tends to emphasize the performance of inflation in consumer goods and services over the succeeding few years.  For those, like me, who are skeptical about the ability of central banks to deal with swings in asset prices or with longer-term resource allocation issues, this aspect of inflation targeting is not negative.  Nonetheless, it is also evident in speeches and commentary that policymakers in IT countries right now are wrestling with the tension between IT frameworks and the suspicion that economic imbalances and disequilibriums in house or other asset prices are developing that could disrupt the economy at some point down the road.
+Akerlof, George, William Dickens, and George Perry, "The Macroeconomics of Low
+Inflation," Brookings Papers on Economic Activity, 1996:1, 1-76.
 
 [SECTION]
 
-2.  Would ongoing IT or even a numerical definition of price stability 
-have damped the bond market volatility of this spring and summer?
+Altig, David, "What is the Right Inflation Rate?", Federal Reserve Bank of Cleveland,
+Economic Commentary, September 15, 2003.
 
 [SECTION]
 
-Long-term interest rates fell steeply in May and early June and rebounded even more sharply in late June and July.  The decline got under way in earnest after the FOMC statement of May 6.  What was the news that day?  First, the FOMC thought that inflation could be below a level consistent with satisfactory economic performance over time and that the current rate of inflation was close to that excessively low level.  Second, the FOMC was worried that the lower limit would be breached--it thought inflation was more likely headed down than headed up from the already low level.  In response, 10-year Treasury rates fell 8 basis points the day of the announcement and another 12 basis points the next day as the import of the announcement sank in.
+Coenen, Gunter, Athanasios Orphanides, and Volker Wieland, "Price Stability and
+Monetary Policy Effectiveness When Nominal Interest Rates are Bounded at Zero," ECB
+working paper series no. 231, May 2003.
 
 [SECTION]
 
-In my view, most of this immediate 20-basis-point decline in longer-term rates came not in response to the clarification of the inflation objective but rather to the revelation that the FOMC was worried about the trend of inflation.  Moreover, much of the information on the latter point was quite recent, reflecting what seemed to be a lack of a rebound in the economy after the Iraq war and a steep decline in recent inflation readings.  In these circumstances, had we had an inflation target for a while, rates might have been lower before the announcement, but most of that decline would have filtered into the markets only over the preceding few weeks, and rates would have been just as low a few days after the meeting.
+Gavin, William, "Inflation Targeting: Why it Works and How to Make it Work Better,"
+Federal Reserve Bank of St. Louis, working paper 2003-027B, September 2003.
+Gramlich, Edward, "Maintaining Price Stability," remarks before the Economic Club of
+Toronto, Toronto, Canada, October 1, 2003.
 
 [SECTION]
 
-The next 70 basis points of rate decline occurred by mid-June in response to further indications of weakness in activity and prices and to statements by Federal Reserve officials that they were thinking about how to conduct policy in the remote contingency that a deflation threatened to take hold.   I do not see how this response would have been different in an IT framework.  My judgment in this regard is reinforced by the fact that rates in many IT countries over this same period of May and June fell by a similar magnitude.  Weakness in the world's most important economy and declines in its exchange rate should lead rates overseas to decline, but the extent and similarity of the decline is surprising.  This occurrence has led me to conclude that the rate drop in the United States was caused by the downward shocks to expected prices and activity, not by the policy framework.
+Gramlich, Edward, Maintaining Price Stability, remarks before the Economic Club of Toronto, Toronto, Canada, October 1, 2003.
 
 [SECTION]
 
-The IT countries did experience somewhat smaller rate increases relative to the United States in July and August.  They did not have some of the special factors pushing U.S. rates up--revised expectations about bond purchases and mortgage hedging activity.  Perhaps more importantly, their economies, though strengthening, did not demonstrate the surprising degree of rebound that seems to be occurring in the United States.
+Gurkaynak, Refet, Brian Sack, and Eric Swanson, "The Excess Sensitivity of Long-Term
+Interest Rates: Evidence and Implications for Macroeconomic Models," working paper,
+Board of Governors of the Federal Reserve System, 2003.
 
 [SECTION]
 
-In sum, this is a striking episode in which misunderstandings between the central bank and the markets probably contributed to an extraordinary volatility in financial markets.  But these misunderstandings did not stem from the absence of inflation targets in the United States; volatility would have been damped only a little, if at all, under inflation targeting.
+Meyer, Laurence, "Practical Problems and Obstacles to Inflation Targeting," presented at
+Economic Policy Conference, Federal Bank of St. Louis, October 16-17, 2003.
 
 [SECTION]
 
-Conclusion
-I recognize that I am at risk of being interpreted as saying that something good--the policy regime of the past twenty years--cannot be made better or that there are not downside risks to highly judgmental, flexible policy with an imprecise price stability objective.  That is not what I think.  I am open to alternatives that promise improvements or that raise the odds on good policy continuing in the future without incurring much in the way of current costs.  But I do believe that those who propose changes from a good system have a high burden of proof.  The marginal benefits from improving a good regime by definition are not likely to be high.  And any change must deal with the uncertainties created by the law of unintended consequences.  I have yet to be convinced that for the United States inflation targeting has jumped those hurdles.
+Orphanides, Athanasios and John C. Williams, "Imperfect Knowledge, Inflation
+Expectations, and Monetary Policy," working paper, Board of Governors of the Federal
+Reserve System, June 2003.
+
+[SECTION]
+
+Reifschneider, David and John C. Williams, "Three Lessons for Monetary Policy in a
+Low-Inflation Era," Journal of Money, Credit, and Banking, November 2000, Part 2,
+936-72.
 
 [SECTION]
 

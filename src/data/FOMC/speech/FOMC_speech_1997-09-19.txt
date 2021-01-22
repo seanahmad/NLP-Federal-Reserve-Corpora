@@ -67,7 +67,7 @@ are reinforced by market forces and the performance incentives of bank owners an
 
 [SECTION]
 
-
+Too often financial engineering is targeted at regulatory arbitrage -- that is, exploiting loopholes in narrowly focused regulatory policies that are based on old, traditional instruments or business lines.  Also, potential new products may not be introduced because their regulatory treatment is viewed as too burdensome or uncertain.  This situation demonstrates all too clearly the differing reaction times of public and private entities.  Regulatory policies and standards often take a long time to change whereas, in the private sector, market forces can quickly remedy outmoded standards.  The resulting distortions of resources that arise when supervisory standards are slow to change is an unfortunate, albeit predictable, outcome.
 
 [SECTION]
 
@@ -87,7 +87,7 @@ Second, greater reliance will be placed -- particularly for nonbank business lin
 
 [SECTION]
 
-
+The latter element to our supervisory approach depends on market participants acting in their own self interest when dealing with counterparties.  That involves understanding the risks of engaging in business and properly pricing transactions.  Reliable financial information is an essential ingredient to efficient market discipline.  Such information would clearly convey the risk profile of the institution it represents.  In its absence, markets are more susceptible to distortions caused by rumors, misinformation, or failures to disclose.  Many believe the dearth of information on risk profiles reflects the market's reliance on the federal safety net.  Such information would be available if participants were not, to a large extent, indemnified from loss.  It is this desire to see market discipline taking a greater role in regulating the affairs of banking organizations and others that has motivated the Federal Reserve Board to voice its opinions about accounting standards that are being developed by the Financial Accounting Standards Board (FASB).
 
 [SECTION]
 
