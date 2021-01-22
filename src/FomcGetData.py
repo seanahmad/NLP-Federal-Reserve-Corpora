@@ -12,6 +12,7 @@ from fomc_get_data.FomcMeetingScript import FomcMeetingScript
 from fomc_get_data.ScrapePressConference import ScrapePressConference
 from fomc_get_data.FomcSpeech import FomcSpeech
 from fomc_get_data.FomcTestimony import FomcTestimony
+#from fomc_get_data.pdf2text import pdf2text
 
 def download_data(fomc, from_year):
     df = fomc.get_contents(from_year)
@@ -30,11 +31,11 @@ if __name__ == '__main__':
         from_year = 1990
     else:
         from_year = int(args[1])
-    
+
     content_type = args[0].lower()
     if content_type not in content_type_all:
         sys.exit(1)
-    
+
     if (from_year < 1980) or (from_year > 2020):
         sys.exit(1)
 
