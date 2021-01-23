@@ -51,7 +51,7 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcStatement(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
         super().__init__('statement', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

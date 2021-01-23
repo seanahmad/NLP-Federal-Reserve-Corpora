@@ -51,7 +51,7 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcTestimony(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
         super().__init__('testimony', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -119,11 +119,6 @@ class FomcTestimony(FomcBase):
                 if self.verbose: print("YEAR: {} - {} testimony docs found.".format(year, len(doc_links)))
 
     def _add_article(self, link, index=None):
-        '''
-        Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to.
-        Due to concurrent prcessing, we need to make sure the articles are stored in the right order
-        '''
         if self.verbose:
             sys.stdout.write(".")
             sys.stdout.flush()

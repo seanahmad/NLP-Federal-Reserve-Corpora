@@ -37,9 +37,6 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 def dump_df(df, filename="output"):
-        '''
-        Dump an internal DataFrame df to a pickle file and csv
-        '''
         filepath = filename + '.pickle'
         print("")
         print("Writing to ", filepath)
@@ -62,11 +59,6 @@ def is_integer(n):
         return float(n).is_integer()
 
 if __name__ == '__main__':
-    '''
-    This program get all calendar date of the past and announced FOMC meetings.
-    The first argument is optional to specify from which year to get the date.
-    It creates a dataframe and saves a pickle file and csv file.
-    '''
     # FOMC website URLs
     base_url = 'https://www.federalreserve.gov'
     calendar_url = base_url + '/monetarypolicy/fomccalendars.htm'

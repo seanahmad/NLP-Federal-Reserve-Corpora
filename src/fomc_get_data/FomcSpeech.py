@@ -51,21 +51,11 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcSpeech(FomcBase):
-    '''
-    A convenient class for extracting speech from the FOMC website
-    Example Usage:
-        fomc = FomcSpeech()
-        df = fomc.get_contents()
-    '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
         super().__init__('speech', verbose, max_threads, base_dir)
         self.speech_base_url = self.base_url + '/newsevents/speech'
 
     def _get_links(self, from_year):
-        '''
-        Override private function that sets all the links for the contents to download on FOMC website
-         from from_year (=min(2015, from_year)) to the current most recent year
-        '''
         self.links = []
         self.titles = []
         self.speakers = []
@@ -120,11 +110,6 @@ class FomcSpeech(FomcBase):
             if self.verbose: print("YEAR: {} - {} speeches found.".format(year, len(speech_links)))
 
     def _add_article(self, link, index=None):
-        '''
-        Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to.
-        Due to concurrent prcessing, we need to make sure the articles are stored in the right order
-        '''
         if self.verbose:
             sys.stdout.write(".")
             sys.stdout.flush()

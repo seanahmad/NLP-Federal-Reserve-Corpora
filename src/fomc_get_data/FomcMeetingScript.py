@@ -51,22 +51,10 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcMeetingScript(FomcBase):
-    '''
-    A convenient class for extracting meeting scripts from the FOMC website.
-    FOMC publishes the meeting scripts after 5 years, so this cannot be used for the prediction of the monetary policy in real-time.
-
-    Example Usage:
-        fomc = FomcMeetingScript()
-        df = fomc.get_contents()
-    '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
         super().__init__('meeting_script', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
-        '''
-        Override private function that sets all the links for the contents to download on FOMC website
-         from from_year (=min(2015, from_year)) to the current most recent year
-        '''
         self.links = []
         self.titles = []
         self.speakers = []
@@ -94,17 +82,12 @@ class FomcMeetingScript(FomcBase):
             print("There are total ", len(self.links), ' links for ', self.content_type)
 
     def _add_article(self, link, index=None):
-        '''
-        Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to.
-        Due to concurrent processing, we need to make sure the articles are stored in the right order
-        '''
         if self.verbose:
             sys.stdout.write(".")
             sys.stdout.flush()
 
         link_url = self.base_url + link
-        pdf_filepath = fomc_dir + 'script_pdf/FOMC_MeetingScript_' + self._date_from_link(link) + '.pdf'
+        pdf_filepath = self.base_dir + 'script_pdf/FOMC_MeetingScript_' + self._date_from_link(link) + '.pdf'
 
         # Scripts are provided only in pdf. Save the pdf and pass the content
         res = requests.get(link_url)

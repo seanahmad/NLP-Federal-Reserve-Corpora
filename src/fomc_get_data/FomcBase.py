@@ -54,7 +54,7 @@ class FomcBase(metaclass=ABCMeta):
         self.content_type = content_type
         self.verbose = verbose
         self.MAX_THREADS = max_threads
-        self.base_dir = fomc_dir
+        self.base_dir = base_dir
 
         # Initialization
         self.df = None

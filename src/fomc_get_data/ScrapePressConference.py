@@ -51,21 +51,10 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class ScrapePressConference(FomcBase):
-    '''
-    A convenient class for extracting press conference scripts from the FOMC website.
-    It is only available from April 2011.
-    Example Usage:
-        fomc = ScrapePressConference()
-        df = fomc.get_contents()
-    '''
-    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 20, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
         super().__init__('press_conference', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
-        '''
-        Override private function that sets all the links for the contents to download on FOMC website
-         from from_year (=min(2015, from_year)) to the current most recent year
-        '''
         self.links = []
         self.titles = []
         self.speakers = []
@@ -117,17 +106,12 @@ class ScrapePressConference(FomcBase):
 
 
     def _add_article(self, link, index=None):
-        '''
-        Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to.
-        Due to concurrent prcessing, we need to make sure the articles are stored in the right order
-        '''
         if self.verbose:
             sys.stdout.write(".")
             sys.stdout.flush()
 
         link_url = self.base_url + link
-        pdf_filepath = fomc_dir + 'script_pdf/FOMC_PresConfScript_' + self._date_from_link(link) + '.pdf'
+        pdf_filepath = self.base_dir + 'script_pdf/FOMC_PresConfScript_' + self._date_from_link(link) + '.pdf'
 
         # Scripts are provided only in pdf. Save the pdf and pass the content
         res = requests.get(link_url)
