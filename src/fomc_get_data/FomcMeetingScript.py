@@ -26,6 +26,7 @@ print(sys.stdout.encoding)
 # import tika
 # from tika import parser
 import textract
+import pdftotext
 
 # Import parent class
 from fomc_get_data.FomcBase import FomcBase
@@ -51,7 +52,7 @@ glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
 model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcMeetingScript(FomcBase):
-    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
         super().__init__('meeting_script', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
@@ -91,13 +92,15 @@ class FomcMeetingScript(FomcBase):
 
         # Scripts are provided only in pdf. Save the pdf and pass the content
         res = requests.get(link_url)
-        with open(pdf_filepath, 'wb') as f:
-            f.write(res.content)
+        with open(pdf_filepath, 'rb') as f: # TODO: it was wb before, what does wb/rb mean?
+            pdf_file = pdftotext.PDF(f)
+        with open(self.base_dir + 'meeting_script/FOMC_MeetingScript_' + self._date_from_link(link) + '.txt', 'w', encoding='utf8') as f:
+            f.write("\n\n".join(pdf_file))
 
         # Extract text from the pdf
         # pdf_file_parsed = parser.from_file(pdf_filepath)
         # paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed['content'].strip())
-        pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8')
+        # pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8')
         paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed.strip())
         paragraphs = paragraphs.split('\n')
 
