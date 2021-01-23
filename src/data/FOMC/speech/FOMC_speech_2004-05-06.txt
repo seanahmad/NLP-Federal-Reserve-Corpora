@@ -64,9 +64,6 @@ Clearly define the framework for the approval of individual complex structured f
 [SECTION]
 
 Finally, implement monitoring, risk-reporting, and compliance processes for creating, analyzing, offering, and marketing complex structured finance products.  Subsequent to new-product approval, the firm should monitor new complex structured finance products to ensure that they are effectively incorporated into the firm's risk-control systems.
-
-
-Of course, these internal controls and risk-management processses need to be supported and enforced by a strong "tone at the top" and a firm-wide culture of compliance.
 
 [SECTION]
 
@@ -143,11 +140,3 @@ Return
 [SECTION]
 
 2004 Speeches
- 
-
-
-  Home | News 
-  and events 
-Accessibility | Contact 
-  Us
-Last update: May 6, 2004

@@ -1,19 +1,57 @@
-from datetime import datetime
-import threading
+# System:
 import sys
 import os
-import pickle
 import re
-import requests
-from bs4 import BeautifulSoup
+from datetime import date
+from datetime import datetime
+
+# Computation:
 import numpy as np
 import pandas as pd
+import pickle
+
+# Web Scraping:
+import json
+from bs4 import BeautifulSoup
+from tqdm import tqdm
+import requests
+import threading
+from abc import ABCMeta, abstractmethod
+print(sys.stdout.encoding)
+
+# Text Extraction:
+# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
+# # User TIKA for pdf parsing
+# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
+# import tika
+# from tika import parser
+import textract
 
 # Import parent class
-from .FomcBase import FomcBase
+from fomc_get_data.FomcBase import FomcBase
+
+IN_COLAB = 'google.colab' in sys.modules
+IN_COLAB
+
+# Define Path Variables:
+employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
+cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
+fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
+fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
+gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
+ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
+sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
+treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
+fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
+preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
+train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
+output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
+keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
+glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
+model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcStatement(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
         super().__init__('statement', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

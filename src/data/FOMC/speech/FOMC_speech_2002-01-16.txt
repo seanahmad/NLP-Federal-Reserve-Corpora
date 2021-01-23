@@ -74,11 +74,11 @@ The policymaker following this rule is aiming to stabilize inflation around its 
 
 [SECTION]
 
-Lurking beneath the surface, but not very far below, is thus a version of the Phillips Curve, because the level of potential output, by Okun's Law, is closely connected to the concept of the NAIRU.3  Writing the level of real output as Y and potential output as Y*, the deviation of output from its objective is usually expressed in terms of the percentage output gap, or percentage deviation of Y from Y*.  That is, y = [(Y - Y*)/Y*] * 100.  In terms of the unemployment rate, the deviation of unemployment from its objective is U - U*, where U* is the NAIRU, or the level of the unemployment rate associated with full employment.
+Lurking beneath the surface, but not very far below, is thus a version of the Phillips Curve, because the level of potential output, by Okun's Law, is closely connected to the concept of the NAIRU.3  Writing the level of real output as Y and potential output as Y*, the deviation of output from its objective is usually expressed in terms of the percentage output gap, or percentage deviation of Y from Y*.  That is, y = [(Y - Y*)/Y*] * 100
 
 [SECTION]
 
-To define a corresponding gap for inflation, we have to identify an inflation objective.  I will discuss how this should be set operationally below.  For a given inflation target, p*, we can then write the inflation gap as p - p*, where p is the actual rate of inflation.
+To define a corresponding gap for inflation, we have to identify an inflation objective.  I will discuss how this should be set operationally below.  For a given inflation target, p*
 
 [SECTION]
 
@@ -145,9 +145,6 @@ The first step in such research is to specify a loss function that describes the
 
 
 (2) L = y2 + w(p - p*)2
-
-
-where w is the relative cost associated with inflation compared to output deviations.  Squaring the deviations makes the cost associated with deviations depend only on their absolute magnitude and not their sign.  In addition, it disproportionately penalizes larger deviations.  In the dynamic setting in which monetary policy is typically analyzed, the total loss is a discounted sum of these weighted deviations over time.
 
 [SECTION]
 
@@ -169,10 +166,7 @@ next period, based on information available today, and d and
  f are positive.  The bracketed term for expected inflation can
 be interpreted as a combination of sophisticated forecasts of
 inflation, Et(pt+1), and rule-of-thumb
-forecasts based on past inflation, pt-1.
-This particular specification collapses to a backward-looking version
-of the Phillips Curve when  f = 1 and a rational expectations
-version when  f = 0.
+forecasts based on past inflation, pt-1
 
 [SECTION]
 
@@ -311,15 +305,7 @@ If the question is a matter of fitting the data, the simple Taylor rule can be r
 		
 In a given period, policymakers adjust the federal funds rate to move
 it a fraction of the way toward its "notional value"
-iN, which is in turn determined, for given values of
- y and p, by equation (1).  Thus the partial
-adjustment specification yields a gradual adjustment of the funds rate
-to changes in y and p.  Empirical researchers often employ the partial
-adjustment framework and typically find the lagged interest rate term
-to be overwhelmingly significant.  In such estimated versions, the
-values of r* and p* are typically jointly
-estimated as part of the constant term of the equation, rather than
-imposed, as in the case of the simple Taylor rule.
+iN
 
 [SECTION]
 
@@ -343,7 +329,7 @@ In the first case, interest rate variability would be an additional term in the 
 
 [SECTION]
 
-In the second case, the appropriate response of policymakers to uncertainty will depend on its source.  In terms of the simple consensus model introduced earlier, one source is referred to as additive uncertainty, captured in the two stochastic error terms in the IS and Phillips Curve equations, ey and ep.   There could also be parameter uncertainty, uncertainty about the parameters of the model, the b, c, d, and f terms.  There could be, in addition, model uncertainty, uncertainty about the structure of the model itself.  Finally, there could be measurement uncertainty, uncertainty about the measurement of the variables to which monetary policy responds, y and p in the model.
+In the second case, the appropriate response of policymakers to uncertainty will depend on its source.  In terms of the simple consensus model introduced earlier, one source is referred to as additive uncertainty, captured in the two stochastic error terms in the IS and Phillips Curve equations, ey and ep.   There could also be parameter uncertainty, uncertainty about the parameters of the model, the b, c, d, and f terms.  There could be, in addition, model uncertainty, uncertainty about the structure of the model itself.  Finally, there could be measurement uncertainty, uncertainty about the measurement of the variables to which monetary policy responds, y and p
 
 [SECTION]
 

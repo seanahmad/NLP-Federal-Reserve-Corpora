@@ -6,13 +6,7 @@ As a consequence, it is urgent that we accelerate our efforts to develop a sophi
 
 [SECTION]
 
-In this regard, I intend to focus my remarks this morning on three related topics:  I will start by examining the crises in Asia, which, along with the one in Mexico just a few years ago, provide the first evidence of how crises arise in the new system, especially the central role that banks play.  I will note that, while the support provided to banks by public safety nets appears to be an element of stability in the new system, it has also been part of the process that engendered recent crises.  Next, I will consider why, if the existence of safety nets can encourage crises, we continue to provide them.  Finally, I will consider possible policy responses to some of the system's evident problems and tensions.  Put differently, can we learn to stabilize our burgeoning, sometimes frenetic, new international financial system so that we can realize its full potential?
-
-
-
-
-
-***
+In this regard, I intend to focus my remarks this morning on three related topics:  I will start by examining the crises in Asia, which, along with the one in Mexico just a few years ago, provide the first evidence of how crises arise in the new system, especially the central role that banks play.  I will note that, while the support provided to banks by public safety nets appears to be an element of stability in the new system, it has also been part of the process that engendered recent crises.  Next, I will consider why, if the existence of safety nets can encourage crises, we continue to provide them.  Finally, I will consider possible policy responses to some of the system's evident problems and tensions.  Put differently, can we learn to stabilize our burgeoning, sometimes frenetic, new international financial system so that we can realize its full potential?
 
 [SECTION]
 
@@ -64,13 +58,7 @@ Fifth, despite its importance for distributing savings to their most valued inve
 
 [SECTION]
 
-Finally, an important contributor to past crises has been moral hazard, that is, a distortion of incentives that occurs when the party that determines the level of risk receives the gains from, but does not bear the full costs of, the risks taken.  Interest rate and currency risk-taking, excess leverage, weak financial systems, and interbank funding have all been encouraged by the existence of a safety net.  The expectation that national monetary authorities or international financial institutions will come to the rescue of failing financial systems and unsound investments clearly has engendered a significant element of excessive risk-taking.  The dividing line between public and private liabilities, too often, has become blurred.
-
-
-
-
-
-***
+Finally, an important contributor to past crises has been moral hazard, that is, a distortion of incentives that occurs when the party that determines the level of risk receives the gains from, but does not bear the full costs of, the risks taken.  Interest rate and currency risk-taking, excess leverage, weak financial systems, and interbank funding have all been encouraged by the existence of a safety net.  The expectation that national monetary authorities or international financial institutions will come to the rescue of failing financial systems and unsound investments clearly has engendered a significant element of excessive risk-taking.  The dividing line between public and private liabilities, too often, has become blurred.
 
 [SECTION]
 
@@ -110,13 +98,7 @@ Our goal as supervisors, therefore, should not be to prevent all bank failures, 
 
 [SECTION]
 
-To some extent, we do this over time by signalling to the market, through our actions, the kinds of circumstances in which we might be willing to intervene to quell financial turmoil, and conversely, what levels of difficulties we expect private institutions to resolve by themselves.  The market, then, responds by adjusting the risk premium addition to the riskless cost of capital available to banks.  
-
-
-
-
-
-***
+To some extent, we do this over time by signalling to the market, through our actions, the kinds of circumstances in which we might be willing to intervene to quell financial turmoil, and conversely, what levels of difficulties we expect private institutions to resolve by themselves.  The market, then, responds by adjusting the risk premium addition to the riskless cost of capital available to banks.
 
 [SECTION]
 
@@ -160,13 +142,7 @@ Arguably expectations of safety net support have increased the level of cross bo
 
 [SECTION]
 
-Increasing the capital charge on lending banks, instead of on borrowing banks, might also be effective.  Under the Basle capital accord, short-term claims on banks from any country carry only a twenty percent risk weight.  The higher cost to the lending banks associated with a higher risk weight would presumably be passed on to the borrowing banks.  Borrowing banks, at the margin, might reduce their total borrowing or shift their borrowing to nonbank sources of funds, perhaps with the shift facilitated by the lending banks, who might advert to securitization of short-term interbank lending if regulatory capital charges exceeded internal requirements.  In either case, there would tend to be a reduction in interbank exposures, a significant source of systemic risk.  To be evaluated in any such initiative is whether such regulation would disrupt liquidity in the interbank market to a point where such costs exceed the benefits of reduced interbank exposure.
-
-
-
-
-
-***
+Increasing the capital charge on lending banks, instead of on borrowing banks, might also be effective.  Under the Basle capital accord, short-term claims on banks from any country carry only a twenty percent risk weight.  The higher cost to the lending banks associated with a higher risk weight would presumably be passed on to the borrowing banks.  Borrowing banks, at the margin, might reduce their total borrowing or shift their borrowing to nonbank sources of funds, perhaps with the shift facilitated by the lending banks, who might advert to securitization of short-term interbank lending if regulatory capital charges exceeded internal requirements.  In either case, there would tend to be a reduction in interbank exposures, a significant source of systemic risk.  To be evaluated in any such initiative is whether such regulation would disrupt liquidity in the interbank market to a point where such costs exceed the benefits of reduced interbank exposure.
 
 [SECTION]
 
@@ -187,12 +163,3 @@ Return to top
 [SECTION]
 
 1998 Speeches
-
-
-
-
-
-Home | News and events 
-Accessibility | Contact Us
-
-Last update: May 7, 1998, 12:00 PM

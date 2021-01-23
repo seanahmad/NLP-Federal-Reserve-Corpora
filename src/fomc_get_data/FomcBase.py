@@ -1,18 +1,60 @@
-import re
-import threading
-import pickle
+# System:
+import sys
 import os
+import re
+from datetime import date
+from datetime import datetime
+
+# Computation:
+import numpy as np
 import pandas as pd
+import pickle
+
+# Web Scraping:
+import json
+from bs4 import BeautifulSoup
+from tqdm import tqdm
+import requests
+import threading
 from abc import ABCMeta, abstractmethod
+print(sys.stdout.encoding)
+
+# Text Extraction:
+# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
+# # User TIKA for pdf parsing
+# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
+# import tika
+# from tika import parser
+import textract
+
+IN_COLAB = 'google.colab' in sys.modules
+IN_COLAB
+
+# Define Path Variables:
+employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
+cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
+fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
+fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
+gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
+ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
+sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
+treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
+fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
+preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
+train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
+output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
+keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
+glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
+model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcBase(metaclass=ABCMeta):
-    def __init__(self, content_type, verbose, max_threads, base_dir):
-        
+    def __init__(self, content_type, verbose, max_threads, base_dir = fomc_dir):
+
         # Set arguments to internal variables
         self.content_type = content_type
         self.verbose = verbose
         self.MAX_THREADS = max_threads
-        self.base_dir = base_dir
+        self.base_dir = fomc_dir
 
         # Initialization
         self.df = None
@@ -28,12 +70,12 @@ class FomcBase(metaclass=ABCMeta):
 
         # FOMC Chairperson's list
         self.chair = pd.DataFrame(
-            data=[["Greenspan", "Alan", "1987-08-11", "2006-01-31"], 
-                  ["Bernanke", "Ben", "2006-02-01", "2014-01-31"], 
+            data=[["Greenspan", "Alan", "1987-08-11", "2006-01-31"],
+                  ["Bernanke", "Ben", "2006-02-01", "2014-01-31"],
                   ["Yellen", "Janet", "2014-02-03", "2018-02-03"],
                   ["Powell", "Jerome", "2018-02-05", "2022-02-05"]],
             columns=["Surname", "FirstName", "FromDate", "ToDate"])
-        
+
     def _date_from_link(self, link):
         date = re.findall('[0-9]{8}', link)[0]
         if date[4] == '0':
@@ -54,11 +96,11 @@ class FomcBase(metaclass=ABCMeta):
         else:
             speaker = "other"
         return speaker
-        
+
     @abstractmethod
     def _get_links(self, from_year):
         pass
-    
+
     @abstractmethod
     def _add_article(self, link, index=None):
         pass
@@ -91,7 +133,7 @@ class FomcBase(metaclass=ABCMeta):
         dict = {
             'date': self.dates,
             'contents': self.articles,
-            'speaker': self.speakers, 
+            'speaker': self.speakers,
             'title': self.titles
         }
         self.df = pd.DataFrame(dict).sort_values(by=['date'])

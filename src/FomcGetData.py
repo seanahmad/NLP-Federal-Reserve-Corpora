@@ -1,23 +1,47 @@
-
 # -*- coding: utf-8 -*-
+# System:
 from datetime import date
-import numpy as np
-import pandas as pd
-import pickle
 import sys
 print(sys.stdout.encoding)
+import pickle
+
+# Computation:
+import numpy as np
+import pandas as pd
+
+# Helper Files:
 from fomc_get_data.FomcStatement import FomcStatement
 from fomc_get_data.FomcMinutes import FomcMinutes
 from fomc_get_data.FomcMeetingScript import FomcMeetingScript
 from fomc_get_data.ScrapePressConference import ScrapePressConference
 from fomc_get_data.FomcSpeech import FomcSpeech
 from fomc_get_data.FomcTestimony import FomcTestimony
-#from fomc_get_data.pdf2text import pdf2text
+
+# Colaboratory Tests:
+IN_COLAB = 'google.colab' in sys.modules
+IN_COLAB
+
+# Define Path Variables:
+employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
+cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
+fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
+fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
+gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
+ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
+sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
+treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
+fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
+preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
+train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
+output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
+keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
+glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
+model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 def download_data(fomc, from_year):
     df = fomc.get_contents(from_year)
     fomc.pickle_dump_df(filename=fomc.content_type + ".pickle")
-    fomc.save_texts(prefix=fomc.content_type + "\FOMC_" + fomc.content_type + "_")
+    fomc.save_texts(prefix=fomc.content_type + "/FOMC_" + fomc.content_type + "_")
 
 if __name__ == '__main__':
     pg_name = sys.argv[0]
