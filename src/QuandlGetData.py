@@ -6,9 +6,10 @@ def download_data(quandl_code, from_date):
     print("Downloading: [{}]".format(quandl_code))
     df = quandl.get(quandl_code, start_date=from_date)
     print("Shape of the downloaded data: ", df.shape)
-    print("The first 5 rows of the data: \n", df.head())
-    print("The last 5 rows of the data: \n", df.tail())
-    df.to_csv(os.path.join("C", "Users", "theon",  quandl_code.replace("/", "_") + ".csv"))
+    #print("The first 5 rows of the data: \n", df.head())
+    #print("The last 5 rows of the data: \n", df.tail())
+    print("The full dataset: \n", df)
+    #df.to_csv(os.path.join("Path stuff TODO",  quandl_code.replace("/", "_") + ".csv"))
 
 if __name__ == '__main__':
     pg_name = sys.argv[0]
