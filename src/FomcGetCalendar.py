@@ -1,42 +1,20 @@
-# System:
 from datetime import datetime
 import os
 import sys
 import pickle
 import re
 
-# Computation:
 import pandas as pd
 
-# Web Scraping:
 import requests
 from bs4 import BeautifulSoup
 
-# Other
 from tqdm import tqdm
 
-# Colaboratory Tests:
-IN_COLAB = 'google.colab' in sys.modules
-IN_COLAB
-
-# Define Path Variables:
-employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
-cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
-fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
-fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
-gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
-ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
-sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
-treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
-fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
-preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
-train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
-output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
-keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
-glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
-model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
-
 def dump_df(df, filename="output"):
+        '''
+        Dump an internal DataFrame df to a pickle file and csv
+        '''
         filepath = filename + '.pickle'
         print("")
         print("Writing to ", filepath)
@@ -59,6 +37,11 @@ def is_integer(n):
         return float(n).is_integer()
 
 if __name__ == '__main__':
+    '''
+    This program get all calendar date of the past and announced FOMC meetings.
+    The first argument is optional to specify from which year to get the date.
+    It creates a dataframe and saves a pickle file and csv file.
+    '''
     # FOMC website URLs
     base_url = 'https://www.federalreserve.gov'
     calendar_url = base_url + '/monetarypolicy/fomccalendars.htm'
@@ -69,8 +52,8 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         print("Usage: ", pg_name)
         print("Please specify the first argument between 1936 and 2015")
-        sys.exit(1)
-
+        sys.exit(1)    
+        
     from_year = sys.argv[1]
 
     # Handles the first argument, from_year
@@ -81,7 +64,7 @@ if __name__ == '__main__':
             print("Usage: ", pg_name)
             print("Please specify the first argument between 1936 and 2015")
             sys.exit(1)
-
+        
         if (from_year < 1936) or (from_year>2015):
             print("Usage: ", pg_name)
             print("Please specify the first argument between 1936 and 2015")
@@ -115,18 +98,18 @@ if __name__ == '__main__':
             elif "unscheduled" in date_text:
                 date_text = date_text.replace("(unscheduled)", "").strip()
                 is_unscheduled = True
-
+            
             if "*" in date_text:
                 date_text = date_text.replace("*", "").strip()
                 is_forecast = True
-
+            
             if "/" in month_name:
                 month_name = re.findall(r".+/(.+)$", month_name)[0]
                 is_month_short = True
-
+            
             if "-" in date_text:
                 date_text = re.findall(r".+-(.+)$", date_text)[0]
-
+            
             meeting_date_str = m_year + "-" + month_name + "-" + date_text
             if is_month_short:
                 meeting_date = datetime.strptime(meeting_date_str, '%Y-%b-%d')
@@ -173,4 +156,4 @@ if __name__ == '__main__':
     print(df)
 
     # Save
-    dump_df(df, fomc_dir + "fomc_calendar")
+    dump_df(df, "../data/FOMC/fomc_calendar")

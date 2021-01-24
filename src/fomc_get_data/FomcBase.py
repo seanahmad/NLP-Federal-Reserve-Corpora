@@ -1,54 +1,24 @@
-# System:
+from datetime import date
+import re
+import threading
+import pickle
 import sys
 import os
-import re
-from datetime import date
-from datetime import datetime
 
-# Computation:
+import requests
+from bs4 import BeautifulSoup
+
 import numpy as np
 import pandas as pd
-import pickle
 
-# Web Scraping:
-import json
-from bs4 import BeautifulSoup
-from tqdm import tqdm
-import requests
-import threading
 from abc import ABCMeta, abstractmethod
-print(sys.stdout.encoding)
-
-# Text Extraction:
-# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
-# # User TIKA for pdf parsing
-# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
-# import tika
-# from tika import parser
-import textract
-
-IN_COLAB = 'google.colab' in sys.modules
-IN_COLAB
-
-# Define Path Variables:
-employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
-cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
-fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
-fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
-gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
-ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
-sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
-treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
-fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
-preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
-train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
-output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
-keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
-glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
-model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
 
 class FomcBase(metaclass=ABCMeta):
-    def __init__(self, content_type, verbose, max_threads, base_dir = fomc_dir):
+    '''
+    A base class for extracting documents from the FOMC website
+    '''
+
+    def __init__(self, content_type, verbose, max_threads, base_dir):
 
         # Set arguments to internal variables
         self.content_type = content_type
@@ -99,18 +69,35 @@ class FomcBase(metaclass=ABCMeta):
 
     @abstractmethod
     def _get_links(self, from_year):
+        '''
+        private function that sets all the links for the FOMC meetings
+         from the giving from_year to the current most recent year
+         from_year is min(2015, from_year)
+        '''
+        # Implement in sub classes
         pass
 
     @abstractmethod
     def _add_article(self, link, index=None):
+        '''
+        adds the related article for 1 link into the instance variable
+        index is the index in the article to add to. Due to concurrent
+        prcessing, we need to make sure the articles are stored in the
+        right order
+        '''
+        # Implement in sub classes
         pass
 
     def _get_articles_multi_threaded(self):
+        '''
+        gets all articles using multi-threading
+        '''
         if self.verbose:
-            print("Processing request----------")
+            print("Getting articles - Multi-threaded...")
 
         self.articles = ['']*len(self.links)
         jobs = []
+        # initiate and start threads:
         index = 0
         while index < len(self.links):
             if len(jobs) < self.MAX_THREADS:
@@ -118,7 +105,7 @@ class FomcBase(metaclass=ABCMeta):
                 jobs.append(t)
                 t.start()
                 index += 1
-            else:
+            else:    # wait for threads to complete and join them back into the main thread
                 t = jobs.pop(0)
                 t.join()
         for t in jobs:
@@ -128,6 +115,10 @@ class FomcBase(metaclass=ABCMeta):
         #    self.articles[row] = self.articles[row].strip()
 
     def get_contents(self, from_year=1990):
+        '''
+        Returns a Pandas DataFrame with the date as the index for a date range of from_year to the most current.
+        Save the same to internal df as well.
+        '''
         self._get_links(from_year)
         self._get_articles_multi_threaded()
         dict = {
@@ -141,6 +132,9 @@ class FomcBase(metaclass=ABCMeta):
         return self.df
 
     def pickle_dump_df(self, filename="output.pickle"):
+        '''
+        Dump an internal DataFrame df to a pickle file
+        '''
         filepath = self.base_dir + filename
         print("")
         if self.verbose: print("Writing to ", filepath)
@@ -149,6 +143,9 @@ class FomcBase(metaclass=ABCMeta):
             pickle.dump(self.df, output_file)
 
     def save_texts(self, prefix="FOMC_", target="contents"):
+        '''
+        Save an internal DataFrame df to text files
+        '''
         tmp_dates = []
         tmp_seq = 1
         for i, row in self.df.iterrows():
@@ -162,5 +159,5 @@ class FomcBase(metaclass=ABCMeta):
             tmp_dates.append(cur_date)
             if self.verbose: print("Writing to ", filepath)
             os.makedirs(os.path.dirname(filepath), exist_ok=True)
-            with open(filepath, "w", encoding='utf-8') as output_file:
+            with open(filepath, "w", encoding="utf-8") as output_file:
                 output_file.write(row[target])

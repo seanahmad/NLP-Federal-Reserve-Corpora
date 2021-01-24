@@ -1,60 +1,34 @@
-# System:
+from datetime import datetime
+import threading
 import sys
 import os
+import pickle
 import re
-from datetime import date
-from datetime import datetime
 
-# Computation:
+import requests
+from bs4 import BeautifulSoup
+
 import numpy as np
 import pandas as pd
-import pickle
-
-# Web Scraping:
-import json
-from bs4 import BeautifulSoup
-from tqdm import tqdm
-import requests
-import threading
-from abc import ABCMeta, abstractmethod
-print(sys.stdout.encoding)
-
-# Text Extraction:
-# Tika depends on Java version, so use textract instead as the pdf is anyway a simple text only
-# # User TIKA for pdf parsing
-# os.environ['TIKA_SERVER_JAR'] = 'https://repo1.maven.org/maven2/org/apache/tika/tika-server/1.19/tika-server-1.19.jar'
-# import tika
-# from tika import parser
-import textract
 
 # Import parent class
-from fomc_get_data.FomcBase import FomcBase
-
-IN_COLAB = 'google.colab' in sys.modules
-IN_COLAB
-
-# Define Path Variables:
-employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
-cpi_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/CPI/'
-fed_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FEDRates/'
-fx_rates_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/FXRates/'
-gdp_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/GDP/'
-ism_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/ISM/'
-sales_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Sales/'
-treasury_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Treasury/'
-fomc_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/FOMC/'
-preprocessed_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/preprocessed/'
-train_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/train_data/'
-output_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/result/'
-keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
-glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
-model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
+from .FomcBase import FomcBase
 
 class FomcMinutes(FomcBase):
-    def __init__(self, verbose = True, max_threads = 20, base_dir = fomc_dir):
+    '''
+    A convenient class for extracting minutes from the FOMC website
+    Example Usage:  
+        fomc = FomcMinutes()
+        df = fomc.get_contents()
+    '''
+    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
         super().__init__('minutes', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):
+        '''
+        Override private function that sets all the links for the contents to download on FOMC website
+         from from_year (=min(2015, from_year)) to the current most recent year
+        '''
         self.links = []
         self.titles = []
         self.speakers = []
@@ -66,7 +40,7 @@ class FomcMinutes(FomcBase):
         # Getting links from current page. Meetin scripts are not available.
         if self.verbose: print("Getting links for minutes...")
         contents = soup.find_all('a', href=re.compile('^/monetarypolicy/fomcminutes\d{8}.htm'))
-
+        
         self.links = [content.attrs['href'] for content in contents]
         self.speakers = [self._speaker_from_date(self._date_from_link(x)) for x in self.links]
         self.titles = ['FOMC Meeting Minutes'] * len(self.links)
@@ -109,6 +83,11 @@ class FomcMinutes(FomcBase):
         print("There are total ", len(self.links), ' links for ', self.content_type)
 
     def _add_article(self, link, index=None):
+        '''
+        Override a private function that adds a related article for 1 link into the instance variable
+        The index is the index in the article to add to. 
+        Due to concurrent prcessing, we need to make sure the articles are stored in the right order
+        '''
         if self.verbose:
             sys.stdout.write(".")
             sys.stdout.flush()

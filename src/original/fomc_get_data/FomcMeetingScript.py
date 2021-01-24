@@ -26,7 +26,7 @@ class FomcMeetingScript(FomcBase):
     A convenient class for extracting meeting scripts from the FOMC website.
     FOMC publishes the meeting scripts after 5 years, so this cannot be used for the prediction of the monetary policy in real-time.
 
-    Example Usage:  
+    Example Usage:
         fomc = FomcMeetingScript()
         df = fomc.get_contents()
     '''
@@ -45,7 +45,7 @@ class FomcMeetingScript(FomcBase):
 
         r = requests.get(self.calendar_url)
         soup = BeautifulSoup(r.text, 'html.parser')
-        
+
         # Meeting Script can be found only in the archive as it is published after five years
         if from_year > 2014:
             print("Meeting scripts are available for 2014 or older")
@@ -67,7 +67,7 @@ class FomcMeetingScript(FomcBase):
     def _add_article(self, link, index=None):
         '''
         Override a private function that adds a related article for 1 link into the instance variable
-        The index is the index in the article to add to. 
+        The index is the index in the article to add to.
         Due to concurrent processing, we need to make sure the articles are stored in the right order
         '''
         if self.verbose:
@@ -85,7 +85,7 @@ class FomcMeetingScript(FomcBase):
         # Extract text from the pdf
         # pdf_file_parsed = parser.from_file(pdf_filepath)
         # paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed['content'].strip())
-        pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8')
+        pdf_file_parsed = textract.process(pdf_filepath).decode('utf-8-sig')
         paragraphs = re.sub('(\n)(\n)+', '\n', pdf_file_parsed.strip())
         paragraphs = paragraphs.split('\n')
 

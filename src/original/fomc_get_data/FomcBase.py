@@ -19,7 +19,7 @@ class FomcBase(metaclass=ABCMeta):
     '''
 
     def __init__(self, content_type, verbose, max_threads, base_dir):
-        
+
         # Set arguments to internal variables
         self.content_type = content_type
         self.verbose = verbose
@@ -40,12 +40,12 @@ class FomcBase(metaclass=ABCMeta):
 
         # FOMC Chairperson's list
         self.chair = pd.DataFrame(
-            data=[["Greenspan", "Alan", "1987-08-11", "2006-01-31"], 
-                  ["Bernanke", "Ben", "2006-02-01", "2014-01-31"], 
+            data=[["Greenspan", "Alan", "1987-08-11", "2006-01-31"],
+                  ["Bernanke", "Ben", "2006-02-01", "2014-01-31"],
                   ["Yellen", "Janet", "2014-02-03", "2018-02-03"],
                   ["Powell", "Jerome", "2018-02-05", "2022-02-05"]],
             columns=["Surname", "FirstName", "FromDate", "ToDate"])
-        
+
     def _date_from_link(self, link):
         date = re.findall('[0-9]{8}', link)[0]
         if date[4] == '0':
@@ -66,7 +66,7 @@ class FomcBase(metaclass=ABCMeta):
         else:
             speaker = "other"
         return speaker
-        
+
     @abstractmethod
     def _get_links(self, from_year):
         '''
@@ -76,7 +76,7 @@ class FomcBase(metaclass=ABCMeta):
         '''
         # Implement in sub classes
         pass
-    
+
     @abstractmethod
     def _add_article(self, link, index=None):
         '''
@@ -124,7 +124,7 @@ class FomcBase(metaclass=ABCMeta):
         dict = {
             'date': self.dates,
             'contents': self.articles,
-            'speaker': self.speakers, 
+            'speaker': self.speakers,
             'title': self.titles
         }
         self.df = pd.DataFrame(dict).sort_values(by=['date'])
@@ -159,5 +159,5 @@ class FomcBase(metaclass=ABCMeta):
             tmp_dates.append(cur_date)
             if self.verbose: print("Writing to ", filepath)
             os.makedirs(os.path.dirname(filepath), exist_ok=True)
-            with open(filepath, "w") as output_file:
+            with open(filepath, "w", encoding="utf-8") as output_file:
                 output_file.write(row[target])
