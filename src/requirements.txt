@@ -9,7 +9,7 @@ quandl==3.5.3
 scikit-plot==0.3.7
 seaborn==0.11.0
 sklearn==0.0
-torch==1.7.0
+torch==1.7.1+cu101 torchvision==0.8.2+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 transformers==3.5.0
 wordcloud==1.8.0
 xgboost==1.2.1
