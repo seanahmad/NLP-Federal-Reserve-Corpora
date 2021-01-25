@@ -1,4 +1,8 @@
-# Central Bank analysis (FRB)
+# **Predicting interest rates from Federal Reserve documents**
+## Model Training (Vol. 6)
+FE 690: Machine Learning in Finance \\
+Author: Theo Dimitrasopoulos \\
+Advisor: Zachary Feinstein \\
 
 ## Table of Contents
 1. Installation
@@ -21,7 +25,7 @@ Required libraries are described in requirements.txt. Please pip install those. 
    2.  Treasury Yields
        1.  https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll
 5. Download Sentiment Dictionary
-   1. Loughran and McDonald Sentiment Word Lists (https://sraf.nd.edu/textual-analysis/resources/) 
+   1. Loughran and McDonald Sentiment Word Lists (https://sraf.nd.edu/textual-analysis/resources/)
 6. Install necessary versions - you can create own virtual environment
    1. pip install numpy==1.16.4
    2. pip install pandas==0.25.0
@@ -43,7 +47,7 @@ Others focuses on predicting the target FED rate to be announced in advance usin
 In fact, FRB itself publishes how the policy makers use the policy rules here:
 https://www.federalreserve.gov/monetarypolicy/policy-rules-and-how-policymakers-use-them.htm
 
-The central banks intend to indicate their potential future monetary policy in their publications as a measure of market communication. 
+The central banks intend to indicate their potential future monetary policy in their publications as a measure of market communication.
 
 The objective of this project is to apply NLP on those text published by FOMC to find latent features.
 In this project, I examined whether the prediction of rate hike/lower at each FOMC meeting is possible at meaningful level along with other publicly available economic data.
@@ -95,7 +99,7 @@ To clean up the data for the analysis, performed the followings.
 #### 1_FOMC_Analysis_Sentiment_Lexicon.ipynb
 First, take a glance at the FOMC statement to see if it contains any meaningful information.
 
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/FOMC/statement.pickle
 * C:/Users/theon/Desktop/proj2/data/MarketData/FEDRates/DFEDTAR.csv
 * C:/Users/theon/Desktop/proj2/data/MarketData/FEDRates/DFEDTARU.csv
@@ -112,7 +116,7 @@ First, take a glance at the FOMC statement to see if it contains any meaningful 
 #### 2_FOMC_Analysis_Preprocess_NonText.ipynb
 Next, preprocess nontext meta data. Do necessary calculations and add to the calendar dataframe to map those latest available indices as input to the FOMC Fed rate decision.
 
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/FOMC/fomc_calendar.pickle
 * All Market Data and Economic Indices
 ##### Output:
@@ -133,7 +137,7 @@ Next, preprocess nontext meta data. Do necessary calculations and add to the cal
 7. Save data
 
 #### 3_FOMC_Analysis_Preprocess_Text.ipynb
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/preprocessed/fomc_calendar.pickle
 * C:/Users/theon/Desktop/proj2/data/FOMC/statement.pickle
 * C:/Users/theon/Desktop/proj2/data/FOMC/minutes.pickle
@@ -141,12 +145,12 @@ Next, preprocess nontext meta data. Do necessary calculations and add to the cal
 * C:/Users/theon/Desktop/proj2/data/FOMC/press_conference.pickle
 * C:/Users/theon/Desktop/proj2/data/FOMC/speech.pickle
 * C:/Users/theon/Desktop/proj2/data/FOMC/testimony.pickle
-##### Output: 
+##### Output:
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_no_split
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_split_200
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_keyword
 
-##### Process: 
+##### Process:
 1. Add QE announcement to statement
 2. Add Rate and Decision to Statement, Minutes, Meeting Script and Presconf Script
 3. Add Word Count, Next Meeting Date, Next Meeting Rate and Next Meeting Decision to all inputs
@@ -156,17 +160,17 @@ Next, preprocess nontext meta data. Do necessary calculations and add to the cal
 7. Filter text of Step 5 for those having keyword at least 2 times only
 
 #### 4_FOMC_Analysis_EDA_NonText.ipynb
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/preprocessed/nontext_data.pickle
 * C:/Users/theon/Desktop/proj2/data/preprocessed/nontext_ma2.pickle
 * C:/Users/theon/Desktop/proj2/data/preprocessed/nontext_ma3.pickle
 * C:/Users/theon/Desktop/proj2/data/preprocessed/nontext_ma6.pickle
 * C:/Users/theon/Desktop/proj2/data/preprocessed/nontext_ma12.pickle
-##### Output: 
+##### Output:
 * C:/Users/theon/Desktop/proj2/data/train_data/nontext_train_small
 * C:/Users/theon/Desktop/proj2/data/train_data/nontext_train_large
 
-##### Process: 
+##### Process:
 1. Check correlation to find good feature to predict Rate Decision
 2. Check correlation of moving average to Rate Decision
 3. Check correlation of calculated rates and changes by taylor rules
@@ -176,15 +180,15 @@ Next, preprocess nontext meta data. Do necessary calculations and add to the cal
 
 ### 2.4 Modelling
 #### 5_FOMC_Analysis_ML_NonText.ipynb
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/train_data/nontext_train_small.pickle or
 * C:/Users/theon/Desktop/proj2/data/train_data/nontext_train_large.pickle
-##### Output: 
+##### Output:
 * C:/Users/theon/Desktop/proj2/data/result/result_scores
 * C:/Users/theon/Desktop/proj2/data/result/baseline_predictions
 * C:/Users/theon/Desktop/proj2/data/result/training_data
 
-##### Process: 
+##### Process:
 1. Balancing the classes
 2. Convert the target to integer starting from 0
 3. Train test split
@@ -200,19 +204,19 @@ Next, preprocess nontext meta data. Do necessary calculations and add to the cal
    1. Voting Classifier
    2. Stacking by XG Boost
 #### 6_FOMC_Analysis_ML_Text.ipynb
-##### Input: 
+##### Input:
 * C:/Users/theon/Desktop/proj2/data/train_data/nontext_train_small.pickle
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_no_split
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_split_200
 * C:/Users/theon/Desktop/proj2/data/preprocessed/text_keyword
 * C:/Users/theon/Desktop/proj2/data/LoughranMcDonald/LoughranMcDonald_SentimentWordLists_2018.csv
 
-##### Output: 
+##### Output:
 * ../train_data/train_df
 * ../train_data/text_df
 * ../train_data/split_train_df
 
-##### Process: 
+##### Process:
 1. Check the record count, drop meeting scripts
 2. Select which text to use and merge the text to nontext train dataframe
 3. View text by creating corpus to see word frequencies
@@ -256,7 +260,7 @@ The details of findings will be compiled as blog post in the future.
 * 1_FOMC_Analysis_Sentiment_Lexicon.ipynb - Jupyter notebook to briefly check statement sentiment
 * 2_FOMC_Analysis_Preprocess_NonText.ipynb - Jupytet notebook to preprocess calendar and market data (non text data)
 * 3_FOMC_Analysis_Preprocess_Text.ipynb - Jupyter notebook to preprocess text data downloaded from FOMC website
-* 4_FOMC_Analysis_EDA_NonText.ipynb - Jupyter notebook for EDA on meta data 
+* 4_FOMC_Analysis_EDA_NonText.ipynb - Jupyter notebook for EDA on meta data
 * 5_FOMC_Analysis_ML_NonText.ipynb - Jupyter notebook for Machine Learning on meta data
 * 6_FOMC_Analysis_ML_Text.ipynb - Jupyter notebook for Machine Learning including textual data
 
@@ -269,7 +273,3 @@ The followings are used only for initial check and not required to run:
 * FOMC_Analysis_BERT_Tensorflow.ipynb
 * FOMC_Post_Training_BERT.ipynb
 * FOMC_Text_Summarization.ipynb
-
-## Licensing, Authors, Acknowledgements
-Data attributes to FRED. Loughran McDonald dictionary attributes to https://sraf.nd.edu/textual-analysis/resources/ in University of Notre Dame.
-Feel free to use the source code as you would like!
