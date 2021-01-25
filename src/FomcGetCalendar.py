@@ -18,7 +18,6 @@ def save_data(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/p
     pickle_path = dir_name + file_name + '.pickle'
     with open(pickle_path, "wb") as output_file:
         pickle.dump(df, output_file)
-    file.close()
     print('Successfully saved {}.pickle in {}'.format(file_name, pickle_path))
     # Save results to a csv file
     csv_path = dir_name + file_name + '.csv'
@@ -31,17 +30,16 @@ def dump_df(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/pro
         '''
         if not os.path.exists(dir_name):
             os.mkdir(dir_name)
-        filepath = dir_name + file_name + '.pickle'
+        pickle_path = dir_name + file_name + '.pickle'
         print("")
-        print("Writing to ", filepath)
-        with open(filepath, "wb") as output_file:
+        print("Writing to ", pickle_path)
+        with open(pickle_path, "wb") as output_file:
             pickle.dump(df, output_file)
-        file.close()
-        print('Successfully saved {}.pickle in {}'.format(file_name, filepath))
-        filepath = dir_name + file_name + '.csv'
-        print("Writing to ", filepath)
-        df.to_csv(filepath, index=index_csv)
-        print('Successfully saved {}.csv in {}'.format(file_name, filepath))
+        print('Successfully saved {}.pickle in {}'.format(file_name, pickle_path))
+        csv_path = dir_name + file_name + '.csv'
+        print("Writing to ", csv_path)
+        df.to_csv(csv_path, index=index_csv)
+        print('Successfully saved {}.csv in {}'.format(file_name, csv_path))
 
 def is_integer(n):
     '''
