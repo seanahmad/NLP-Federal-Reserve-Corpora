@@ -22,7 +22,7 @@ class FomcBase(metaclass=ABCMeta):
     A base class for extracting documents from the FOMC website
     '''
 
-    def __init__(self, content_type, verbose, max_threads, base_dir = fomc_dir):
+    def __init__(self, content_type, verbose, max_threads, base_dir ='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/'):
 
         # Set arguments to internal variables
         self.content_type = content_type
@@ -136,7 +136,7 @@ class FomcBase(metaclass=ABCMeta):
         self.df.reset_index(drop=True, inplace=True)
         return self.df
 
-    def pickle_dump_df(df, file_name, dir_name=fomc_dir, index_csv=False):
+    def pickle_dump_df(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
         '''
         Dump an internal DataFrame df to a pickle file and csv
         '''
