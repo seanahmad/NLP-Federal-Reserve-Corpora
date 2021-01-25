@@ -5,6 +5,7 @@ src/data/result/*
 src/data/preprocessed/*
 src/data/archive/*
 src/data/train_data/*
+src/data/models/*
 references/*
 
 # Other
