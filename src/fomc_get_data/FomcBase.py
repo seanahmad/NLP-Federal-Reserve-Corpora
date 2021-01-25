@@ -12,13 +12,17 @@ import numpy as np
 import pandas as pd
 
 from abc import ABCMeta, abstractmethod
+## Determine environment
+IN_COLAB = 'google.colab' in sys.modules
+IN_COLAB
+
 
 class FomcBase(metaclass=ABCMeta):
     '''
     A base class for extracting documents from the FOMC website
     '''
 
-    def __init__(self, content_type, verbose, max_threads, base_dir):
+    def __init__(self, content_type, verbose, max_threads, base_dir = fomc_dir):
 
         # Set arguments to internal variables
         self.content_type = content_type
@@ -45,6 +49,7 @@ class FomcBase(metaclass=ABCMeta):
                   ["Yellen", "Janet", "2014-02-03", "2018-02-03"],
                   ["Powell", "Jerome", "2018-02-05", "2022-02-05"]],
             columns=["Surname", "FirstName", "FromDate", "ToDate"])
+
 
     def _date_from_link(self, link):
         date = re.findall('[0-9]{8}', link)[0]
@@ -131,16 +136,52 @@ class FomcBase(metaclass=ABCMeta):
         self.df.reset_index(drop=True, inplace=True)
         return self.df
 
-    def pickle_dump_df(self, filename="output.pickle"):
+    def pickle_dump_df(df, file_name, dir_name=fomc_dir, index_csv=False):
         '''
-        Dump an internal DataFrame df to a pickle file
+        Dump an internal DataFrame df to a pickle file and csv
         '''
-        filepath = self.base_dir + filename
+        if not os.path.exists(dir_name):
+            os.mkdir(dir_name)
+        filepath = dir_name + file_name + '.pickle'
         print("")
-        if self.verbose: print("Writing to ", filepath)
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        print("Writing to ", filepath)
         with open(filepath, "wb") as output_file:
-            pickle.dump(self.df, output_file)
+            pickle.dump(df, output_file)
+        file.close()
+        print('Successfully saved {}.pickle in {}'.format(file_name, filepath))
+        filepath = dir_name + file_name + '.csv'
+        print("Writing to ", filepath)
+        df.to_csv(filepath, index=index_csv)
+        print('Successfully saved {}.csv in {}'.format(file_name, filepath))
+
+    def save_data(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
+        if not os.path.exists(dir_name):
+          os.mkdir(dir_name)
+        # Save results to a picke file
+        pickle_path = dir_name + file_name + '.pickle'
+        with open(pickle_path, "wb") as output_file:
+            pickle.dump(df, output_file)
+        file.close()
+        print('Successfully saved {}.pickle in {}'.format(file_name, pickle_path))
+        # Save results to a csv file
+        csv_path = dir_name + file_name + '.csv'
+        df.to_csv(csv_path, index=index_csv)
+        print('Successfully saved {}.csv in {}'.format(file_name, csv_path))
+
+    def dump_df(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
+        if not os.path.exists(dir_name):
+            os.mkdir(dir_name)
+        filepath = dir_name + file_name + '.pickle'
+        print("")
+        print("Writing to ", filepath)
+        with open(filepath, "wb") as output_file:
+            pickle.dump(df, output_file)
+        file.close()
+        print('Successfully saved {}.pickle in {}'.format(file_name, filepath))
+        filepath = dir_name + file_name + '.csv'
+        print("Writing to ", filepath)
+        df.to_csv(filepath, index=index_csv)
+        print('Successfully saved {}.csv in {}'.format(file_name, filepath))
 
     def save_texts(self, prefix="FOMC_", target="contents"):
         '''

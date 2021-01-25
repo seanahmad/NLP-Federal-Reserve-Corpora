@@ -17,7 +17,7 @@ import pandas as pd
 from .FomcBase import FomcBase
 
 class FomcTestimony(FomcBase):
-    def __init__(self, verbose = True, max_threads = 10, base_dir = '../data/FOMC/'):
+    def __init__(self, verbose = True, max_threads = 10, base_dir = fomc_dir):
         super().__init__('testimony', verbose, max_threads, base_dir)
 
     def _get_links(self, from_year):

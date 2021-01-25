@@ -11,19 +11,37 @@ from bs4 import BeautifulSoup
 
 from tqdm import tqdm
 
-def dump_df(df, filename="output"):
+def save_data(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
+    if not os.path.exists(dir_name):
+      os.mkdir(dir_name)
+    # Save results to a picke file
+    pickle_path = dir_name + file_name + '.pickle'
+    with open(pickle_path, "wb") as output_file:
+        pickle.dump(df, output_file)
+    file.close()
+    print('Successfully saved {}.pickle in {}'.format(file_name, pickle_path))
+    # Save results to a csv file
+    csv_path = dir_name + file_name + '.csv'
+    df.to_csv(csv_path, index=index_csv)
+    print('Successfully saved {}.csv in {}'.format(file_name, csv_path))
+
+def dump_df(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
         '''
         Dump an internal DataFrame df to a pickle file and csv
         '''
-        filepath = filename + '.pickle'
+        if not os.path.exists(dir_name):
+            os.mkdir(dir_name)
+        filepath = dir_name + file_name + '.pickle'
         print("")
         print("Writing to ", filepath)
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
         with open(filepath, "wb") as output_file:
             pickle.dump(df, output_file)
-        filepath = filename + '.csv'
+        file.close()
+        print('Successfully saved {}.pickle in {}'.format(file_name, filepath))
+        filepath = dir_name + file_name + '.csv'
         print("Writing to ", filepath)
-        df.to_csv(filepath, index=False)
+        df.to_csv(filepath, index=index_csv)
+        print('Successfully saved {}.csv in {}'.format(file_name, filepath))
 
 def is_integer(n):
     '''
@@ -52,8 +70,8 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         print("Usage: ", pg_name)
         print("Please specify the first argument between 1936 and 2015")
-        sys.exit(1)    
-        
+        sys.exit(1)
+
     from_year = sys.argv[1]
 
     # Handles the first argument, from_year
@@ -64,7 +82,7 @@ if __name__ == '__main__':
             print("Usage: ", pg_name)
             print("Please specify the first argument between 1936 and 2015")
             sys.exit(1)
-        
+
         if (from_year < 1936) or (from_year>2015):
             print("Usage: ", pg_name)
             print("Please specify the first argument between 1936 and 2015")
@@ -98,18 +116,18 @@ if __name__ == '__main__':
             elif "unscheduled" in date_text:
                 date_text = date_text.replace("(unscheduled)", "").strip()
                 is_unscheduled = True
-            
+
             if "*" in date_text:
                 date_text = date_text.replace("*", "").strip()
                 is_forecast = True
-            
+
             if "/" in month_name:
                 month_name = re.findall(r".+/(.+)$", month_name)[0]
                 is_month_short = True
-            
+
             if "-" in date_text:
                 date_text = re.findall(r".+-(.+)$", date_text)[0]
-            
+
             meeting_date_str = m_year + "-" + month_name + "-" + date_text
             if is_month_short:
                 meeting_date = datetime.strptime(meeting_date_str, '%Y-%b-%d')
@@ -156,4 +174,5 @@ if __name__ == '__main__':
     print(df)
 
     # Save
-    dump_df(df, "../data/FOMC/fomc_calendar")
+    dump_df(df, 'fomc_calendar')
+    save_data(df, 'fomc_calendar')

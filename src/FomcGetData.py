@@ -17,6 +17,36 @@ def download_data(fomc, from_year):
     print("The last 5 rows of the data: \n", df.tail())
     fomc.pickle_dump_df(filename = fomc.content_type + ".pickle")
     fomc.save_texts(prefix = fomc.content_type + "/FOMC_" + fomc.content_type + "_")
+    fomc.save_data(df, file_name)
+
+def save_data(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
+    if not os.path.exists(dir_name):
+      os.mkdir(dir_name)
+    # Save results to a picke file
+    pickle_path = dir_name + file_name + '.pickle'
+    with open(pickle_path, "wb") as output_file:
+        pickle.dump(df, output_file)
+    file.close()
+    print('Successfully saved {}.pickle in {}'.format(file_name, pickle_path))
+    # Save results to a csv file
+    csv_path = dir_name + file_name + '.csv'
+    df.to_csv(csv_path, index=index_csv)
+    print('Successfully saved {}.csv in {}'.format(file_name, csv_path))
+
+def dump_df(df, file_name, dir_name='/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/', index_csv=False):
+    if not os.path.exists(dir_name):
+        os.mkdir(dir_name)
+    filepath = dir_name + file_name + '.pickle'
+    print("")
+    print("Writing to ", filepath)
+    with open(filepath, "wb") as output_file:
+        pickle.dump(df, output_file)
+    file.close()
+    print('Successfully saved {}.pickle in {}'.format(file_name, filepath))
+    filepath = dir_name + file_name + '.csv'
+    print("Writing to ", filepath)
+    df.to_csv(filepath, index=index_csv)
+    print('Successfully saved {}.csv in {}'.format(file_name, filepath))
 
 if __name__ == '__main__':
     pg_name = sys.argv[0]
@@ -34,13 +64,13 @@ if __name__ == '__main__':
         from_year = 1990
     else:
         from_year = int(args[1])
-    
+
     content_type = args[0].lower()
     if content_type not in content_type_all:
         print("Usage: ", pg_name)
         print("Please specify the first argument from ", content_type_all)
         sys.exit(1)
-    
+
     if (from_year < 1980) or (from_year > 2020):
         print("Usage: ", pg_name)
         print("Please specify the second argument between 1980 and 2020")

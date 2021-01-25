@@ -10,6 +10,7 @@ Original file is located at
 Analyse statement by Loughran and McDonald word list to see if the relationship between economy and net sentiment
 """
 
+import os
 import sys
 IN_COLAB = 'google.colab' in sys.modules
 IN_COLAB
@@ -18,53 +19,41 @@ if IN_COLAB:
     from google.colab import drive
     drive.mount('/content/drive', force_remount=True)
 
-if IN_COLAB:
-  # Uninstall existing versions:
-  #!pip uninstall bs4==0.0.1 -y
-  #!pip uninstall textract==1.6.3 -y
-  #!pip uninstall numpy==1.19.4 -y
-  #!pip uninstall pandas==1.1.4 -y
-  #!pip uninstall requests==2.24.0 -y
-  #!pip uninstall tqdm==4.51.0 -y
-  #!pip uninstall nltk==3.5 -y
-  #!pip uninstall quandl==3.5.3 -y
-  #!pip uninstall scikit-plot==0.3.7 -y
-  #!pip uninstall seaborn==0.11.0 -y
-  #!pip uninstall sklearn==0.0 -y
-  #!pip uninstall torch==1.7.0 -y
-  #!pip uninstall transformers==3.5.0 -y
-  #!pip uninstall wordcloud==1.8.0 -y
-  #!pip uninstall xgboost==1.2.1 -y
-
-  # Install packages:
-  #!pip install bs4==0.0.1
-  #!pip install textract==1.6.3
-  #!pip install numpy==1.19.4
-  #!pip install pandas==1.1.4
-  #!pip install requests==2.24.0
-  #!pip install tqdm==4.51.0
-  #!pip install nltk==3.5
-  #!pip install quandl==3.5.3
-  #!pip install scikit-plot==0.3.7
-  #!pip install seaborn==0.11.0
-  #!pip install sklearn==0.0
-  #!pip install torch==1.7.0
-  #!pip install transformers==3.5.0
-  #!pip install wordcloud==1.8.0
-  #!pip install xgboost==1.2.1
-  #os.kill(os.getpid(), 9)
-
-import numpy as np
-import pandas as pd
-import datetime as dt
-import matplotlib.pyplot as plt
-import codecs
-import pickle
-import nltk
-from math import isnan
-nltk.download('punkt')
-import os
-from tqdm import tqdm_notebook as tqdm
+#if IN_COLAB:
+#  # Uninstall existing versions:
+#  !pip uninstall bs4 -y
+#  !pip uninstall textract -y
+#  !pip uninstall numpy -y
+#  !pip uninstall pandas -y
+#  !pip uninstall requests -y
+#  !pip uninstall tqdm -y
+#  !pip uninstall nltk -y
+#  !pip uninstall quandl -y
+#  !pip uninstall scikit-plot -y
+#  !pip uninstall seaborn -y
+#  !pip uninstall sklearn -y
+#  !pip uninstall torch -y
+#  !pip uninstall transformers -y
+#  !pip uninstall wordcloud -y
+#  !pip uninstall xgboost -y
+#  
+#  # Install packages:
+#  !pip install bs4==0.0.1
+#  !pip install textract==1.6.3
+#  !pip install numpy==1.19.4
+#  !pip install pandas==1.1.4
+#  !pip install requests==2.24.0
+#  !pip install tqdm==4.51.0
+#  !pip install nltk==3.5
+#  !pip install quandl==3.5.3
+#  !pip install scikit-plot==0.3.7
+#  !pip install seaborn==0.11.0
+#  !pip install sklearn==0.0
+#  !pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+#  !pip install transformers==3.5.0
+#  !pip install wordcloud==1.8.0
+#  !pip install xgboost==1.2.1
+#  os.kill(os.getpid(), 9)
 
 if IN_COLAB:
   employment_data_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
@@ -82,6 +71,7 @@ if IN_COLAB:
   keyword_lm_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
   glove_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/GloVe/'
   model_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/models/'
+  graph_dir = '/content/drive/My Drive/Colab Notebooks/proj2/src/data/graphs/'
 
 else:
   employment_data_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/MarketData/Employment/'
@@ -99,8 +89,103 @@ else:
   keyword_lm_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/LoughranMcDonald/'
   glove_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/GloVe/'
   model_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/models/'
+  graph_dir = 'C:/Users/theon/GDrive/Colab Notebooks/proj2/src/data/graphs/'
 
-plt.style.use('seaborn-whitegrid')
+# Python libraries
+import datetime as dt
+import re
+import pickle
+from tqdm.notebook import tqdm
+import time
+import logging
+import random
+from collections import defaultdict, Counter
+
+# Data Science modules
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns; sns.set()
+plt.style.use('ggplot')
+
+# Import Scikit-learn moduels
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.metrics import accuracy_score, f1_score, plot_confusion_matrix
+from sklearn.pipeline import Pipeline, FeatureUnion
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression, Perceptron, SGDClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import model_selection
+from sklearn.model_selection import GridSearchCV, cross_val_score, cross_validate, StratifiedKFold, learning_curve, RandomizedSearchCV
+import scikitplot as skplt
+
+# Import nltk modules and download dataset
+import nltk
+from nltk.corpus import stopwords
+from nltk.util import ngrams
+from nltk.tokenize import word_tokenize
+
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+
+stop = set(stopwords.words('english'))
+
+# Import Pytorch modules
+
+import torch
+from torch import nn, optim
+import torch.nn.functional as F
+from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
+from torch.autograd import Variable
+from torch.optim import Adam, AdamW
+
+## Use TPU Runtime:
+#if IN_COLAB:
+#  assert os.environ['COLAB_TPU_ADDR'], 'Make sure to select TPU from Edit > Notebook setting > Hardware accelerator'  
+#  VERSION = "20200220"
+#  !curl https://raw.githubusercontent.com/pytorch/xla/master/contrib/scripts/env-setup.py -o pytorch-xla-env-setup.py
+#  !python pytorch-xla-env-setup.py --version $VERSION
+
+## Use GPU Runtime:
+#if IN_COLAB:
+#  if torch.cuda.is_available():
+#    torch.cuda.get_device_name(0)
+#    gpu_info = !nvidia-smi
+#    gpu_info = '\n'.join(gpu_info)
+#    print(gpu_info)
+#  else:
+#    print('Select the Runtime > "Change runtime type" menu to enable a GPU accelerator, and then re-execute this cell.')
+#    os.kill(os.getpid(), 9)
+
+# Set logger
+logger = logging.getLogger('mylogger')
+logger.setLevel(logging.INFO)
+
+timestamp = time.strftime("%Y.%m.%d_%H.%M.%S", time.localtime())
+formatter = logging.Formatter('[%(asctime)s][%(levelname)s] ## %(message)s')
+
+fh = logging.FileHandler('log_model.txt')
+fh.setLevel(logging.DEBUG)
+fh.setFormatter(formatter)
+logger.addHandler(fh)
+
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+ch.setFormatter(formatter)
+logger.addHandler(ch)
+
+# Set Random Seed
+random.seed(42)
+np.random.seed(42)
+torch.manual_seed(42)
+torch.cuda.manual_seed(42)
+rand_seed = 42
+
+# Set Seaborn Style
+sns.set(style='white', context='notebook', palette='deep')
+
+"""## Load preprocessed data"""
 
 #file = open("/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/minutes.pickle", "rb")
 #file = open("/content/drive/My Drive/Colab Notebooks/proj2/src/data/FOMC/statement.pickle", "rb")
@@ -633,7 +718,6 @@ Data['NNegativeWords'] = temp.iloc[:,2].values
 
 # Sentiment Score normalized by the number of words
 Data['sentiment'] = (Data['NPositiveWords'] - Data['NNegativeWords']) / Data['wordcount'] * 100
-
 Data['Poswords'] = temp.iloc[:,3].values
 Data['Negwords'] = temp.iloc[:,4].values
 
@@ -678,6 +762,7 @@ ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
 plt.show()
+plt.savefig(graph_dir + 'sentiment_pos_neg_word_count_per_type' + '.png')#bbox_inches='tight')
 
 """Positive and negative word counts highly correlate... probably because of the total number of words varies. Take the positive - negative as Net Sentiment."""
 
@@ -701,8 +786,8 @@ ax.set_xlim(datemin, datemax)
 ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
-
 plt.show()
+plt.savefig(graph_dir + 'sentiment_bow_vs_time' + '.png')#bbox_inches='tight')
 
 """Plot derivative to see the changes in net sentiment"""
 
@@ -725,8 +810,8 @@ ax.set_xlim(datemin, datemax)
 ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
-
 plt.show()
+plt.savefig(graph_dir + 'sentiment_pct_change_vs_time' + '.png')#bbox_inches='tight')
 
 # Normalize data
 NPositiveWordsNorm = Data['NPositiveWords'] / Data['wordcount'] * np.mean(Data['wordcount'])
@@ -759,6 +844,7 @@ ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
 plt.show()
+plt.savefig(graph_dir + 'counts_normby_num_words' + '.png')#bbox_inches='tight')
 
 
 fig, ax = plt.subplots(figsize=(15,7))
@@ -776,8 +862,8 @@ ax.set_xlim(datemin, datemax)
 ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
-
 plt.show()
+plt.savefig(graph_dir + 'net_sentiment_bow_vs_time' + '.png')#bbox_inches='tight')
 
 """### Function for extracting the direction of the rate change (hike, keep, lower)
 
@@ -939,7 +1025,10 @@ ax.plot(fedrate_df.index, fedrate_df['Rate'].values,
          c = 'green',
          linewidth= 1.0)
 ax.grid(True)
+plt.title('Federal Funds Rate, 1980-2020', fontsize=16)
+
 plt.show()
+plt.savefig(graph_dir + 'fed_rate_vs_time' + '.png')#bbox_inches='tight')
 
 Data['RateDecision'] = None
 Data['Rate'] = None
@@ -999,7 +1088,7 @@ Recessions = np.logical_or.reduce( ( DotCom,
 Window = 16
 CompToMA = NetSentimentNorm.rolling(Window).mean()
 
-fig, ax = plt.subplots(figsize=(15,7))
+fig, ax = plt.subplots(figsize=(30,14))
 
 ax.plot(Data.index,
          CompToMA,
@@ -1027,13 +1116,9 @@ ax.format_xdata = mdates.DateFormatter('%Y-%m-%d')
 ax.grid(True)
 
 
-
 plt.title( str('Moving average of last ' + str(Window) + ' statements (~2 Year Window) seems to match with periods of economic uncertainty / systemic risk:'))
 
-ax.legend([str(str(Window) + ' statement MA'), 'Net sentiment of individual statements'],
-           prop={'size': 16},
-           loc = 2
-          )
+ax.legend([str(str(Window) + ' statement MA'), 'Net sentiment of individual statements'], prop={'size': 16}, loc = 2)
 
 import matplotlib.transforms as mtransforms
 trans = mtransforms.blended_transform_factory(ax.transData, ax.transAxes)
@@ -1042,6 +1127,7 @@ ax.fill_between(Data.index, 0, 10, where = Recessions,
                 facecolor='red', alpha=0.2, transform=trans)
 
 plt.show()
+plt.savefig(graph_dir + 'moving_average_2_yr_window.png')#bbox_inches='tight')
 
 Greenspan = np.logical_and(Data.index > '1987-08-11',
                          Data.index < '2006-01-31'
